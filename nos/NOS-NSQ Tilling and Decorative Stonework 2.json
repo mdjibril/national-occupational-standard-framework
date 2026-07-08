@@ -1,0 +1,853 @@
+{
+  "trade_name": "NSQ/ TILING AND STONEWORK LEVEL II 2: TILING AND DECOREATIVE STONEWORK",
+  "units": [
+    {
+      "code": "CON/TL/001/L2",
+      "title": "Health, Safety and Environment",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Recognize health, safety and welfare measures on construction sites",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Explain health, safety and environment relating to tiling and stone decorative work"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Comply with health and safety regulations relating to tiling and stone decorative work"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Carry out activities in a safe and responsible manner in accordance with legislative, official guidance and manufacturer\u2019s instruction."
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Communicate Recognize health and safety issues relevant to tiling and stone decorative work"
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Demonstrate how to report accidents and emergencies to appropriate personnel such as; \u2022 First Aiders \u2022 Supervisors/Managers \u2022 Health and Safety workers"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Demonstrate the use of personal protective gears on construction sites",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Use clean and smart and appropriate PPE"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Report accidents and emergencies to appropriate personnel such as; \u2022 First Aiders \u2022 Supervisors/Managers \u2022 Health and Safety workers"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Clean and store PPE appropriately after use"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Demonstrate safety considerations on construction site",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Identify the location of the first aid box on site."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Describe and give examples of key accidents, trends, causes and prevention on site."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Explain health and safety considerations involved in tiling and stone decorative projects work."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "CON/TL/002/L2",
+      "title": "Communication Systems in a Work Environment",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Use non-complex communication systems in a work environment",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Use simple verbal means to pass on necessary information."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Use nonverbal means to pass on necessary information e.g. Body Language."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Interpret symbols and signs in accordance with instructions."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Identify sources of information in a work environment",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Locate the sources of information in an organization and work environment."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Recognize the sources of information in a workplace."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Use various information flow systems in a work environment."
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Use information to avoid challenges in a work situation."
+            },
+            {
+              "pc_code": "2.5",
+              "description": "Report Implement findings in accordance with procedure in a work environment."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Demonstrate the use of various communication means in a work environment",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Locate Recognize the various communication equipment in the work environment"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Use effectively the various communication equipment in a work environment in accordance specifications. ."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Pass information effectively to the right personnel in accordance with instructions."
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Pass information using symbols, signs and codes."
+            },
+            {
+              "pc_code": "3.5",
+              "description": "Select instructions in line with ethics of the work environment."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "CON/TL/003/L2",
+      "title": "Teamwork in a work environment",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Develop a Positive working relationship with colleagues",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Recognize the need for positive working relationships with colleagues."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Explain the importance of relating with other people in a way that makes them feel valued and respected."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Use team members when required."
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Recognize the personnel when request for assistance."
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Explain information to colleagues about own work that might affect others."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Take responsibility within the team",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Recognize own role and responsibility within the team."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Perform individual tasks in line with the team rules and regulations."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Carry out in teamwork in accordance with instructions."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Comply with policy of organization",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Work Implement in line with organizational policy"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Use organization code of practice."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Explain the organizational code of conduct."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "CON/TL/004/L2",
+      "title": "Interpret Information on Tile/Stone Work",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Interpret Information on surfaces to be tiled/laid with stone.",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Explain the use of specifications on tile/stonework"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Interpret tiling/stonework working drawings"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Measure the area (Square Meters) of surfaces to be tiled/laid with stonework from the working drawings"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Carryout tiling and stone decorative work using hand tools, power tools and scaffolds",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Select tools for tiling and stone decorative work such as: - \u2022 Trowel \u2022 Spirit Level \u2022 Straight Edge \u2022 Line \u2022 Portable electric saw machine and drills \u2022 Standard Manual Tile Cutter \u2022 Light tile cutter (glass or diamond cutter) \u2022 Tile Spacers \u2022 Measuring tape \u2022 Pinches \u2022 Rubber/Wooden Mallet \u2022 Laser leveling and measuring tools \u2022 Stone clamps \u2022 Stone trimming hammer \u2022 Scrapper \u2022 Compacting rammers \u2022 Concrete/mortar mixers."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Use the required hand tools suitable for tiling and stone decorative work."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Use the required power tools suitable for tiling and stone decorative work."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Set out areas to be tiled or stone laid",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Use measuring the required tools to measure and take levels for tiling/stonework"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Use the required tools to set out measured surfaces to be tiled/laid with stone"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Prepare Mortar with smooth sand & Lime or cement"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Describe tiles/stonework on surfaces in line with specifications."
+            },
+            {
+              "pc_code": "3.5",
+              "description": "Carry out gauge & alignment in accordance with specifications"
+            },
+            {
+              "pc_code": "3.6",
+              "description": "Carry out housekeeping on site in accordance with instructions."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "CON/TL/05/L2",
+      "title": "Unknown Title",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Erect scaffold, working platforms and ladders at work place.",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Identify the types and quantity of materials required for erecting a particular scaffold, working platforms and ladders at the workplace"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Use the required tools and equipment for erecting various scaffold/working platform/ladder in accordance with specifications."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Use scaffolding materials to and from site in accordance with instructions."
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Recognize the hazard and risk in erecting of scaffold, platform and ladders."
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Assemblebase for scaffold and ladders and erect scaffold in accordance with instructions"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Dismantle scaffolds, working platforms and ladders at the workplace",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Select the required tools and equipment to dismantle various scaffold/working platform/ladder at the workplace."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Identify hazard and risk in dismantling of scaffold platform and ladders"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Dismantle scaffold, platforms and ladders, in accordance with specified guidelines."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Store appropriately dismantled scaffold.",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Maintain dismantled scaffold materials in accordance with instructions."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Dismantled scaffold component in accordance with instructions."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Dispose defective scaffold materials in accordance with instructions."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "CON/TL/006/L2",
+      "title": "Preparation for Tiling and Stonework on Wall/Floor surfaces",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Prepare wall surface for tiling and stone laying",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Prepare surfaces for wall /floor tiling and stone laying in accordance with specifications"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Select tools and equipment for surface preparation."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Prepare surfaces before placing decorative stonework/tiles"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Select equipment for tiling and stonework for large/wide areas.",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Select equipment and tools required for tiling and stonework including: i. Leveling Instrument ii. Compacting rammers (Manual/ Mechanical) iii. Concrete / Mortar mixer iv. Mechanical tile Cutter v. Portable electric saw etc"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Use tools and equipment for tiling and decorative stonework"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Maintain equipment at the end of each workday."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Cut tiles/stone according to specification",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Carry out tiles/stone to flush with openings"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Describe fractional tiles/stones as measured to fit to corners and edges"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Cut tiles/stones to size around electrical/plumbing fittings"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Construct tiles/stonework for dedo and skirting"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "CON/TL/007/L2",
+      "title": "Unknown Title",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Interprets working drawings to provide the materials and cost estimates.",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Measure the tile area (square meter) from the working drawings"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Describe the number of tiles required to cover one square meter"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "State the number of tiles per carton of different sizes"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Determine the quantity of tile required by calculations for the areas to be covered",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Measure surface areas of different shapes and sizes to be tiled"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Use the number of tiles required to cover one meter square"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Use the quantity of tile sizes that will cover a given surface area"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "State the number of tile cartons required for given surface area."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Measure and set out wall/floor surfaces",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Read and interpret working drawings of a simple building project."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Use instruments to measure various linear dimensions"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Measure internal/external surfaces"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Select an area for tiling from an internal wall/floor surface e.g kitchen."
+            },
+            {
+              "pc_code": "3.5",
+              "description": "Measure the length and height of the wall to be tiled"
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Fix Tiles on wall/floor surfaces",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Determine the line of symmetry, start tiling from there and move both ways"
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Mix adhesive materials in accordance with specifications."
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Select the tiles for the work."
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Soak the tiles in water for the required duration of time"
+            },
+            {
+              "pc_code": "4.5",
+              "description": "Remove the tiles from water and allow it to drain"
+            },
+            {
+              "pc_code": "4.6",
+              "description": "Apply mortar evenly on the unglazed side of the tiles"
+            },
+            {
+              "pc_code": "4.7",
+              "description": "Set the tiles in position and tap gently with mallet"
+            },
+            {
+              "pc_code": "4.8",
+              "description": "Use spirit level to check vertical and horizontal plumb respectively"
+            },
+            {
+              "pc_code": "4.9",
+              "description": "Reconcile tile level gauge in line with the specifications"
+            }
+          ]
+        },
+        {
+          "lo_num": "5",
+          "description": "Fill tiling joints with suitable adhesives",
+          "performance_criteria": [
+            {
+              "pc_code": "5.1",
+              "description": "Mix the required ratio of adhesives e.g. white cement, OPC etc"
+            },
+            {
+              "pc_code": "5.2",
+              "description": "Apply adhesives into the joints to flush with tile surface laid"
+            },
+            {
+              "pc_code": "5.3",
+              "description": "Clean the tile surface with suitable cleaner"
+            }
+          ]
+        },
+        {
+          "lo_num": "6",
+          "description": "Tile laying of internal Corners",
+          "performance_criteria": [
+            {
+              "pc_code": "6.1",
+              "description": "Set tiles from the middle towards the corner; and check if the last one at the corner is fully tiled"
+            },
+            {
+              "pc_code": "6.2",
+              "description": "Apply adhesive on the last corner tile and set it to position."
+            },
+            {
+              "pc_code": "6.3",
+              "description": "Use square to confirm the angle if it is 90\" and check if the corner tile is fractional"
+            },
+            {
+              "pc_code": "6.4",
+              "description": "Measure the size on the tile mark and cut the tile according to the size"
+            },
+            {
+              "pc_code": "6.5",
+              "description": "Apply adhesive on the tile and fix it to the surface"
+            }
+          ]
+        },
+        {
+          "lo_num": "7",
+          "description": "Tile laying of external corners",
+          "performance_criteria": [
+            {
+              "pc_code": "7.1",
+              "description": "Set tiles from the middle towards the corner; and check if the last one at the corner is fully tiled"
+            },
+            {
+              "pc_code": "7.2",
+              "description": "Apply adhesive on the last corner tile and set it to position."
+            },
+            {
+              "pc_code": "7.3",
+              "description": "Use square to confirm the angle if it is 90\" and check if the corner tile is fractional"
+            },
+            {
+              "pc_code": "7.4",
+              "description": "Measure the size on the tile mark and cut the tile according to the size"
+            },
+            {
+              "pc_code": "7.5",
+              "description": "Apply adhesive on the tile and fix it to the surface"
+            }
+          ]
+        },
+        {
+          "lo_num": "8",
+          "description": "Set and lay Glass Blocks",
+          "performance_criteria": [
+            {
+              "pc_code": "8.1",
+              "description": "Identify the areas to lay glass block"
+            },
+            {
+              "pc_code": "8.2",
+              "description": "Measure the area to lay glass blocks on site"
+            },
+            {
+              "pc_code": "8.3",
+              "description": "Calculate the area of glass block required in square meters (m2)"
+            },
+            {
+              "pc_code": "8.4",
+              "description": "Set and level first course of blocks"
+            },
+            {
+              "pc_code": "8.5",
+              "description": "Use adhesive to bind set blocks"
+            },
+            {
+              "pc_code": "8.6",
+              "description": "Lay glass blocks and ensure alignment (vertical and horizontal)"
+            },
+            {
+              "pc_code": "8.7",
+              "description": "Clean the surface using water or other recommended chemicals"
+            }
+          ]
+        },
+        {
+          "lo_num": "9",
+          "description": "Set and lay mosaic tiles",
+          "performance_criteria": [
+            {
+              "pc_code": "9.1",
+              "description": "Select tools such as: \u2022 Utility knife \u2022 Measuring tape \u2022 Notched trowel \u2022 Tile saw \u2022 Tile Nippers \u2022 Margin trowel \u2022 Drill \u2022 Pencil \u2022 Floating board etc."
+            },
+            {
+              "pc_code": "9.2",
+              "description": "Select appropriate bonding materials/adhesives"
+            },
+            {
+              "pc_code": "9.3",
+              "description": "Dry lift the tiles and center the design"
+            },
+            {
+              "pc_code": "9.4",
+              "description": "Fix mosaic to required position using bonding agents"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "CON/TL/008/L2",
+      "title": "Set Out and Lay Stone Floor Surface",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Set out surfaces to receive stones",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Identify the areas to be laid with stone from the working drawing"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Measure the area to be laid with stone"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Set out the surface using tools in accordance with instructions."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Calculate the quantity of stones required",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Measure the dimensions of surface to be laid with stone"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Calculate the surface areas to be stoned in square meter (m2)"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Determine the quantity of stones required for the calculated area"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Cut stones according to site requirements",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Select manual cutting tools e.g Diamond tile cutter/stone chipping hammer"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Place the straight edge or square on the tile/stone along the marked line and use the appropriate tool to cut"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Cut fractional tiles/stone of different sizes e.g. 50mm, 75mm, 80mm etc"
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Select adhesives to be used according to specifications and conditions",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Select adhesive for stone work"
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Use adhesive for stones work"
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Use cement mixes according to the conditions e.g Damp areas will require harder mixes; dry areas will require lighter mixes"
+            }
+          ]
+        },
+        {
+          "lo_num": "5",
+          "description": "Lay stones to specification",
+          "performance_criteria": [
+            {
+              "pc_code": "5.1",
+              "description": "Prepare a screed bed to receive stones"
+            },
+            {
+              "pc_code": "5.2",
+              "description": "Lay stone from center to run either direction and ensure alignment"
+            },
+            {
+              "pc_code": "5.3",
+              "description": "Use the straight edge, line and level to check alignment"
+            },
+            {
+              "pc_code": "5.4",
+              "description": "Fill the joints with appropriate cement and clean the surface"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "CON/TL/009/L2",
+      "title": "Forming Sand & Cement, Cement & Chippings or Granite Mix for",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Select tools/equipment and materials for terrazzo work",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Select hand tools and power tools suitable for terrazzo work such as: \u2022 Trowel \u2022 Spirit Level \u2022 Straight Edge \u2022 Line \u2022 roller and compactor \u2022 Concrete Mixer \u2022 Metal Square \u2022 Hack saw \u2022 Washing machine"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Select appropriate materials suitable for terrazzo"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Use tools and equipment suitable for terrazzo work"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Place floor screeds to level",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Prepare the floor surface, to receive ebonite strip"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Divide the area into panels or Bays using ebonite strips suitable for terrazzo thickness"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Measure sand and cement according to specified ratio"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Mix sand and cement with water to requirement"
+            },
+            {
+              "pc_code": "2.5",
+              "description": "Mix and spread the screed into each panel, level and compact to float"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Cast and Polish Terrazzo",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Bed ebonite strips according to the design panels with mortar"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Cure the mortar for at least 24 hours"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Measure cement and granite according to the specified ratio"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Mix and spread the granite paste into each bay"
+            },
+            {
+              "pc_code": "3.5",
+              "description": "Level and compact to float with roller"
+            },
+            {
+              "pc_code": "3.6",
+              "description": "Cure the surface after it has hardened in at least 24 hours"
+            },
+            {
+              "pc_code": "3.7",
+              "description": "Continue curing up to maximum of 28 days"
+            },
+            {
+              "pc_code": "3.8",
+              "description": "Grind the surface"
+            },
+            {
+              "pc_code": "3.9",
+              "description": "Polish the surface"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

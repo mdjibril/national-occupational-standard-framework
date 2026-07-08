@@ -1,0 +1,777 @@
+{
+  "trade_name": "NATIONAL SKILLS QAULIFICATION FASHION AND GARMENT MAKING",
+  "units": [
+    {
+      "code": "FLW/GMK/001/L2",
+      "title": "HISTORY OF CLOTHING AND PRODUCTION PROCESSES",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understand the History Of Clothing",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Explain the History of clothing"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Explain the influence of culture in clothing"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Explain the effect of western clothing on the indigenous clothing"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Know the Production Processes",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "List the stages involved in producing a garment."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Discuss the basic production processes of garments"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Explain the types of finishing in garment making"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Demonstrate how to Purchase Garment Making Raw Materials",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Identify raw materials for garment making"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Identify the quantity of raw materials for garment making"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Cost the raw materials"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Calculate unit cost of producing a garment (where applicable)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "FLW/GMK/002/L2",
+      "title": "HEALTHY WORK ENVIRONMENT",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Demonstrate Handling fabric waste in the garment industry",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Identify the sources of waste in the garment workroom"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Distinguish between usable and non- usable waste"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Sort usable and non-usable waste"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Dispose unusable waste"
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Recycle the useful waste"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Maintain healthy garment making work environment",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Identify elements for a suitable garment production environment"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Explain different sections in garment production environment"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Select the suitable environment for garment production site in a garment industry"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Demarcate sections in line with occupational requirement"
+            },
+            {
+              "pc_code": "2.5",
+              "description": "Label each section of the work environment"
+            },
+            {
+              "pc_code": "2.6",
+              "description": "Arrange all necessary equipment for production in the work environment"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Understand garments making safety signs and symbols",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Explain precautionary symbols in order to prevent accident."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Sketch signs and symbols signifying danger to operators and visitors"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Sketch readable signs on appropriate methods of operation in line with health and safety standards."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "FLW/GMK/003/L2",
+      "title": "GARMENT ILLUSTRATION",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Demonstrate creative Ideas For Garment Designs",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Enumerate sources of inspiration to create garment designs"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Apply sources of inspiration to create garment designs"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Describe tools and materials for designs"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Sketch garment designs into the sketch pad"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Demonstrate Body Anatomy",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Explain body anatomy as it relates to garment making"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Locate the body landmarks"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Identify body proportions"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Identify different body poses"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Demonstrate the knowledge of Fabric Design",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Define fabric grain"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Describe the fabric grain"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Use grains of plain fabric."
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Describe elements of design"
+            },
+            {
+              "pc_code": "3.5",
+              "description": "Apply elements of design to produce different motifs"
+            },
+            {
+              "pc_code": "3.6",
+              "description": "Describe principles of design"
+            },
+            {
+              "pc_code": "3.7",
+              "description": "Apply principles of design to produce a pattern."
+            },
+            {
+              "pc_code": "3.8",
+              "description": "Interpret fabric design"
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Demonstrate the Knowledge of clothing a figure Ref. Page No.",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Create designs for specific garment"
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Produce working drawing from designs created"
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Display the developed garment designs."
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Draw basic garments designs using different body figure templates"
+            },
+            {
+              "pc_code": "4.5",
+              "description": "Clothe the figure"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "FLW/GMK/004/L2",
+      "title": "BODY MEASUREMENTS",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Recognise Measuring Tools And Equipment (Analog And Digital)",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Identify measurement tools and equipment"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Describe measurement tools and equipment (Analog and Digital)"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Explain the uses of measuring tools and equipment (Analog and Digital)"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Use Measuring tools and equipment"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Demonstrate how to take Body Measurement using landmarks",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Define landmarks"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "List body landmarks"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Describe how to take body measurements"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Take Body measurement using the body landmarks"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Demonstrate usage of measurement template",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Create template for body measurements"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Record body measurements"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Add \u201cease allowance\u201d in the measurement taken"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "FLW/GMK/005/L2",
+      "title": "CUTTING OF FABRIC",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Demonstrate the Use of cutting tools and equipment",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Select appropriate cutting tools for various materials"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Describe the procedure of using cutting tools for various materials"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Use basic cutting tools correctly"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Store cutting tools properly when not in use."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Demonstrate the ability To Cut garment Components",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Identify the cutting instructions"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Prepare the cutting layout according to the fabric design"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Transfer cutting markings"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Cut the basic garment components with precision"
+            },
+            {
+              "pc_code": "2.5",
+              "description": "Store cutting tools after usage"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Prepare the cut Garment Components For Sewing",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Sort the cut garment components"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Bundle the cut garment components"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Label the cut garment components"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Transfer cut garment components to the sewing room"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "FLW/GMK/006/L2",
+      "title": "GARMENT CONSTRUCTION",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Demonstrate the pre- assembling of cut garment components",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "List the order of garment assembly"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Cross check markings"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Match the garment components"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Baste the garment components together"
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Outline the stages of fitting"
+            },
+            {
+              "pc_code": "1.6",
+              "description": "Carry out test fitting on pre- assembled garment"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Demonstrate use of garment support materials",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Select appropriate support materials to cut garment component"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Prepare details for stitching support materials"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Mark details for stitching support materials"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Apply support materials"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Demonstrate assembling of basic Garment Components",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Construct each garment component"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Press constructed basic garment components together"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Assemble constructed basic garment components"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Carry out final test fitting on the assembled basic garment"
+            },
+            {
+              "pc_code": "3.5",
+              "description": "Identify constructed basic garment faults"
+            },
+            {
+              "pc_code": "3.6",
+              "description": "Amend identified faults in 3.5 with supervision."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "FLW/GMK/007/L2",
+      "title": "GARMENT QUALITY CONTROL II",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Demonstrate quality control method used for clothing",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Measure finished garment dimensions"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Check tolerance for finished garments dimensions"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Carry out physical test, pull test, fatigue test, fabric density, stretch and composition test"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Use the garment quality control procedure checklist"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Demonstrate quality control process",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Create a standard operational procedure (SOP)"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Carry out quality control"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Review of quality processes"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Get feedback from the review"
+            },
+            {
+              "pc_code": "2.5",
+              "description": "Make improvement from feedback"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Demonstrate garment finishing",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Check garment interior"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Trim loose thread ends"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Neaten raw edges of garments"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Iron garments"
+            },
+            {
+              "pc_code": "3.5",
+              "description": "Label garments produced"
+            },
+            {
+              "pc_code": "3.6",
+              "description": "Package garments"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "FLW/GMK/008/L2",
+      "title": "GARMENT BUSINESS",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Know how to set up a Garment Making Business",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Identify types of garment making businesses"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Explain how to choose a business name."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Explain how to register the business name"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Enumerate the requirements for setting up a garment making business, example; space, staff, etc."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Understand Sources of Funds for garment making business",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Identify the sources of funds"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Differentiate the sources of fund"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Explain the requirements of source of fund"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Describe how to make a simple budget"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Understand how to market a Finished Garment.",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Define market survey"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Explain how to conduct a market survey"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "State the importance of identifying the marketing needs"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "State the steps of identifying the marketing needs"
+            },
+            {
+              "pc_code": "3.5",
+              "description": "Market the finished garment"
+            },
+            {
+              "pc_code": "3.6",
+              "description": "Record tra"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "FLW/GMK/009/L2",
+      "title": "BASIC MACHINE MAINTENANCE AND SERVICES",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Carry out Routine Maintenance",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "List types of maintenance"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Identify basic tools for machine maintenance."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Locate machine parts for routine maintenance"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Remove fibre machine dust"
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Lubricate machine parts"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Carry Out Periodic Equipment Servicing",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Identify sewing machine mechanisms"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Plan for sewing machine periodic service"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Service sewing machines"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "FLW/GMK/010/L2",
+      "title": "DECORATIVE EMBELISHMENT I",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Know decorative embellishment",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Define decorative embellishment"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "List types of decorative embellishment"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Classified decorative embellishment"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Collect examples of classified structural embellishment"
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Display examples collected in 1.4 using any medium"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Know tools and equipment for decorative embellishment",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Identify tools and equipment used for different types of embellishment"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "State the use of each tool used in decorative embellishment"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Explain the care of the tool used for decorative embellishment"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Demonstrate decorative Embellishments",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Illustrate decorative embellishment for various kinds of garments types"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Assist in Selecting appropriate designs for specific garments"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Assist in Producing decorative embellishment for selected design"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

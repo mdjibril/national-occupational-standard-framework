@@ -1,0 +1,1575 @@
+{
+  "trade_name": "(NSQ) CARPENTRY AND JOINERY",
+  "units": [
+    {
+      "code": "CON/CJ/001/L2",
+      "title": "Health and Safety in Carpentry and Joinery Work Environment",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Know work practices and instructions in a Work environment",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Explain safe work practices and instructions to Assistant Carpenter."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Compare safe work practices and instructions in accordance with company safety guides."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Apply safe work practices to a given task such as formwork, scaffolding, etc."
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Follow safe methods and procedures of work practices."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Understand Safety hazards and risks in the work Environment.",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Recognize safety signs and symbols in work environment"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Identify potential hazards and risks in work environment."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Explain potential hazards and risks in surface, heights and depth areas."
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Take appropriate actions to prevent accident/injury."
+            },
+            {
+              "pc_code": "2.5",
+              "description": "Carry out safety drills."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Understand the use of various types of PPE in the work environment.",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Identify types of PPE and their uses."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Select and wear appropriate PPE correctly."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Provide PPE to Assistant Carpenter and supervise him/her to follow instructions."
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Maintain and return PPE for storage."
+            },
+            {
+              "pc_code": "4.1",
+              "description": "Apply appropriate methods of lifting techniques for materials in work environment."
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Implement proper stacking methods and procedures in material handling."
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Guide on proper application of manual lifting techniques for heavy materials."
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Check on application of safe work practices and procedures in work environment."
+            },
+            {
+              "pc_code": "5.1",
+              "description": "Provide health and safety information of organizational safety policy to Assistant Carpenter."
+            },
+            {
+              "pc_code": "5.2",
+              "description": "Explain the importance of health and safety to Assistant Carpenter."
+            },
+            {
+              "pc_code": "5.3",
+              "description": "Compare Assistant Carpenter work practices with safety guidelines Unit Purpose To establish a quality communication system that is responsive and subject to change in meeting workers and employers need, in work Environment. Unit assessment evidence: To perform effectively and efficiently, the learner must show evidence requirements through: Observation Question and answers Witness testimony Work product Personal statement/Reflective account Objectives: By completing this mandatory unit, learner must show competence in: 1. Using a non-complex communication system in a work environment. 2. Developing the ability to identify the source of information in a work environment. 3. Recognize various communication means in a work environment. 4. Maintaining and use communication equipment. Ref. Page Number"
+            }
+          ]
+        },
+        {
+          "lo_num": "1",
+          "description": "Complex communication system in a work environment.",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Supervise the use of audio, electronic and Electro-magnetic means to pass on necessary information."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Describe simple non-verbal means of communication."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Read and interpret concept of symbols and signs appropriately."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Source of Information in a work environment.",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Participate in creating and making functional the source of information in an organization, and work environment."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Make accessible the source of information in an organization or work environment."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Relate appropriately with the Source of information."
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Use the various information flow system in an organization or work environment to overcome challenges."
+            },
+            {
+              "pc_code": "2.5",
+              "description": "Ensure proper documentation and retrieval of information in accordance with procedure in a work environment."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Understand various communication means in a work environment",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Ensure the accessibility of the communication equipment in the work environment."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Describe the effective use of the Various communication channels in a work environment."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Demonstrate the use of various communication means in a work environment."
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Ensure effective information flow to the right personnel."
+            },
+            {
+              "pc_code": "3.5",
+              "description": "Ensure the effective use of symbols, signs and codes."
+            },
+            {
+              "pc_code": "3.6",
+              "description": "Ensure that instructions are obeyed and disseminated in line with ethics of the work environment."
+            },
+            {
+              "pc_code": "4.1",
+              "description": "Ensure that communication equipment are in good working conditions."
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Liaise with the maintenance unit to ensure that communication equipment are maintained regularly."
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Liaise with appropriate authority to replace communication equipment in the event of loss or damage."
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Ensure that communication equipment are stored appropriately in a work environment."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "CON/CJ/003/L2",
+      "title": "Teamwork",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Know positive working relationship with colleagues.",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Identify the need for developing positive working relationship with colleagues."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Recognize the importance of relating with other people in a way that makes them feel valued and respected."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Assist team members when required."
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Report to the appropriate personnel when request for assistance falls outside area of your area responsibility."
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Communicate information to colleagues about own work that might affect others."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Understand how to take responsibilities within the team.",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Recognize own role and responsibilities within the team."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Perform individual tasks in line with the team rules and regulations"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Participate effectively in teamwork."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Understand compliance with policy of organization.",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Work in line with the policy of organizational standard."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Use organization code of practice."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Explain organizational code of conduct."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "CON/CJ/004/L2",
+      "title": "Tools and Equipment",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Know how to use hand tools and equipment in carpentry joinery work.",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Select hand tools for cutting and planing."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Use hand tools correctly and efficiently following safe methods and procedures for marking, cutting etc. in accordance with instructions."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Maintain all hand tools used in accordance with manufacturer\u2019s instructions."
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Clean and return hand tools used for proper storage."
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Identify the various Portable Power Tools (PPT) and equipment such as orbital sanders, portable power planer, portable power drill, portable power jig saw etc."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Know how to use portable power tools in Carpentry and Joinery work.",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Describe and explain the uses of PPT in 1.1 above."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Select and safely use appropriate PPT according to a given task such as formwork, scaffold etc."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Maintain all PPT used following manufacturer\u2019s guidelines and instructions."
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Clean and return all PPT used for proper storage."
+            },
+            {
+              "pc_code": "3.1",
+              "description": "Identify the various fixed woodworking machines such as spindle moulder, thicknesser, band saws, drilling, cross- cutting machines, circular saw etc."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Select appropriate machine for specific task such as drilling."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Check to ensure that the machine is in good condition."
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Operate drilling machine to perform a given task such as drilling, boring etc. safely."
+            },
+            {
+              "pc_code": "3.5",
+              "description": "Maintain equipment in accordance with instruction."
+            },
+            {
+              "pc_code": "3.6",
+              "description": "Carryout proper housekeeping."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "CON/CJ/005/L2",
+      "title": "Material Handling and Storage",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Know the Health and safety requirements in handling materials and storage.",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Source information in work environment"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Identify sources of obtaining materials."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Observe safety in loading and off- loading of materials."
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Observe safety in handling materials."
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Observe safety in using materials."
+            },
+            {
+              "pc_code": "1.6",
+              "description": "Observe safety in returning of unused materials for storage."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Demonstrate ability to select from range of materials used in carpentry and joinery.",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Differentiate between soft and hardwood."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Explain timber processing methods such as felling, logging, conversion, seasoning etc."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Describe timber seasoning and preservation."
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Identify various timber defects."
+            },
+            {
+              "pc_code": "2.5",
+              "description": "Identify causes of timber defects."
+            },
+            {
+              "pc_code": "2.6",
+              "description": "Adopt appropriate methods of storing timber."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Know the various types of manufactured boards and storage methods.",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Identify various types of Manufactured boards such as plywood, particles board, hardboards, medium density fiber boards etc."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Identify various sizes of Manufactured boards."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Select Manufactured boards for specific task in carpentry and joinery."
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Adopt an appropriate method of storing Manufactured boards."
+            },
+            {
+              "pc_code": "4.1",
+              "description": "Select bonding materials in relation to Manufacture boards."
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Apply bonding materials such as animal glue in accordance with manufacturer\u2019s instructions."
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Apply bonding materials in accordance with given instructions."
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Clean excess bonding materials in accordance with instructions."
+            },
+            {
+              "pc_code": "4.5",
+              "description": "Return unused bonding materials for storage."
+            },
+            {
+              "pc_code": "4.6",
+              "description": "Apply fastening materials for the construction of bookshelf."
+            },
+            {
+              "pc_code": "4.7",
+              "description": "Return un-used fastening materials for storage."
+            }
+          ]
+        },
+        {
+          "lo_num": "5",
+          "description": "Know how to apply wood finishes.",
+          "performance_criteria": [
+            {
+              "pc_code": "5.1",
+              "description": "Explain the use of various wood finishes such as thinner, lacquer, paraffin, polishes, paints etc."
+            },
+            {
+              "pc_code": "5.2",
+              "description": "State various reasons for the use of finishes in Carpentry and Joinery work."
+            },
+            {
+              "pc_code": "5.3",
+              "description": "Transport the selected wood finishes to work location in accordance with safety instructions."
+            },
+            {
+              "pc_code": "5.4",
+              "description": "Select appropriate methods in applying wood finishes for specific item such as bookshelf etc."
+            },
+            {
+              "pc_code": "5.5",
+              "description": "Ensure unused finishing materials are returned for proper storage."
+            },
+            {
+              "pc_code": "6.1",
+              "description": "E xplain the effect of hazardous materials such as Epoxy glue, Solignum, French polish, etc. used in carpentry and joinery work environment."
+            },
+            {
+              "pc_code": "6.2",
+              "description": "H andle hazardous materials such as Polyurethanes, Polyimides and Solignum etc. following safe methods and procedure in accordance with instructions."
+            },
+            {
+              "pc_code": "6.3",
+              "description": "Take action to protect self-using appropriate PPE."
+            },
+            {
+              "pc_code": "6.4",
+              "description": "Take action to protect others."
+            },
+            {
+              "pc_code": "6.5",
+              "description": "Identify wood chemicals such as Paraffin Wax according to their applications."
+            },
+            {
+              "pc_code": "6.6",
+              "description": "State the techniques for applying wood chemicals such as brushing, spraying, deeping, steeping etc."
+            },
+            {
+              "pc_code": "6.7",
+              "description": "Apply wood chemicals such as Paraffin Wax etc. for a given task."
+            },
+            {
+              "pc_code": "6.8",
+              "description": "Return unused finishing materials safely for proper storage."
+            },
+            {
+              "pc_code": "6.9",
+              "description": "Return unused hazardous materials safely for proper storage."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "CON/MS/011/L2",
+      "title": "Site Clearance and Excavation II",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Information in a work environment.",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Identify portable power tools used in site clearance."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Select appropriate tools and equipment for specific sites."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Clear site observing safe work practices and procedures."
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Maintain the tools and equipment."
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Return tools and equipment for safe storage."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Excavate foundation trench.",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Identify basic tools used in setting out and excavation."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Identify the methods and procedures in setting out of the structure."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Assist in setting out observing safe work practices."
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Identify and demonstrate the necessary procedures in excavation."
+            },
+            {
+              "pc_code": "2.5",
+              "description": "Erect timbering against faces of excavation."
+            },
+            {
+              "pc_code": "2.6",
+              "description": "Apply anti-termite treatment observing safe method of handling hazardous materials."
+            },
+            {
+              "pc_code": "2.7",
+              "description": "Maintain and return all tools and unused materials for safe storage."
+            },
+            {
+              "pc_code": "3.1",
+              "description": "Identify material for u sed filling."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "State procedure for levelling."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "CON/CJ/007/L2",
+      "title": "Scaffolding II",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understand scaffolding operations.",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Differentiate between types of scaffolds (dependent, independent etc.) used in work environment."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Explain the basic requirement of when and how to use dependent and independent scaffolds."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Select different scaffolding components such as props, platforms, brace, toe board, guardrail etc."
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Use safety devices such as safety belt."
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Select appropriate scaffold according to task to be carried out."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Understand the erection of scaffolds",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "State procedures and method of erecting dependent and independent scaffolds."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Erect dependent and independent scaffolds to meet functional requirements."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Check scaffold for strength, rigidity and stability."
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Maintain erected scaffold."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Understand procedure of dismantling dependent and independent scaffolds.",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Dismantle dependent and independent scaffold after use in accordance with procedure."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Carry dismantled scaffold members in accordance with loading and off-loading techniques."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Stack dismantled scaffolds members in accordance with instruction of designated/specified locations."
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Carry out housekeeping and maintain clean work environment in accordance with work and safety at work regulations Act."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "CON/CJ/008/L2",
+      "title": "Work Platform II",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Process of constructing access to platform.",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Explain the process of constructing access to work platform."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Select material for making access to working platform."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Select appropriate tools for making access to working platform e.g. hammer, saw etc."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Construct access to work platform.",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Prepare material for access to working platform."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Apply safety in constructing work access platform."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Construct access to platform using the correct procedure."
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Return tools for proper storage e.g. nails, solid wood etc."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Dismantle access to work platform.",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Explain the process of dismantling access to work platform."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Dismantle access to work platform using the correct procedures."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Stack dismantled members according to instruction."
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Return tools for proper storage."
+            },
+            {
+              "pc_code": "3.5",
+              "description": "C arry out proper housekeeping"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "CON/CJ/009/L2",
+      "title": "Formwork Operations II",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understand how to select resources for formwork",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Select the relevant materials to be used for formwork operations."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Select the relevant tools to be used for the task."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Identify the hazards associated with the resources and use of tools."
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Describe how to protect work, tools, materials and equipment from damage."
+            },
+            {
+              "pc_code": "1.5",
+              "description": "State how to avoid human injury."
+            },
+            {
+              "pc_code": "1.6",
+              "description": "State how to dispose waste safely."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Know how to erect formwork to specification within allowed time below ground level.",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Interpret work specification to meet deadline."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Interpret drawings, specifications, codes, symbols, schedules for the task."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Measure, mark-out, cut and finish work."
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Use portable power tools etc."
+            },
+            {
+              "pc_code": "2.5",
+              "description": "Erect formwork below ground level of given working instructions for at least 2 of the following: \u2022 Walls \u2022 Columns \u2022 Beams (ground or suspended) \u2022 Suspended floors."
+            },
+            {
+              "pc_code": "2.6",
+              "description": "Fasten and brace the formwork."
+            },
+            {
+              "pc_code": "2.7",
+              "description": "Secure the work to health and safety requirement."
+            },
+            {
+              "pc_code": "2.8",
+              "description": "Protect formwork from damage and distortion."
+            },
+            {
+              "pc_code": "2.9",
+              "description": "Return unused material for storage."
+            },
+            {
+              "pc_code": "2.10",
+              "description": "Carry out proper housekeeping of the workplace."
+            },
+            {
+              "pc_code": "3.1",
+              "description": "Apply safe work practices in erecting formwork above ground level."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Erect formwork for columns, beams, floor, slabs, kickers, stop ends, precast units etc."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Strike formwork for columns, beams, floor, slabs, kickers, stop ends, precast units etc."
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Attach fasteners, braces, soldiers and wallings to the formwork."
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Know how to Dismantle Formwork.",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Apply safety procedures relevant to dismantling formwork."
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Apply appropriate method in dismantling formwork."
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Remove fasteners and braces."
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Stack fasteners and braces"
+            },
+            {
+              "pc_code": "4.5",
+              "description": "Remove the formwork members."
+            },
+            {
+              "pc_code": "4.6",
+              "description": "Stack the formwork members."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "CON/CJ/010/L2",
+      "title": "Woodwork Operations",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Know how to prepare timber and manufactured boards to the right sizes for a given task.",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Identify standard for timber and manufactured board."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Calculate the dimensions of table length, height and width."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Use measuring devices such as gauges, measuring tapes, ruler, try square etc."
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Cut timber/manufactured board to sizes as contained in the working drawing."
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Plane wood component of table members to actual sizes."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Understand various wood joints in Carpentry and Joinery.",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Identify various joints used in carpentry and joinery work."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Read basic wood work joint sketches."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Sketch basic wood work joints."
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Identify basic assembly tools and equipment."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Know the procedure for constructing and assembling various wood joints.",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Prepare wood/manufactured board to construct bookshelf, drawers, stool magazine rack etc."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Construct joints such as dove tail, tongue and groove etc."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Dress joint members neatly."
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Apply synthetic bond neatly to joint members."
+            },
+            {
+              "pc_code": "3.5",
+              "description": "Assemble joint members using tools such as sash clamp, mallet, hammer etc."
+            },
+            {
+              "pc_code": "3.6",
+              "description": "Clean joints neatly and keep in a safe place to set."
+            },
+            {
+              "pc_code": "4.1",
+              "description": "Identify simple basic hand drilling tools used in carpentry and joinery work in accordance with specification and measurement."
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Describe different drilling procedures to include stopped hole, through hole etc. using appropriate drill sizes and procedures safely."
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Use portable power drill correctly in accordance with instruction given for task such as stopped hole, through hole etc."
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Use hand tools correctly in accordance with instructions given for the task."
+            },
+            {
+              "pc_code": "4.5",
+              "description": "Maintain and return used tools to appropriate storage space."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "CON/CJ/011/L2",
+      "title": "Timber Walls and Floors",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Access information for the desired task.",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Identify drawings, specifications, schedules etc."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Explain method statement, risk assessments, manufacturer\u2019s information and regulation governing buildings."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Use various types of information, their sources and how they are interpreted."
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Explain the organizational procedures developed to report and rectify inappropriate information and unsuitable resources and how they are implemented."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Safe work practices.",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Determine the level of knowledge operatives must have on relevant information, current legislative, official guidance and how it is applied."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Explain how emergencies should be reported and responded to."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Use organizational security procedures for tools, equipment, materials and personal belongings."
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Identify accident reporting procedures and who is responsible for making the report."
+            },
+            {
+              "pc_code": "2.5",
+              "description": "Explain when and how health and safety control equipment should be used."
+            },
+            {
+              "pc_code": "3.1",
+              "description": "I dentify the characteristics associated with resources such as wood, tools finance, transport etc."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Explain how defects should be rectified."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Explain how the resources should be used and any problems associated with the resources are reported."
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Explain procedures for selecting resources."
+            },
+            {
+              "pc_code": "3.5",
+              "description": "Identify hazards associated with the resources and methods of work and how they can be overcome."
+            },
+            {
+              "pc_code": "3.6",
+              "description": "Select good materials, components before fixing timber on walls or floors."
+            },
+            {
+              "pc_code": "3.7",
+              "description": "Use correct tools and equipment while erecting timber walls/floors."
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Identify and use protective devices.",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Use protective devices against accident and injury."
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Select materials for erecting wall and floors."
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Identify the means of minimizing damage and maintain clean work space."
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Dispose all identified waste in accordance with legislation."
+            }
+          ]
+        },
+        {
+          "lo_num": "5",
+          "description": "Construct wooden walls and floors",
+          "performance_criteria": [
+            {
+              "pc_code": "5.1",
+              "description": "Explain the required work expertise in carrying out operations such as; measurements, marking out, fitting and aligning members in secure position."
+            },
+            {
+              "pc_code": "5.2",
+              "description": "Select good grained timber e.g. teak, afara, mansonia etc. for erecting walls/floors."
+            },
+            {
+              "pc_code": "5.3",
+              "description": "Select hand tools, portable power tools and ancillary equipment for the task."
+            },
+            {
+              "pc_code": "5.4",
+              "description": "Cut/ trim the timber to a uniform thickness to obtain good looking surfaces"
+            },
+            {
+              "pc_code": "5.5",
+              "description": "Fix sole plate and other members in accordance to specification."
+            },
+            {
+              "pc_code": "5.6",
+              "description": "Select specific wood finishes for timber walls and floors."
+            },
+            {
+              "pc_code": "6.1",
+              "description": "Use allocated time for a task efficiently."
+            },
+            {
+              "pc_code": "6.2",
+              "description": "Maintain allowable time for completion of allocated work."
+            },
+            {
+              "pc_code": "6.3",
+              "description": "Discuss the allocated time in order to meet the needs of the other occupations and/or client."
+            },
+            {
+              "pc_code": "6.4",
+              "description": "M aintain completed work to prevent damages"
+            },
+            {
+              "pc_code": "6.5",
+              "description": "Carry out housekeeping and return all unused materials for safe storage"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "CON/CJ/012/L2",
+      "title": "Doors and Fixtures II",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understand the process of installing frame, lining and side hung doors.",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Explain the process of installing a frame."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "State the sequence of installing a side hung door."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "State the safety requirements of installing frame, lining and side hung doors."
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Select the tools required for installing a frame."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Know the tools requirement for installation of frames, linings and side hung doors.",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Select hand, portable power tools and equipment that are deployed in installation of framed doors and fixtures."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Apply hand tools correctly in accordance with instructions given for the installation of frames and fittings."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Return used tools to appropriate storage space."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Installation of frames, linings and side hung doors.",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Prepare the wall opening to receive jamb frame and lining."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Bring the right size of frame and lining to the wall opening."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Measure and ensure that the frames and lining are in conformity with specification."
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Trim to appropriate size."
+            },
+            {
+              "pc_code": "3.5",
+              "description": "Fix the frame to the opening."
+            },
+            {
+              "pc_code": "3.6",
+              "description": "Plumb the frame to the opening."
+            },
+            {
+              "pc_code": "3.7",
+              "description": "Fix lining and hinges appropriately."
+            },
+            {
+              "pc_code": "3.8",
+              "description": "Protect the work from damage and distortion."
+            },
+            {
+              "pc_code": "3.9",
+              "description": "Carry out proper housekeeping."
+            },
+            {
+              "pc_code": "3.10",
+              "description": "Maintain and return all tools used for safe storage."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "CON/CJ/013/L2",
+      "title": "Information and Communication Technology (ICT)",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Application of the knowledge of computer appreciation.",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Identify and explain computer and its accessories."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Operate computer by starting and shutting down effectively."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Understand Microsoft office."
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Use Microsoft word to create document."
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Use Microsoft excel to create spread sheet.,"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Saving and retrieving information.",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Save information."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Retrieve information whenever required."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Edit and modify information whenever required."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Updating and validating information using computer system.",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Update information/record appropriately."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Select and share appropriate information for communication."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Process data."
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Identification of tools and software for power system operation.",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Identify tools and software used for power system operation in your environment."
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Explain the basics of operating the tools and software."
+            }
+          ]
+        },
+        {
+          "lo_num": "5",
+          "description": "Formulae and charts usage in excel.",
+          "performance_criteria": [
+            {
+              "pc_code": "5.1",
+              "description": "Explain how to use formulae in excel operation."
+            },
+            {
+              "pc_code": "5.2",
+              "description": "Explain the procedure of creating simple formulae in excel relevant to your operation."
+            },
+            {
+              "pc_code": "5.3",
+              "description": "Open and interpret charts in excel."
+            },
+            {
+              "pc_code": "5.4",
+              "description": "Use formulae and chart to represent information."
+            }
+          ]
+        },
+        {
+          "lo_num": "6",
+          "description": "Internet usage to source information.",
+          "performance_criteria": [
+            {
+              "pc_code": "6.1",
+              "description": "Identify sources of internet."
+            },
+            {
+              "pc_code": "6.2",
+              "description": "Understand and explain how to use internet to source information."
+            },
+            {
+              "pc_code": "6.3",
+              "description": "Identify websites relevant to your field of operation."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "CON/TL/014/L2",
+      "title": "Lay and Repair Tiles",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Organize mixing for adhesives for Tile work.",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Organize to request for materials for mixing adhesives."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Organize to prepare position of mixing adhesives according to mechanical or manual methods."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Organize to measure the materials."
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Supervise the mixing of adhesive according to requirements."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Supervise the laying of tiles to level and alignment.",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Provide any suitable working drawing e.g. Residential, Commercial or Educational."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Interpret the working drawing to locate area to be tiled."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Organize to set out the area to be tiled as usual."
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Organize to select the tiles required according to size and color."
+            },
+            {
+              "pc_code": "2.5",
+              "description": "Supervise the cutting of any fraction of size using diamond cutter or mechanical tile cutter."
+            },
+            {
+              "pc_code": "2.6",
+              "description": "Supervise the soaking of tiles to absorb initial water so as to prevent tiles from absorbing water from the mortar."
+            },
+            {
+              "pc_code": "2.7",
+              "description": "Organize to measure materials for adhesive as required."
+            },
+            {
+              "pc_code": "2.8",
+              "description": "Supervise the mixing of adhesive on selected and prepared area."
+            },
+            {
+              "pc_code": "2.9",
+              "description": "Supervise the laying of tiles to standard using the adhesives."
+            },
+            {
+              "pc_code": "2.10",
+              "description": "Confirm tiles are laid, leveled and aligned including all fractions."
+            },
+            {
+              "pc_code": "3.1",
+              "description": "Monitor the laying of the tiles to the final level. g 3.2 Organize to grout the joints using adhesives."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Supervise the cleaning of tiled surface and work area."
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Inspect tile joints as work proceed to ensure bond and joint alignment."
+            },
+            {
+              "pc_code": "3.5",
+              "description": "Supervise the use of line, straight edge and level as work proceed to ensure they are correctly used."
+            },
+            {
+              "pc_code": "3.6",
+              "description": "Certify each joint line before proceeding to the level."
+            },
+            {
+              "pc_code": "3.7",
+              "description": "Confirm and supervise tile work for wall and floor as required to the final point."
+            },
+            {
+              "pc_code": "3.8",
+              "description": "Organize to grout the joint."
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Organise and supervise the fixing and laying mosaic tiles to the background.",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Organize to measure area to receive mosaic."
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Organize to select the color and pattern of mosaic required."
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Calculate the area of mosaic."
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Order mosaic with required fixing adhesive."
+            },
+            {
+              "pc_code": "4.5",
+              "description": "Organize and supervise the fixing of mosaic in position."
+            },
+            {
+              "pc_code": "4.6",
+              "description": "Ensure joints are filled."
+            },
+            {
+              "pc_code": "4.7",
+              "description": "Ensure the selected pattern is the designed pattern."
+            },
+            {
+              "pc_code": "4.8",
+              "description": "Organize order for required materials."
+            },
+            {
+              "pc_code": "4.9",
+              "description": "Fix mosaic to required position."
+            },
+            {
+              "pc_code": "4.10",
+              "description": "Ensure it is hard, aligned and truly flat on wall or floor."
+            },
+            {
+              "pc_code": "5.1",
+              "description": "Confirm joint alignment as straight."
+            },
+            {
+              "pc_code": "5.2",
+              "description": "Confirm joint width are uniform."
+            },
+            {
+              "pc_code": "5.3",
+              "description": "Organize to fill joints width grout, i.e. slurry or thick cement liquid."
+            },
+            {
+              "pc_code": "5.4",
+              "description": "Organize to lean excess grout on mosaic or tiles."
+            },
+            {
+              "pc_code": "5.5",
+              "description": "Assess general work produced to confirm job is clean according to requirement."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "CON/TL/015/L3",
+      "title": "Tiling Curved Surface",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Organize and supervise tile work on curved surfaces.",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Inspect the working drawing to locate position of curved work."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Inspect the work to locate the position physically as detailed on the working."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Organize to ensure tiles are prepared for the position."
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Ensure quantity of tiles required is estimated."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Prepare and fix tiles",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Organize to set out the curved surfaces by checking the layout of the tiles."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Organize to mark the position of tiles on the curve."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Prepare and organize cutting of the tiles if so required."
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Supervise the fixing of tiles using approved mortar."
+            },
+            {
+              "pc_code": "2.5",
+              "description": "Check to see that curve is uniform according to requirement."
+            },
+            {
+              "pc_code": "2.6",
+              "description": "Confirm accuracy of work."
+            },
+            {
+              "pc_code": "2.7",
+              "description": "Request for provision of scaffold for all the tile work at higher level in accordance with rules and regulations concerning working place."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

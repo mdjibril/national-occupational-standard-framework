@@ -1,0 +1,1294 @@
+{
+  "trade_name": "NATIONAL SKILLS QUALIFACTION AUTOMOBILE MACHANICS",
+  "units": [
+    {
+      "code": "AUT/AM/001/L1",
+      "title": "Health, Safety and Environment in Automotive industry",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Carryout Personal health and hygiene",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Wear clean, smart and appropriate personal protective equipment (wears)."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Work safely at all times, complying with health, safety and environmental regulations and guidelines."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Get cuts, grazes and wounds treated by the appropriate personnel."
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Report any form of illness promptly to the appropriate personnel."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Maintain personal health and hygiene",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Identify own responsibility in the health and safety Act as it relates to own occupation."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Identify general rules on hygiene that must be followed."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Identify correct personal protection equipment (such as Head Protection, Foot Protection, Hand and body protection) and regulatory protection."
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Identify the importance of maintaining good personal hygiene."
+            },
+            {
+              "pc_code": "2.5",
+              "description": "Demonstrate how to deal with cuts, grazes and wounds and why it is important to do so."
+            },
+            {
+              "pc_code": "3.1",
+              "description": "Identify the importance of working in a healthy, safe and hygienic workplace."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Report any accidents or near misses quickly and accurately to the proper personnel."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Identify health, hygiene and safety procedure at work."
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Carryout emergency procedures during work."
+            },
+            {
+              "pc_code": "3.5",
+              "description": "Identify organizational security procedures and measures."
+            },
+            {
+              "pc_code": "3.6",
+              "description": "Carryout disposal of waste and pollution control with organic and inorganic waste disposal methods."
+            },
+            {
+              "pc_code": "3.7",
+              "description": "Follow noise control and protection methods."
+            },
+            {
+              "pc_code": "4.1",
+              "description": "Identify any potential hazards and deal with these correctly."
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Identify where information about health, safety and environment in the workplace can be obtained."
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Identify the types of hazards in the workplace that may occur and how to deal with them."
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Identify hazards that can be dealt with personally and those that should be reported to the appropriate personnel."
+            },
+            {
+              "pc_code": "4.5",
+              "description": "Identify how to warn other people about potential hazards/hazards and why this is important."
+            },
+            {
+              "pc_code": "4.6",
+              "description": "Identify why accidents and near- accidents should be reported and to whom."
+            },
+            {
+              "pc_code": "4.7",
+              "description": "Identify the types of emergencies that may happen in the workplace and how to deal with it."
+            },
+            {
+              "pc_code": "4.8",
+              "description": "Identify where to find the first- aid equipment and who the registered first responder is in the work place"
+            },
+            {
+              "pc_code": "4.9",
+              "description": "Carryout safe lifting and handling techniques that should be followed."
+            },
+            {
+              "pc_code": "4.10",
+              "description": "Identify other ways of working safely that are relevant to own position and why they are important."
+            },
+            {
+              "pc_code": "4.11",
+              "description": "Carryout organizational emergency procedures, in particular fire, and how these should be followed."
+            },
+            {
+              "pc_code": "4.12",
+              "description": "Identify the possible causes of fire and how to minimize the possibility of fire in the workplace."
+            },
+            {
+              "pc_code": "4.13",
+              "description": "Identify where to find the alarms and how to set them off."
+            },
+            {
+              "pc_code": "4.14",
+              "description": "Identify the importance of following the fire safety laws and why it should never be approached unless it is safe to do so."
+            },
+            {
+              "pc_code": "4.15",
+              "description": "Describe the organizational security procedures and why these are important."
+            },
+            {
+              "pc_code": "4.16",
+              "description": "Identify the importance of reporting all incidents to the appropriate personnel."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "AUT/AM/002/L1",
+      "title": "COMMUNICATION PROCESS IN AN AUTOMOTIVE ENVIRONMENT",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Carryout non- complex communication system in a work environment",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Carryout a simple verbal means to pass necessary information."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Carryout non-verbal means to pass on necessary information e.g. body language."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Identify and explain symbols and signs appropriately"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Carryout Information source identification in a work environment.",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Identify the source of information in an organization and work environment."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Relate appropriately with the source of information."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Use the various information flow systems in a work environment"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Use information sources to address challenges in a work environment."
+            },
+            {
+              "pc_code": "2.5",
+              "description": "Communicate findings in accordance to procedure in a work environment."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Identify communication methods in a work environment",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Identify the various methods of communication in the work environment."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Use effectively, the various methods of communication in a work environment and communicate effectively to the right personnel."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Identify symbols, signs and codes for effective information"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Carryout instructions in line with ethics of the work environment"
+            }
+          ]
+        },
+        {
+          "lo_num": "1",
+          "description": "Carryout non- complex communication system in a work environment",
+          "performance_criteria": []
+        },
+        {
+          "lo_num": "2",
+          "description": "Carryout Information source identification in a work environment.",
+          "performance_criteria": []
+        },
+        {
+          "lo_num": "3",
+          "description": "Identify communication methods in a work environment",
+          "performance_criteria": []
+        }
+      ]
+    },
+    {
+      "code": "AUT/AM/001/L2",
+      "title": "BASIC PETROL AND DIESEL ENGINE OPERATIONS",
+      "learning_outcomes": [
+        {
+          "lo_num": "2",
+          "description": "Identify basic Petrol and Diesel Engine components.",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Identify different types of engines base on fuel type \u2022 Petrol \u2022 Diesel"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Identify different types of engines base on design: \u2022 Cylinder / Valve arrangement \u2022 Transverse & Longitudinal"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Identify components of a petro engines"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Identify components of a diese engines"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Carryout basic petrol and Diesel Engine component removal and Refitting operations L.O 1: Identify Safety, Health and Environmenta regulations at workplace.",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Identify tools and equipment required for removal and replacement of engines and its components"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Observe safety procedures when removing basic engine components."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Identify workshop procedures in the storage of removed components."
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Carry out removal and replacement of parts in accordance to manufacturers\u2019 specification."
+            },
+            {
+              "pc_code": "3.5",
+              "description": "Operate the assembled components and ensure all function are in accordance to specifications."
+            },
+            {
+              "pc_code": "3.6",
+              "description": "Dispose all wastes properly following relevant laws and regulations"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Identify basic Petrol and Diesel Engine components.",
+          "performance_criteria": []
+        },
+        {
+          "lo_num": "3",
+          "description": "Carryout basi petrol and Diesel Engine component Refitting operations",
+          "performance_criteria": []
+        }
+      ]
+    },
+    {
+      "code": "AUT/AM/004/L2",
+      "title": "BASIC ENGINE SYSTEMS (COOLING, LUBRICATION, IGNITION AND FUEL SYSTEM)",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Identify tools and equipment used in basic engine system maintenance L.O 2: Identify basic components of engine cooling system",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Identify tools and equipment for engine system maintenance."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Identify the appropriate tools and equipment for engine system maintenance."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Identify appropriate tools and equipment to carry out engine system maintenance."
+            },
+            {
+              "pc_code": "2.1",
+              "description": "Identify basic cooling components in the engine system."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Identify the layout of basic components in cooling system"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Identify basic components of engine cooling system."
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Couple the basic cooling system component"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Identify basic components of engine lubrication system",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Identify basic lubrication components of the engine system."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Identify the layout of basic components in cooling system"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Identify basic components of the engine lubrication system"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Remove and refit basic lubrication system components"
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Identify the basic components of engine ignition system Evidence Ref Page number",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Identify the basic components in the engine ignition system."
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Identify the layout of basic components in ignition system"
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Identify basic components of the engine ignition system"
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Remove and refit basic ignition system component"
+            }
+          ]
+        },
+        {
+          "lo_num": "1",
+          "description": "Identify tools and equipment used i Identify tools and equipment for engine system maintenance. L.O 2: Identify basic components of engine cooling Identify the layout of basic components in cooling system engine cooling system. Couple the basic cooling system",
+          "performance_criteria": []
+        },
+        {
+          "lo_num": "3",
+          "description": "Identify basic components of engine lubrication system Identify the layout of basic components in cooling system Identify basic components of the Remove and refit basic lubrication system components",
+          "performance_criteria": []
+        },
+        {
+          "lo_num": "4",
+          "description": "Identify the basic components of engine ignition system Identify the layout of basic components in ignition system Identify basic components of the Remove and refit basic ignition system component",
+          "performance_criteria": []
+        },
+        {
+          "lo_num": "5",
+          "description": "Identify the basic components of engine fuel system",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Identify the basic components in the engine fuel system."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Identify the layout of basic components in engine fuel system"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Identify basic components of the engine fuel system"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Remove and refit basic fuel system components."
+            }
+          ]
+        },
+        {
+          "lo_num": "5",
+          "description": "Identify the basic components of engine fuel system Identify the layout of basic components in engine fuel system Identify basic components of the Remove and refit basic fuel system components.",
+          "performance_criteria": []
+        }
+      ]
+    },
+    {
+      "code": "AUT/AM/005/L2",
+      "title": "BASIC CHASSIS SYSTEM (SUSPENSION, BRAKES AND STEERING)",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Identify tools and equipment used in basic chassis system maintenance.",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Identify correct tools for chassi system components maintenance."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Select correct tools and components maintenance"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Use correct tools and equipmen maintenance."
+            },
+            {
+              "pc_code": "2.1",
+              "description": "Describe the basic components in the vehicle suspension system."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Identify the layout of basi vehicle."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Identify the basic components vehicle suspension system"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Remove and refit basic vehicle suspension components."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Identify basic components of vehicle brake system",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Identify the basic components in the vehicle brake system."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Identify the layout of basic brak system components."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Identify the basic component o the vehicle brake system."
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Remove and refit basic vehicle brake system component."
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Basic components of steering system",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Identify the basic components in the steering system."
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Identify the layout of the basic component of the vehicle steering system."
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Identify the basic components vehicle steering system"
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Remove and refit basic steering system component."
+            }
+          ]
+        },
+        {
+          "lo_num": "1",
+          "description": "Identify tools and equipment used in basic chassis system maintenance.",
+          "performance_criteria": []
+        },
+        {
+          "lo_num": "3",
+          "description": "Identify basic components of vehicle brake system",
+          "performance_criteria": []
+        },
+        {
+          "lo_num": "4",
+          "description": "Basic components of steering system",
+          "performance_criteria": []
+        }
+      ]
+    },
+    {
+      "code": "AUT/AM/006/L2",
+      "title": "FASTENING (JOINING) TECHNIQUES USED IN AUTOMOBILE SERVICES AND REPAIR",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Identify types of materials used in joining and fastening in automotive workshop.",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Identify various materials used for fastening and joining in auto workshop."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Identify the composition o various materials used for fastening and joining in the auto workshop."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Identify various materials for fastening and joining in an auto workshop."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Identify tools and equipment for carrying out metal joining operations",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Identify the tools and equipmen for metal joining operation"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Identify correct tools and equipment for carrying out meta joining operations"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Check for stability/alignment of tools and material during use."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Carryout Joining and fastening techniques in automotive workshop.",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Identify various joining an workshop."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Apply techniques for identifying defects in joining and fastening."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Identify areas of applications for joining and fastening."
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Carryout Material Joining and fastening procedures in an automotive workshop.",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Prepare material and align to enable suitable joint to be achieved."
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Carryout measuring procedures on joining and fastening."
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Determine alignment procedure before joining."
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Setup equipment to carryout metal joining operations: \u2022 Check suitability of joining technique \u2022 Check suitability of tooling"
+            }
+          ]
+        },
+        {
+          "lo_num": "1",
+          "description": ": Identify types of materials used in joining and fastening in automotive workshop.",
+          "performance_criteria": []
+        },
+        {
+          "lo_num": "2",
+          "description": "Identify tools and equipment for carrying ou metal joining operations \u2022 check if consumables are correct",
+          "performance_criteria": [
+            {
+              "pc_code": "4.5",
+              "description": "Identify joint and fasteners defects."
+            },
+            {
+              "pc_code": "4.6",
+              "description": "Check integrity of the joint(s). ie visual inspection etc."
+            },
+            {
+              "pc_code": "4.7",
+              "description": "Carryout metal joining operations within the agreed timescale."
+            }
+          ]
+        },
+        {
+          "lo_num": "5",
+          "description": "Carryout safety precautions required in metal joining and fastening",
+          "performance_criteria": [
+            {
+              "pc_code": "5.1",
+              "description": "Carryout the procedures involved in metal joining and fastening operations."
+            },
+            {
+              "pc_code": "5.2",
+              "description": "Observe safety precautions required in metal joining and fastening"
+            },
+            {
+              "pc_code": "5.3",
+              "description": "Carryout measures to protect the motor vehicle in metal joining operations."
+            },
+            {
+              "pc_code": "5.4",
+              "description": "Carryout maintenance of PPE and equipment in accordance with workshop procedures."
+            }
+          ]
+        },
+        {
+          "lo_num": "5",
+          "description": "Carryout safety required in metal joining and fastening",
+          "performance_criteria": []
+        }
+      ]
+    },
+    {
+      "code": "AUT/AM/007/L1",
+      "title": "TEAM WORK",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Carryout Positive working relationship with colleagues",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Identify the need for developing positive relationship with colleagues."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Recognize the importance of relating with other people in a way that makes them feel valued and respected."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Assist team members when required."
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Report to the appropriate personnel when request/requesting for assistance fall outside area of responsibility."
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Communicate information to colleagues about own work that might affect others."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Identify Responsibilities within the team",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Recognize own role and responsibilities within the team."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Perform individual tasks in line with the team rules and regulations."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Participate effectively in teamwork."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Carryout compliance with organisational policies",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Work In line with organizational standard and structure."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Identify organizational code of practice."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Identify organizational code of conduct."
+            }
+          ]
+        },
+        {
+          "lo_num": "1",
+          "description": "Carryout Positiv relationship with colleagues",
+          "performance_criteria": []
+        },
+        {
+          "lo_num": "2",
+          "description": "Identify Responsibilities",
+          "performance_criteria": []
+        },
+        {
+          "lo_num": "3",
+          "description": "Carryout compliance with organisational policies",
+          "performance_criteria": []
+        }
+      ]
+    },
+    {
+      "code": "AUT/AM/008/L1",
+      "title": "BASIC COMPUTER SKILLS IN AUTOMOTIVE INDUSTRY",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Identify Computer Classification and operation",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Identify computers according to usage, type and size."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Differentiate between analogue digital and hybrid computers."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Identify the various types of micro-computers."
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Carryout a given assignment using the computer."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Identify use of computers in modern automobile w orkshops.",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Identify the roles of computer in modern motor vehicles"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Identify the various applications of computer in automobil workshop."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Identify the characteristics and benefits of computer in automotive workshop."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Identify Computer Hardware and Software Elements",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Identify the functions of various hardware and software components of the computer."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Differentiate between operating system and application software."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Select application software for a particular operation."
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Carryout basic computer Operation",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Operate the keyboard using function keys, alphanumeric keys, numeric keys and control keys."
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Carryout typing exercise on the computer."
+            }
+          ]
+        },
+        {
+          "lo_num": "1",
+          "description": "Identify Computer Classification and operation",
+          "performance_criteria": []
+        },
+        {
+          "lo_num": "2",
+          "description": "Identify use of computers in modern automobile w orkshops.",
+          "performance_criteria": []
+        },
+        {
+          "lo_num": "3",
+          "description": "Identify Computer Hardware and Software Elements",
+          "performance_criteria": []
+        },
+        {
+          "lo_num": "4",
+          "description": "Carryout basic",
+          "performance_criteria": []
+        }
+      ]
+    },
+    {
+      "code": "AUT/AM/009/L2",
+      "title": "MOTOR VEHICLE TYRES AND WHEELS",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Identify Wheels/tyre classification and characteristics",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Identify various tyres classification and their characteristics."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Identify wheel/tyres data according to manufacturer\u2019s specifications."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Differentiate the following wheels; \u2022 steel \u2022 alloy"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Identify tools/equipment for wheels/tyre repairs and replacement",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Identify and select tools and equipment used in wheels/tyres repairs."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Carryout all inspection, repair and replacement activities using suitable tools and equipment."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Ensure that all tyres/wheel tools and equipment are safe prior to use."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Carryout Inspection, repairs and replacement of motor vehicle tyres and wheels",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Use suitable personal protective equipment and motor vehicle coverings throughout all tyres and wheels inspection, repair and replacement activities."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Use suitable sources of technical information to support your inspection, repair and replacement of tyres and wheels"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Operate in a way which minimizes the risk of damage to the motor vehicle and its systems."
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Perform all inspection, repair and replacement activities following: \u2022 manufacturer\u2019s instructions \u2022 your workplace procedure \u2022 health, safety and environment requirements."
+            },
+            {
+              "pc_code": "3.5",
+              "description": "Carryout all inspection, repair and replacement activities using \u2022 the correct inspection technique"
+            }
+          ]
+        },
+        {
+          "lo_num": "1",
+          "description": "Identify Wheels/tyre classification and characteristics",
+          "performance_criteria": []
+        },
+        {
+          "lo_num": "2",
+          "description": "Identify tools/equipment for wheels/tyre repairs and replacement",
+          "performance_criteria": []
+        },
+        {
+          "lo_num": "3",
+          "description": "Carryout Inspection, repairs and replacement of motor vehicle tyres and wheels \u2022 the correct type and size of component \u2022 suitable tools and equipment",
+          "performance_criteria": [
+            {
+              "pc_code": "3.6",
+              "description": "Dispose of removed components safely to meet legal and workplace requirements."
+            },
+            {
+              "pc_code": "3.7",
+              "description": "Ensure that replaced and refitted tyres and valves are correctly fitted."
+            },
+            {
+              "pc_code": "3.8",
+              "description": "Report any anticipated delays in completion and any additional faults identified to the relevant personnel promptly."
+            },
+            {
+              "pc_code": "3.9",
+              "description": "Carryout wheel balancing operations."
+            },
+            {
+              "pc_code": "3.10",
+              "description": "Carry out appropriate repairs according to manufacturers\u2019 specification on wheels with tyre pressure sensor."
+            },
+            {
+              "pc_code": "3.11",
+              "description": "Carryout replacement tyres in accordance with manufacturer\u2019s specifications."
+            },
+            {
+              "pc_code": "3.12",
+              "description": "Identify wheel data according to manufacturer\u2019s specifications."
+            },
+            {
+              "pc_code": "3.13",
+              "description": "Store tyres and wheels in line with workplace procedures."
+            },
+            {
+              "pc_code": "3.14",
+              "description": "Carryout tyre replacement in accordance with motor vehicle manufacturer\u2019s specification."
+            },
+            {
+              "pc_code": "3.15",
+              "description": "Complete all activities within the agreed timescale."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "AUT/AM/010/L2",
+      "title": "INTRODUCTION TO PERIODIC MAINTENANCE SERVICES",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Identify vehicle maintenance Services",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Identify the importance of vehicle maintenance services"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Identify types of maintenance services carried out on a vehicle"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Identify vehicle maintenance checklist."
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Carryout vehicle maintenance checklist to assess the various vehicle systems and equipment."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Carryout procedures for conducting a lubrication service",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Carryout the procedures for conducting a lubrication service."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Identify the correct servicing parts required for lubrication services."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Identify the right PPE to carryout lubrication services"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Identify areas requiring lubrication during routine maintenance services in a vehicle."
+            },
+            {
+              "pc_code": "2.5",
+              "description": "Carry out a vehicle lubrication service following manufacturer recommended procedure."
+            },
+            {
+              "pc_code": "3.1",
+              "description": "Identify suitable personal protective equipment and motor vehicle coverings throughout all maintenance activities"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Identify suitable sources of technical information to support all motor vehicle maintenance activities."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Identify and use appropriate diagnostic tools and equipment for routine engine service."
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Identify the motor vehicle engine systems and components following: \u2022 The manufacturer\u2019s approved examination methods \u2022 Workplace procedures"
+            }
+          ]
+        },
+        {
+          "lo_num": "1",
+          "description": "Identify vehicle maintenance Services",
+          "performance_criteria": []
+        },
+        {
+          "lo_num": "2",
+          "description": "Carryout procedures for conducting a lubrication service",
+          "performance_criteria": []
+        },
+        {
+          "lo_num": "3",
+          "description": "Carryout the procedure fo servicing a vehicle engine \u2022 Health, Safety Environment requirements",
+          "performance_criteria": [
+            {
+              "pc_code": "3.5",
+              "description": "Identify accurately any vehicle engine system and components that falls outside the specified maintenance schedule."
+            },
+            {
+              "pc_code": "3.6",
+              "description": "Identify technical issues following workshop procedures."
+            },
+            {
+              "pc_code": "3.7",
+              "description": "Carryout the servicing of engine components following workshop procedures"
+            },
+            {
+              "pc_code": "3.8",
+              "description": "Carryout accurate testing methods to evaluate performance of replaced and adjusted components/systems."
+            },
+            {
+              "pc_code": "3.9",
+              "description": "Carryout maintenance records accurately in accordance to workshop standards and procedures."
+            },
+            {
+              "pc_code": "3.10",
+              "description": "Carryout motor vehicle maintenance activities within the agreed timescale."
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Identify the required service parts after sales  Identify diagnosing tools to clear identified faults",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Identify workshop manuals for routine services."
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Identify the required servicing parts for routine servicing procedures"
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Identify the original from imitation after sales servicing parts."
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Process order for placement of automotive servicing parts."
+            },
+            {
+              "pc_code": "5.1",
+              "description": "Operate the diagnosing equipment to check for faults during routine service."
+            },
+            {
+              "pc_code": "5.2",
+              "description": "Interpret the identified faults codes"
+            },
+            {
+              "pc_code": "5.3",
+              "description": "Carry out repairs of identified fault(s)"
+            },
+            {
+              "pc_code": "5.4",
+              "description": "Use diagnosing equipment to clear faults."
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Identify the required service parts after sales",
+          "performance_criteria": []
+        },
+        {
+          "lo_num": "5",
+          "description": "Identify diagnosing tools to clear identified faults",
+          "performance_criteria": []
+        }
+      ]
+    },
+    {
+      "code": "AUT/AM/011/L2",
+      "title": "HEAVY DUTY MOTOR VEHICLE PERIODIC MAINTENANCE",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Identify types and application of filters",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Identify the various types of filters and their components."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Identify different filters and the filtrations system (paper filters, fabric, cyclone, wire-mesh filters etc)"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Identify the application of pre- filtration and filtration systems."
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Apply correct specifications and tolerances for the heavy duty motor vehicle when making assessments of system and component performance."
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Work in a way which minimises the risk of damage to the heavy duty motor vehicle, its systems and the environment."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Carryout procedures for conducting a lubrication service",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Use manufacturer\u2019s routine maintenance checklist accurately"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Use suitable personal protective equipment and heavy duty motor vehicle coverings throughout all motor vehicle maintenance activities"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Ensure heavy duty motor vehicle's systems and components complies with the following; \u2022 The manufacturer\u2019s approved examination methods \u2022 Workplace procedures \u2022 Health, Safety and workplace requirements."
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Identify areas requiring lubrication for routine maintenance services in a heavy duty vehicle."
+            },
+            {
+              "pc_code": "2.5",
+              "description": "Carryout correct specifications and tolerances for the heavy duty motor vehicle when making assessments of system and component performance."
+            },
+            {
+              "pc_code": "3.1",
+              "description": "Use suitable personal protective equipment and heavy duty motor vehicle coverings throughout all maintenance activities."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Identify suitable sources of technical information to support all your heavy"
+            }
+          ]
+        },
+        {
+          "lo_num": "1",
+          "description": "Identify application of filters",
+          "performance_criteria": []
+        },
+        {
+          "lo_num": "2",
+          "description": "Carryout procedure for conducting a lubrication service",
+          "performance_criteria": []
+        },
+        {
+          "lo_num": "3",
+          "description": "Carryout engine service procedure duty motor vehicle maintenance activities.",
+          "performance_criteria": [
+            {
+              "pc_code": "3.3",
+              "description": "Identify the motor vehicle's systems and components following: \u2022 The manufacturer\u2019s approved examination methods \u2022 Workplace procedures \u2022 Health, Safety and environmental requirements"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Identify accurately any faulty light motor vehicle system and component."
+            },
+            {
+              "pc_code": "3.5",
+              "description": "Dis-mantle and assemble components in a way which minimizes the risk of damage on the vehicle and its systems."
+            },
+            {
+              "pc_code": "3.6",
+              "description": "Identify suitable and accurate testing methods to evaluate the performance of all replaced and adjusted components/systems."
+            },
+            {
+              "pc_code": "3.7",
+              "description": "Promptly communicate any problems or issues relating to the motor vehicle's condition or conformity to the relevant personnel."
+            },
+            {
+              "pc_code": "3.8",
+              "description": "Identify maintenance record accurately and passed to the relevant personnel."
+            },
+            {
+              "pc_code": "3.9",
+              "description": "Identify any anticipated delays in completion to the relevant personnel."
+            },
+            {
+              "pc_code": "3.10",
+              "description": "Carryout complete motor vehicle maintenance within the agreed timescale."
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Identify the required service parts after sales",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Use workshop manuals for routine services."
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Identify required servicing parts for routine servicing procedures"
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Identify the original from imitation after sales servicing parts."
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Process order for placement of automotive servicing parts."
+            }
+          ]
+        },
+        {
+          "lo_num": "5",
+          "description": "Identify diagnosing tools to clear identified faults",
+          "performance_criteria": [
+            {
+              "pc_code": "5.1",
+              "description": "Identify the diagnosing equipment to check for faults during routine maintenance"
+            },
+            {
+              "pc_code": "5.2",
+              "description": "Identify faults codes and Interpret"
+            },
+            {
+              "pc_code": "5.3",
+              "description": "Carry out repairs of identified fault(s)"
+            },
+            {
+              "pc_code": "5.4",
+              "description": "Identify diagnosing equipment to clear faults."
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Identify the required service parts after sales",
+          "performance_criteria": []
+        },
+        {
+          "lo_num": "5",
+          "description": "Identify diagnosing tools to clear identified faults",
+          "performance_criteria": []
+        }
+      ]
+    }
+  ]
+}

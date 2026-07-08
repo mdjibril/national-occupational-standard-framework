@@ -1,0 +1,1171 @@
+{
+  "trade_name": "INTERMEDIATE WELDER",
+  "units": [
+    {
+      "code": "ENGG/WF/001/L2",
+      "title": "HEALTH, SAFETY AND ENVIRONMENT",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understand health and safety rules in work environment",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Familiarize with work environment"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Explain safe work practice when working with welding equipment."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "List Personal Protective Equipment (PPE) in welding operations"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Identify Personal Protective Equipment (PPE)"
+            },
+            {
+              "pc_code": "1.5",
+              "description": "List common hazards in welding operations"
+            },
+            {
+              "pc_code": "1.6",
+              "description": "Use Personal Protective Equipment (PPE)"
+            },
+            {
+              "pc_code": "1.7",
+              "description": "Explain preventive measures for 1.5 above"
+            },
+            {
+              "pc_code": "1.8",
+              "description": "Explain how to respond to accident in work environment."
+            },
+            {
+              "pc_code": "1.9",
+              "description": "Explain accident report procedure"
+            },
+            {
+              "pc_code": "1.10",
+              "description": "Explain first aid procedures"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Understand Safety guidelines for welding operations",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Explain different regulations guiding welding practice (NIS ISO 15012-4)"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Identify safety signs and codes in the welding workshop"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Observe health and safety signs always."
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Work safely to protect self and others"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Know fire safety",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Explain classes of fire"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Explain causes of fire outbreak in a work environment"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Explain emergency and fire procedure"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "List methods of extinguishing fire"
+            },
+            {
+              "pc_code": "3.5",
+              "description": "List types of fire extinguishers"
+            },
+            {
+              "pc_code": "3.6",
+              "description": "Demonstrate how to use appropriate fire extinguisher."
+            },
+            {
+              "pc_code": "3.7",
+              "description": "Follow fire and safety procedure"
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Practice good housekeeping Additional information about the unit Unit aim(s) Unit expiry date Details of the relationship between the unit and relevant National Occupational Standards (if appropriate) Details of the relationship between the unit and other standards or curricula (if appropriate) Assessment requirements specified by a sector or regulatory body (if appropriate) Endorsement of the unit by a sector or other appropriate body (if required) Location of the unit within the subject/sector classification system Name of the Organisation submitting the unit Guided Learning Hours",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Explain good housekeeping procedures before welding operations: \u2022 Ensure cleanliness of work environment \u2022 Proper positioning of tools, equipment and consumables \u2022 Ensure gangways are free from obstacles \u2022 Shield your work area \u2022 Proper illumination of the work area \u2022 Proper ventilation of the work area"
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Explain good housekeeping procedures during welding operations: \u2022 Ensure work environment is constantly clean \u2022 Ensure welding positioners are securely in place \u2022 Ensure work area is free from hot electrode stubs, work piece, water, oil/grease, paint. \u2022 Proper placement of electrical cables and gas hoses"
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Explain good housekeeping procedures after welding operations: \u2022 Assemble all tools, equipment and consumables after operations \u2022 Clean all tools, equipment and work area \u2022 Store tools and equipment appropriately \u2022 Switch off mains Nigerian Institute of Welding (NIW)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ENGG/WF/002/L2",
+      "title": "COMMUNICATION SYSTEM IN WORK ENVIRONMENT",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Communicate effectively in the work environment",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Explain communication in work environment."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Explain methods of communication in work environment."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Explain verbal communication in work environment"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Explain non-verbal communication in work environment"
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Use verbal and non-verbal means to convey necessary information e.g. body language, signs, etc."
+            },
+            {
+              "pc_code": "1.6",
+              "description": "Interpret symbols and signs Correctly"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Develop the ability to identify sources of information in a work environment",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Identify sources of information in the work environment"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Relate well with sources of information"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Use the different information flow systems in a work environment"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Use information gathered to address challenges in a work environment"
+            },
+            {
+              "pc_code": "2.5",
+              "description": "Report findings correctly as expected in the work environment"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Demonstrate the use of various communication means in a work environment Additional information about the unit Unit aim(s) Unit expiry date Details of the relationship between the unit and relevant National Occupational Standards (if appropriate) Details of the relationship between the unit and other standards or curricula (if appropriate) Assessment requirements specified by a sector or regulatory body (if appropriate) Endorsement of the unit by a sector or other appropriate body (if required) Location of the unit within the subject/sector classification system Name of the organisation submitting the unit Guided Learning Hours",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Locate the various communication equipment in the work environment"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Use effectively the various communication equipment in a work environment"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Pass information correctly using symbols, signs and codes."
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Obey instructions in line with ethics of the work environment. Nigerian Institute of Welding (NIW)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ENGG/WF/003/L2",
+      "title": "TEAMWORK",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Exhibit good working relationship with co- workers",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Work positively with co- workers"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Assist team members when required"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Maintain open communication with co-workers"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Report to the supervisor when request for assistance fall outside area of responsibility."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Take responsibility within the team",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Recognize own roles and responsibilities within a team or group."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Perform individual tasks in line with the team rules and regulations."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Participate well in group work."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Comply with rules of organisation Additional information about the unit Unit aim(s) Unit expiry date Details of the relationship between the unit and relevant National Occupational Standards (if appropriate) Details of the relationship between the unit and other standards or curricula (if appropriate) Assessment requirements specified by a sector or regulatory body (if appropriate) Endorsement of the unit by a sector or other appropriate body (if required) Location of the unit within the subject/sector classification system Name of the Organisation submitting the unit Guided Learning Hours",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Explain organisational code of Conduct"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Use organisational code of practice"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Work in line with organisational standard. Nigerian Institute of Welding (NIW)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ENGG/WF/004/L2",
+      "title": "FABRICATION DRAWING",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Know fabrication drawing",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Explain fabrication drawing"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "List the components of fabrication drawing"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Explain how to interpret fabrication drawing"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Know component drawing.",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Explain component drawing"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Identify drawing components and its dimensions from fabrication drawing"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Produce simple component drawing"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Interpret fabrication drawing Additional information about the unit Unit aim(s) Unit expiry date Details of the relationship between the unit and relevant National Occupational Standards (if appropriate) Details of the relationship between the unit and other standards or curricula (if appropriate) Assessment requirements specified by a sector or regulatory body (if appropriate) Endorsement of the unit by a sector or other appropriate body (if required) Location of the unit within the subject/sector classification system Name of the Organisation submitting the unit Guided Learning Hours",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Obtain welding details from fabrication drawing"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Obtain fitting details from fabrication drawing"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Obtain information on materials from fabrication drawing"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Obtain information on reference documents and applicable standards Nigerian Institute of Welding (NIW)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ENGG/WF/005/L2",
+      "title": "BASIC WELDING METALLURGY",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Know the properties of metals",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Discuss the physical properties of metals"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Discuss the chemical properties of metals"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Discuss the mechanical properties of metals"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Discuss classification of metals"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Understand fundamentals of material science",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Explain expansion characteristics of metals"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Explain how metals fuse during welding"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Explain solidification of metals after welding"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Know welding electrodes Additional information about the unit Unit aim(s) Unit expiry date Details of the relationship between the unit and relevant National Occupational Standards (if appropriate) Details of the relationship between the unit and other standards or curricula (if appropriate) Assessment requirements specified by a sector or regulatory body (if appropriate) Endorsement of the unit by a sector or other appropriate body (if required) Location of the unit within the subject/sector classification system Name of the Organisation submitting the unit Guided Learning Hours",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Discuss characteristics of welding electrodes"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Explain types of welding electrodes"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Explain applications of types of electrodes in 3.2"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Identify welding electrodes using standard"
+            },
+            {
+              "pc_code": "3.5",
+              "description": "Select appropriate welding electrodes for use Nigerian Institute of Welding (NIW)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ENGG/WF/006/L2",
+      "title": "FITTING OPERATIONs",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Know joining processes",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Explain joining processes"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "List types of joining process: \u2022 Welding \u2022 Riveting \u2022 Bolt and nut \u2022 Snap-fit \u2022 Bonding \u2022 Screw"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "State areas of application for 1.2 above"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Carry out fitting operations",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Carry out measurement and marking out for a given task"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Carry out cutting operation using appropriate tools for a given task"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Carry out grinding operation using appropriate tools for a given task"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Carry out drilling operations",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Describe drilling operations"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "List drilling tools and accessories"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Select appropriate drill bits for a given task"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Carry out drilling operations"
+            },
+            {
+              "pc_code": "3.5",
+              "description": "Check for defects associated with 3.4 above"
+            },
+            {
+              "pc_code": "3.6",
+              "description": "Carry out corrective measures on 3.5 above"
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Carry out riveting operations",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Explain riveting as a joining process"
+            },
+            {
+              "pc_code": "4.2",
+              "description": "List tools and accessories used in riveting operation"
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Perform riveting operation"
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Check for faults in riveting operation"
+            },
+            {
+              "pc_code": "4.5",
+              "description": "Carry out corrective measures on 4.4 above"
+            }
+          ]
+        },
+        {
+          "lo_num": "5",
+          "description": "Demonstrate bolts and nuts fastening operations Additional information about the unit Unit aim(s) Unit expiry date Details of the relationship between the unit and relevant National Occupational Standards (if appropriate) Details of the relationship between the unit and other standards or curricula (if appropriate) Assessment requirements specified by a sector or regulatory body (if appropriate) Endorsement of the unit by a sector or other appropriate body (if required) Location of the unit within the subject/sector classification system Name of the Organisation submitting the unit Guided Learning Hours",
+          "performance_criteria": [
+            {
+              "pc_code": "5.1",
+              "description": "Explain bolt and nut as a mechanical fastening process"
+            },
+            {
+              "pc_code": "5.2",
+              "description": "List types of bolts and nuts"
+            },
+            {
+              "pc_code": "5.3",
+              "description": "List types of tools used for bolts and nuts fastening"
+            },
+            {
+              "pc_code": "5.4",
+              "description": "Demonstrate the uses of bolts and nuts Nigerian Institute of Welding (NIW)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ENGG/WF/007/L2",
+      "title": "STRUCTURAL WELDING",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Know safety precautions in Structural Welding",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Explain safety precautions for the following processes: TIG, MIG/MAG and FCAW"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "List the Personal Protective Equipment (PPE) used in 1.1 above"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Explain the safety precautions in handling equipment for the processes in 1.1 above"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Take appropriate action to minimize exposure to welding gases, fumes, rays, heat, etc."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Know materials selection",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "List materials for welding: \u2022 Metals (Ferrous and Non- Ferrous) \u2022 Plastics (thermoset and thermoplastic)"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "List properties of materials used for welding"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Explain factors that determine material selection for any specific task"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Identify materials such as stainless steels, aluminium and carbon steel using: \u2022 Visual \u2022 Sound \u2022 Spark \u2022 Weight"
+            },
+            {
+              "pc_code": "2.5",
+              "description": "Select appropriate materials for a given task"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Know welding drawing and symbols",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Differentiate between shop welding drawing and blue print"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "List types of weld and welding symbols"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Use welding symbols for a given task"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Identify standards applicable to welding drawings"
+            },
+            {
+              "pc_code": "3.5",
+              "description": "Interpret various components of a welding drawing"
+            },
+            {
+              "pc_code": "3.6",
+              "description": "List drawing terminologies"
+            },
+            {
+              "pc_code": "3.7",
+              "description": "Use welding drawing terminologies for a given task"
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Know joints and preparation",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Explain weld joint"
+            },
+            {
+              "pc_code": "4.2",
+              "description": "List types of weld joints"
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Carry out the following weld joints preparation: \u2022 Tee joints \u2022 Butt joints \u2022 Corner joints \u2022 Edge joints \u2022 Lap joints"
+            },
+            {
+              "pc_code": "4.4",
+              "description": "State the need for joint preparations"
+            },
+            {
+              "pc_code": "4.5",
+              "description": "Differentiate between square and grove edge preparations"
+            }
+          ]
+        },
+        {
+          "lo_num": "5",
+          "description": "Carry out fit-up operations",
+          "performance_criteria": [
+            {
+              "pc_code": "5.1",
+              "description": "Define fit-up terms"
+            },
+            {
+              "pc_code": "5.2",
+              "description": "Explain dimensional checks"
+            },
+            {
+              "pc_code": "5.3",
+              "description": "Identify tools and equipment for fit- up/dimensional checks"
+            },
+            {
+              "pc_code": "5.4",
+              "description": "Carry out simple calculation and unit conversions"
+            },
+            {
+              "pc_code": "5.5",
+              "description": "Carry out dimensional checks for fit-up"
+            },
+            {
+              "pc_code": "5.6",
+              "description": "Carry out fit-up exercise on a job order"
+            },
+            {
+              "pc_code": "5.7",
+              "description": "Carry out care and maintenance of fit- up/dimensional tools"
+            }
+          ]
+        },
+        {
+          "lo_num": "6",
+          "description": "Carry out fillet welding operations",
+          "performance_criteria": [
+            {
+              "pc_code": "6.1",
+              "description": "Explain fillet welding operation"
+            },
+            {
+              "pc_code": "6.2",
+              "description": "List fillet welding positions"
+            },
+            {
+              "pc_code": "6.3",
+              "description": "State electrode classifications/sizes"
+            },
+            {
+              "pc_code": "6.4",
+              "description": "Select appropriate electrode for use"
+            },
+            {
+              "pc_code": "6.5",
+              "description": "Carry out fillet weld in the following positions: \u2022 Flat (PA/1F) \u2022 Horizontal (PB/2F) \u2022 Vertical up (PF/3F) \u2022 Vertical down (PG/3F) \u2022 Overhead (PD/4F) \u2022 Pipe-on-flange (PA, PB, PH, PD/5F)"
+            },
+            {
+              "pc_code": "6.6",
+              "description": "Carry out visual checks for defects (during and after welding)"
+            },
+            {
+              "pc_code": "6.7",
+              "description": "Carry out good house- keeping in the workshop/site"
+            }
+          ]
+        },
+        {
+          "lo_num": "7",
+          "description": "Carry out butt welding operations",
+          "performance_criteria": [
+            {
+              "pc_code": "7.1",
+              "description": "Explain butt welding operations"
+            },
+            {
+              "pc_code": "7.2",
+              "description": "List butt welding positions"
+            },
+            {
+              "pc_code": "7.3",
+              "description": "State types/sizes of electrode"
+            },
+            {
+              "pc_code": "7.4",
+              "description": "Select appropriate electrode for use"
+            },
+            {
+              "pc_code": "7.5",
+              "description": "Carry out butt weld in the following positions: \u2022 Flat (PA/1G) \u2022 Horizontal (PC/2G) \u2022 Vertical up (PF/3G) \u2022 Vertical down (PG/3G) \u2022 Overhead (PE/4G)"
+            },
+            {
+              "pc_code": "7.6",
+              "description": "Carry out visual checks for defects (during and after welding)"
+            },
+            {
+              "pc_code": "7.7",
+              "description": "Carry out good housekeeping in the workshop/site"
+            }
+          ]
+        },
+        {
+          "lo_num": "8",
+          "description": "Understand Tungsten Inert Gas (TIG) Welding process",
+          "performance_criteria": [
+            {
+              "pc_code": "8.1",
+              "description": "Describe TIG Welding process"
+            },
+            {
+              "pc_code": "8.2",
+              "description": "Identify the sign of TIG Welding process in a multi process welding machine"
+            },
+            {
+              "pc_code": "8.3",
+              "description": "Identify the accessories for TIG Welding process such as Colet, ceramic cup, gas diffuser, Tail."
+            },
+            {
+              "pc_code": "8.4",
+              "description": "List the various consumables for TIG Welding process: \u2022 Gas: Argon and Helium \u2022 Filler rod"
+            },
+            {
+              "pc_code": "8.5",
+              "description": "Select appropriate consumables for a given job."
+            },
+            {
+              "pc_code": "8.6",
+              "description": "List various techniques for TIG welding such as walking the cup and Lifting up"
+            },
+            {
+              "pc_code": "8.7",
+              "description": "Apply techniques in 8.6 above"
+            },
+            {
+              "pc_code": "8.8",
+              "description": "Identify types of Tungsten electrode: \u2022 2% Thoriated (Red color) \u2022 1.5% Lanthanated (Gold) \u2022 2% Ceraiated (Grey) former Orange \u2022 0.8% Zirconiated (White) \u2022 Pure green"
+            },
+            {
+              "pc_code": "8.9",
+              "description": "Carry out appropriate preparation of tungsten electrode"
+            },
+            {
+              "pc_code": "8.10",
+              "description": "Set up a TIG machine for a given task"
+            },
+            {
+              "pc_code": "8.11",
+              "description": "Carry out TIG welding in fillet joints and positions 1F, 2F, 3F, 4F, Pipe on flange 5F, 4F,"
+            },
+            {
+              "pc_code": "8.12",
+              "description": "Carry out TIG welding in butt joints and positions 1G, 2G, 3G and 4G"
+            }
+          ]
+        },
+        {
+          "lo_num": "9",
+          "description": "Understand Flux-Cored Arc Welding (FCAW) process",
+          "performance_criteria": [
+            {
+              "pc_code": "9.1",
+              "description": "Describe FCAW Process"
+            },
+            {
+              "pc_code": "9.2",
+              "description": "Identify the sign of FCAW process in a multi-process welding machine"
+            },
+            {
+              "pc_code": "9.3",
+              "description": "List the various accessories for FCAW such as: \u2022 Contact tip \u2022 Nozzles \u2022 Gas diffuser"
+            },
+            {
+              "pc_code": "9.4",
+              "description": "List the various consumables for FCAW process: \u2022 Gases: - CO 2 - 25% CO + 2 75% Argon (Ar) - 98% Argon (Ar) + 2% Oxygen (O ) 2 \u2022 Filler wires: - Gas shielding - Self- shielding \u2022 Ceramic backing"
+            },
+            {
+              "pc_code": "9.5",
+              "description": "Set up a FCAW machine for a given task"
+            },
+            {
+              "pc_code": "9.6",
+              "description": "Select appropriate accessories for FCAW"
+            },
+            {
+              "pc_code": "9.7",
+              "description": "Carry out FCAW in fillet joints and positions 1F, 2F, 3F, 4F, Pipe on flange 5F, 4F,"
+            },
+            {
+              "pc_code": "9.8",
+              "description": "Carry out FCAW in butt joints and positions 1G, 2G, 3G and 4G"
+            }
+          ]
+        },
+        {
+          "lo_num": "10",
+          "description": "Understand Metal Inert Gas/Metal Active Gas (MIG/MAG) Welding processes",
+          "performance_criteria": [
+            {
+              "pc_code": "10.1",
+              "description": "Describe MIG/MAG Welding processes"
+            },
+            {
+              "pc_code": "10.2",
+              "description": "Identify the sign of MIG/MAG Welding process in a multi process welding machine"
+            },
+            {
+              "pc_code": "10.3",
+              "description": "List the various accessories for MIG/MAG Welding Processes such as: \u2022 Contact tip \u2022 Nozzles \u2022 Gas diffuser"
+            },
+            {
+              "pc_code": "10.4",
+              "description": "List the various consumables for MIG/MAG Welding processes: \u2022 Gases: - Carbon Dioxide - Argon - Helium - Ar + O 2 - Ar +CO 2 \u2022 Filler wire"
+            },
+            {
+              "pc_code": "10.5",
+              "description": "Set up a MIG/MAG Welding machine for a given task"
+            },
+            {
+              "pc_code": "10.6",
+              "description": "Select appropriate accessories for MIG/MAG Welding"
+            },
+            {
+              "pc_code": "10.7",
+              "description": "Carry out MIG/MAG welding in fillet joints and positions: 1F, 2F, 3F, 4F, Pipe-on- flange 5F and 4F."
+            },
+            {
+              "pc_code": "10.8",
+              "description": "Carry out MIG/MAG welding in butt joints and positions: 1G, 2G, 3G and 4G"
+            }
+          ]
+        },
+        {
+          "lo_num": "11",
+          "description": "Know costing and quotation Additional information about the unit Unit aim(s) Unit expiry date Details of the relationship between the unit and relevant National Occupational Standards (if appropriate) Details of the relationship between the unit and other standards or curricula (if appropriate) Assessment requirements specified by a sector or regulatory body (if appropriate) Endorsement of the unit by a sector or other appropriate body (if required) Location of the unit within the subject/sector classification system Name of the Organisation submitting the unit Guided Learning Hours",
+          "performance_criteria": [
+            {
+              "pc_code": "11.1",
+              "description": "Identify cost units for a given job"
+            },
+            {
+              "pc_code": "11.2",
+              "description": "Compute welding estimate for a given job"
+            },
+            {
+              "pc_code": "11.3",
+              "description": "Carry out costing for a given job Nigerian Institute of Welding (NIW)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ENGG/WF/008/L2",
+      "title": "GAS WELDING II (OPTIONAL UNIT)",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Know safety precautions in gas welding",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Discuss safety precautions applicable to gas welding"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Identify the Personal Protective Equipment (PPE) used in gas welding process"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "State the importance of gangways in a gas welding workshop"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Describe the work area in a workshop"
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Identify the operational features of gas welding equipment: \u2022 Cylinder threading \u2022 Hose colour code \u2022 Regulator colour code \u2022 Regulator threading \u2022 Blow pipe threading \u2022 Flash back arrestor"
+            },
+            {
+              "pc_code": "1.6",
+              "description": "Describe methods of storing gas cylinders"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Carry out gas cutting operations",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Interpret drawings"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "List materials that can be cut using oxy/acetylene gases: \u2022 Carbon steel \u2022 Mild steel \u2022 Galvanized Steel"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Carry out assembling and disassembling of an oxy- acetylene set for use"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Describe the techniques for setting different flames"
+            },
+            {
+              "pc_code": "2.5",
+              "description": "Describe how to generate acetylene gas from carbide."
+            },
+            {
+              "pc_code": "2.6",
+              "description": "Generate acetylene gas from carbide."
+            },
+            {
+              "pc_code": "2.7",
+              "description": "Cut plates to specification using oxy-acetylene gas."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Carry out gas welding operations",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Describe the following operations: \u2022 Gas Welding \u2022 Brazing \u2022 Soldering"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "State the advantages and disadvantages of the operations in 3.1 above"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Identify materials used in welding operations listed in 3.1 above"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Carry out brazing operation on a specified material"
+            },
+            {
+              "pc_code": "3.5",
+              "description": "Check for weld defects in brazing operation"
+            },
+            {
+              "pc_code": "3.6",
+              "description": "Repair defects identified in 3.5 above"
+            },
+            {
+              "pc_code": "3.7",
+              "description": "Carry out soldering operation on a specified material"
+            },
+            {
+              "pc_code": "3.8",
+              "description": "Check for weld defects in soldering operation"
+            },
+            {
+              "pc_code": "3.9",
+              "description": "Repair defects identified in 3.8 above"
+            },
+            {
+              "pc_code": "3.10",
+              "description": "Carry out gas welding operations"
+            },
+            {
+              "pc_code": "3.11",
+              "description": "Check for weld defects"
+            },
+            {
+              "pc_code": "3.12",
+              "description": "Carry out repair on 3.11 above"
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Know costing and quotation Additional information about the unit Unit aim(s) Unit expiry date Details of the relationship between the unit and relevant National Occupational Standards (if appropriate) Details of the relationship between the unit and other standards or curricula (if appropriate) Assessment requirements specified by a sector or regulatory body (if appropriate) Endorsement of the unit by a sector or other appropriate body (if required) Location of the unit within the subject/sector classification system Name of the Organisation submitting the unit Guided Learning Hours",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Identify cost units for a given job"
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Compute welding estimate for a given job"
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Carry out costing for a given job Nigerian Institute of Welding (NIW)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ENGG/WF/009/L2",
+      "title": "PLASTIC WELDING II (OPTIONAL UNIT)",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Know the importance of plastics as engineering material",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Explain classes of engineering materials"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Explain emergence of plastics as a welding material"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Explain the properties of plastics"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Distinguish between plastics and metals"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Know the categories of plastics",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Describe the classes of plastics"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Explain the properties of plastics"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Identify areas of application for different classes of plastics"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Know plastics joining methods",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Explain major mechanical joining methods: \u2022 Riveting \u2022 Screwing \u2022 Snap-fit \u2022 Clipping \u2022 Fastening"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Explain Adhesive Bonding of plastics"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Explain welding of thermoplastics"
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Carry out plastic welding operations",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Describe the following plastic welding processes: \u2022 Hot air/gas \u2022 Hot tool \u2022 Electro-fusion \u2022 Ultrasonic \u2022 Friction"
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Carry out hot air/gas plastic welding operation"
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Carry out hot tool (Plate) plastic welding operation"
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Explain the parameters affecting plastic weld quality"
+            }
+          ]
+        },
+        {
+          "lo_num": "5",
+          "description": "Carry out plastic weld tests",
+          "performance_criteria": [
+            {
+              "pc_code": "5.1",
+              "description": "List common plastic weld defects"
+            },
+            {
+              "pc_code": "5.2",
+              "description": "Identify the causes of plastic weld defects"
+            },
+            {
+              "pc_code": "5.3",
+              "description": "Explain measures of preventing plastic weld defects"
+            },
+            {
+              "pc_code": "5.4",
+              "description": "Carry out repairs of plastic weld defects"
+            },
+            {
+              "pc_code": "5.5",
+              "description": "Explain chemical and mechanical tests for plastic welds"
+            }
+          ]
+        },
+        {
+          "lo_num": "6",
+          "description": "Know costing and quotation Additional information about the unit Unit aim(s) Unit expiry date Details of the relationship between the unit and relevant National Occupational Standards (if appropriate) Details of the relationship between the unit and other standards or curricula (if appropriate) Assessment requirements specified by a sector or regulatory body (if appropriate) Endorsement of the unit by a sector or other appropriate body (if required) Location of the unit within the subject/sector classification system Name of the Organisation submitting the unit Guided Learning Hours",
+          "performance_criteria": [
+            {
+              "pc_code": "6.1",
+              "description": "Identify cost units for a given job"
+            },
+            {
+              "pc_code": "6.2",
+              "description": "Compute welding estimate for a given job"
+            },
+            {
+              "pc_code": "6.3",
+              "description": "Carry out costing for a given job Nigerian Institute of Welding (NIW)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

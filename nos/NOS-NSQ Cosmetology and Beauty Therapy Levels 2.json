@@ -1,0 +1,995 @@
+{
+  "trade_name": "NATIONAL OCCUPATIONAL STANDARD (NOS) COSMETOLOGY AND BEAUTY THERAPY",
+  "units": [
+    {
+      "code": "CBT/COS/001/L2",
+      "title": "CUSTOMER RELATIONS",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understand delivering service to clients. 1:1 Describe the importance of customer service delivery.",
+          "performance_criteria": [
+            {
+              "pc_code": "1.2",
+              "description": "Determine and handle client\u2019s needs in a knowledgeable and friendly way."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Communicate to clients, approximated response time of delivery and meet deadlines in a timely manner."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Know how to identify repeated customer service problems and options for solving them",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Use customer feedback forms."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Assemble and review clients feedback to help improve service delivery e.g. feedback forms, word of mouth etc."
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Address customer issues/request based on feedback received."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Carry out telephone etiquette.",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Describe the importance of phone calls in customer relation service"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Identify self politely to the caller with a smile."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Address the caller\u2019s request and assist accordingly or transfer to appropriate person."
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Indicate the end of conversation in a courteous and professional way thanking the caller and waiting for the caller to hang up first."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "CBT/COS/002/L2",
+      "title": "COMMUNICATION SKILLS",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understand types of workplace communication.",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Explain the importance of communication in a workplace"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Differentiate the forms of transactional communication e.g. verbal and nonverbal communication in workplace"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Identify workplace communication tools e.g. tablets, phones etc."
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Describe the different channels of communication in a workplace e.g. conversations, events, messages, graphics, audio, video, meetings etc."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Demonstrate communication style",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Describe the most common communication styles in the workplace i.e. open, reserved, direct and indirect."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Use the common elements of communication e.g. body language, eye contacts, sign language, facial expressions, posture etc."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Communicate appropriately in the workplace."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Demonstrate the art of effective communication",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Communicate verbally."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Communicate nonverbally."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Use appropriate communication tools."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "CBT/COS/003/L2",
+      "title": "HEALTH AND SAFETY IN COSMETOLOGY AND BEAUTY THERAPY",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "carry out risk management In the workplace",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Explain risks in cosmetology and beauty therapy."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Identify and classify workplace hazards in cosmetology and beauty therapy."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Communicate any possible dangerous situations to control the risk in cosmetology"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "understand chemical, physical, and biological hazards in the workplace.",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Describe potential sources of biological, physical, and chemical hazards e.g. (blood borne diseases, skin infections, hazardous chemicals)"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Explain the various health problems associated with exposures to hazards in the workplace."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Prepare and keep up to date Hazardous Chemical Register about chemicals stored, handled or used at the workplace."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Understand skills of health and safety measures in risk control.",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Explain electrical installation in the workplace."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Identify risk associated with electrical installation workplace."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Carryout Control on electrical equipment by tagin."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "CBT/COS/OO4/L2",
+      "title": "TEAM WORK",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Demonstrate positive working relationship with colleagues",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Describe team work."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Explain the merits of good team work."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "work effectively in a team."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "understand organizational code of practice",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Define organizational code of practice."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Perform in line with organizational ethics or requirement."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Maintain effective participation in a team."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "know organizational code of conduct",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Explain code of conduct as it relates to cosmetology and beauty therapy industry."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Use organizational code of conduct in own practice."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Carryout review of organizational code of conduct in own practice."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "CBT/COS/005/L2",
+      "title": "HAIR DRESSING",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "understand the hair Textures.",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Define hair textures."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Identify natural hair texture."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Identify chemically treated hair texture (e.g. relaxed hair)"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Explain products for Natural hair texture"
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Explain products for chemically treated hair types."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Demonstrate hair weaving with extensions.",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Describe the process of hair weaving with extensions."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Prepare work area, and self"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Select with the client hair weaving extension style."
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Prepare client for hair weaving. \u2022 Drape client. \u2022 Look out for the scalp disorders in relation to hair weaving. \u2022 Section the hair to determine the structure, growth pattern and density for hair weaving with extensions."
+            },
+            {
+              "pc_code": "2.5",
+              "description": "Perform hair weaving extension to client desired length"
+            },
+            {
+              "pc_code": "2.6",
+              "description": "Carryout hair styling and Style client\u2019s attached hair extensions as agreed."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Demonstrate hair braiding with extension.",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Describe hair braiding with extension."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Prepare work area, self, and client"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Prepare extension to client desired length."
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Perform braiding with extension as agreed with clients."
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "know of chemical treatment by relaxing",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Explain hair relaxing as a chemical treatment."
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Explain the types of hair relaxing with different relaxers"
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Prepare work station and client for hair relaxing treatment."
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Perform hair relaxing treatment on client using the correct relaxer."
+            },
+            {
+              "pc_code": "4.5",
+              "description": "Perform and finish hair style to client desire. 4. 6 Perform health and safety by cleaning up work area and tools."
+            }
+          ]
+        },
+        {
+          "lo_num": "5",
+          "description": "Understand and skill of hair weave-on.",
+          "performance_criteria": [
+            {
+              "pc_code": "5.1",
+              "description": "Describe hair weave-on."
+            },
+            {
+              "pc_code": "5.2",
+              "description": "Prepare self and tools needed for fixing hair weaves."
+            },
+            {
+              "pc_code": "5.3",
+              "description": "Perform cornrows on clients prior to fixing weave-on."
+            },
+            {
+              "pc_code": "5.4",
+              "description": "Determine the placement of weave on on client\u2019s hair."
+            },
+            {
+              "pc_code": "5.5",
+              "description": "Carryout sew-in weaves on client\u2019s hair."
+            },
+            {
+              "pc_code": "5.6",
+              "description": "Carryout brushing and style on clients\u2019 hair as agreed."
+            },
+            {
+              "pc_code": "5.7",
+              "description": "clean up the client and work area."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "CBT/COS/006/L2",
+      "title": "BARBING SERVICE",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understand barbing techniques.",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Define the term barbing techniques and barbing styles."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Identify the tools for each barbing technique."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Carryout barbing styles."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "know scissors and comb haircut Techniques.",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Describe scissor over comb haircut techniques"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Prepare oneself, client and area for scissor over comb haircut techniques"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Communicate with your client on the look and agreed length for scissor over comb haircut Technique."
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Carry out a client scissor over comb haircut Technique."
+            },
+            {
+              "pc_code": "2.5",
+              "description": "Carryout cleaning service on: \u2022 Client after scissor over comb haircut techniques. \u2022 Tools and sterilize after scissor over comb haircut. \u2022 Technique on a client. \u2022 Work area after carrying out scissor over comb haircut."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "know clipper and comb haircut Techniques.",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Describe clipper over comb haircut Technique."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Prepare oneself, client, and work area to carry out clipper over comb haircut Technique on a client."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Carry out a client clipper over comb haircut technique using desired length and style."
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Carryout cleaning up service on: \u2022 Client after carrying out clipper over comb haircut technique service. \u2022 Sterilize tools after carrying out clipper over comb haircut technique service. \u2022 Work area after carrying out clipper over comb haircut technique service."
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "understand hair dyeing.",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Describe the term hair dyeing."
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Explain colour and colour intensity as they relate to hair dyeing."
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Communicate with client on colour and intensity on hair dyeing service."
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Carry out hair dyeing service on a client using agreed colour, colour intensity and appropriate PPE."
+            },
+            {
+              "pc_code": "4.5",
+              "description": "Carryout cleaning services on client by: \u2022 Washing client\u2019s hair with warm water and shampoo. \u2022 Finish client\u2019s hair with styling after hair dyeing service. \u2022 Clean up client and work area after carrying out hair dyeing service."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "CBT/COS/007/L2",
+      "title": "MAKEUP",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "understand different makeup looks.",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Explain different makeup looks and face shapes."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Describe the different face shapes."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Identify different tools for makeup services."
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Carry out any makeup look on a client."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "understand brow grooming by shaping.",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Describe the tools for carrying out brow grooming and shaping (tweezer, wax\u2026etc)."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Prepare oneself and client for brow grooming and shaping."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "agree with client on method to use for brow grooming service."
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Carry out client brow shaping as a method of grooming the brows."
+            },
+            {
+              "pc_code": "2.5",
+              "description": "clean up self, client and tools after brow shaping service."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "know makeup application",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Explain the term basic makeup application."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Explain colour theory in basic make up application."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Describe types of foundations in basic makeup application."
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Explain the process for basic makeup application."
+            },
+            {
+              "pc_code": "3.5",
+              "description": "Prepare oneself, client and work area for makeup application."
+            },
+            {
+              "pc_code": "3.6",
+              "description": "Prepare the client\u2019s skin for basic makeup application service."
+            },
+            {
+              "pc_code": "3.7",
+              "description": "Carry out complete basic makeup on a client."
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Understand false eye lash Application (Strip)",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Describe the term false eye lash."
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Describe types of false eye lash."
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Describe how to carry out false eye lash application."
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Prepare oneself and work area to carry out false eye lash application"
+            },
+            {
+              "pc_code": "4.5",
+              "description": "Prepare client, false eye lashes to carry out false eye lash application service."
+            },
+            {
+              "pc_code": "4.6",
+              "description": "Carry out false eye lashes application on a client using agreed length and type of false eye lashes."
+            },
+            {
+              "pc_code": "4.7",
+              "description": "Apply eye liner to finished false eye lashes on a client."
+            },
+            {
+              "pc_code": "4.8",
+              "description": "Clean up, oneself, client, work area and tools after false eye lashes application service."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "CBT/COS/008/L2",
+      "title": "SPA TREATMENT AND SKINCARE",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "know steamer and sauna.",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Define sauna."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Describe the process of the sauna use."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Define steamer."
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Describe the process of the steamer use."
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Explain the benefits of the steaming and sauna use."
+            },
+            {
+              "pc_code": "1.6",
+              "description": "Identify items found in a sauna/stream room."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "understand body message to relax and its benefits",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Describe the term massage."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Explain types of massage e.g. head message, full body message, back etc."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Determine the method of massage. Manual and Machine."
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Explain the benefits of massage (psychological, physiological)."
+            },
+            {
+              "pc_code": "2.5",
+              "description": "Determine the appropriate massage for each individual by consultation e.g. deep tissue message, relaxation, pregnancy, Swedish etc."
+            },
+            {
+              "pc_code": "2.6",
+              "description": "Set up work area, client, and self for full body message."
+            },
+            {
+              "pc_code": "2.7",
+              "description": "Carryout cleaning services after for oneself, client and work area."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "underarm waxing",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Explain the term waxing."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Describes types of waxing."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Identify the tools for waxing."
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Prepare oneself, client and work area for waxing service."
+            },
+            {
+              "pc_code": "3.5",
+              "description": "Carry out underarm waxing: \u2022 Apply pre-wax treatment. \u2022 Waxing on a client. \u2022 Apply post-wax treatment."
+            },
+            {
+              "pc_code": "3.6",
+              "description": "Carryout cleaning up service on client and work area."
+            },
+            {
+              "pc_code": "4.1",
+              "description": "Explain facial treatment"
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Prepare self, client, and work area."
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Identify tools and products for facial and various skin treatment."
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Use appropriate wipes and face wash to deep cleanse the face"
+            },
+            {
+              "pc_code": "4.5",
+              "description": "Use appropriate face scrub to exfoliate the face"
+            },
+            {
+              "pc_code": "4.6",
+              "description": "Perform face steaming"
+            },
+            {
+              "pc_code": "4.7",
+              "description": "Use appropriate mask on the face and clean."
+            },
+            {
+              "pc_code": "4.8",
+              "description": "Use appropriate serum or moisturizer to massage the face."
+            },
+            {
+              "pc_code": "4.9",
+              "description": "Carryout cleaning service on oneself, client, and work area."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "CBT/COS/009/L2",
+      "title": "BODY ART AND DESIGN",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Carry out Arabian Henna",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Describe Arabian Henna."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Describe different patterns of Arabian Henna."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Identify the tools for applying Arabian Henna."
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Carryout skin analysis prior to Arabian henna."
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Select design patterns that suits client\u2019s needs."
+            },
+            {
+              "pc_code": "1.6",
+              "description": "Carry out Arabian henna design patterns on a client\u2019s hands and body parts."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Carry out Hausa Henna.",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Describe Hausa henna."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Describe types of Hausa Henna design"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Identify tools for carrying out Hausa Henna pattern and designs."
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Identify different patterns of Hausa designs."
+            },
+            {
+              "pc_code": "2.5",
+              "description": "Carryout skin analysis prior to Hausa henna services."
+            },
+            {
+              "pc_code": "2.6",
+              "description": "Determine the design pattern that suits client\u2019s needs."
+            },
+            {
+              "pc_code": "2.7",
+              "description": "Apply Hausa henna pattern and designs on a client\u2019s hands and body parts."
+            },
+            {
+              "pc_code": "2.8",
+              "description": "Carryout cleaning services for oneself, client, and work area."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "carry out Indian Henna",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Describe Indian henna."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Describe types of Indian Henna patterns."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Identify different patterns of Indian designs."
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Identify tools for Indian Henna."
+            },
+            {
+              "pc_code": "3.5",
+              "description": "Carryout skin analysis for Indian henna services."
+            },
+            {
+              "pc_code": "3.6",
+              "description": "Determine India Henna design pattern that suits client\u2019s needs."
+            },
+            {
+              "pc_code": "3.7",
+              "description": "Apply Indian henna pattern designs on a client\u2019s hands and desired body parts"
+            },
+            {
+              "pc_code": "3.8",
+              "description": "Carryout cleaning services for oneself, client and work area."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "CBT/COS/010/L2",
+      "title": "NAIL CARE SERVICES",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "understand Nail treatment.",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Define Nail treatment."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Explain the different types of nail treatment."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Identify tools used for nail treatment."
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Carry out nail treatment on a client for an identified nail condition."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Understand fixing false nails",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Define false nails"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Explain various false nails and how to care for them (acrylic, stick- on, gel\u2026\u2026etc)."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Prepare work area for fixing stick-on false nails on a client."
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Prepare client nails for fixing false stick-on nails."
+            },
+            {
+              "pc_code": "2.5",
+              "description": "Carry out a complete fixing of false nails on a client."
+            },
+            {
+              "pc_code": "2.6",
+              "description": "Carryout cleaning services for oneself, client, and work area after false nails service."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "know nail designs.",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Define the term nail design."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Identify the various nail designs."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Determine client\u2019s desired design."
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Identify the tools needed to carry out nail design on a client."
+            },
+            {
+              "pc_code": "3.5",
+              "description": "Carryout nail design preparation on: \u2022 Clean nails. \u2022 File to desired shape and length."
+            },
+            {
+              "pc_code": "3.6",
+              "description": "Perform Nail` design to client\u2019s desired choice."
+            },
+            {
+              "pc_code": "3.7",
+              "description": "Clean up oneself, client, and work area after nail design service."
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Know acrylic fixing.",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Define the term acrylic."
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Describe care of acrylic nails."
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Explain the types of acrylic nails."
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Identify tools and products for acrylic nails application."
+            },
+            {
+              "pc_code": "4.5",
+              "description": "Carryout tools and work area preparation prior to acrylic nails application."
+            },
+            {
+              "pc_code": "4.6",
+              "description": "Prepare oneself and client for acrylic nails application."
+            },
+            {
+              "pc_code": "4.7",
+              "description": "Carry out acrylic nail\u2019s application service on a client."
+            },
+            {
+              "pc_code": "4.8",
+              "description": "Carryout Clean up on oneself, client after acrylic nails application service."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

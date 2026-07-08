@@ -1,0 +1,837 @@
+{
+  "trade_name": "(NSQ) LIVESTOCK FARMING",
+  "units": [
+    {
+      "code": "AHP/LSF/001/L2",
+      "title": "Work safety in livestock farm environment",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Work safety in a livestock farm environment",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Explain safe work practices as obtained along the livestock production value chain"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Identify safety signs and symbols on livestock farms"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Provide correctly, the safety signs and symbols"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Demonstrate safe work practices and instructions on livestock farms"
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Operate in accordance with health and safety practices"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Comply with safety standards on livestock Farm.",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Identify work environment hazards"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "State types of hazards and risks associated with livestock farms"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "State safety standards on livestock farms and processing facilities"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Use safety tools, materials and equipment in livestock processing facilities"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Apply personal protective equipment (PPE) in livestock processing facilities",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Identify the types of PPEs required for livestock processing plants"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Select appropriate PPE for livestock processing plants"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Demonstrate the use of PPE"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Maintain PPE before or after use"
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Response to accidents/injury in livestock processing plants",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Locate first aid facility"
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Use basic dressing materials"
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Respond to supervisor given instructions"
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Report incidences of accident/injury to the appropriate supervisor"
+            }
+          ]
+        },
+        {
+          "lo_num": "5",
+          "description": "Apply safe work habit and clean Ref. Page No. work environment in livestock processing plants",
+          "performance_criteria": [
+            {
+              "pc_code": "5.1",
+              "description": "Use safe access and exit routes in the work environment"
+            },
+            {
+              "pc_code": "5.2",
+              "description": "Identify appropriate working tools, materials and equipment"
+            },
+            {
+              "pc_code": "5.3",
+              "description": "Use tools and equipment safely in accordance with the supervisor\u2019s instructions"
+            },
+            {
+              "pc_code": "5.4",
+              "description": "Return all tools, equipment and unused materials for appropriate storage"
+            },
+            {
+              "pc_code": "5.5",
+              "description": "Carry out general housekeeping of work environment"
+            },
+            {
+              "pc_code": "5.6",
+              "description": "Dispose all wastes appropriately to designated waste facilities"
+            }
+          ]
+        },
+        {
+          "lo_num": "6",
+          "description": "Comply with standards of lifting, loading/offloading and stacking of materials in livestock processing facilities Ref. Page No.",
+          "performance_criteria": [
+            {
+              "pc_code": "6.1",
+              "description": "Identify lifting and stacking techniques"
+            },
+            {
+              "pc_code": "6.2",
+              "description": "Demonstrate lifting techniques in loading and offloading of materials without assistance"
+            },
+            {
+              "pc_code": "6.3",
+              "description": "Demonstrate correct lifting and loading techniques with mechanical assistance"
+            },
+            {
+              "pc_code": "6.4",
+              "description": "Stack materials correctly"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "AHP/LSF/002/L2",
+      "title": "Effective communication in livestock Farm Environment",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Apply the use of a non- complex communication system in a work environment",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Use a verbal means to pass on necessary information"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Use non-verbal means to convey necessary information e.g. \uf0d8 body language, \uf0d8 signs"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Interpret symbols and signs appropriately"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Source for information on a livestock work environment",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Identify the source of information in the work environment"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Relate effectively with the source of information"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Use the different information flow systems in a work environment"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Use information gathered to avoid challenges in a work situation"
+            },
+            {
+              "pc_code": "2.5",
+              "description": "Report findings appropriately in accordance with laid down procedures in the work environment i.e. \uf0d8 Cards, \uf0d8 Flip Chart"
+            },
+            {
+              "pc_code": "2.6",
+              "description": "Use simple communication gadgets like \uf0d8 mobile phones \uf0d8 table phones"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Apply various means of communication in a livestock work environment",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Locate the various communication equipment in the work environment Use effectively the various communication equipment in a work environment"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Pass information effectively to the right personnel"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Obey instructions in line with ethics of the work environment"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "AHP/LSF/003/L2",
+      "title": "TEAM WORK IN LIVESTOCK FARM PRACTICE",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Positive working relationship with colleagues",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Identify the need for developing positive working relationship with colleagues"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Recognize the importance of relating with other people in a way that makes them feel valued and respected"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Assist team members when required."
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Report to the appropriate personnel when request for assistance fall outside area of responsibility."
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Communicate information to colleagues about individual work that may affect team work."
+            },
+            {
+              "pc_code": "2.1",
+              "description": "Recognize own role and responsibilities within a team"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Perform individual tasks in line with the team\u2019s rules and regulations."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Participate effectively in teamwork."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Compliance with policy of organisation",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Explain organizational code of conduct"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Work in line with organizational standard"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Use organizational code of practice"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Adhere strictly to instructions given by the Management"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "AHP/LSF/004/L2",
+      "title": "Ruminant production",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understand the history and development of cattle, sheep and goat production",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Describe the various terminologies used in animal husbandry."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "State the history and development of cattle, sheep and goat production."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Explain the socio-economic importance of cattle, sheep and goat production."
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Explain factors that affect animal husbandry"
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Identify relevant laws and regulations applicable to cattle, sheep and goat production"
+            },
+            {
+              "pc_code": "1.6",
+              "description": "Identify the various breeds of cattle, sheep and goats"
+            },
+            {
+              "pc_code": "1.7",
+              "description": "Use a map of Nigeria to identify major cattle, sheep and goats producing areas."
+            },
+            {
+              "pc_code": "1.8",
+              "description": "Use map of Nigeria to locate the different breeds of cattle, sheep and goat within those areas."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Understand the employment characteristics in cattle, sheep and goat production",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Outline the various career opportunities in cattle, sheep and goat production"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Explain the value chain of cattle, sheep and goat production"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "List the key role players in cattle, sheep and goat production"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Describe the main forms of marketing used in cattle, sheep and goat production"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Understand work condition on a ruminant farm (LO) Ref. Page No.",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Carry out procedures involving machines and equipment with full operational safety as indicated by the manufacturer"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Demonstrate restraining techniques in handling the animals"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Identify the equipment used for personal protection on the farm (PPE)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "AHP/LSF/005/L2",
+      "title": "Principles of calf, lamb and kid rearing",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understand the principles of calves, lambs and kids housing",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "State the types of housing required for calves, lambs and kids"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Identify the materials needed for the construction of each house"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Identify and use the rearing equipment needed within each house"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Understand the methods of feeding calves, lambs and kids",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Explain the nutrient requirements of calves, lambs and kids"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Carryout feeding of calves, lambs and kids"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "State the importance of colostrum in calf, lamb and kid feeding"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Understand the principles of calf, lamb and kid health management Ref. Page No.",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Identify the basic health challenges of calves, lambs and kids"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "List the steps to make calves, lambs and kids healthy"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Carry out the routine vaccination for calves, lambs and kids"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Identify the right age to wean calves, lambs and kids"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "AHP/LSF/006/L2",
+      "title": "Tools, equipment and materials in animal husbandry",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Identify equipment, tools used in animal husbandry in Nigeria",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Identify the various tools, equipment and materials in animal husbandry"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Use tools, equipment and materials in animal husbandry"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Explain the maintenance practices of different equipment and tools in animal husbandry."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Understand the equipment, maintenance and safety on livestock farm",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Demonstrate the use of tools, equipment and materials in animal husbandry"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Demonstrate the maintenance and storage of tools, equipment and materials in accordance with manufacturer\u2019s specifications."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Describe the safety precautions in the use of equipment and tools"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Identify some consumables used in livestock farm in Nigeria Ref. Page No.",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "List the consumables in animal husbandry"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Use different consumables in animal husbandry"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Carryout disposal of used/expired consumables in animal husbandry"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "Unit",
+      "title": "Nutrition in animal husbandry",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understand Ruminant nutrition",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Identify sources of concentrates and roughage"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Highlight the nutritional contents of concentrates and roughage"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "List the different pasture (grasses) and legumes (pasture) used in feeding livestock"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "highlight the nutritional composition of grasses and legumes used in feeding livestock"
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Identify varieties of feed ingredients used in formulating livestock feeds"
+            },
+            {
+              "pc_code": "1.6",
+              "description": "Identify the concentrates and roughages used in feeding livestock"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Understand the techniques in formulating livestock feeds using locally available ingredients",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Describe the process of formulating feeds for the fattening of Ruminants"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "List the tools and equipment required to compound livestock feeds"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Describe the equipment used in mixing livestock feeds"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Demonstrate the techniques in mixing livestock feeds"
+            },
+            {
+              "pc_code": "2.5",
+              "description": "Identify places where livestock feeds are compounded"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Understand the different methods of processing and storage of livestock feeds Ref. Page No.",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "State the benefits in processing livestock feeds in Nigeria"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Describe equipment used in livestock feed processing"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Explain methods of storage of feed raw materials and finished feeds products"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Carryout the procedure involved in grinding grains for livestock feeding"
+            },
+            {
+              "pc_code": "3.5",
+              "description": "Carryout the procedure involved in maintaining equipment for processing livestock feeds"
+            },
+            {
+              "pc_code": "3.6",
+              "description": "Demonstrate how to make hay"
+            },
+            {
+              "pc_code": "3.7",
+              "description": "Demonstrate how to store hay in a barn"
+            },
+            {
+              "pc_code": "3.8",
+              "description": "Differentiate between feed raw materials and finished products"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "AHP/LSF/008/L2",
+      "title": "Common diseases and parasites of livestock",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understand common livestock diseases",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Identify the classes of livestock diseases (fungal, viral, bacterial, parasitic etc)."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Identify signs of diseases in Ruminant farms"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Identify the early signs of ill-health in animals: \uf0d8 Off feed. \uf0d8 Self-isolating. \uf0d8 Rough coat etc."
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Identify diseased animals in the flock"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Understand disease management and prevention",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Explain administration of drugs on diseased livestock"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Identify the risk factors in treatment/handling of diseased animals"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Carryout the preventive and control measures for the various types of animal diseases"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Observe health and safety precautions in handling infected animals."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Understand common livestock parasites in animal husbandry",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Identify various livestock parasites"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Carryout deworming, delousing, deticking of Ruminants parasitic diseases"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Carryout prevention and control measures of major livestock diseases"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "Unit",
+      "title": "Animal welfare in Ruminant production",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Demonstrate understanding of preparing, maintaining and monitoring livestock accommodation",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Identify an ideal site for ruminant pen/house construction"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Identify an ideal ruminant pen/house design based on location"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Monitor the behaviour of individual animals for proper accommodation"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Carryout sanitation in Ruminant pen/house"
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Identify and report faults in a Ruminant pen/house"
+            },
+            {
+              "pc_code": "1.6",
+              "description": "Identify hazards in outdoor sites"
+            },
+            {
+              "pc_code": "1.7",
+              "description": "Carryout tethering for the treatment of animals against diseases"
+            },
+            {
+              "pc_code": "1.8",
+              "description": "Carryout dehorning to prevent injury to other animals"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Understand the proper way to feed and water ruminant animals",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Describe the standard methods of feeding ruminants (feedlot, open grazing, supplementation)"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Distinguish the normal feeding habits of the animals"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Carryout hygiene measures for feeding and watering of animals"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Carryout Feeding of right quantity of ration for animals in accordance with instructions"
+            },
+            {
+              "pc_code": "2.5",
+              "description": "Provide water to the animals from good sources"
+            },
+            {
+              "pc_code": "2.6",
+              "description": "Clean watering equipment before and after drinking and store equipment appropriately"
+            },
+            {
+              "pc_code": "2.7",
+              "description": "Dispose feed remnants appropriately"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Understand the proper way of restraining and transporting animals OBJECTIVE (LO)",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Identify tools and equipment for restraining of animals (rope snare, sedative,)"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Carryout restraining of the animal for transportation."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Carryout restraining of the animal for treatment."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "AHP/LSF/010/L2",
+      "title": "Biosecurity practices in livestock farming",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understand biosecurity practices in livestock farms",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Identify measures for biosecurity in livestock farms (fence, trapping net, foot baths, quarantine of newly introduced animals etc"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Set-up biosecurity measures at different points of the farm."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Carryout fumigation of transport vehicles, farm equipment and environment."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Understand biosecurity related to feeds and equipment",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Identify the source of contaminants in a feed mill (raw materials, equipment, finished feed etc)"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Carry out stacking and storage of raw materials, finished feed and equipment in the proper order."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Fumigate the feed mill environment"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Carryout receipt and issuance of raw materials and finished feed in accordance with FIFO"
+            },
+            {
+              "pc_code": "2.5",
+              "description": "Confirm the source and history of new stock of animals into the farm (health, means of transportation etc)"
+            },
+            {
+              "pc_code": "2.6",
+              "description": "Wear the appropriate PPEs"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Understand types of biosecurity",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Demonstrate the quarantine of new animals to the livestock farm"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Carryout isolation of sick animals"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Assist, administer routine vaccines to farm animals"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

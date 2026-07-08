@@ -1,0 +1,830 @@
+{
+  "trade_name": "(NSQ) REFRIGERATION AND AIR - CONDITIONING",
+  "units": [
+    {
+      "code": "CON/FW/001/L2",
+      "title": "Understand Teamwork in refrigeration and Air- conditioning work Environment",
+      "learning_outcomes": []
+    },
+    {
+      "code": "CON/RAC/002/L2",
+      "title": "Communicate effectively in refrigeration and Air- conditioning work Environment",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understand the use of non-complex communication systems in a work environment",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Identify various sources of information within refrigeration and air-conditioning Industry"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Recognize solving problems using Appropriate information"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Use signs, symbols and Recording information in the workplace"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Explain the importance of Communication in the work environment"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Know how to pass on relevant information",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Pass on information Effectively"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Recognize written Instructions"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Explain technical and graphics instructions"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Use Non-complex communication systems in a work environment",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Use non-verbal means to Pass on the necessary information"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Describe the use of non-verbal means to pass on necessary information e.g. body Language"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Interpret symbols and signs Appropriately"
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Identify sources of information in a work environment",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Locate the source of information in Organization and work environment"
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Relate appropriately with the source of Information"
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Use various information flow systems in Work environment"
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Use the information to avoid challenges in Work situation"
+            },
+            {
+              "pc_code": "4.5",
+              "description": "Describe procedures in reporting Findings in the work environment"
+            },
+            {
+              "pc_code": "4.6",
+              "description": "Identify the sources of information in Work environment"
+            }
+          ]
+        },
+        {
+          "lo_num": "5",
+          "description": "Use of Effective Communication Equipment in The Work Environment",
+          "performance_criteria": [
+            {
+              "pc_code": "5.1",
+              "description": "Select Communication equipment in Work environment in line with standards"
+            },
+            {
+              "pc_code": "5.2",
+              "description": "Use Communication equipment in the work environment in line with standards"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "CON/RAC/003/2",
+      "title": "Work Safely in Refrigeration and Air-Conditioning Work Environment",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "UNDERSTAND THE IMPORTANCE OF PERSONAL HEALTH AND HYGIENE",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Explain the importance of wearing clean, neat and appropriate Personal Protective Equipment in the work environment."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Always Work safely, complying with health and safety and other relevant regulations and guidelines. (Nigerian Factory Health and Safety Act of 2015)"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Get any cuts, grazes and wounds treated by an appropriate and qualified person, in the workplace"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Report illness and infection promptly to Appropriate persons"
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Explain the importance of maintaining good Personal hygiene"
+            },
+            {
+              "pc_code": "1.6",
+              "description": "Explain your responsibility under the (Nigerian Factory Health and Safety Act of 2015) as it relates to your occupation"
+            },
+            {
+              "pc_code": "1.7",
+              "description": "Explain how to follow general rules on Hygiene must be followed."
+            },
+            {
+              "pc_code": "1.8",
+              "description": "Identify correct Personal Protection Equipment such as Head Protection, Foot Protection, Face and Eye Protection, Hand and Body protection And regulatory protection."
+            },
+            {
+              "pc_code": "1.9",
+              "description": "Describe how to deal with cuts, grazes and wounds and why it is important to Do so."
+            },
+            {
+              "pc_code": "2.1",
+              "description": "Explain the importance of working in healthy, safe and secure workplace"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Explain how to report accidents or near accidents quickly and accurately to Appropriate personnel."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Describe Pollution control and disposal of waste with organic and inorganic Waste disposal methods"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "WORK IN SAFE AND SECURE WORK ENVIRONMENT",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Identify any hazards or potential hazards And act appropriately"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "State where information about health and safety in your workplace can be Obtained"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Describe the types of hazards in the workplace that may occur and how to Deal with them"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "State hazards that can be dealt with personally and those that should be Reported to appropriate personnel"
+            },
+            {
+              "pc_code": "3.5",
+              "description": "Identify risk elements in your work Environment"
+            },
+            {
+              "pc_code": "3.6",
+              "description": "Describe organizational security Procedures and why these are important"
+            },
+            {
+              "pc_code": "3.7",
+              "description": "Follow procedures for raising awareness of hazards"
+            },
+            {
+              "pc_code": "3.8",
+              "description": "Explain how to warn other people about Hazards."
+            },
+            {
+              "pc_code": "3.9",
+              "description": "Explain why accidents and near accidents should be reported and who they should be reported to"
+            },
+            {
+              "pc_code": "4.1",
+              "description": "Describe types of emergencies that may happen in the workplace and how to deal with them"
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Identify where to find first-aid equipment and who the registered first-Aider is in the workplace"
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Explain safe lifting and handling Techniques that should be followed"
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Explain other ways of working safely, Relevant to one position and why they are important"
+            },
+            {
+              "pc_code": "4.5",
+              "description": "Describe organizational emergency procedures"
+            },
+            {
+              "pc_code": "4.6",
+              "description": "State possible causes for fire in Work place."
+            },
+            {
+              "pc_code": "4.7",
+              "description": "Describe how to minimize the possibility of Fire in the workplace"
+            },
+            {
+              "pc_code": "4.8",
+              "description": "Explain where to find alarms and how to Set them off"
+            },
+            {
+              "pc_code": "4.9",
+              "description": "Explain why a fire should never be approached unless it is safe to"
+            },
+            {
+              "pc_code": "4.10",
+              "description": "Explain the importance of following fire Safety rules."
+            },
+            {
+              "pc_code": "4.11",
+              "description": "State the importance of reporting all usual or non- routine incidents to the appropriate Personnel"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "CON/RAC/004/L2",
+      "title": "Understand the Concept of Refrigeration and air-conditioning",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Distinguish Refrigeration systems",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Explain refrigeration cycle"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Enumerate types of refrigeration systems"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Discuss the Vapour compression system"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Explain the operation of vapour Compression system"
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Sketch the schematic diagram of the vapour Compression system"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Know Process of Air-conditioning",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Describe the Operations of the air- conditioning system."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Differentiate the types of air- conditioning systems"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Identify the working principles of domestic Air-Conditioning system"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Identify the major components of a domestic air-conditioning system"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Know Identification of Refrigerants.",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Explain Refrigerants."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Outline the types of refrigerants"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Distinguish the Colour coding of refrigerants"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Identify refrigerants according to Colour Coding"
+            },
+            {
+              "pc_code": "3.5",
+              "description": "Explain refrigerants according to the number of Codes"
+            },
+            {
+              "pc_code": "3.6",
+              "description": "Outline the properties of are refrigerant"
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Know the Career Opportunities in Refrigeration and",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Identify job opportunities in refrigeration and air-conditioning."
+            },
+            {
+              "pc_code": "4.2",
+              "description": "State the types of job specialties in Refrigeration and air-conditioning:"
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Explain the job specifications of the following specialities in refrigeration and air-conditioning: \u2022 Sales Engineer. \u2022 Application Engineer. \u2022 Maintenance Technician. \u2022 Sheet Metal Experts. \u2022 Installers. \u2022 Oxy-acetylene Welding expert. (Pipe Work expert)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "CON/RAC/005/L2",
+      "title": "Carry out Refrigerant Evacuation and Charging in R&AC",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understand Safety Procedures in Evacuation and Charging of Refrigerant",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Explain refrigerant evacuation and charging in R & AC"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Demonstrate safety procedures in evacuation and charging processes."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Identify the PPE used in evacuation and charging operations."
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Apply safety precautions involved in the evacuation and charging of refrigerant from the refrigeration system"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Identify tools and Equipment used in evacuation and Charging Work.",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Identify tools and equipment used for the evacuation of unwanted particles in Refrigeration system"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Describe the function of each"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "tool/equipment identified in Identify tools and equipment used in Charging refrigerator"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Identify refrigerant types according to Codes"
+            },
+            {
+              "pc_code": "2.5",
+              "description": "State the difference in the materials identified in 2.4"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Know the functions of Equipment used in Evacuation.",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Describe the functions of the vacuum pump"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Describe the functions of a manifold gauge"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Describe the correct setting of the vacuum Process"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Perform evacuation process in Refrigerator"
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Demonstrate the process of Charging a Refrigerator",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Describe the procedure of selecting refrigerant"
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Sele ct tools/e quipment to charge a refrigerator"
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Prepare to charge a refrigerator"
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Demonstrate the charging process in a refrigerator"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "CON/RAC/006/L2",
+      "title": "Diagnose and Repair of Electrical Faults in Refrigerator and Air-Conditioner.",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Know Diagnosing and Repairing Electrical Faults in R&AC",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Explain safety precautions to be followed when tracing and repairing electrical faults"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Explain the procedure to follow in selecting the right size of cable for a particular Air Conditioner."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Describe the safety precautions to be followed when replacing a faulty relay"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Identify a faulty capacitor"
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Perform the replacement of a faulty capacitor"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Use Tools/ Equipment used in R&AC Electrical works",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Use appropriate tools/instruments for measuring electric current and voltage."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Use appropriate tools/instruments for testing the relay coil."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Use the instrument in the continuity test of a cable."
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Use the equipment/instrument for cable joining and termination."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Troubleshooting of Electrical Faults in R&AC",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Repair the fault of the compressor fan not starting while the compressor unit is starting."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Repair the fault of the overload clicking sound and the compressor not starting"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Repair the fault of the overload starts relay and capacitors."
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Repair the power supply fault in the Air-conditioner unit, and cut- offs."
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Replace Faulty Electrical Parts in R&AC",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Carry out a replacement or mending of a faulty electric cord wire"
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Remove a faulty electrical part and replace it with a functioning one."
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Repair an overload relay and/or replace it with a new functioning one."
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Test-run the refrigerator after repairs"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "CON/RAC/007/L2",
+      "title": "Troubleshoot in Refrigeration & AC",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "DEMONSTRATE SAFETY IN TROUBLESHOOTING AND REPAIRS OF DOMESTIC REFRIGERATION",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Describe safety precautions involved in troubleshooting domestic refrigerators (refrigeration and air conditioning)"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Describe safety precautions involved in repairs of domestic refrigerator"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Apply safety precautions involved in repairs of domestic refrigerator"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "SELECT TOOLS AND EQUIPMENT FOR TROUBLESHOOTING IN DOMESTIC REFRIGERATORS.",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Identify tools and equipment used in carrying out fault diagnosis in Refrigerators"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Identify materials and tools for carrying Out repairs of faults in refrigerators"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Compare the advantages and disadvantages of different methods of fault finding in Refrigerators"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Illustrate the procedure of fault finding in domestic refrigerators"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "CARRY OUT POSSIBLE FAULTS DIAGNOSES IN DOMESTIC REFRIGERATORS.",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Trouble-shoot for electrical fault in Refrigerator"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Trouble-shoot for mechanical fault in Refrigerator"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Trouble-shoot for leakages in Refrigerator"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Identify causes of faults associated with Domestic refrigerator"
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "REPAIR OF ELECTRICAL FAULTS.",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Carry out repairs on overload"
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Carry out repairs on the faulty relay"
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Carry out repairs on faulty electric cord"
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Carryout repairs on faulty capacitor"
+            }
+          ]
+        },
+        {
+          "lo_num": "5",
+          "description": "KNOW THE PROCESS OF REPAIRS OF COMPRESSOR FAULTS",
+          "performance_criteria": [
+            {
+              "pc_code": "5.1",
+              "description": "Rectify compressor Noise"
+            },
+            {
+              "pc_code": "5.2",
+              "description": "Carry out repairs on low pumping of Compressor"
+            },
+            {
+              "pc_code": "5.3",
+              "description": "Carryout repairs on short-circuit fault In compressor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "CON/RAC/008/L2",
+      "title": "Carry out Oxy-Acetylene Welding in Refrigeration and Air-conditioning",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "UNDERSTAND SAFETY IN OXY- ACETYLENE WELDING OPERATIONS.",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Describe safety precautions involved in the movement and application of oxy-acetylene materials, e.g. hose, and Gauges"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Explain the safety precautions involved in the storage and application of acetylene Cylinder."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Identify hoses, and pressure gauges used with oxygen and acetylene lines"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "KNOW THE MATERIALS USED IN OXY-ACETYLENE WELDING OPERATIONS.",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Explain safety measures in gas mixing and Lighting of acetylene welding process"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Distinguish between oxygen and Acetylene cylinders"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Identify various parts and functions of nozzles."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "CARRY OUT OXY- ACETYLENE WELDING OPERATIONS",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Perform the process of releasing Acetylene from cylinder"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Perform the process of mixing acetylene With oxygen before the welding operation"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Apply the correct flame for welding Operation"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Perform the welding operation."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "CON/RAC/009/L2",
+      "title": "Install and Maintain Domestic air conditioner",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "UNDERSTAND SAFETY IN THE INSTALLATION OF A DOMESTIC AIR- CONDITIONING UNIT",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Explain the safety precautions involved in the installation of the indoor unit (Evaporator) of a domestic Air-conditioner."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Explain the safety precautions involved in installation of the outdoor unit (Condenser/ compressor) of the domestic Air-conditioner"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Describe the use of personal protective equipment during the installation of a domestic split air conditioning unit."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "KNOW TOOLS AND EQUIPMENT USED IN THE INSTALLATION OF A DOMESTIC AIR- CONDITIONING UNIT.",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "List tools and equipment used in the installation of domestic air-conditioning Unit"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Describe specific functions of the tools used in the installation of domestic air-- Conditioning unit"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Select appropriate tools and equipment for installation."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "KNOW TOOLS AND EQUIPMENT USED IN THE MAINTENANCE OF A DOMESTIC AIR- CONDITIONING UNIT",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Identify tools and equipment used in the maintenance of domestic air- Conditioning unit."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Describe specific functions of the tools used in the maintenance of domestic air- conditioning units."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Select appropriate tools and equipment for maintenance."
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "KNOW METHODS OF MAINTENANCE OF DOMESTIC SPLIT AIR- CONDITIONING UNIT.",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Describe methods employed in the maintenance of the outdoor section of the split air- conditioning unit."
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Describe methods employed in Maintenance of the indoor section of the split air- conditioning unit"
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Carry out maintenance using appropriate tools."
+            }
+          ]
+        },
+        {
+          "lo_num": "5",
+          "description": "KNOW THE PROCESS OF DRILLING HOLE FOR THE INSTALLATION OF DOMESTIC AC",
+          "performance_criteria": [
+            {
+              "pc_code": "5.1",
+              "description": "Select tools for drilling holes in the wall of the building before installation of air-conditioning unit"
+            },
+            {
+              "pc_code": "5.2",
+              "description": "Describe safety measures observed in drilling the hole for the air-conditioning unit Installation"
+            },
+            {
+              "pc_code": "5.3",
+              "description": "Carry out the drilling of holes for the installation of air- conditioning units"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

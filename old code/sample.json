@@ -1,0 +1,211 @@
+{
+  "trade_name": "AGRICULTURAL EQUIPMENT MACHANICS",
+  "units": [
+    {
+      "code": "",
+      "title": "Occupational Health, Safety & Environment II",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Identify personal personal protective equipment (wears). health and hygiene health, safety and environmental",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Wear clean, smart and appropriate"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Work safely at all times, complying with regulations and guidelines."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Get cuts, grazes and wounds treated by the appropriate personnel."
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Report any form of illness promptly to the appropriate personnel."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Demonstrate Safe working instructions. Practices and Instructions",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Identify safe work practice and"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Identify safety signs and symbols."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Use signs and symbols correctly."
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Carry out safe work practices and instructions."
+            },
+            {
+              "pc_code": "2.5",
+              "description": "Work in accordance with health and safety best practices."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Identify Safety Hazards and risks workplace hazards",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Identify work environment hazards."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Identify various ways to avoid common"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Identify methods to reduce the risk of work hazards."
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Demonstrate how to take appropriate actions during workplace. accident/injury",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Identify basic first aid equipment."
+            },
+            {
+              "pc_code": "4.2",
+              "description": "identify the benefits of first aid equipment"
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Maintain hygienic, safe and secure"
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Perform the use of safety equipment in a mobile application work environment."
+            }
+          ]
+        },
+        {
+          "lo_num": "5",
+          "description": "Demonstrate safe work environment. work habit and clean work",
+          "performance_criteria": [
+            {
+              "pc_code": "5.1",
+              "description": "Use safe access and exit routes in the"
+            },
+            {
+              "pc_code": "5.2",
+              "description": "Have knowledge of safe work habit and clean work environment."
+            },
+            {
+              "pc_code": "5.3",
+              "description": "Dispose all wastes appropriately to designated waste facilities"
+            }
+          ]
+        },
+        {
+          "lo_num": "6",
+          "description": "Prevent hazards in the work safety and environment in the workplace place can be obtained.",
+          "performance_criteria": [
+            {
+              "pc_code": "6.1",
+              "description": "Identify potential hazard(s)"
+            },
+            {
+              "pc_code": "6.2",
+              "description": "Identify where information about health,"
+            },
+            {
+              "pc_code": "6.3",
+              "description": "Identify the types of hazard in the workplace that may occur and how to deal with them."
+            },
+            {
+              "pc_code": "6.4",
+              "description": "Demonstrate hazards that can be dealt with personally and those that should be reported to the appropriate personnel."
+            },
+            {
+              "pc_code": "6.5",
+              "description": "Demonstrate how to warn other people about potential hazard(s) and why this is important."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "AGR/AEM/L2/04",
+      "title": "TEAM WORK",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Compliance with standard and structure. organizational policies",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Work In line with organizational"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Use organizational code of practice."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Apply organizational code of conduct."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "within the team. Perform responsibilities within team",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Recognize own role and responsibilities"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Perform individual tasks in line with the team rules and regulations."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Participate effectively in teamwork."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "them feel valued and respected. Develop working relationship with colleagues",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Identify the need for developing positive relationship with colleagues."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Recognize the importance of relating with other people in a way that makes"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Assist team members when required."
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Report to the appropriate personnel when request/requesting for assistance falls outside area of responsibility."
+            },
+            {
+              "pc_code": "3.5",
+              "description": "Communicate information to colleagues about own work that might affect others."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

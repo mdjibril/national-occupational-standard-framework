@@ -1,0 +1,624 @@
+{
+  "trade_name": "NATIONAL BOARD FOR TECHNICAL EDUCATION TYRE AND WHEEL SERVICES",
+  "units": [
+    {
+      "code": "AUT/TWS/001/L2",
+      "title": "HEALTH, SAFETY AND THE ENVIRONMENT",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Observe Personal health and hygiene LO 1: Observe",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Wear appropriate Personal Protective Equipment.(PPE)"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Explain the function of the PPE. Such as Head, Foot, Face, eye, Hand and Body protection."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Treat cuts, grazes and wounds"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Explain procedure for reporting illness and infection to the appropriate persons."
+            },
+            {
+              "pc_code": "1.5",
+              "description": "State own responsibility under the health and safety Act as it relates to own occupation."
+            },
+            {
+              "pc_code": "1.6",
+              "description": "State general rules on hygiene that must be followed."
+            },
+            {
+              "pc_code": "1.7",
+              "description": "State the importance of maintaining good personal Hygiene."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Observe Hygiene, safe and hazard free workplace. LO 2: Observe Hygiene, Ref. Page No. able to: Wear appropriate Persona Protective Equipment.(PPE) Explain the function of the PPE. Such as Head, Foot, Face, eye, Hand and Body protection Explain procedure for reporting illness and infection to the appropriate persons. State own responsibility under the health and safety Act as it relates to own occupation. State general rules on hygiene that must be followed. State the importance of maintaining good personal Hygiene. Report any accidents or nea accidents to the appropriate personnel. Follow health, hygiene and safely procedures during work Practice emergency procedures (LO)",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "State the importance of working in a healthy, safe and hygienic workplace"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Report any accidents or near accidents to the appropriate personnel."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Follow health, hygiene and safely procedures during work"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Practice emergency procedures during work"
+            },
+            {
+              "pc_code": "2.5",
+              "description": "Follow organizational security Procedures"
+            },
+            {
+              "pc_code": "2.6",
+              "description": "Dispose waste in accordance with organic and inorganic waste disposal methods."
+            },
+            {
+              "pc_code": "2.7",
+              "description": "Follow sound and noise control and protection methods."
+            },
+            {
+              "pc_code": "2.8",
+              "description": "Identify any hazards or potential hazards in the workshop"
+            },
+            {
+              "pc_code": "2.9",
+              "description": "Describe the types of hazards in the workplace that may occur and how to deal with them"
+            },
+            {
+              "pc_code": "2.10",
+              "description": "Report hazards or potential hazards to the appropriate personnel"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Carry out effective housekeeping practices Ref. Page No. able to: Follow organizational security Procedures Dispose waste in accordance with organic and inorganic waste disposal methods Follow sound and noise control and protection methods. Identify any hazards or potential hazards in the workshop Describe the types of hazards in the workplace that may occur and how to deal with them Report hazards or potential hazards to the appropriate personnel",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Use cleaning equipment appropriately"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Use utilities and appropriate consumables, avoiding waste"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Perform housekeeping activities safely and in a way which minimizes inconvenience to customers and staff"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Clean the work area to be free from debris and waste materials"
+            },
+            {
+              "pc_code": "3.5",
+              "description": "Dispose used cleaning agents, waste materials and debris to comply with legal and workplace requirements"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Carry out effective housekeeping practices Use cleaning equipment appropriately Use utilities and appropriate consumables, avoiding waste Perform housekeeping activities safely and in a way which minimizes inconvenience to customers and staff Clean the work area to be free from debris and waste materials Dispose used cleaning agents waste materials and debris to comply with legal and workplace requirements (LO)",
+          "performance_criteria": []
+        },
+        {
+          "lo_num": "4",
+          "description": "Deal with dangers in work environment Ref. Page No. able to:",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Describe organizational emergencies procedures, in particular fire, and how these should be followed"
+            },
+            {
+              "pc_code": "4.2",
+              "description": "State the possible causes for fire in the workplace"
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Describe how to minimize the possibility of fire in the workplace"
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Carry out safe working practices whilst working with equipment, materials and products"
+            },
+            {
+              "pc_code": "4.5",
+              "description": "Identify the responsible persons for health and safety in their relevant workplace"
+            },
+            {
+              "pc_code": "4.6",
+              "description": "Report health and safety risks encountered while work"
+            },
+            {
+              "pc_code": "4.7",
+              "description": "Locate the emergency exit"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "AUT/TWS/002/L2",
+      "title": "COMMUNICATION AND INTERPERSONAL SKILLS",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Demonstrate non-complex communication system in a work environment LO 1: Demonstrate",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Use a simple verbal means to deliver information"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Use non-verbal means to deliver on information e.g. body language"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Interpret symbols and signs appropriately"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Apply Source of information in a work Environment. Lo 2: Apply Source of",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Locate the source of information in an organization and work environment."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Use the various information flow systems in a work environment"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Report findings in accordance to procedure in a work environment"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Use information to avoid challenges in a work situation"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Use Communication means in a Work Environment. Lo 3: Use Ref. Page No. able to: Use a simple verbal means to deliver information Use non-verbal means to deliver on information e.g. body language Interpret symbols and signs appropriately Use the various information flow systems in a work environment Report findings in accordance to procedure in a work environment Use the various communication equipment in a work environment. Deliver information effectively to the right personnel Deliver information effectively using Symbols, signs and codes.",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Locate the various communication equipment in the work environment"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Use the various communication equipment in a work environment."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Deliver information effectively to the right personnel"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Deliver information effectively using Symbols, signs and codes."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "AUT/TWS/003/L2",
+      "title": "TEAM WORK",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Maintain Positive working relationship with colleagues LO 1: Maintain",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Identify the factors influencing positive working relationship"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Explain the value of respect in"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Assist team members when required."
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Explain the procedures for reportin request falling outside area of responsibility."
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Communicate information to colleagues about own work that might affect others"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Understand team work Lo 2: Understand",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Recognize own role and responsibilities within the team."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Perform individual tasks in line with the team rules and regulations."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Participate effectively in teamwork."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Comply with organisational policies Lo 3: Comply with Ref. Page No. able to: relationship with colleagues OUTCOME (LO)",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Work In line with organizational standard and structure."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Explain organizational code of conduct."
+            },
+            {
+              "pc_code": "4.1",
+              "description": "Recognize the sequence of various team activities"
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Understand team responsibilities Lo 4: Understand Ref. Page No. able to: Differentiate between various time frames of each team activity",
+          "performance_criteria": [
+            {
+              "pc_code": "4.2",
+              "description": "Differentiate between various time frames of each team activity"
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Deliver quality output as a team"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "AUT/TWS/004/L2",
+      "title": "VEHICLE TYRES AND WHEELS CARE",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Describe tyre composition and features",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Identify the following compositions of tyre: \u2022 Rubber \u2022 Steel \u2022 Fabrics"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Describe the following basic features of different tyre designs: \u2022 Bias Ply Tyre Design \u2022 Bias Belted Tyre Design \u2022 Radial Ply Tyre Design"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Describe the following internal structures of a tyre: \u2022 Cap plies \u2022 Body plies \u2022 Inner Liner \u2022 Steel Belt \u2022 Edge Cover \u2022 Bead Bundle"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Inflate and Deflate Tyres LEARNING OUTCOME (LO) to: Ref. Page No.",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Explain the following tyre gauges: \u2022 Stick Tyre Gauge \u2022 Dial Tyre Gauge \u2022 Digital Tyre Guage"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Differentiate between the gauges listed in 2.1 above"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Use the gauges listed in 2.1 above"
+            }
+          ]
+        },
+        {
+          "lo_num": "1",
+          "description": "Describe tyre composition and features Identify the following compositions of tyre: Rubber Steel Fabrics Describe the following basic features of different tyre designs: Bias Ply Tyre Design Bias Belted Tyre Design Radial Ply Tyre Design Describe the following internal structures of a tyre Body plies Inner Line Steel Belt Edge Cove Bead Bundle Differentiate between the gauges listed in 2.1 above",
+          "performance_criteria": [
+            {
+              "pc_code": "2.4",
+              "description": "Explain the effect of improper inflation pressure in the following: \u2022 Under Inflation \u2022 Over Inflation"
+            },
+            {
+              "pc_code": "2.5",
+              "description": "Deflate vehicle tyre"
+            },
+            {
+              "pc_code": "2.6",
+              "description": "Inflate vehicle tyre to specified pressure"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Assemble Wheel Rim LEARNING OUTCOME (LO) to: Ref. Page No. Explain the effect of imprope inflation pressure in the following: Under Inflation Over Inflation Inflate vehicle tyre to specified Differentiate between the following wheels: Artillery Wheel Steel-disc Wheel Wire. Whee Identify the following parts in a wheel assembly: The Wheel Hub The Disc The Wheel Rim The Hub Cap/ Wheel Cover (For Steel-Disc Wheels) The Lug Nuts/ Lug Bolt The Spokes Apply the following wheel fastening devices Wheel Nuts or Lug Nuts Wheel Studs Wheel Bolts or Lug Bolts",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Differentiate between the following wheels: \u2022 Artillery Wheel \u2022 Steel-disc Wheel \u2022 Wire. Wheel"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Identify the following parts in a wheel assembly: \u2022 The Wheel Hub \u2022 The Disc \u2022 The Wheel Rim \u2022 The Hub Cap/ Wheel Cover (For Steel-Disc Wheels) \u2022 The Lug Nuts/ Lug Bolt \u2022 The Spokes"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Apply the following wheel fastening devices: \u2022 Wheel Nuts or Lug Nuts \u2022 Wheel Studs \u2022 Wheel Bolts or Lug Bolts"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Carry out wheel assembling"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "AUT/TWS/007/L1",
+      "title": "COMPUTER SKILLS IN AUTOMOTIVE TYRE AND WHEEL SERVICES",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Classify Computers",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Describe computers according t usage, type and size."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Differentiate between analogue, digital and hybrid computers."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Carryout a simple task using a computer. \u2022 Create a document \u2022 Save a File"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Describe Computer Hardware and Software Elements",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Explain the functions of various hardware and software components of the computer"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Differentiate between operating . system and application software"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Select application software for a particular operation."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Operate computers in modern tyre and wheels workshop. Ref. Page No. Create a document Save a File List two tyres and wheels service application software",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Explain the roles of computer in modern motor vehicles."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "List two tyres and wheels service application software"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Operate the application software listed in 3.2 above"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "State the benefits of computer in a tyre and wheel services workshop."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "AUT/TWS/006/L2",
+      "title": "MOTOR VEHICLE WHEEL ALIGNMENT",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understand pre alignment Operations",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "State reasons for alignment."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Describe the function of the following in the wheel alignment machine: \u2022 Castor \u2022 Camber \u2022 (King Pin Inclination/Steering Angle Inclination) KPI/SAI"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Check the following: \u2022 Tore in \u2022 Tore out"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Perform Alignment Pre-Checks",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "State the purpose of pre-alignment checks."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "List the step-by-step procedures for pre-alignment checks."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Carry out pre alignment checks."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Perform Wheel Alignment Operation",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Select the appropriate tools and equipment for wheel alignment"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Carry out wheel alignment operations"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Check final adjustment and settings are within tolerance"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Complete all wheel alignment operations within the agreed timescale."
+            },
+            {
+              "pc_code": "3.5",
+              "description": "Make clear and suitable recommendations for any further action to the relevant authorities"
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Perform Alignment Post Checks Ref. Page No. Tore in Tore out OUTCOME (LO) able to:",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "State the purpose of post-alignment checks."
+            },
+            {
+              "pc_code": "4.2",
+              "description": "List the step-by-step procedures for post-alignment checks."
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Carry out post wheel alignment checks to ensure conformity to specifications."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "AUT/TWS/007/L2",
+      "title": "MOTOR VEHICLE WHEEL BALANCING",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understand Wheel Balancing",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Differentiate between wheel alignment and balancing."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Explain the following: \u2022 Dynamic unbalance \u2022 Static unbalance \u2022 Toe-in \u2022 Toe-out, etc."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Explain the effects of unbalanced wheel while driving a given motor vehicle"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Perform Pre-balancing checks",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Explain the purpose of pre-balancing checks"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Enumerate the step-by-step procedures for pre-balancing checks"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Carry out wheel balancing pre- checks operations for the following; \u2022 the correct technical data \u2022 the manufacturer\u2019s instructions \u2022 workplace procedure \u2022 Health, Safety and Environment requirements"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Perform Wheel balancing operation",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Explain the importance of wheel balancing Examine a given motor vehicle (while driving) to ascertain the wheel balancing status."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Carry out wheel balancing operations for the following: \u2022 the correct technical data \u2022 the manufacturer\u2019s instructions \u2022 workplace procedure \u2022 Health, Safety and Environment requirements."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Check final adjustment and settings are within the tolerance range"
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Ref. Page No. the correct technical data the manufacturer\u2019s instructions workplace procedure Health, Safety and Environment requirements Carry out wheel balancing operations for the following: OUTCOME (LO) able to: Perform Post- balancing checks",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Explain the purpose of post- balancing checks."
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Enumerate the step-by-step procedures for post-balancing checks."
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Carry out post wheel balancing checks to ensure conformity to specifications."
+            },
+            {
+              "pc_code": "4.2",
+              "description": ""
+            },
+            {
+              "pc_code": "4.3",
+              "description": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

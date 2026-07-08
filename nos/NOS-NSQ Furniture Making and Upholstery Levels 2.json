@@ -1,0 +1,189 @@
+{
+  "trade_name": "FURNITURE MAKING",
+  "units": [
+    {
+      "code": "CON/FWK/009/L2",
+      "title": "Vocational Education and Training in Furniture Making",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understand skills acquisition and its relevance to individual and the economy",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Define skills acquisition"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "State the contribution of skills acquisition to the economy"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Explain the prospect of skill acquisition to the individual"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Understand the Physical and Mental requirements for acquiring skills in furniture making",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "List the Physical requirements for acquiring skills in furniture making"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Discuss the Mental requirements of acquiring skills in furniture making"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Apply the attributes and qualities of the requirements of acquiring skills in furniture making"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Understand the concept of furniture making",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Discuss furniture making as a profession"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Discuss the importance of furniture making to the Nigerian Economy"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Explain the various uses of furniture items"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "CON/FWK/010/L2",
+      "title": "Basic ICT Usage",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Know menu of a computer",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Identify the icons on the menu of a computer"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "List the icons on the menu of a computer"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Locate the position of the icons on the menu of a computer"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Know how to observe safety regulations when using a computer",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "State the safety rules to be observed in the use and handling of a computer"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Adhere to safety in the use and handling of a computer"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Recognize unsafe acts in using a computer"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "State the importance of safeguarding the information in a computer"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Understand computer application",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "State the functions of the icons in the menu of a computer"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Operate the icons in the menu of a computer"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Describe how to download pictures using a computer"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Explain how to place an advertisement using a computer"
+            },
+            {
+              "pc_code": "3.5",
+              "description": "State the procedure for opening an e-mail account"
+            },
+            {
+              "pc_code": "3.6",
+              "description": "Describe how to connect to the internet"
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Using Cell Phone in Bank Transaction",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "State the procedure for opening a bank account with a cell phone"
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Explain the procedure for money transfer using a cell phone"
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Check Bank Account"
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Perform Internet Banking"
+            },
+            {
+              "pc_code": "4.5",
+              "description": "Pay utility bills and other services"
+            }
+          ]
+        },
+        {
+          "lo_num": "5",
+          "description": "Know the various applications of a cell phone.",
+          "performance_criteria": [
+            {
+              "pc_code": "5.3",
+              "description": "Snap pictures of projects using a cell phone"
+            },
+            {
+              "pc_code": "5.4",
+              "description": "Place an advert using a cell phone"
+            },
+            {
+              "pc_code": "5.5",
+              "description": "Open and use an E-mail address using a cell phone"
+            },
+            {
+              "pc_code": "5.6",
+              "description": "Connect to the internet and download information using a cell phone"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,509 @@
+{
+  "trade_name": "// PAINTING AND DECORATION // LEVEL 1 - 3",
+  "units": [
+    {
+      "code": "CON/PD004/L2",
+      "title": "Unknown Title",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Handle Painting and Decorating materials",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Identify methods of safe handling, storage, and stacking of painting and decorating materials."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Select materials to be handled e.g. putty, paint, primer, paint thinner, turpentine, wallpaper, border, wall decals, stencil, Sandpaper, joint compound, spackling (fillers), caulk (sealers) and masking tapes"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Carry out handling of materials in accordance with specifications"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Store Painting and Decorating materials",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Identify methods of safe storage and stacking of painting and decorating materials."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Select materials to be stored"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Carry out storage of materials in accordance with specifications"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Disposal of damaged materials",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Separate damaged materials"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Arrange materials to be safely disposed"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Dispose materials in accordance with HSE guidelines"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "CON/PD005/L2",
+      "title": "Unknown Title",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Use tools and materials for surface preparation.",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Select tools and equipment for surfaces preparation, e.g. scrappers, hacking knives, paint stripper, belt sanders, circular saw, concrete grinders, and angle grinders"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Select materials for the preparation of surfaces for painting and decorative works"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Use tools and materials to carryout surface preparation"
+            },
+            {
+              "pc_code": "2.1",
+              "description": "Describe surface preparation."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Demonstrate methods of surface preparation. Manual e.g. scraping, sandpapering, wire brushing, hand sanding, spackling and patching. Mechanical e.g. repairing and using body filler, cleaning and sanding."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Use various techniques for surface preparation e.g. grinding, scrapping, wire brushing, sandpapering and spackling"
+            },
+            {
+              "pc_code": "2.5",
+              "description": "Maintain surface preparation tools and equipment e.g. brushes, rollers, spray guns, caulk gun and adhesive spreaders."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Priming, Sealing and Cleaning of Surfaces",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Explain the importance of primers and sealers in promoting adhesion and preventing stains or moisture damage."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Identify the tools and materials for priming and sealing of surfaces"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Select and apply the correct type of primer and sealant for different surfaces."
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Demonstrate techniques for cleaning surfaces such as; washing, degreasing, and mold removal."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "CON/PD006/L2",
+      "title": "Erection and dismantling of scaffolds, work platforms and ladders at the workplace",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Select Appropriate Assessment Equipment for Painting and Decoration Tasks",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Assess the height and nature of the work to choose suitable access equipment."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Identify stability and weight-bearing requirements for safe operation."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Verify that scaffolds, ladders, and platforms meet industry and safety standards"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Erect scaffold, Work platforms and ladders at work place",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Determine the types and quantity of materials required for erecting scaffold, work platforms and ladders"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Use appropriate tools and equipment for erecting scaffolds, work platforms and ladders in accordance with specification"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Select and move scaffolds, work platforms and ladders, to and from site"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Recognize the hazards in erection of scaffolds, work platforms and ladders"
+            },
+            {
+              "pc_code": "2.5",
+              "description": "Identify risks in the erection of scaffolds, work platforms and ladders."
+            },
+            {
+              "pc_code": "2.6",
+              "description": "Assemble appropriate base for the erection of scaffolds, work platforms and ladders"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Dismantle scaffold, work platform and ladders at the workplace",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Select appropriate tools and equipment for dismantling scaffolding, work platforms and ladders"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Identify and describe risks in dismantling of scaffold, work platforms and ladders"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Recognize the hazards in dismantling of scaffolds, work platforms and ladders"
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Respond to Hazards and Emergency Situations",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Recognize risks such as overloading, unstable surfaces, and poor weather conditions."
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Implement corrective actions to prevent falls and equipment failures"
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Follow emergency response procedures in case of accidents or structural failures"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "CON/PD007/L2",
+      "title": "Application of Surface Finishing",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Apply different types of painting on surfaces",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Identify types of painting e.g. Gloss finish, texcote finish, acrylic paint, Emulsion finish, enamel finish, satin finish, matt finish and epoxy finish."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Select required painting tools and equipment for carrying out painting work"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Demonstrate the skill of mixing and thinning of paint"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Demonstrate the use of appropriate pigments, admixtures and additives"
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Apply paints on surfaces using methods such as; brush painting, spray painting, dipping process, flow coating application wet on wet application etc. rolling, sponging, and stamping"
+            },
+            {
+              "pc_code": "1.6",
+              "description": "Apply coatings to internal and external surfaces"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Know Classification of paints",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Describe the different types of paints, their base types and functions, such as emulsion, silk, gloss, stucco, cellulose, etc."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Identify properties of paint such as color, finish, viscosity, density, binding, solvency, pigmentation, adhesion, durability, washability, toxicity and their relevance in painting"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Demonstrate the various color mixing and matching in paint and painting. E.g. White + Black =Gray, Yellow + Blue = Green etc."
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Determine the mix proportions of paints to be used."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Know Finishing and final details operations.",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Identify various finishing details, such as; angle details, edges details, retouching and corner details."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Select the appropriate tools necessary to carry out finishing details"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Demonstrate various methods of final details operation"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "CON/PD008/L3",
+      "title": "Unknown Title",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Measure surfaces for painting and Decorating works",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Identify areas to be painted and decorated."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Recognize units of measurements for different surfaces, e.g. square meter, cubic meter, meter, centimeter, millimeter, feet and inches"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Accurately measure the surfaces to be covered, e.g. rectangle, triangle, circular, cubical and cylindrical."
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Use numbers, graphs and charts to express measurements."
+            },
+            {
+              "pc_code": "2.1",
+              "description": "Recognize the coverage areas For various painting and decorating materials."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Determine the number of coats to be applied to the surfaces."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Use unit rate and cost for painting and decorating materials periodically."
+            },
+            {
+              "pc_code": "2.5",
+              "description": "Calculate the cost of materials to be used"
+            },
+            {
+              "pc_code": "3.1",
+              "description": "Carryout work Break down into sub units."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Identify from method statements, time required for each work unit"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Complete given task within specified time NSQ level: 2 Credit value: 4 Guided learning hours: 40 Page number"
+            }
+          ]
+        },
+        {
+          "lo_num": "1",
+          "description": "Use of tools for wall paper and wall panels.",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Select tools for use in wall paper and wall panels. e.g. measuring tapes, rollers, hand trowel, brushes, trimming knife, markers, drill and bits, level chalk line, work light etc."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Select the required tools for wall paper and wall panels installation works."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Demonstrate the use of appropriate tools for wall paper and wall panel installation works"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Prepare surfaces for wall paper and wall panels",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Identify surfaces to be covered with wall paper and/or wall panels"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Determine spots that requires patching or sanding that can affect the smoothness of surfaces."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Demonstrate surface preparation in wall paper and wall panel installations."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Install various types of wall paper and wall panels.",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Identify types of wall paper and wall panels such as; vinyl, paper based, fiber based, smart wall paper, and specialty wall paper. Wood, metal, PVC, flat, patterned, acoustic, textured, insulated, LED light 3D & 4d panels"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Match the required patterns of wall papers and panels, for installation."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Identify binders such as; glue, adhesives, epoxy and polyurethane."
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Select the appropriate binders for various wall papers and wall panels."
+            },
+            {
+              "pc_code": "3.5",
+              "description": "Install wall papers and wall panels, ensuring alignment and smoothness."
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Correct work errors. NSQ Credit Guided learning hours:",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "List errors associated with wall papers and wall panels installation such as; measuring error, material defects etc."
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Recognize causes of errors in wall papers and wall panels installation e.g. Lack of planning, lack of training, lack of experience, poor material quality, lack of surface preparation, lack of measurement, environmental factors and rushed process."
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Carry out the required corrective measures such as; alignment and smoothness."
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Confirm the corrections level: 2 value: 4 40 Page number"
+            }
+          ]
+        },
+        {
+          "lo_num": "1",
+          "description": "Select tools for POP Casting and Screeding.",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Identify tools for use in POP casting and screeding e.g. scrappers, measuring tape, spirit levels, plumb bob, line string, casting mold, hand saw, trowels, pincers, putty knives, screed board, brushes, buckets, trowel, mixer, level, straight edge and belt sanders etc."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Select appropriate tools for use in POP casting and screeding."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Demonstrate the use of appropriate tools for POP casting and screeding."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Select materials for POP Casting and screeding",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Identify materials for POP casting and screeding; e.g. POP cement, POP board, yarn, water, soap, oil, binders, binding wire, pliers, pincers and nails."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Select the required materials for POP casting and Screeding."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Determine the required mix proportion of materials to be used for POP Casting and screeding."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Cast POP panels, cornices and screed surfaces.",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Recognize required sizes and patterns of POP panels and cornices"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Cast POP panels and cornices in accordance with specification."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Screed surfaces such as; walls and ceilings in accordance with specifications and set guidelines of HSE."
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Correct work errors.",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "List the errors associated with POP cast panels and screeding."
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Explain causes of error in POP and screeding."
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Carry out alignment and smoothness."
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Confirm all the corrections"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1501 @@
+{
+  "trade_name": "NATIONAL OCCUPATIONAL STANDARDS(NOS) LEATHER WORKS",
+  "units": [
+    {
+      "code": "FLW/LWK/001/L2",
+      "title": "Occupational health and Safety in leather work environment",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Apply Basic Knowledge of Occupational and Environmental Health and Safety in Leather Works",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Explain occupational health and safety"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Identify health and safety risks in Leather work"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Identify environmental hazard risks"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Explain the effect of environmental hazards"
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Use environmental protection methods"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Observe Personal Safety in the Work Environment",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Recognise safety rules in the workplace"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Select personal protective equipment (PPEs)"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Use appropriate personal protective equipment (PPEs) correctly"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Use clean working surrounding/environment"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Demonstrate Knowledge of First Aid Application",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Identify first aid materials"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Select first aid materials"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Use first aid methods"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Demonstrate first aid procedures for defined situations"
+            },
+            {
+              "pc_code": "4.1",
+              "description": "Wear clean, smart and Appropriate Personal Protective Equipment (PPEs)"
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Work safely at all times complying with health and safety and other relevant regulations and guidelines Get any cuts, grazes and Wounds given immediate treatment by the appropriate person(s) in the work environment."
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Report illness and infections Promptly to the appropriate person(s)."
+            },
+            {
+              "pc_code": "4.5",
+              "description": "State own responsibility under the Health and Safety Act as it relates to own occupation."
+            },
+            {
+              "pc_code": "4.6",
+              "description": "State general rules on hygiene that must be followed in the work environment."
+            },
+            {
+              "pc_code": "4.7",
+              "description": "State Personal Protective Equipment (PPEs) such as Head Protection, Foot Protection, Face and Eye Protection, Hand and Body Protection, etc."
+            },
+            {
+              "pc_code": "4.8",
+              "description": "State the importance of Maintaining good personal hygiene."
+            },
+            {
+              "pc_code": "4.9",
+              "description": "Describe how to deal with cuts, grazes and wounds by a First Aider."
+            },
+            {
+              "pc_code": "4.10",
+              "description": "Explain why it is important to deal with cuts, grazes and wounds promptly in the work environment."
+            },
+            {
+              "pc_code": "5.1",
+              "description": "State the importance of working in a healthy, safe and hygienic workplace."
+            },
+            {
+              "pc_code": "5.2",
+              "description": "Report any accident or near accidents quickly and Accurately to the proper person(s)."
+            },
+            {
+              "pc_code": "5.3",
+              "description": "Follow health, hygienic and safety procedures in doing any work."
+            },
+            {
+              "pc_code": "5.4",
+              "description": "Practice emergency procedures during work."
+            },
+            {
+              "pc_code": "5.5",
+              "description": "Follow organizational security procedures in doing work."
+            },
+            {
+              "pc_code": "5.7",
+              "description": "Ensure the proper pollution Control of organic and inorganic waste are strictly followed"
+            },
+            {
+              "pc_code": "5.8",
+              "description": "Follow sound and noise Control and protection Methods in the work environment."
+            },
+            {
+              "pc_code": "5.9",
+              "description": "State where information About health and safety procedures and regulations can be obtained in the work environment"
+            },
+            {
+              "pc_code": "5.10",
+              "description": "Ensure that identified hazards or potential hazards are handled by appropriate personnel."
+            },
+            {
+              "pc_code": "5.11",
+              "description": "Identify any hazards or potential hazards"
+            },
+            {
+              "pc_code": "5.12",
+              "description": "Describe types of hazards in the workplace that may occur"
+            },
+            {
+              "pc_code": "5.13",
+              "description": "Describe how types of Hazards occur in the workplace can be dealt with"
+            },
+            {
+              "pc_code": "5.14",
+              "description": "State the hazards that can be dealt with personally"
+            },
+            {
+              "pc_code": "5.15",
+              "description": "State the hazards that should be reported to someone else for treatment and/ or seeking for external solution."
+            }
+          ]
+        },
+        {
+          "lo_num": "6",
+          "description": "Work Safely in Hygienic and Secure Workplace",
+          "performance_criteria": [
+            {
+              "pc_code": "6.1",
+              "description": "State how to warn other People about hazards and why this is important."
+            },
+            {
+              "pc_code": "6.2",
+              "description": "State why accidents and near accidents should be reported And who they should be reported to."
+            },
+            {
+              "pc_code": "6.3",
+              "description": "Describe the types of emergencies that may happen in the workplace."
+            },
+            {
+              "pc_code": "6.4",
+              "description": "Describe how to deal with types of emergencies in the workplace."
+            },
+            {
+              "pc_code": "6.5",
+              "description": "State where to find the first- aid equipment in the work environment."
+            },
+            {
+              "pc_code": "6.6",
+              "description": "Identify who is a registered First-aider in the work place."
+            },
+            {
+              "pc_code": "6.7",
+              "description": "State safe lifting and handling techniques that should be followed in the work place."
+            },
+            {
+              "pc_code": "6.8",
+              "description": "State other ways of working safely relevant to own position in the work place and why they are important."
+            }
+          ]
+        },
+        {
+          "lo_num": "7",
+          "description": "Demonstrate Understanding of Handling Fire Emergencies in the Workplace",
+          "performance_criteria": [
+            {
+              "pc_code": "7.1",
+              "description": "Describe the organizational emergency procedures, with particular reference to fire outbreak"
+            },
+            {
+              "pc_code": "7.2",
+              "description": "Describe how own organizational emergency procedures should be followed e.g. in the event of fire outbreak."
+            },
+            {
+              "pc_code": "7.3",
+              "description": "State the possible causes of fire out-break in the work place."
+            },
+            {
+              "pc_code": "7.4",
+              "description": "Describe how to minimize the possibility of fire out-break in the workplace."
+            },
+            {
+              "pc_code": "7.5",
+              "description": "State where to find the alarms (e.g. fire alarms) and how to set them off."
+            },
+            {
+              "pc_code": "7.6",
+              "description": "State why a fire should never be approached unless it is safe."
+            },
+            {
+              "pc_code": "7.7",
+              "description": "State the importance of following the fire safety laws."
+            },
+            {
+              "pc_code": "7.8",
+              "description": "Describe organizational Security procedures for dangers e.g fire outbreak"
+            },
+            {
+              "pc_code": "7.9",
+              "description": "State why organizational Security procedures for dangers e.g fire outbreak is important."
+            },
+            {
+              "pc_code": "7.10",
+              "description": "State the importance of Reporting all usual or Unusual (non-routine) incidents that will constitute dangers in the workplace to the appropriate personnel."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "FLW/LWK/002/L2",
+      "title": "Communication System in Leather works environment",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "LOCATE SOURCES OF INFORMATION IN THE WORK ENVIRONMENT",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Identify sources of information in an organization."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Identify sources of information in own work environment."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Locate sources of information in own work environment."
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Relate appropriately with the sources of information in own work environment."
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Use various information flow systems in a work environment."
+            },
+            {
+              "pc_code": "1.6",
+              "description": "Use information available in own work environment to avoid challenges in a given work situation."
+            },
+            {
+              "pc_code": "1.7",
+              "description": "Report findings in work situations in accordance to information flow procedures in a given work environment."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "USE NON- COMPLEX COMMUNICATION SYSTEM IN A WORK ENVIRONMENT",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Use simple verbal means to pass necessary information in the work environment."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Demonstrate simple non- verbal means to pass necessary information in the work environment e.g. body language (shaking/nodding of head) ."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Use simple non-verbal means to pass necessary information in the work environment e.g. body language"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Read symbols and sign correctly as a means of passing information in the work environment."
+            },
+            {
+              "pc_code": "2.5",
+              "description": "Interpret symbols and signs appropriately as a means of passing information in the work environment."
+            },
+            {
+              "pc_code": "2.6",
+              "description": "Sketch with labelling various symbols and signs appropriately as a means of passing information in the work environment."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "APPLY KNOWLEDGE OF COMMUNICATION IN LEATHER WORKS ENVIRONMENT",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Explain the term communication in leather works."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Identify the types of communication available in the work environment."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Explain the importance of communication in the work environment."
+            },
+            {
+              "pc_code": "3.4",
+              "description": "State the ethics in communication in an organizational work environment."
+            },
+            {
+              "pc_code": "3.5",
+              "description": "State the ethics in communication in own work environment"
+            },
+            {
+              "pc_code": "3.6",
+              "description": "Communicate a business message in own work environment."
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "USE COMMUNICATION MEANS IN THE WORK ENVIRONMENT",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Locate the various communication equipment in the work environment."
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Use effectively the various communication equipment in the work environment e.g. telephone, radio message, etc."
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Pass information effectively with chosen communication equipment to the right personnel."
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Pass information effectively to the right personnel using symbols, signs and codes."
+            },
+            {
+              "pc_code": "4.5",
+              "description": "Obey laid down instructions and Regulations in line with ethics of The work environment."
+            },
+            {
+              "pc_code": "4.6",
+              "description": "Obey communicated instructions in line with ethics of the own work environment."
+            }
+          ]
+        },
+        {
+          "lo_num": "5",
+          "description": "USE COMMUNICATION AS TOOL TO RELATE WITH CUSTOMER IN A WORK ENVIRONMENT",
+          "performance_criteria": [
+            {
+              "pc_code": "5.1",
+              "description": "Explain customer relation skills in the work environment."
+            },
+            {
+              "pc_code": "5.2",
+              "description": "Outline benefits of customer relations skills"
+            },
+            {
+              "pc_code": "5.3",
+              "description": "Outline steps to get feedback from customers."
+            }
+          ]
+        },
+        {
+          "lo_num": "6",
+          "description": "COMMUNICATE EFFECTIVELY IN A TEAM WORK",
+          "performance_criteria": [
+            {
+              "pc_code": "6.1",
+              "description": "Describe Team work in a work environment."
+            },
+            {
+              "pc_code": "6.2",
+              "description": "State the importance of Team work in a work environment."
+            },
+            {
+              "pc_code": "6.3",
+              "description": "Identify own role and responsibility within a team work."
+            },
+            {
+              "pc_code": "6.4",
+              "description": "Recognize requirement of own services in a team work."
+            },
+            {
+              "pc_code": "6.5",
+              "description": "Ensure that correct information is received of own responsibilities in a team work"
+            },
+            {
+              "pc_code": "6.6",
+              "description": "Communicate effectively the outcome of own services in a team work."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "FLW/LWK/003/L2",
+      "title": "Team Work",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "DEVELOP POSITIVE WORKING RELATIONSHIP WITH COLLEAGUES IN THE WORK ENVIRONMENT",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Explain the need for developing positive working relationship with colleagues in the work environment."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Explain the importance of relating with other people in a way that makes them feel valued and respected."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Assist team members when one\u2019s services are required."
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Report to the authorized personnel when request is made for assistance falling outside one\u2019s area of responsibility."
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Communicate information to colleagues about own work that might affect performance of others."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "TAKE RESPONSIBILITIES WITHIN THE TEAM",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Explain own role and responsibilities within the team for a group work."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Carry out individual tasks in a given group assignment in line with the team\u2019s rules and regulations."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Participate effectively in a given team work."
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Give own report of task carried out in a team whenever it is required."
+            },
+            {
+              "pc_code": "3.1",
+              "description": "Carry out own tasks in a team in line with organizational standards"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Use organization code of practice for given job done in the team."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Assess organizational code of conduct for own and team jobs."
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Explain organizational code of conduct for own and team jobs"
+            },
+            {
+              "pc_code": "3.5",
+              "description": "Itemize rules that guide the activities of the team"
+            },
+            {
+              "pc_code": "3.5",
+              "description": "Report activities of the team work that may affect organizational code of conduct to the higher authority."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "FLW/LWK/004/L2",
+      "title": "Operations in leather works",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understand types of leather used in leather works",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "List various types of Leather"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "List the types of Animal skins used for leather works."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Identify the types of leathers used for producing leather products."
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Name sources of different types of leather."
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Identify different leathers for different uses."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Measure effectively in Leather Works",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "List the measuring devices e.g. tape rule used in leather works."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Explain the functions of tape Rule in measuring leather materials for making leather products."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Explain how to measure leather of various sizes."
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Compare the metric system of Measurement to measurement in yards common to fabric materials."
+            },
+            {
+              "pc_code": "2.5",
+              "description": "Carry out simple measurement in leather works."
+            },
+            {
+              "pc_code": "2.6",
+              "description": "Carry out simple measurement of leather in square foot"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Works",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "List basic working tools used in leather works"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Identify basic working tools used for leather works working tools used in leather works"
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Use basic Equipment in Leather works",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "List the primary equipment used in leather works."
+            },
+            {
+              "pc_code": "4.2",
+              "description": "List basic equipment used in cutting processes in leather works"
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Identify the basic equipment used for leather works"
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Describe the function of each basic equipment used in leather works"
+            },
+            {
+              "pc_code": "4.5",
+              "description": "Use basic Equipment in Leather works"
+            }
+          ]
+        },
+        {
+          "lo_num": "5",
+          "description": "Carry out Cutting process in leather works",
+          "performance_criteria": [
+            {
+              "pc_code": "5.1",
+              "description": "List basic cutting tools used in leather works."
+            },
+            {
+              "pc_code": "5.2",
+              "description": "Explain how to cut paper pattern using hand tools"
+            },
+            {
+              "pc_code": "5.3",
+              "description": "Explain basic cutting process in leather works"
+            },
+            {
+              "pc_code": "5.4",
+              "description": "Describe the process of cutting leather materials using basic cutting tools"
+            },
+            {
+              "pc_code": "5.5",
+              "description": "Cut simple leather materials using appropriate cutting tools"
+            }
+          ]
+        },
+        {
+          "lo_num": "6",
+          "description": "Demonstrate basic skills in sewing materials for leather works",
+          "performance_criteria": [
+            {
+              "pc_code": "6.1",
+              "description": "State basic operation of leather sewing machine"
+            },
+            {
+              "pc_code": "6.2",
+              "description": "Describe basic preparation of cutting leather material for sewing"
+            },
+            {
+              "pc_code": "6.3",
+              "description": "Describe how leather sewing machine works"
+            },
+            {
+              "pc_code": "6.4",
+              "description": "Carry out simple sewing in leather works."
+            }
+          ]
+        },
+        {
+          "lo_num": "7",
+          "description": "Demonstrate basic skills in making patterns in leather works",
+          "performance_criteria": [
+            {
+              "pc_code": "7.1",
+              "description": "Sketch simple patterns for leather works using paper"
+            },
+            {
+              "pc_code": "7.2",
+              "description": "Produce simple patterns of leather works using paper"
+            },
+            {
+              "pc_code": "7.3",
+              "description": "Describe how to cut pattern on materials using appropriate tools"
+            },
+            {
+              "pc_code": "7.4",
+              "description": "Cut simple pattern on the materials using appropriate tools"
+            },
+            {
+              "pc_code": "7.5",
+              "description": "Identify sectional cuts component of pattern on the material"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "FLW/LWK/005/L2",
+      "title": "Sewing Operations",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understand Electric sewing machines used for leather works",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Identify the different types of sewing machines used for leather works"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Describe the components of electric sewing machines used for leather works"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "state the functions of the various components parts of a sewing machine used for leather works"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Select consumable items used in sewing operation"
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Gather information from manufacturer\u2019s manual"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Operate the components of electric sewing machines",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Control electric sewing machines effectively."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Set needles on the electric sewing machine for sewing process."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Position needles on the sewing machine."
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Put thread on the bobbin (reeler) for sewing processes."
+            },
+            {
+              "pc_code": "2.5",
+              "description": "Fix the bobbin inside the bobbin case and onto the electric sewing machine."
+            },
+            {
+              "pc_code": "2.6",
+              "description": "Trace the thread from the appropriate positions to the needle in preparation for sewing."
+            },
+            {
+              "pc_code": "2.7",
+              "description": "Bring out the two threads from the up and down positions out of the hole of the plate in readiness for sewing process."
+            },
+            {
+              "pc_code": "3.1",
+              "description": "Select leather materials to be sewed on electric sewing machine"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Select types of working tools to be fixed on the electric sewing machines for specified jobs."
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Carry out straight sewing on various types of leather materials."
+            },
+            {
+              "pc_code": "3.5",
+              "description": "Sew leather products on electric sewing machines."
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Operate Zig- Zag sewing machines used for Leather products (foot wears, bags, belts, wallets, etc).",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Identify the differences in physical components of straight sewing machine and Zig-zag sewing machines used for Leather products."
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Identify the differences in operations of straight sewing machine and Zig-zag sewing machines used for Leather products."
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Describe the operation of Zig- zag sewing machines used for leather products."
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Identify the types of leather products that Zig-zag sewing can be carried out."
+            },
+            {
+              "pc_code": "4.5",
+              "description": "Explain the operational guidelines of Zig-zag sewing machines used for leather products."
+            },
+            {
+              "pc_code": "4.6",
+              "description": "Carry out zig-zag sewing of leather products."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "FLW/LWK/0O6/L2",
+      "title": "Roughing/Smoothing Operation for Leather Works",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understand machines used in Roughing /Smoothing Operations in leather works",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Identify the different types of machines used for roughing/ smoothing leather works"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Identify the components of roughing/smoothing machines used for leather works"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Identify materials used for roughing/ smoothing of leather products e.g. iron rod, table, screw, etc."
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Identify consumables used for roughing/ smoothing of leather products e.g. abrasive paper, smoothening paper, gum etc."
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Describe the functions of the physical components of the roughing /smoothing machines used for leather works"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Operate Roughing/Smoothing Machines used for leather products",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Position the roughing/smoothing machine onto appropriate work place"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Set the head of the roughing/smoothing machines ready for operation."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Fix the rough paper and smooth paper appropriately on the rotor head of the machines."
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Start the machine for the operation of the machines."
+            },
+            {
+              "pc_code": "2.5",
+              "description": "Demonstrate ability to operate the machine for roughing/smoothing process."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Carry out Roughing/Smoothing process of leather works",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Identify the leather material to be roughen/smoothened."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Identify the areas of leather materials to be roughen/roughened."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Determine the extent of required to be made on a given work."
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Identify the appropriate abrasive paper (rough/ smooth) required for a given job."
+            },
+            {
+              "pc_code": "3.5",
+              "description": "Identify the areas on the leather materials to be roughen/smoothened"
+            },
+            {
+              "pc_code": "3.6",
+              "description": "Explain the advantages of roughing/smoothing of leather materials on a machine."
+            },
+            {
+              "pc_code": "3.7",
+              "description": "Carry out roughening/smoothing of a given job on the machine."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "FLW/LWK/007/L2",
+      "title": "Stamping Operation in Leather Works",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understand tools/ equipment and materials used for different types of stamping",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Identify the different types of stamping used for leather products (foot wears, bags, belts, wallets) i.e. manual and machine stamping"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Identify the components of manual stamping and their functions."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Identify the components of stamping machine and their functions."
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Identify materials used in manual stamping of leather products and their functions e.g. transparent plate, mesh etc."
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Identify consumable items used for machine stamping of leather products e.g. paints, thinner, cushion foam, water cleaner, e.t.c."
+            },
+            {
+              "pc_code": "1.6",
+              "description": "Describe the functions of the components of the stamping machines used for leather products."
+            },
+            {
+              "pc_code": "2.1",
+              "description": "Set logo on the platforms of the stamping machines (manual or machines) to avoid distortion of the stamps on the leather products."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Position the materials to be stamped at convenient work surfaces for stamping operations."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Fix the transparent plate appropriately between the logo and leather products. process."
+            },
+            {
+              "pc_code": "2.5",
+              "description": "Observe the movement of the hand lever of the stamping machines for stamping of leather products."
+            },
+            {
+              "pc_code": "2.6",
+              "description": "Demonstrate how to apply electricity supply for machine stamping process"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Prepare surfaces of various materials products for stamping process",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Identify the different types of products to be stamped (manual or machine stamping)."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Identify the different areas (positions) for application of stamps on various leather products."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Describe methods of preparing various surfaces of leather works for stamping."
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Explain the reasons for preparing various surfaces of leather products for stamping"
+            },
+            {
+              "pc_code": "3.5",
+              "description": "Prepare various surfaces of leather products for stamping."
+            },
+            {
+              "pc_code": "3.6",
+              "description": "Select different types of logo to be stamped at various positions (areas) of leather products."
+            },
+            {
+              "pc_code": "4.1",
+              "description": "Identify the stamping brands (names, logo, pictures, etc) to be made manually on the leather products."
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Fix the stamping brand onto the platform of the manual stamping"
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Fix the foil paper on the stamping face of the brand."
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Position the leather material to be stamped at convenient working surface for the stamping process. foam onto the leather products prior to the application of the stamp."
+            },
+            {
+              "pc_code": "4.6",
+              "description": "Carry out stamping of brands (names, logo, pictures, etc) on the leather products manually."
+            },
+            {
+              "pc_code": "4.7",
+              "description": "Expose stamped products in the air for drying."
+            },
+            {
+              "pc_code": "4.8",
+              "description": "Inspect stamps of brands (names, logo, pictures, etc) on the leather products by visual inspection to see that the brands came out clearly."
+            }
+          ]
+        },
+        {
+          "lo_num": "5",
+          "description": "Stamp brands on leather works using stamping machines",
+          "performance_criteria": [
+            {
+              "pc_code": "5.1",
+              "description": "Identify the brands (names, pictures logo, etc) to be made with stamping machines on the leather products."
+            },
+            {
+              "pc_code": "5.2",
+              "description": "Set up the stamping machine with a platform to carry the given job."
+            },
+            {
+              "pc_code": "5.3",
+              "description": "Fix the stamping brand onto the platform of the stamping machines."
+            },
+            {
+              "pc_code": "5.4",
+              "description": "Position the leather product to be worked on at convenient working surface for the stamping process."
+            },
+            {
+              "pc_code": "5.5",
+              "description": "Apply necessary coolant with cushion foam onto the leather products prior to the application of the stamp."
+            },
+            {
+              "pc_code": "5.6",
+              "description": "Carry out stamping on the leather products with standing machines."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "FLW/LWK/008/L2",
+      "title": "Leather Reconditioning Operation",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Know reconditioning of leather product",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Explain reconditioning operation"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "State reconditioning process used in leather works"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Explain the reasons for reconditioning of leather products"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Know the tools and machines used for reconditioning process of leather products",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "List tools and machines used for reconditioning process of leather products"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Describe the operations of the tools and machines used in reconditioning process"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "List the materials used for the reconditioning"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Select appropriate tools and machine to recondition a given leather product"
+            },
+            {
+              "pc_code": "2.5",
+              "description": "Explain the materials applicable to the reconditioning process"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Identify the conditions of the leather products that can be taken for reconditioning using manual tools."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Determine the extent of damage on a given leather product that can be reconditioned using manual tools."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Identify the damaged areas of a given leather product that can be reconditioned using manual tools."
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Select the materials that can be used to replace damaged areas of a given leather products using manual tools."
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Carry out reconditioning process on leather products with machines.",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Identify the conditions of the leather products that can be reconditioned using machines."
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Identify the damaged areas of a given leather product that can be reconditioned using machines."
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Determine the extent of damage on a given leather product that can be reconditioned using machines."
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Sort the materials that can be used to replace damaged areas of a given leather products using machines"
+            },
+            {
+              "pc_code": "4.5",
+              "description": "Carry out reconditioning process of a given leather product using appropriate machines"
+            },
+            {
+              "pc_code": "4.6",
+              "description": "Carry out finishing of a given Reconditioned leather product using appropriate fixtures to the customers\u2019 satisfaction."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "FLW/LWK/009/L2",
+      "title": "Ornaments on Leather Products",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understand ornaments to be used on leather products",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Explain ornament used in leather works"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Explain the importance of fixing ornament on leather products."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Identify classes of ornament used on leather products."
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Describe the function of each ornament on a given leather product."
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Select appropriate areas where different types of ornament can be fixed on leather products."
+            },
+            {
+              "pc_code": "1.6",
+              "description": "Sort different ornament that can be fixed on different leather products."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Understand tools and equipment used for fixing ornament on leather products",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "List tools and equipment used for fixing different ornament on leather products."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Explain the functions of tools and equipment used for fixing ornament on leather products"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Select basic tools and equipment used for putting different used for fixing ornament on leather products"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Understand how to fix Ornament on leather products",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Set leather products on a work surface for fixing of ornament."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Mark the areas where the ornament can be placed on a given leather products"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Select materials to be fixed on the given leather products."
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Select working tools required for putting ornament on a given leather products"
+            },
+            {
+              "pc_code": "3.5",
+              "description": "Fix the selected materials on the given leather products."
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Replace fixtures on given leather products",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Recognise the ornament on the given leather products to be replaced."
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Select the appropriate ornament materials required to make replacement on given leather products."
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Select the appropriate tools and equipment required for removal of unwanted fixtures from given leather products."
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Remove the unwanted fixtures from the given jobs (leather products)."
+            },
+            {
+              "pc_code": "4.5",
+              "description": "Select the appropriate tools and equipment required for putting new fixtures on the given jobs (leather products)."
+            },
+            {
+              "pc_code": "4.6",
+              "description": "Fix selected new fixtures on given jobs (leather products) to customers\u2019 satisfaction."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "FLW/LWK/010/L2",
+      "title": "LEATHER FOOTWEAR",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understand Foot Wear",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "List types of foot wear"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Explain classification of foot wear design according to: \uf0b7 High hills Shoe \uf0b7 Low hills Shoe \uf0b7 Flat Shoe \uf0b7 Sandals \uf0b7 Slip-on etc"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "State different materials for making foot wears"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "UNDERSTAND HOW TO MAKE PATTERNS FOR FOOTWEAR PRODUCTION",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Identify the appropriate basic tools/equipment for making of different patterns of foot wears."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Mark patterns of different types of foot wears on cardboard."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Identify the difference allowances and their measurement in making patterns e.g. Lasting, underlay, folding, edge allowances etc."
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Carry out the marking patterns of foot wears for a given job"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "UNDERSTAND HOW TO CUT LEATHER MATERIALS FOR MAKING FOOT WEARS LEARNING OUTCOME (LO)",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Select appropriate leather materials to be used for making leather foot wears."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Identify the appropriate basic tools/equipment for cutting of leather materials for leather foot wear production."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Describe how to cut various sizes of leather foot wears."
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Carry out the positioning of patterns on leather for foot ware production"
+            },
+            {
+              "pc_code": "3.5",
+              "description": "Cut leather materials to make various sizes PERFORMANCE CRITERIA Ref. Page of leather foot wears using scissors, knives, puncher, dice, razor cutting machines etc."
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "UNDERSTAND HOW TO MEASURE VARIOUS FOOT SIZES FOR FOOTWEAR PRODUCTION",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Select tools for measurement of foot sizes."
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Describe how to measure foot sizes for foot wears production."
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Explain the significance of Last in foot wear production."
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Identify different sizes of last"
+            },
+            {
+              "pc_code": "4.5",
+              "description": "Carry out different measurement of Last."
+            }
+          ]
+        },
+        {
+          "lo_num": "5",
+          "description": "UNDERSTAND ADHESIVES/GUM USED IN LEATHER FOOT WEARS",
+          "performance_criteria": [
+            {
+              "pc_code": "5.1",
+              "description": "Identify the types of adhesive/gum used in leather foot wear"
+            },
+            {
+              "pc_code": "5.2",
+              "description": "Explain the significance of adhesives/ gums in joining of components of leather foot wears."
+            },
+            {
+              "pc_code": "5.3",
+              "description": "Describe the procedure of applying adhesive/gum in a leather foot wear"
+            },
+            {
+              "pc_code": "5.4",
+              "description": "Carry out the application of adhesive/ gum on various leather component for foot wear production (adhesion process)"
+            }
+          ]
+        },
+        {
+          "lo_num": "6",
+          "description": "KNOW HOW TO CARRY OUT FOLDING PROCESS IN LEATHER FOOT WEARS",
+          "performance_criteria": [
+            {
+              "pc_code": "6.1",
+              "description": "Explain the significance of folding process in making leather foot wears."
+            },
+            {
+              "pc_code": "6.2",
+              "description": "Describe the techniques of folding leather foot wears"
+            },
+            {
+              "pc_code": "6.3",
+              "description": "Fold the appropriate portions of the leather materials in various leather foot wears."
+            }
+          ]
+        },
+        {
+          "lo_num": "7",
+          "description": "DEMONSTRATE THE ABILITY OF SEWING LEATHER FOOT WEARS LEARNING OUTCOME (LO)",
+          "performance_criteria": [
+            {
+              "pc_code": "7.1",
+              "description": "Describe the operation of sewing leather using machines"
+            },
+            {
+              "pc_code": "7.2",
+              "description": "Describe the process in PERFORMANCE CRITERIA Ref. Page sewing different types of leather for foot wear production"
+            },
+            {
+              "pc_code": "7.3",
+              "description": "Carry out the following basic sewing process: \uf0d8 hand-stitching, \uf0d8 simple manual sewing"
+            }
+          ]
+        },
+        {
+          "lo_num": "8",
+          "description": "DEMONSTRATE LACING OPERATIONS IN FOOTWEAR PRODUCTION",
+          "performance_criteria": [
+            {
+              "pc_code": "8.1",
+              "description": "Explain Lacing process used in leather footwear"
+            },
+            {
+              "pc_code": "8.2",
+              "description": "Identify tools/equipment used in Lacing footwear"
+            },
+            {
+              "pc_code": "8.3",
+              "description": "State the importance of Lace in making leather footwear (Artificial Human Feet)"
+            },
+            {
+              "pc_code": "7.4",
+              "description": "Identify the various sizes of Lace in making leather footwear"
+            },
+            {
+              "pc_code": "7.5",
+              "description": "Carry out Lacing operation for different leather products"
+            }
+          ]
+        },
+        {
+          "lo_num": "9",
+          "description": "DEMONSTRATE THE ABILITY OF STAMPING LEATHER FOOT WEARS",
+          "performance_criteria": [
+            {
+              "pc_code": "9.1",
+              "description": "Describe the manual stamping process of leather foot wears"
+            },
+            {
+              "pc_code": "9.2",
+              "description": "Describe the machine stamping process of different types of leather foot wears"
+            },
+            {
+              "pc_code": "9.3",
+              "description": "Carry out basic stamping process of leather foot wears (i.e. manual stamping)"
+            }
+          ]
+        },
+        {
+          "lo_num": "10",
+          "description": "KNOW HOW TO CARRY OUT ROUGHING/SMOOTHING IN LEATHER FOOT WEARS LEARNING OUTCOME (LO)",
+          "performance_criteria": [
+            {
+              "pc_code": "10.1",
+              "description": "Identify the appropriate tools/equipment in roughing/smoothing process"
+            },
+            {
+              "pc_code": "10.2",
+              "description": "Identify areas of the foot wears that roughing/ smoothing process can be carried out."
+            },
+            {
+              "pc_code": "10.3",
+              "description": "Describe how to rough various sizes of leather for foot wear production PERFORMANCE CRITERIA Ref. Page"
+            },
+            {
+              "pc_code": "10.4",
+              "description": "Carry out the basic roughing/ smoothing process of leather foot wears"
+            }
+          ]
+        },
+        {
+          "lo_num": "11",
+          "description": "KNOW HOW TO DYE LEATHER FOOT WEARS No 1 2 3 4 5 6 7 8",
+          "performance_criteria": [
+            {
+              "pc_code": "11.1",
+              "description": "Explain the importance of dyeing leather foot wears"
+            },
+            {
+              "pc_code": "11.2",
+              "description": "Identify the types of dyes used for dyeing leather foot wears."
+            },
+            {
+              "pc_code": "11.3",
+              "description": "Identify the tools used in dyeing leather foot wears"
+            },
+            {
+              "pc_code": "11.4",
+              "description": "Describe the procedure for dyeing of leather foot wears"
+            },
+            {
+              "pc_code": "11.5",
+              "description": "Dye leather foot wears using appropriate materials and tools."
+            },
+            {
+              "pc_code": "11.6",
+              "description": "Describe how to maintain some dyed leather foot wears in serviceable condition. NAME ORGANISATION TELEPHONE EMAIL Elder Mark Joel 92 Clifford Road Aba, Abia State 08055311365 Mariejoe895@gmail.com Shehu Idris Nigerian Institute of Leather of Science and Tech. (NILEST), Zaria, Kaduna State 09070678006 Idrisshehu196@gmail.com Mkposu David Heke Octoxii school of Shoe Making Lagos 08168091400 talk2hekedavid@gmail.co m Adamu Mohammed Rabiu 08103152256 mohrabzy@gmail.com Nura Adamu Nuruzzaman Integrated Services Ltd, Tudun Wada, Kaduan 08038482607 Nuruzzamanshoes07@gm ail.com Shemau Musa Abdullahi Dangote Ultra Modern Skills Acquisition Centre, kano 08038870733 Shemaumusaabdullahi@gmail.co Engr. (Prince) Richard A. Obukofe NBTE Kaduna 08027454514 Engrichie2745@yahoo.co m Engr. Bobboi Ismaila Abubakar 07062977312 ismailbobboi@gmail.com"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1157 @@
+{
+  "trade_name": "SOLAR PHOTOVOLTAIC SYSTEM INSTALLATION AND MAINTENANCE",
+  "units": [
+    {
+      "code": "PWR/SPV/001/L2",
+      "title": "Occupational Health and Safety",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Know safe working Practices and Instructions",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Describe safe work practice and instructions"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Recognize safety signs and symbols"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Interpret safety signs and symbols correctly."
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Observe safe work practices on given tasks"
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Work in accordance with health and safety best practices"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Know Safety, Hazards and risks in work place",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Identify types of hazards in the work environment"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Describe ways to avoid common hazards in the work place"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "State methods of how to reduce the risk of hazards in the work place"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Describe how to report potential hazards in the work place"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Know the appropriate actions to take during accident/injuries OBJECTIVE (LO)",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Identify basic first aid equipment."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Explain the benefits of first aid equipment"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "State types of injuries commonly found in the workplace."
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Identify serious injuries that require emergency response in the work place."
+            },
+            {
+              "pc_code": "3.5",
+              "description": "State the steps to be taken following an accident"
+            },
+            {
+              "pc_code": "3.6",
+              "description": "Identify own responsibilities in case of an emergency such as: \u2022 Identifying and switching off power supply sources \u2022 Carrying out artificial resuscitation methods \u2022 Calling for medical attention \u2022 Transferring patient to the nearest medical facility"
+            },
+            {
+              "pc_code": "3.7",
+              "description": "Identify muster point"
+            },
+            {
+              "pc_code": "3.8",
+              "description": "Identify locations of fire Ref. Page extinguishers in case of fire outbreak"
+            },
+            {
+              "pc_code": "3.9",
+              "description": "Describe methods of fire fighting"
+            },
+            {
+              "pc_code": "3.10",
+              "description": "Describe the Pull Aim Squeeze and Sweep (PASS) of fire extinguishers"
+            },
+            {
+              "pc_code": "3.11",
+              "description": "Describe how to treat minor injuries and burns"
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Know safe work practices and clean work environment",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Identify safe access and exit routes in the work environment"
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Describe safe work practices and clean work environment"
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Dispose all wastes appropriately in designated waste facilities"
+            },
+            {
+              "pc_code": "4.4",
+              "description": "State the advantages of using appropriate PPE while carrying out a task in work environment"
+            },
+            {
+              "pc_code": "4.5",
+              "description": "Select appropriate working tools for a given task to avoid hazards"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "PWR/SPV/002/L2",
+      "title": "Communication Skills",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understand the importance of good communication skills",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "State reasons why good communication skills is important in Solar PV Systems."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "List ways to communicate effectively: \u2022 Upward \u2022 Downward \u2022 Horizontal"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Explain the significance of patience and a mild demeanor while communicating with colleagues and clients"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Describe how to communicate in a professional manner."
+            },
+            {
+              "pc_code": "1.5",
+              "description": "State the need for respectful body language even when in a bad mood or while under pressure."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Know how to follow documented instructions",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Read and accurately follow steps in installation manuals."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Explain mobile app documentation."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Read the information displayed on various solar devices."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Know how to document information after commissioning of solar system",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Determine parameters to be documented"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Describe the scope of information needed to be documented."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Explain the importance of the documented information."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "PWR/SPV/003/L2",
+      "title": "Team Work",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Know Positive working relationship with colleagues in the work environment",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Explain the need for developing positive working relationship with colleagues in the work environment."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Explain the importance of relating with other people in a way that makes them feel valued and respected."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Assist team members when one\u2019s services are requested."
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Report to the authorized personnel when request is made for assistance falling outside one\u2019s area of responsibility."
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Communicate information to colleagues about own work that might affect performance of others"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Know the responsibilities within the team",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Explain own role and responsibilities within the team for a group work."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Carry out individual tasks in a given group assignment in line with the team\u2019s rules and regulations."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Participate actively in a given team work."
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Give own report of task carried out in a team."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Know policies and regulations of organization",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Carry out assigned tasks in a team in line with organizational standards"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Use organizational code of practice for assigned job within a team."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Obtain organizational code of conduct for own and team jobs."
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Explain the importance of using organizational code of conduct for own and team jobs"
+            },
+            {
+              "pc_code": "3.5",
+              "description": "List rules that guide the activities of the team"
+            },
+            {
+              "pc_code": "3.6",
+              "description": "Report activities of the team work that may affect organizational code of conduct to the higher authority."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "PWR/SPV/004/L2",
+      "title": "Basic Electrical Calculations of Solar PV",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Know the calculations used in Solar PV Systems",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Explain types of circuits connections"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Explain electrical current parameters use in Solar PV"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Define the Ohm\u2019s Law formulae"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Calculate the total voltage in a parallel, series and combination of circuits."
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Calculate the total current in a parallel, series and combination of circuits."
+            },
+            {
+              "pc_code": "1.6",
+              "description": "Calculate the total resistance in a parallel, series and combination of circuits."
+            },
+            {
+              "pc_code": "1.7",
+              "description": "Determine the total power in a parallel, series and combination of circuits"
+            },
+            {
+              "pc_code": "1.8",
+              "description": "Determine the total energy in a parallel, series and combination of circuits"
+            },
+            {
+              "pc_code": "1.9",
+              "description": "Record calculations in accordance with laid down procedures."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Know the appropriate measuring Instruments in solar PV system installation and maintenance.",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "List the measuring instruments used in Solar PV Systems"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Explain the uses of different measuring instruments used in Solar PV Systems"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Select appropriate measuring instruments for a given task"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Use appropriate instruments to measure electric current in a circuit"
+            },
+            {
+              "pc_code": "2.5",
+              "description": "Use appropriate instruments to measure voltage in a circuit"
+            },
+            {
+              "pc_code": "2.6",
+              "description": "Use appropriate instruments to measure resistance in a circuit"
+            },
+            {
+              "pc_code": "2.7",
+              "description": "Use appropriate instruments to measure electric energy in a circuit"
+            },
+            {
+              "pc_code": "2.8",
+              "description": "Determine the state of charge of a battery using appropriate instruments"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Know geometrical measurement and (LO) calculations in preparation for installation",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Explain measurements requirements in preparation for a specific task. Ref. Page"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Determine space requirement for installation of Solar panels"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Explain how to calculate number of panels required for a particular Solar project"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "PWR/SPV/005/2",
+      "title": "Solar Panel Rack Installation",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Know the Pre- installation of Solar panel racks",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Describe the structural condition of the mounting area"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Identify the mounting system to be deployed"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Select mounting system compatible to the rack"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Select appropriate tools, equipment and materials used in mounting solar panel rack according to specifications and guidelines"
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Identify and select appropriate PPE for the installation of solar panel racks"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Know how to Position and Install Solar Panel Rack",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Identify the location of a panel rack"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Identify \u201ctrue south\u201f and find optimum tilt angle of the rack"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Identify jacking points and safety measures used in solar rack installation"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Perform rack installation according to standard specifications"
+            },
+            {
+              "pc_code": "2.5",
+              "description": "Apply safety and environmental standards in selecting and installation of solar panel racks"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Know how to review the completion of solar PV installation rack",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Carry out checks to ensure work is following plans/drawings /instructions and requirements"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Notify Supervisor upon completion of work"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Clean tools, equipment and as well any excess materials and return to storage in accordance with established safety procedures"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Clean the work area"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "PWR/SPV/006/L2",
+      "title": "Solar Photovoltaic Panel Installation",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Know how to Prepare to install Solar PV modules",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Explain the difference between monocrystalline, poly crystalline and thin-film Solar PV module"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Select the appropriate Solar PV modules"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Select appropriate tools, equipment and materials according to specifications and guidelines"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Select appropriate PPE for the installation of solar PV modules"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Know the installation of solar PV modules",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Determine the appropriate orientation for installation of solar PV modules"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Perform PV modules installation according to specifications and guidelines"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Apply safety and environmental standards in installation of solar PV module"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Know how to Communicate information regarding the panel installation",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Identify specific information on installed solar PV panels"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Apply appropriate medium in transfer of information"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Convey information clearly and concisely"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "PWR/SPV/007/L2",
+      "title": "Solar PV Charge Controller",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Know how to prepare and install charge controllers in Solar PV Systems.",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Explain the difference between MPPT and PWM charge controllers"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "State the appropriate ratings of charge controllers to battery size and PV module power output design to be installed"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Distinguish between rating of charge controllers"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Interpret rating of charge controller"
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Explain the connection sequence of charge controllers."
+            },
+            {
+              "pc_code": "1.6",
+              "description": "State precautionary measures to be taken in installing charge controllers"
+            },
+            {
+              "pc_code": "1.7",
+              "description": "List the steps involved in the connection of charge controller"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Install charge controller in Solar PV Systems.",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Use appropriate tools, equipment, and materials to install charge controllers"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Identify the best location to mount charge controller"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Install charge controller according to specifications and connection sequence"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Apply safe working procedures in the selection and installation of charge controllers"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Configure installed Charge Controller",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Configure charge controller to suit solar PV size according to specifications and manufacturer\u2019s guidelines."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Configure Charge Controller to suite battery type, capacity and technology according to specifications and manufacturer\u2019s guidelines."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Operate the charge controller according to specifications and manufacturer\u2019s guidelines"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Observe and take readings on the charge controller"
+            },
+            {
+              "pc_code": "3.5",
+              "description": "Document the various readings taken"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "PWR/SPV/008/L2",
+      "title": "Solar Photovoltaic Battery installation",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Install batteries in solar PV System.",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Describe the working principles of batteries"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Explain the types and sizes of batteries and their applications in Solar PV installations"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "State the application of types of batteries"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Discuss Solar PV batteries life span"
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Explain the importance of warranties in the installation of batteries"
+            },
+            {
+              "pc_code": "1.6",
+              "description": "Select appropriate tools, equipment and materials used in the installation of batteries"
+            },
+            {
+              "pc_code": "1.7",
+              "description": "Select appropriate PPE for the installation of batteries"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Know battery installation in solar PV",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Identify battery polarities before installation"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Explain how to handle batteries safely and appropriately"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Carry out voltage measurements on batteries to confirm their status"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Know how to install the battery according to: \u2022 Battery racks \u2022 Appropriate positioning in line with health and safety measures"
+            },
+            {
+              "pc_code": "2.5",
+              "description": "Connect batteries in series/parallel in accordance with the voltage requirement of the inverter."
+            },
+            {
+              "pc_code": "2.6",
+              "description": "Install batteries to charge controller in accordance with specifications"
+            },
+            {
+              "pc_code": "2.7",
+              "description": "Perform cable termination using cable lugs and torque in battery installation"
+            },
+            {
+              "pc_code": "2.8",
+              "description": "Ensure appropriate temperature control environment"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Understand Configuration of OBJECTIVE (LO) Solar PV battery",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Explain the need for series battery configuration"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Explain the need for parallel Ref. Page battery configuration"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Explain the need for series/ parallel combined battery configuration"
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Know the Protection in Solar PV battery installation",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Define Battery voltage Equalizer"
+            },
+            {
+              "pc_code": "4.2",
+              "description": "State the importance of Battery voltage equalizer"
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Explain types of battery protection"
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Install battery fuses"
+            },
+            {
+              "pc_code": "4.5",
+              "description": "Install battery circuit breaker"
+            },
+            {
+              "pc_code": "4.6",
+              "description": "Ensure regular battery checks and maintenance"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "PWR/SPV/009/L2",
+      "title": "Solar PV Inverter Installation",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understand Inverter in Solar PV Systems",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Define what is an Inverter"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "State types of inverters"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Explain the principles of operation of an inverter"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Sketch the inverter output wave form"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Know Inverter size",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Carry out basic load analysis"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Determine appropriate size and type of inverter"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "State safe working practices in the installation of inverters"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Install inverters (LO)",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Apply safe working practices in the installation of inverters"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Carry out inspection on suitable locations to install inverter"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Determine appropriate location to install the inverter"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Select appropriate tools, equipment and materials in the installation of inverter according to electrical load specifications"
+            },
+            {
+              "pc_code": "3.5",
+              "description": "Select appropriate PPE for installing inverters in solar PV"
+            },
+            {
+              "pc_code": "3.6",
+              "description": "Explain types of mounting \u2022 Wall mounting \u2022 Rack mounting"
+            },
+            {
+              "pc_code": "3.7",
+              "description": "Prepare installation for wall mounting according to: \u2022 Determine suitable point on the wall \u2022 Mark out hole positions according to Inverter design \u2022 Drill holes on the Wall with suitable size bits \u2022 Select appropriate fisher and screws \u2022 Mount the inverter and fasten the screws to appropriate torque Ref. Page"
+            },
+            {
+              "pc_code": "3.8",
+              "description": "Prepare installation for rack mounting to: \u2022 Ensure the rack is suitable for the PV system \u2022 Assemble the rack \u2022 Place the rack at appropriate position \u2022 Mount batteries at appropriate position \u2022 Connect batteries according to connection type \u2022 Confirm total battery voltage output is appropriate \u2022 Mount Inverter in appropriate position \u2022 Connect an Inverter DC terminals to battery terminals \u2022 Connect inverter AC side to load and mains supply \u2022 Ensure all fuses and circuit breakers are connected appropriately \u2022 Carry out appropriate test before switching \u2022 Switch on the inverter \u2022 Perform no-load test \u2022 Perform on-load test \u2022 Observe performance of the system"
+            },
+            {
+              "pc_code": "3.9",
+              "description": "Apply safety and environmental standards in accordance with the manufacturer\u2019s specifications and guidelines"
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Install Uninterruptible Power Supply (UPS) (LO)",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Apply safety and environmental standards in accordance with the manufacturer\u2019s specifications Ref. Page and guidelines"
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Identify UPS terminals, ratings and settings"
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Carry out inspection on suitable locations on how to install UPS"
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Select appropriate tools, equipment and materials in the installation of UPS systems according to the electrical load specifications"
+            },
+            {
+              "pc_code": "4.5",
+              "description": "Select appropriate location to install the UPS"
+            },
+            {
+              "pc_code": "4.6",
+              "description": "Install UPS in accordance with the electrical load specifications"
+            },
+            {
+              "pc_code": "4.7",
+              "description": "Prepare UPS installation according to specifications: \u2022 Carryout battery installation where applicable \u2022 Ensure all fuses and circuit breakers are connected appropriately \u2022 Carry out appropriate tests before switching \u2022 Switch on the UPS \u2022 Perform no-load test \u2022 Perform on-load test \u2022 Observe performance of the system"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "PWR/SPV/010/L2",
+      "title": "Load Connections",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Distribute electrical load in a building",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Apply safety and environmental standards according to the laid down procedures"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Explain the domestic / commercial/industrial electrical distribution systems: \u2022 Distribution board \u2022 Final circuits (socket, lighting, cooker, air conditioners etc.) \u2022 Earthing \u2022 Lightening arrestor"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Identify final circuit (sub- circuits) to be connected to the inverter and or mains."
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Explain the importance of electrical protective devices (EPDs) on loads in a building"
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Select appropriate distribution and protective devices in accordance with load specifications and regulations."
+            },
+            {
+              "pc_code": "1.6",
+              "description": "Carry out appropriate inspections and test"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Know various electrical loads",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Identify DC loads"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Identify AC resistive loads"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Identify AC reactive loads"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Ensure appropriate Inverter sizing for reactive loads"
+            },
+            {
+              "pc_code": "2.5",
+              "description": "Determine the safe operating power for all electrical loads"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Know the sources of battery charging and output power supply OBJECTIVE (LO)",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Apply safety measures in connection of inverter to the load and charging"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Identify sources of battery charging to the PV system: \u2022 AC mains/Generator (through the inverter) \u2022 Solar PV Mains stand-alone charger"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Locate power source point to feed the Inverter"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Select appropriate miniature circuit breaker (MCB) to protect and feed the Inverter"
+            },
+            {
+              "pc_code": "3.5",
+              "description": "Explain the importance of electrical protective devices (EPDs) on Inverter charging"
+            },
+            {
+              "pc_code": "3.6",
+              "description": "Connect appropriate MCB to the Inverter output"
+            },
+            {
+              "pc_code": "3.7",
+              "description": "Perform load and charging connections in accordance withthe guidelines and specifications"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "PWR/SPV/011/L2",
+      "title": "Solar Panel Assembly.",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understand Solar Panel Technology",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Explain the term Solar Panel"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Identify the components, materials, and tools required to produce a Solar Panel"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "State the importance of Solar Panels"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Explain the working principles of Solar Panels"
+            },
+            {
+              "pc_code": "1.5",
+              "description": "State the advantages and disadvantages of producing Solar Panels at local levels"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Understand Solar Cells and Photovoltaic Technology",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Explain types of cells used to produce Solar Panels"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Describe how the Solar cells generate energy"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Perform cells handling procedures"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Know tools and materials used in Solar Panel Assembly.",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Describe material used in Solar Panel Assembly"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "List materials used in Solar Panel Assembly"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Identify tools used in Solar Panel Assembly"
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Know Planning and Design of Solar Cells.",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Examine available sunlight used for energy generation"
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Perform calibration and dummy cell arrangements for final outlooks"
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Determine the kind of voltage connections for optimal power tapping"
+            }
+          ]
+        },
+        {
+          "lo_num": "5",
+          "description": "Know Soldering Techniques",
+          "performance_criteria": [
+            {
+              "pc_code": "5.1",
+              "description": "Explain the term soldering"
+            },
+            {
+              "pc_code": "5.2",
+              "description": "Explain types of soldering techniques"
+            },
+            {
+              "pc_code": "5.3",
+              "description": "List soldering materials"
+            },
+            {
+              "pc_code": "5.4",
+              "description": "Identify soldering techniques"
+            }
+          ]
+        },
+        {
+          "lo_num": "6",
+          "description": "Know the procedure of Solar Panel Assembly (LO)",
+          "performance_criteria": [
+            {
+              "pc_code": "6.1",
+              "description": "Carry out Solar cells by padding"
+            },
+            {
+              "pc_code": "6.2",
+              "description": "Perform trimming, cleaning, and aligning of cells prior to laying"
+            },
+            {
+              "pc_code": "6.3",
+              "description": "Carry out soldering"
+            },
+            {
+              "pc_code": "6.4",
+              "description": "Perform series and parallel cells connections"
+            },
+            {
+              "pc_code": "6.5",
+              "description": "Assemble cells between protective calibrated layers"
+            },
+            {
+              "pc_code": "6.6",
+              "description": "Test connected cells for optimal energy and power supply"
+            },
+            {
+              "pc_code": "6.7",
+              "description": "Carryout termination of series connected cells into junction box"
+            },
+            {
+              "pc_code": "6.8",
+              "description": "Perform connected cells lamination and encapsulation"
+            },
+            {
+              "pc_code": "6.9",
+              "description": "Couple cell layered board with tempered glass and frame"
+            },
+            {
+              "pc_code": "6.10",
+              "description": "Use durable of framed boards with water proof & weather proof sealing materials"
+            }
+          ]
+        },
+        {
+          "lo_num": "7",
+          "description": "Know testing and troubleshooting",
+          "performance_criteria": [
+            {
+              "pc_code": "7.1",
+              "description": "Carry out final test of functional connection and rate output"
+            },
+            {
+              "pc_code": "7.2",
+              "description": "Perform quality inspection of cables connection to the bus outlet"
+            },
+            {
+              "pc_code": "7.3",
+              "description": "Carry out check for electrical consistency and structural integrity"
+            }
+          ]
+        },
+        {
+          "lo_num": "8",
+          "description": "Know how to carryout post-assembly activities of Solar modules for optimal efficiency",
+          "performance_criteria": [
+            {
+              "pc_code": "8.1",
+              "description": "Document all procedures with detailed descriptions"
+            },
+            {
+              "pc_code": "8.2",
+              "description": "Carry out planning for acquisition of tools and materials for continuous improvement"
+            },
+            {
+              "pc_code": "8.3",
+              "description": "Communicate constant production and product quality assurance"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

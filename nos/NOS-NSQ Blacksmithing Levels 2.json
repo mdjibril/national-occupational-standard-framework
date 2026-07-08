@@ -1,0 +1,721 @@
+{
+  "trade_name": "NATIONAL BOARD FOR TECHNICAL EDUCATION BLACKSMITHING",
+  "units": [
+    {
+      "code": "ENGG/BS/001/L2",
+      "title": "Health, Safety and Environment",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understand the importance of health, safety, and environment in blacksmithing",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Explain health, safety, and environment (HSE) in blacksmithing."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Explain the benefits of maintaining a safe and healthy work environment."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Discuss the consequences of poor safety management in blacksmithing environment"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Identify workplace hazards and implement preventive measures",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Explain common workplace hazards (e.g., fire, sharp tools, toxic fumes, heavy lifting, etc)."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Explain safety procedures when working with high temperatures and heavy equipment"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Demonstrate proper use of personal protective equipment (PPE) (e.g., gloves, goggles, aprons, respirators)."
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Conduct risk assessment in a blacksmithing environment."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Demonstrate safe handling and storage of tools, materials, and waste",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Explain the importance of tools and material handling in blacksmithing"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Implement safe material handling practices (e.g., lifting techniques, storage of flammable materials, etc)."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Apply proper waste disposal methods (e.g., scrap metal recycling, disposal of hazardous materials, etc)."
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Respond to workplace accidents and emergencies",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Explain the following workplace emergencies 1. Fires 2. Injuries 3. Chemical spills"
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Demonstrate basic first aid procedures (e.g., treating burns, cuts, fractures, etc)."
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Follow emergency response protocols (e.g., fire safety drills, evacuation procedures, emergency exit doors, muster points, etc.)."
+            }
+          ]
+        },
+        {
+          "lo_num": "5",
+          "description": "Apply environmental conservation practices in blacksmithing",
+          "performance_criteria": [
+            {
+              "pc_code": "5.1",
+              "description": "Explain the impact of blacksmithing activities on the environment."
+            },
+            {
+              "pc_code": "5.2",
+              "description": "Describe methods of reducing environmental pollution (e.g., emission control, waste management, etc.)."
+            },
+            {
+              "pc_code": "5.3",
+              "description": "Implement eco-friendly practices in blacksmithing (e.g., energy efficiency, responsible sourcing of materials, etc)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ENGG/BS/002/L2",
+      "title": "Communication and Work Practices",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understand the importance of effective communication in blacksmithing",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Explain the importance of communication in the work environment"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Explain the consequences of poor communication in the workplace."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Explain different types of workplace communication (verbal, non-verbal, written)."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Apply verbal, non-verbal, and written communication techniques in the workplace",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Demonstrate clear and professional verbal (e.g., giving instructions, discussing tasks) and non-verbal communication."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Write simple workplace reports, notes, and instructions."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Use workplace communication tools effectively (e.g., emails, phone calls, fire alarming, messages, etc)."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Demonstrate active listening and teamwork skills",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Explain the importance of active listening in workplace interactions."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Participate in group discussions and team projects."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Show respect to colleagues and superiors through communication."
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Maintain professional workplace behaviour and ethics",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Describe acceptable workplace behaviour in a blacksmithing workshop."
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Follow workplace ethics and professional conducts and guidelines."
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Apply ethical standards in workplace communication."
+            }
+          ]
+        },
+        {
+          "lo_num": "5",
+          "description": "Resolve workplace conflicts using effective strategies",
+          "performance_criteria": [
+            {
+              "pc_code": "5.1",
+              "description": "Explain common causes of workplace conflicts."
+            },
+            {
+              "pc_code": "5.2",
+              "description": "Apply conflict resolution techniques (e.g., negotiation, mediation, collaboration, etc)."
+            },
+            {
+              "pc_code": "5.3",
+              "description": "Demonstrate appropriate responses to workplace disagreements."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ENGG/BS/003/L2",
+      "title": "Metal Preparation and Shaping",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understand metal preparation and shaping processes",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Explain the importance of proper metal preparation before shaping."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Explain shaping techniques and their applications."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Demonstrate metal preparation in blacksmithing (e.g., filing, grinding etc.)"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Select the appropriate tools and equipment for metal preparation and shaping",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Identify the tools and equipment required for metal preparation."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Demonstrate the safe use of shaping tools and equipment."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Select the appropriate tools for specific metal types and shaping tasks."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Perform metal shaping operations",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Explain bending techniques (e.g., hot bending and cold bending)."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Demonstrate twisting and coiling metal techniques."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Demonstrate forming techniques using hammering, pressing, and stretching."
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Demonstrate precision in measuring and marking out materials for shaping",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Use measurement tools (e.g., callipers, micrometres, measuring tapes) to accurately measure metal."
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Mark out shapes and patterns on metal surfaces using appropriate tools."
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Apply correct tolerances and allowances precise shaping."
+            }
+          ]
+        },
+        {
+          "lo_num": "5",
+          "description": "Apply different blacksmithing processes to achieve desired shapes",
+          "performance_criteria": [
+            {
+              "pc_code": "5.1",
+              "description": "Explain the following blacksmithing processes 4. Forging 5. Rolling 6. Casting etc."
+            },
+            {
+              "pc_code": "5.2",
+              "description": "Apply blacksmithing processes to achieve the required shape and finish."
+            },
+            {
+              "pc_code": "5.3",
+              "description": "Use heat treatment processes (e.g., hardening, annealing etc) to alter metal properties before shaping."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ENGG/BS/004/L2",
+      "title": "Forging Techniques",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understand the principles of forging and their applications",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Explain the principles of forging, including material properties under heat and stress."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Identify various types of forging operations used in blacksmithing."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Explain the benefits and limitations of different forging techniques."
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Explain where each of the forging techniques can be applied"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Select appropriate tools and materials for forging tasks",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Select the appropriate tools required for forging"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Select the appropriate materials based on forging requirements (e.g., steel, iron, alloys etc.)"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Set up heating method for a given material (e.g., gas forge, coal forge, induction heating)"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Perform forging operations",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Demonstrate the process of drawing down (lengthening) of metal by hammering."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Perform bending operations to form simple shapes."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Perform upset forging to increase the thickness of the metal at specific points."
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Demonstrate punch and drift forging techniques."
+            },
+            {
+              "pc_code": "3.5",
+              "description": "Use forging techniques to produce items such as hooks, hinges, or decorative items."
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Use heating methods to achieve desired forging LO (Learning Outcome) Criteria: - temperature",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Use various heating methods (e.g., gas forge, coal forge, induction heating) to achieve desired forging Evidence Ref Page Number temperatures."
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Control the temperature of metal during the forging process."
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Explain the importance of heating control and temperature range in achieving quality forged products."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ENGG/BS/005/L2",
+      "title": "Fabrication and Toolmaking",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understand the principles of tool making and component fabrication",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Explain the principles of toolmaking and component fabrication in blacksmithing (e.g., proper material selection, design and planning, heat treatment, tolerancing, surface finishing, quality control, etc.)."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Discuss the types of tools and components commonly fabricated in blacksmithing."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Apply the principles of tool making and component fabrication in blacksmithing."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Understand different types of metals and their alloys used in blacksmithing operation",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Explain different types of metals (ferrous and nonferrous) and their alloys (aluminium alloys, bronze, brass, high carbon steel, tungsten, etc.) used in blacksmithing operations"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Select appropriate metals for a given blacksmithing operation"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Use appropriate metals for a given blacksmithing operation"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Demonstrate finishing techniques for fabricated components",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Explain the importance of finishing in blacksmithing operations"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Explain the finishing techniques used in tool making and component fabrication, such as grinding, polishing, sharpening, etc."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Apply appropriate finishing techniques to ensure that tools and components meet the required specifications."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ENGG/BS/006/L2",
+      "title": "Welding and Joining Operations",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understand the principles of welding and joining operations in blacksmithing",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Explain the different welding and joining operations used in blacksmithing."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Explain different welding and joining techniques"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "State tools and equipment used for welding and joining in blacksmithing"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Describe the advantages and limitations of forge welding, arc welding, gas welding, riveting, brazing, etc, in blacksmithing operations."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Prepare materials and work pieces for welding and joining operations",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Prepare metal surfaces for welding and joining operations."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Set up work pieces before welding or joining operations."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Apply appropriate heat and pressure control techniques for effective welding and joining operations."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Demonstrate proficiency in various welding and joining operations",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Perform forge welding, arc welding, and gas welding operations."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Demonstrate different joining methods such as riveting and brazing."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Assess the strength and quality of welded and joined components."
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Apply finishing techniques to welded and joined components",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Explain the types of finishing operations required in blacksmithing."
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Use grinding, filing, and polishing techniques to improve welded joints."
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Inspect welded and joined components for structural integrity."
+            }
+          ]
+        },
+        {
+          "lo_num": "5",
+          "description": "Follow safety guidelines and best practices in welding and joining operations",
+          "performance_criteria": [
+            {
+              "pc_code": "5.1",
+              "description": "Identify common hazards and risks associated with welding and joining."
+            },
+            {
+              "pc_code": "5.2",
+              "description": "Demonstrate the proper use of PPE and welding safety equipment in compliance with safety regulations."
+            },
+            {
+              "pc_code": "5.3",
+              "description": "Apply fire prevention and other safety measures as well as first-aid measures in case of accidents in welding and joining operations."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ENGG/BS/007/L2",
+      "title": "Drawing for Blacksmithing",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understand Technical Drawings/sketches in Blacksmithing",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Explain the importance of technical drawings/sketches in blacksmithing"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Identify different types of drawings (e.g., orthographic, isometric, sectional)."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Explain the key elements of technical drawings (lines, symbols, dimensions)"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Interpret Symbols and Specifications in Drawings",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Interpret standard symbols and specifications used in blacksmithing drawings."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Read allowances, tolerances, and material specifications."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Explain the significance of scale and proportion in metalwork designs."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Develop Simple Sketches and Technical Drawings",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Create freehand sketches of blacksmithing designs."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Use measuring instruments (e.g., callipers, rulers) for accurate drawings."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Produce technical drawings based on given specifications."
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Apply Drawing Interpretation in Blacksmithing Projects",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Plan a blacksmithing project based on technical drawings."
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Interpret fabrication and assembly instructions from drawings."
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Modify or adapt existing designs to meet specific requirements"
+            }
+          ]
+        },
+        {
+          "lo_num": "5",
+          "description": "Use appropriate instruments in drafting and interpreting drawings.",
+          "performance_criteria": [
+            {
+              "pc_code": "5.1",
+              "description": "Identify drawing instruments, such as meter rule, square, compass, protractor, etc, used in carrying out blacksmithing drawing"
+            },
+            {
+              "pc_code": "5.2",
+              "description": "Carry out measurement using instruments in 5.1 above on a given task"
+            },
+            {
+              "pc_code": "5.3",
+              "description": "Interpret the measurements in 5.2 into the real product"
+            }
+          ]
+        },
+        {
+          "lo_num": "6",
+          "description": "Understand material specifications and their relevance to blacksmithing projects.",
+          "performance_criteria": [
+            {
+              "pc_code": "6.1",
+              "description": "Explain material specifications."
+            },
+            {
+              "pc_code": "6.2",
+              "description": "Explain types of materials used by blacksmith such as carbon steel, alloy steel, stainless steel etc."
+            },
+            {
+              "pc_code": "6.3",
+              "description": "Explain the relevance of material specification to the blacksmith project."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ENGG/BS/008/L2",
+      "title": "Tools and Equipment Maintenance",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understand the importance of regular maintenance of tools and equipment in blacksmithing",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Explain the role of maintenance in improving efficiency and tools longevity."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Identify common issues arising from poor tools maintenance."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Explain the cost implications of improper tools handling and maintenance"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Perform simple Troubleshooting and Minor Repairs on blacksmithing tools and equipment",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Identify faults in blacksmithing tools and equipment."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Carry out minor repair (e.g., sharpening chisels, fixing loose handles, etc.) on blacksmithing tools and equipment."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Explain when to seek professional repairs of tools and equipment."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Develop a Maintenance Schedule for Blacksmithing Tools and Equipment",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Create a routine maintenance schedule for different tools and equipment."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Maintain a logbook to track tools servicing and repairs."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Review and update maintenance schedules based on tool usage."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

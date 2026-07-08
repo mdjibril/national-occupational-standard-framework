@@ -1,0 +1,783 @@
+{
+  "trade_name": "(NSQ) PLUMBING",
+  "units": [
+    {
+      "code": "CON/PL001/L2",
+      "title": "COMMUNICATION IN PLUMBING WORK",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Know means of communication in plumbing.",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Define communication in Plumbing."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Explain two mode of communication."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "List 4 types of communication use in plumbing."
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Use oral means of communication in plumbing."
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Explain the equation of pipe laying to your client."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Communicate to the immediate job supervisor or customer, circumstances that affect the progress of work.",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Identify the circumstances that affect progress of installation."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Recognize line of communication."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Report simple instructions."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Use of Plumbing code and communication gadget.",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Identify basic plumbing codes."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Operate simple communication gadget"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Identify and use basic symbol to communicate."
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Record and carry out instruction."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "CON/PL002/L2",
+      "title": "TEAM WORK IN PLUMBING",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understand Positive working relationship with colleagues.",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Identify the need for developing positive working"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Recognize the importance of relating with other people in a way that makes them feel valued and respected."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Assist team members when required."
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Report to the appropriate personnel when request for assistance fall outside area of responsibility."
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Communicate information to colleagues about own work that might affect others."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Take responsibilities within the team.",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Recognize own role and responsibilities within the team."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Perform individual tasks in line with the team rules and regulations."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Participate effectively in teamwork."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Comply with policy of organization.",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Work in line with organizational standard."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Use organization code of practice."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Explain organizational code of conduct."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "CON/PL003/L2",
+      "title": "HEALTH AND SAFETY IN PLUMBING",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Determine Appropriate Resources For Installation.",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Perform simple and routine task using appropriate tools on site in line with health and safety practices in the building and construction industry."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Identify tools and equipment in a secure and friendly environment."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Select intended appropriate tools to yield result in safe environment."
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Use of tools and equipment in line with health and safety practices in the construction industry."
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Operate equipment based on approved health and safety practices."
+            },
+            {
+              "pc_code": "1.6",
+              "description": "Couple equipment after usage in line with approved health and safety practices in the building and construction industry."
+            },
+            {
+              "pc_code": "2.1",
+              "description": "Perform task based on health and safety procedures during work at heights."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Explain the use and content of first aid box."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Identify precautionary actions in a workshop."
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Identify systems or operations that cause accident and avoid them based on health and safety in the construction industry."
+            },
+            {
+              "pc_code": "2.5",
+              "description": "Use personal protective equipment such as head fall protector, foot protector, face and eye protector, hand and body protector and respiratory protector."
+            },
+            {
+              "pc_code": "3.1",
+              "description": "Explain precautionary symbols in order to prevent accident."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Sketch signs and symbols signifying danger to visitors and operators."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Sketch readable signs on systems components on appropriate methods of operations in line with health and safety standards."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "CON/PL004/L2",
+      "title": "WORK PLAN IN PLUMBING",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understand Plumbing specification.",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Plan a work sequence on accurate use of tools equipment in a given plumbing task."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Identify tools, plants, vehicles and equipment required to carry out plumbing task effectively."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Execute a workable and defined work plan that will enable effective management of equipment available for use in a construction site."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Demonstrate Plumbing Work Plan Development.",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Execute routine task to proper accurate estimate on work environment."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Plan an appropriate programme of works which will aid productivity"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Interpret plan that will aid effective coordination on construction site"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Demonstrate Work Plan Compliance.",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Sketch the work plan to aid routine task in a work environment."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Check the planned steps and out come to ensure conformity with instructions."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Deliver a plan of work for compliance in workplace"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "CON/PL005/L2",
+      "title": "CHECKING AND TESTING OF INSTALLATION",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Perform Quality Check on Installed Pipe Work and Component.",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Carry out checks on the installed pipe network to ascertain any loose joint (not water tight) on the network."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Identify any inferior pipes and fittings used for the installation. Perform quality checks on the installed components to identify any low quality components used for the installation."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Explain the advantages of using the high quality pipes and components."
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Check installation and correct position of component in line with designed specification."
+            },
+            {
+              "pc_code": "1.5",
+              "description": ""
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Types of test and procedure for testing leakage.",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Carry out hydrostatic test of the installed pipe network to ascertain whether there are leakages."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Perform testing on the appliances installed to full working capacity and in accordance with the working Standards and specifications."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Report to the immediate supervisor on the test carried out on the installation."
+            },
+            {
+              "pc_code": "3.1",
+              "description": "Cut opening in wall and floors to accommodate pipes and pipe fittings."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Locate faults through interpretation of information on system or component performance, visual inspection, checks, or diagnose of test."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Initiate action to take when the system or components does not work to full performance specification."
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Rectify fault in accordance with safety and work procedures in pipes and sanitary fixtures with minimum disruptions to customers and routine services."
+            },
+            {
+              "pc_code": "3.5",
+              "description": "Assemble parts requiring maintenance or replacement."
+            },
+            {
+              "pc_code": "3.6",
+              "description": "Carry out Maintenance or fault in accordance with safety and work place procedure."
+            },
+            {
+              "pc_code": "3.7",
+              "description": "Locate and mark positions for pipe connection."
+            },
+            {
+              "pc_code": "3.8",
+              "description": "Test pipes for leaks using Air and heater pressure gauge."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "CON/PL006/L2",
+      "title": "USE OF BASIC POWER TOOLS",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understand Basic power tools.",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Identify various types of power tools."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Select power tools that can be used for cutting wall and floor openings."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Demonstrate safety procedures in handling power tools"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Demonstrate Basic power tools operation.",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Specify power tools according to standard, workshop procedure and manufacturers specification."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Test power tools after installation before full operation."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Operate power tools in accordance to manufacturer\u2019s recommendation."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Maintain Basic Power Tools",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Identify unsafe and faulty power tools."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Analyze fault and defects of power tools"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Repair faulty and defective power tools"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "CON/P007/L2",
+      "title": "BASIC MATHEMATICAL SKILL IN PLUMBING",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understand Simple Mathematical solutions",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Identify the four signs of addition, subtraction, multiplication and division."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Solve mathematical problems using proportions."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Solve mathematical problems involving percentage."
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Solve mathematical problems involving numerical expression."
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Explain set-squares use in making plumbing angles."
+            },
+            {
+              "pc_code": "1.6",
+              "description": "Mention 2 types of set-squares i.e 45\u2019, 30\u2019/60\u2019 set-squares"
+            },
+            {
+              "pc_code": "1.7",
+              "description": "Identify the 3 basic construction of angles i.e Bisect"
+            },
+            {
+              "pc_code": "1.8",
+              "description": "Use drawing procedures and draw 90\u2019 and 135\u2019 bend to 100mm radius."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Demonstrate Measurement in Plumbing Work.",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Explain measurement in Plumbing Work."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Identify types of plumbing measuring tools."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Explain 5 application of measurement in plumbing work."
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Use appropriate tools to measure, pressure, angles and length."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Demonstrate the understanding of Unit Systems",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Identify imperial unit system."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Identify metric unit system."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Convert the imperial unit to metric unit systems."
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Convert metric to imperial unit systems."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "C0N/PL008/L2",
+      "title": "PIPING IN PLUMBING",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understand different types of pipes and fittings",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Recognize different types of pipes, differentiate between domestic and industrial pipes"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Identify 5 different types of fittings, used for domestic industrial work."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Mention the advantages and disadvantages of different pipes for domestic and industrial"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Use an appropriate fittings to connect water supply pipe 25mm diameter to Bath tub and wash hand basin"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Demonstrate pipe joining",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Select necessary tools and materials required for the job."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Carry out preparatory work for joining 3 pieces of 300mm (12 inch) length pipes each and fittings to form a u shape joint by measuring, cutting, and threading."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Carry out Joints by using the following: a) Two pieces of 20mm diameter Galvanized pipe and 20mm diameter Gate valve. b) Three pieces of 13mm diameter plastic pipes using 13mm diameter gate valve, Tee, Elbow and Tap."
+            },
+            {
+              "pc_code": "3.1",
+              "description": "Using simple plan sketch of a toilet, identify correct position and location for plumbing fixtures to conform to the system design requirement."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Assembling and disassembling of plumbing fixtures using method that conform to industry requirements"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Use your simple sketch of toilet to properly install a 30 liter water heater."
+            },
+            {
+              "pc_code": "4.1",
+              "description": "Take actions to prevent unauthorized use of un commissioned systems"
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Carryout pressure test on the install system component using any testing method."
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Perform repairs on any identified leak joint that occur during testing."
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Explain the importance of pressure testing on an install system component."
+            },
+            {
+              "pc_code": "4.5",
+              "description": "Mention 3 precautionary actions to prevent unauthorized use of components."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "CON/PL009/L2",
+      "title": "INSTALLATION OF DOMESTIC PLUMBING SYSTEMS.",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Interpret a Basic Building Drawing.",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Identify and explain various type of Building plan."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Recognize various symbols used in Architectural and Mechanical drawing."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Identify the different plumbing drawing in a plan."
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Set out mechanical building drawing."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Demonstrate Domestic Pipe Laying.",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Make a sketch/line diagram of pipe lay out."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Identify the tools and equipment to be used."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Estimate material to be used."
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Perform cutting operation of pipe according to sketch in line diagram."
+            },
+            {
+              "pc_code": "2.5",
+              "description": "Perform by installation of pipe network (measuring, cutting, threading, sealing and connect) in line with safety measures."
+            },
+            {
+              "pc_code": "2.6",
+              "description": "Identify three type of sealant in plumbing system."
+            },
+            {
+              "pc_code": "2.7",
+              "description": "Carry out pressure test in pipe connected and amend where necessary."
+            },
+            {
+              "pc_code": "2.8",
+              "description": "Conceal the pipe work with sand and cement moter."
+            },
+            {
+              "pc_code": "2.9",
+              "description": "Observe safety measure in pipe layout."
+            },
+            {
+              "pc_code": "3.1",
+              "description": "Identify connect tools and equipment to install choosing sanitary ware."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Estimate material to be used for choosing sanitary ware."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Assemble the chosen sanitary ware according to specification."
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Install choose sanitary according to specification."
+            },
+            {
+              "pc_code": "3.5",
+              "description": "Test run installed choose sanitary ware and amend where necessary."
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Understand tools and equipment for trouble shooting",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Identify tools and equipment for trouble shooting."
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Identify procedures that comply with industrial code of practice trouble shooting"
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Locate and recognize clear detail information of faulty sanitary ware installation for trouble shooting"
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Carryout trouble shooting procedure to repair the system"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "CON/PL010/L2",
+      "title": "PLUMBING SANITARY WARES",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understand knowledge on Toilet Bowls, Squat, Wall hung and Closed couple.",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Explain toilet sanitary wares."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Enumerate components of toilet bowls i.e: \uf0b7 Flush cistern cover, \uf0b7 Flushing cistern (tank), \uf0b7 Toilet seat cover, \uf0b7 Toilet seat rim, \uf0b7 Water drain handle, \uf0b7 Hydraulic shower, \uf0b7 Float valve, \uf0b7 Siphon and \uf0b7 Trap."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Describe 4 different types of toilet wares i.e: \uf0b7 Bowls, \uf0b7 Squat, \uf0b7 Wall attached toilets."
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Locate 3 types of toilet release in to the sewage system i.e: \uf0b7 Horizontal out let, \uf0b7 Vertical out let and \uf0b7 Oblique release."
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Sketch the different types of a toilet flush i.e: \uf0b7 Direct flush and \uf0b7 Pivot flush"
+            },
+            {
+              "pc_code": "1.6",
+              "description": "Explain smart toilet and its functions i.e: \uf0b7 Built in bidet function, \uf0b7 Heated seat, \uf0b7 Adjustable automatic seat cover, automatic spraying of air freshener, and \uf0b7 Irradiation of inner surface of the toilet with ultraviolet light."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Demonstrate knowledge of standard sink.",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Explain sink used in plumbing work."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Draw and level different types of sink used in plumbing work i.e: \uf0b7 Sink made of stainless steel, \uf0b7 Granite, \uf0b7 Ceramics, \uf0b7 Marble and \uf0b7 Plastic."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Outline the components of the standard sink set i.e: \uf0b7 Mixer of hot and cold, \uf0b7 A hole for overflow system, \uf0b7 Bowl, \uf0b7 Siphon (water trap) and \uf0b7 Off set into the sewer."
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Enumerate sink installation type i.e: \uf0b7 Wall mount, \uf0b7 Foot stall and \uf0b7 Overhead."
+            },
+            {
+              "pc_code": "2.5",
+              "description": "Use the operational step to assemble and mount foot stall sink."
+            },
+            {
+              "pc_code": "2.6",
+              "description": "Quality checks to the mounted foot stall sink and amend where necessary."
+            },
+            {
+              "pc_code": "3.1",
+              "description": "Explain bath tub"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Identify products of bath tub i.e: \uf0b7 Metals, \uf0b7 Plastic, \uf0b7 Ceramic, \uf0b7 Acrylic and \uf0b7 Evenglass"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Enumerate 4 types of bath tub installation."
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Select a bath installation tools and equipment i.e: \uf0b7 Silica sealant, \uf0b7 Bath siphon with over flow, \uf0b7 Plumb level and \uf0b7 Pliers."
+            },
+            {
+              "pc_code": "3.5",
+              "description": "Explain shower area or shower cabins."
+            },
+            {
+              "pc_code": "3.6",
+              "description": "Enumerate 3 shapes of shower cabins. S/NO. NAME ADDRESS E-MAIL ADDRESS PHONE NUMBER 1. Oresanya Adeyemi Sakiru Universal Learner Direct Academy. 70, Adisa Ajibulu Street Oshodi, Lagos. ozonebaba521@gmail.com 08053536803 2. Uba Muhammad Ibrahim State Universal Basic Education Board, Fagge LGEA Kano. ubamuibrah@gmail.com 08038649171 3. Moses Otsayi Obande CORBON Anambra State. Representing Abuja. mosesobande2@gmail.com 08033886816 NBTE STAFF Prof. Idris M. Bugaje N.B.T.E. Kaduna es@nbte.org.ng Engr. Usman J. Danjuma ujdanjuma@gmail.com 08033638667 Engr. Bashir Datti bashirdatti@gmail.com 08032886231 4. Jummai Haruna Secretary zagizagibaby@gmail.com 08065323169"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

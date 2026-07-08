@@ -1,0 +1,847 @@
+{
+  "trade_name": "(NSQ) ELECTRICAL INSTALLATION, MAINTENANCE AND REPAIRS",
+  "units": [
+    {
+      "code": "CON/EI/001/L2",
+      "title": "Communication in a Work Environment",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Develop effective workplace communication systems",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Use verbal communication clearly and professionally"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Recognize workplace symbols and signs"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Process instructions accurately from supervisors"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Communicate with subordinates effectively."
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Maintain professional communication with colleagues and clients."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Determine the source of information in a work environment",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Locate the source of information in a work environment."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Relate appropriately with sources of information."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Compare information from different sources to validate data"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Use information to avoid challenges in a work situation."
+            },
+            {
+              "pc_code": "2.5",
+              "description": "Report findings in accordance with procedure in a work environment."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Demonstrate proficiency in the use of communication means in a work environment.",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Locate the various communication equipment in the work environment."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Operate effectively the various communication equipment in a work environment."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Communicate information effectively using symbols, signs and codes."
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Communicate information effectively to the right personnel."
+            },
+            {
+              "pc_code": "3.5",
+              "description": "Comply with instruction in line with the ethics of the work environment."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "CON/EI/002/L2",
+      "title": "Occupational Health, Safety and Environmental Requirements",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Recognize personal health and hygiene",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Demonstrate the proper use of personal protective equipment (PPE)."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Use personal protective equipment (PPE). Appropriately"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Report workplace injuries, illness, and infection promptly to the appropriate person"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Work safely at all times, complying with health, safety and other relevant regulations and guidelines"
+            },
+            {
+              "pc_code": "1.5",
+              "description": "State the importance of maintaining good personal hygiene"
+            },
+            {
+              "pc_code": "1.6",
+              "description": "Address workplace injuries appropriately"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Maintain a hygienic, safe and secure workplace",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Implement health, hygiene, and safety procedures at the workplace"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Implement emergency response procedures in a simulated environment"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Follow organizational security procedures"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Maintain tools and equipment in line with organizational standards"
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Prevent hazards and maintain a safe and secure workplace Evidence Ref Page Number",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Detect any hazard or potential hazard in a workplace"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Implement corrective actions to eliminate identified hazards"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Use specialized safety equipment correctly"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Report safety incidents accurately"
+            },
+            {
+              "pc_code": "3.5",
+              "description": "Describe the consequences of accidents and near accidents in the work environment"
+            },
+            {
+              "pc_code": "3.6",
+              "description": "Describe the organizational procedures during emergencies"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "CON/EI/003/L2",
+      "title": "Teamwork",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Demonstrate Positive working relationships with colleagues",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Explain the importance of building positive team relationships in a technical environment."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Identify key roles and responsibilities within the team."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Assist team members when required"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Communicate directives and information to subordinates with respect"
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Communicate information to colleagues about own work that might affect others"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Recognize responsibilities within the team",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Recognize own role and responsibilities within the team"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Accept individual roles in team projects"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Participate effectively in teamwork"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Execute assigned tasks accurately under team protocols"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Comply with the organizational policy",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Operate in full compliance with organizational policies"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Use organizational code of conduct to guide decision making"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Communicate information to colleagues in compliance with policy of the organization"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Maintain accurate records as required by organizational procedures"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "CON/EI/004/L2",
+      "title": "Types of Wiring in Electrical Installation",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Differentiate types of Wiring Methods",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Identify types of wiring methods"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Select the right type of wiring for a particular installation."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Select and use appropriate materials for a particular wiring method."
+            },
+            {
+              "pc_code": "1.4",
+              "description": "State the advantages and disadvantages of different types of wiring methods."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Carryout Surface Wiring in domestic installation",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Work safely at all times, complying with necessary health and safety regulation."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Carryout surface wiring methods in electrical installation."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Sketch a surface wiring diagram"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Demonstrate the use of appropriate tools and equipment for surface wiring."
+            },
+            {
+              "pc_code": "2.5",
+              "description": "Carryout wiring in a sequential order using appropriate tools and techniques"
+            },
+            {
+              "pc_code": "2.7",
+              "description": "Carry out test of the completed surface wiring using the appropriate instrument."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Carryout Conduit Wiring in domestic installation",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Always Work safely, complying with necessary health and safety regulations."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Describe conduit wiring methods in electrical installation."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Sketch a conduit wiring diagram."
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Identify the materials and accessories used in conduit wiring."
+            },
+            {
+              "pc_code": "3.5",
+              "description": "Demonstrate the use of appropriate tools and equipment for conduit wiring"
+            },
+            {
+              "pc_code": "3.6",
+              "description": "Carryout conduit wiring in a sequential order using appropriate tools and techniques"
+            },
+            {
+              "pc_code": "3.7",
+              "description": "Carry out tests of completed conduit wiring using the appropriate instrument."
+            },
+            {
+              "pc_code": "4.1",
+              "description": "Always Work safely, complying with necessary health and safety regulations."
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Describe trunking methods in electrical installation."
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Sketch a trunking wiring diagram"
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Demonstrate the use of appropriate tools and equipment for trunking wiring."
+            },
+            {
+              "pc_code": "4.5",
+              "description": "Identify the materials and accessories used in a trunking wiring system."
+            },
+            {
+              "pc_code": "4.6",
+              "description": "Carryout trunking in a sequential order using appropriate tools and techniques"
+            },
+            {
+              "pc_code": "4.7",
+              "description": "Carry out tests of the completed trunking wiring system using appropriate instruments."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "CON/EI/005/L2",
+      "title": "Domestic Installations I",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Install lighting circuits in a domestic installation",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Assemble lighting circuits using proper tools and techniques"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Interpret relevant lighting circuit diagrams to carry out required work."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Identify different lighting circuits applications."
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Identify typical connections of lighting equipment in a building."
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Select appropriate lighting circuit fittings based on technical specifications"
+            },
+            {
+              "pc_code": "1.6",
+              "description": "Install lighting circuit based on the circuit diagram complying with industry best practice"
+            },
+            {
+              "pc_code": "1.7",
+              "description": "Carry out tests of the completed lighting circuit installation using appropriate instruments."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Install power circuits in domestic installation",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Assemble power circuits using appropriate tools and techniques"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Identify relevant lighting circuit diagrams to carry out required work."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Identify different power circuit applications."
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Identify typical connections of power equipment in a building."
+            },
+            {
+              "pc_code": "2.5",
+              "description": "Select appropriate power circuit components and fittings based on technical specifications"
+            },
+            {
+              "pc_code": "2.6",
+              "description": "Install power circuit based on the circuit diagram complying with industry best practice"
+            },
+            {
+              "pc_code": "2.7",
+              "description": "Carry out tests of the completed lighting circuit installation using appropriate instruments."
+            },
+            {
+              "pc_code": "3.1",
+              "description": "Observe the safety regulations on inspection of domestic installation."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Carry out visual inspection on all connections made on domestic installation."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Identify defects, loose contacts, and abnormal joints in the installation."
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Demonstrate tightening of all loose contacts and joints."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "CON/EI/006/L2",
+      "title": "Protective Devices: Installation and Operation",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Differentiate types of Protective Devices",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Identify common protective devices used in electrical installations."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Locate protective devices in an electrical circuit."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Select the appropriate size and type of protective device for a particular installation."
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Identify causes of abnormal conditions in electrical installations."
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Sketch the symbols of protective devices in electrical circuits."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Describe the uses of Protective Devices",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Identify different methods of protecting electrical installations"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Outline the uses of protective devices in electrical installations"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "State the advantages and disadvantages of the following protective device. (i) Fuse (ii) Circuit breakers"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Install and operate Protective Devices",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Differentiate between current- operated and voltage-operated protective devices."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Assemble protective devices using correct procedures"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Carry out the installation of protective devices in accordance with safe working practices."
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Operate protective devices in line with approved standards."
+            },
+            {
+              "pc_code": "3.5",
+              "description": "Distinguish between the operation of a fuse and a circuit breaker."
+            },
+            {
+              "pc_code": "4.1",
+              "description": "Identify appropriate instruments used for troubleshooting protective devices in electrical installations"
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Test the operation of protective devices in an installation."
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Identify abnormal conditions in protective devices"
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Test protective devices to confirm proper operation"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "CON/EI/007/L2",
+      "title": "Cable: Types, Selection, Jointing and Termination",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Install electrical cables",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Identify types of cables, their ratings and applications"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Select appropriate cable for a specific installation."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Identify different methods of laying electrical cables."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Carryout Jointing and termination electrical cables",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Identify basic tools and materials used in cable jointing."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Carry out jointing of different cables in accordance with relevant safe work practices."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Terminate cables using appropriate techniques."
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Demonstrate safe handling and installation practices."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Test and troubleshoot Electrical Cables",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Identify causes of cable faults."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Select appropriate equipment for cable fault location."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Use appropriate methods for cable fault location."
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Use appropriate testing instruments to carry out tests on cables and conductors"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "CON/EI/008/L2",
+      "title": "Testing Electrical Systems, Equipment, and Components",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understand Safety Regulations for Testing Electrical systems",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "State safety regulations related to electrical testing."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Outline the safety regulations in handling testing instruments."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Explain the importance of using personal protective equipment while carrying out testing."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Test electrical systems",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Identify instruments used for continuity, polarity, and insulation tests"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Inspect the instruments to confirm their functionality"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Demonstrate continuity test using standard procedures."
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Demonstrate polarity testing using standard procedures."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Record and report Test results",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Record test results in a clear and organized format"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Compare test results against regulatory standards"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Communicate findings through formal test reports"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Maintain records of test results for future reference"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "CON/EI/009/L2",
+      "title": "Lighting Systems/Illumination",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understand Fundamentals of Lighting Systems",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "List types of lighting systems."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Explain illumination concepts (luminous intensity, lumen, lux)"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Sketch simple diagrams lighting points in a given installation."
+            },
+            {
+              "pc_code": "1.4",
+              "description": "State the safety requirements in lighting installations"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Install Lighting Systems",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Identify materials, accessories and equipment required to carry out the installation of illumination devices effectively."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Identify the most appropriate lighting system for a given area e.g. hospital, library, sports complex disco hall, etc."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Assemble lighting fixtures using the appropriate methods"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Install lighting systems in accordance with electrical installation standards and regulations"
+            },
+            {
+              "pc_code": "2.5",
+              "description": "Test the installed lighting systems to proper functioning."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Lighting systems maintenance",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Identify faults in lighting system."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Identify the possible causes of lighting faults."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Carryout different test to determine faults in lighting systems."
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Carryout maintenance on lighting systems."
+            },
+            {
+              "pc_code": "3.5",
+              "description": "Record and report lighting system performance."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "CON/EI/010/L2",
+      "title": "Installation of Fire Alarm Systems in Buildings",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Comply with the Safety Regulations and Guidelines in Fire alarm Installation",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "State statutory and industry safety regulations for fire alarm installations."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Comply with statutory and industry safety regulations for fire alarm installations."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Recognize proper fire alarm codes and standards."
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Identify MCBs used for fire alarm systems sub-circuits in the Distribution Board (DB)"
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Explain the guidelines governing fire alarm system installation."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Prepare for the Installation of the fire alarm system",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Identify types of alarm systems."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Distinguish the operation of different alarm systems."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Describe the operation of a fire alarm system."
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Determine the optimal locations for fire alarm placement."
+            },
+            {
+              "pc_code": "2.5",
+              "description": "Develop a detailed installation plan for a fire alarm system"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Install and test Fire alarm system",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Use necessary tools to install fire alarm equipment and components in line with system installation, relevant regulations, and code of practice"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Verify the installation in line with the industry's best practice"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Carry out tests to confirm the functionality of the system and component"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
