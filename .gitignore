@@ -25,3 +25,5 @@ Thumbs.db
 *.log
 *.tmp
 *.bak
+worker/extracted_json/
+worker/extracted_text/

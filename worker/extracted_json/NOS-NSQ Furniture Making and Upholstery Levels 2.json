@@ -2,6 +2,1144 @@
   "trade_name": "FURNITURE MAKING",
   "units": [
     {
+      "code": "CON/FWK/001/L2",
+      "title": "Health and Safety in Furniture Making",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Know work practices and instruction in work environment",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Demonstrate safe working practice in furniture making industry"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Apply safe work practice in accordance with company safety guides"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Apply safe work practices when carrying out a given task"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Follow safe methods and procedures of work practices"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Know Safety hazards and risks in the work environment",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Recognize safety signs and symbols in the work environment"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Recognize potential hazards and risks in the work environment"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Recognize potential hazards and risks in surface, height and depth areas"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Take appropriate action to prevent accident/ injury"
+            },
+            {
+              "pc_code": "2.5",
+              "description": "Carry out safety drills"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Know the use of appropriate PPE",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Recognize types of PPE and their uses"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Wear appropriate PPE correctly"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Ensure strict compliance with safety regulation instructions"
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Know appropriate actions in case of personal accident/ injury",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Demonstrate appropriate methods of lifting techniques for heavy materials"
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Carryout proper stacking of wood method and procedures"
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Demonstrate the application of manual lifting techniques for heavy materials"
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Apply safe work practices and procedures in work environment"
+            }
+          ]
+        },
+        {
+          "lo_num": "5",
+          "description": "Know work safely and maintain clean work environment",
+          "performance_criteria": [
+            {
+              "pc_code": "5.1",
+              "description": "Provide Health and Safety information of workplace safety policy"
+            },
+            {
+              "pc_code": "5.2",
+              "description": "Explain the importance of health and safety furniture making industry"
+            },
+            {
+              "pc_code": "5.3",
+              "description": "Identify the effects of noncompliance with safety guidelines"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "CON/FWK/002/L2",
+      "title": "Communication Skills in a Furniture making industry",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Know complex communication system in furniture making industry",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Demonstrate the use of electronic devices to pass on necessary information"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Demonstrate simple nonverbal means of communication in furniture making industry"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Interpret concepts of symbols and signs in furniture making industry appropriately"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Know the sources of information in furniture making industry",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Identify sources of information in furniture making industry"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Carryout a task using a source of information in furniture making industry"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Ensure proper documentation of information in accordance with standard procedure in in furniture making industry"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Ensure prompt retrieval of information in accordance with standard procedure in furniture making industry"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Know various communication means in furniture making industry",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Ensure the accessibility of the communication equipment"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Describe the effective use of the various communication channels in furniture making industry"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Ensure effective information flow to the right personnel"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Ensure effective deployment of the use of symbols, signs and codes"
+            },
+            {
+              "pc_code": "3.5",
+              "description": "Ensure that instructions are complied with and disseminated in line with the ethics of the work environment"
+            },
+            {
+              "pc_code": "3.6",
+              "description": "Ensure that instructions are disseminated in line with the ethics of the work environment"
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Know regular maintenance of communication equipment",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Ensure that communication equipment are in good working condition"
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Liaise with the maintenance unit to ensure that equipment are maintained regularly"
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Ensure appropriate storage of communication equipment in furniture making industry"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "CON/FWK/003/L2",
+      "title": "Teamwork",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Know positive working relationship with colleagues",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Recognize the need for developing positive working relationship with colleagues"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Recognize the importance of relating with other people"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Assist team members when required"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Report to appropriate personnel when request for assistance fall outside area of responsibility"
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Communicate information to colleagues about own work that might affect theirs"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Know responsibilities within the team",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Recognize own role and responsibilities within the team"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Perform individual tasks within the team\u2019s rules and regulations"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Participate effectively in team work"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Know compliance with organizational policies",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Explain organizational code of conduct"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Use organizational codes of practice"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Work in line with organizational standards"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "CON/FWK/004/L2",
+      "title": "Portable Power Tools and Machines",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Know basic portable power tools used in furniture making",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Explain portable power tools used in furniture making"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Identify types of portable power tools used in furniture making"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Recognize appropriate portable power tools for related work"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Select the appropriate portable power tools for a given task"
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Determine the use of different types of portable power tools"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Return portable power tools for appropriate storage"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Know different operations of portable power saw",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Identify portable power saw"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Identify safety precautions in the use of power saw"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Recognize parts of a portable power saw"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Recognize the function of each part of a portable power saw"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Set the fence of portable power saw for ripping operation"
+            },
+            {
+              "pc_code": "2.5",
+              "description": "Carry out ripping operation"
+            },
+            {
+              "pc_code": "2.6",
+              "description": "Set the required distance for rebating operation with a portable power saw"
+            },
+            {
+              "pc_code": "2.7",
+              "description": "Set the required depth of cut for rebating operation with a portable power saw"
+            },
+            {
+              "pc_code": "2.8",
+              "description": "Carry out rebating operation"
+            },
+            {
+              "pc_code": "2.9",
+              "description": "Set fence for cross cutting operation"
+            },
+            {
+              "pc_code": "2.10",
+              "description": "Carry out cross cutting operation"
+            },
+            {
+              "pc_code": "2.11",
+              "description": "Perform grooving operation with a portable power saw"
+            },
+            {
+              "pc_code": "2.12",
+              "description": "Carryout maintenance and safe keeping of portable power saw"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Know the operations of portable power planer",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Identify portable power planer"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Identify safety precaution in the use of portable power planer"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Recognize parts of a portable power planer"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "State the function of each part of a portable power planer"
+            },
+            {
+              "pc_code": "3.5",
+              "description": "Set planer blade for surfacing"
+            },
+            {
+              "pc_code": "3.6",
+              "description": "Carry out surfacing operation"
+            },
+            {
+              "pc_code": "3.7",
+              "description": "Carry out jointing operation"
+            },
+            {
+              "pc_code": "3.8",
+              "description": "Set planer for rebating operation"
+            },
+            {
+              "pc_code": "3.9",
+              "description": "Carry out rebating operation with a portable power planer"
+            },
+            {
+              "pc_code": "3.10",
+              "description": "Set planer for chamfering operation"
+            },
+            {
+              "pc_code": "3.11",
+              "description": "Carry out chamfering operation"
+            },
+            {
+              "pc_code": "3.12",
+              "description": "Perform routine maintenance on power planer blade"
+            },
+            {
+              "pc_code": "3.13",
+              "description": "Return power planer for proper storage"
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Know operations of a portable jig saw",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Identify portable jig saw"
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Identify safety precaution in the use of portable jig saw"
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Identify parts of a portable jig saw"
+            },
+            {
+              "pc_code": "4.4",
+              "description": "State the functions of each part of a portable jig saw"
+            },
+            {
+              "pc_code": "4.5",
+              "description": "Carry out curve cutting operations on wood"
+            },
+            {
+              "pc_code": "4.6",
+              "description": "Perform routine maintenance on portable power jig saw"
+            },
+            {
+              "pc_code": "4.7",
+              "description": "Return portable jig saw for appropriate maintenance and storage"
+            }
+          ]
+        },
+        {
+          "lo_num": "5",
+          "description": "Know the operations of portable power sander",
+          "performance_criteria": [
+            {
+              "pc_code": "5.1",
+              "description": "Identify portable power sander"
+            },
+            {
+              "pc_code": "5.2",
+              "description": "Identify safety precaution in the use of portable power sander"
+            },
+            {
+              "pc_code": "5.3",
+              "description": "Identify parts of portable power sander"
+            },
+            {
+              "pc_code": "5.4",
+              "description": "State the functions of each part of a portable power sander"
+            },
+            {
+              "pc_code": "5.5",
+              "description": "Carry out sanding operation on wood"
+            },
+            {
+              "pc_code": "5.6",
+              "description": "Carry out routine maintenance on portable power sander"
+            },
+            {
+              "pc_code": "5.7",
+              "description": "Return portable power sander to store for proper storage"
+            }
+          ]
+        },
+        {
+          "lo_num": "6",
+          "description": "Know operations of portable power drill",
+          "performance_criteria": [
+            {
+              "pc_code": "6.1",
+              "description": "Identify portable power drill"
+            },
+            {
+              "pc_code": "6.2",
+              "description": "Identify safety precaution in the use of portable power drill"
+            },
+            {
+              "pc_code": "6.3",
+              "description": "Identify parts of portable power drill"
+            },
+            {
+              "pc_code": "6.4",
+              "description": "State the functions of each part of a portable power drill"
+            },
+            {
+              "pc_code": "6.5",
+              "description": "Prepare and bore a stopped hole with a portable power drill"
+            },
+            {
+              "pc_code": "6.6",
+              "description": "Prepare and bore a through holes with a portable power drill"
+            },
+            {
+              "pc_code": "6.7",
+              "description": "Perform operations with different types of bits"
+            },
+            {
+              "pc_code": "6.8",
+              "description": "Perform maintenance on portable power drill"
+            },
+            {
+              "pc_code": "6.9",
+              "description": "Return portable power drill to store for appropriate storage"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "CON/FWK/005/L2",
+      "title": "Furniture Making Materials II",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Know types of wood finish",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Identify types of wood finish"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Select the appropriate finish for a particular job"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Distinguish the characteristics of different finishing materials"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Carry out the process of preparation of surface for application of finishes"
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Apply stain using brush"
+            },
+            {
+              "pc_code": "1.6",
+              "description": "Apply sanding sealer with a brush"
+            },
+            {
+              "pc_code": "1.7",
+              "description": "Apply varnish using spray equipment"
+            },
+            {
+              "pc_code": "1.8",
+              "description": "Apply safety precaution in the application of finishing materials"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Know wood processing method",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Identify different methods of processing wood"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Carry out laminating process"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Apply veneer to wood surfaces and edges"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Apply wax to wood surface"
+            },
+            {
+              "pc_code": "2.5",
+              "description": "Carry out bleaching to lighten the colour of wood"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Know types of wood fasteners",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Identify different types of wood fasteners"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Distinguish mechanical from non- mechanical fasteners"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Differentiate types of wood fasteners"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Select the appropriate fastener for a job"
+            },
+            {
+              "pc_code": "3.5",
+              "description": "Use screw nail following the right procedure"
+            },
+            {
+              "pc_code": "3.6",
+              "description": "Install bolt and nut in the appropriate place"
+            },
+            {
+              "pc_code": "3.7",
+              "description": "Mark out material for dowel holes"
+            },
+            {
+              "pc_code": "3.8",
+              "description": "Install dowels following the right procedures"
+            },
+            {
+              "pc_code": "3.9",
+              "description": "Prepare surfaces for application of epoxy"
+            },
+            {
+              "pc_code": "3.10",
+              "description": "Apply contact glue to bond wood and other materials"
+            },
+            {
+              "pc_code": "3.11",
+              "description": "Prepare surfaces for application of wood glue"
+            },
+            {
+              "pc_code": "3.12",
+              "description": "Apply glue to bond wood surfaces"
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Know different types of furniture fittings",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Identify different types of catches"
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Select the right type of catch for a particular job"
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Install a suitable catch on a drawer"
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Identify different types of decorative fittings"
+            },
+            {
+              "pc_code": "4.5",
+              "description": "Select a suitable handle for a given job"
+            },
+            {
+              "pc_code": "4.6",
+              "description": "Install a suitable handle for a drawer"
+            },
+            {
+              "pc_code": "4.7",
+              "description": "Select a suitable fitting as table legs"
+            },
+            {
+              "pc_code": "4.8",
+              "description": "Install fittings as table legs"
+            },
+            {
+              "pc_code": "4.9",
+              "description": "Recognize different types of security fittings"
+            },
+            {
+              "pc_code": "4.10",
+              "description": "Install a suitable drawer lock"
+            },
+            {
+              "pc_code": "4.11",
+              "description": "Install a suitable latch on a locker door"
+            },
+            {
+              "pc_code": "4.12",
+              "description": "Use appropriate tools in fixing furniture fittings"
+            },
+            {
+              "pc_code": "4.13",
+              "description": "Observe safety rules when fixing furniture fittings"
+            },
+            {
+              "pc_code": "4.14",
+              "description": "Return tools to store for proper storage"
+            }
+          ]
+        },
+        {
+          "lo_num": "5",
+          "description": "Know different types of hinges",
+          "performance_criteria": [
+            {
+              "pc_code": "5.1",
+              "description": "Recognize different types of hinges"
+            },
+            {
+              "pc_code": "5.2",
+              "description": "Install hinges on a furniture item"
+            },
+            {
+              "pc_code": "5.3",
+              "description": "Fix hinges"
+            },
+            {
+              "pc_code": "5.4",
+              "description": "Observe safety in the installation of hinges"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "CON/FWK/006/L2",
+      "title": "Wood Finishing II",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Know Surface preparation for finishing",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Identify different grades of sand paper"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Carry out sanding process on a piece of wood"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "State the importance of using sanding block"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Cary out scraping on a piece of work"
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Select a suitable grade of sandpaper"
+            },
+            {
+              "pc_code": "1.6",
+              "description": "Use different grades of sandpaper"
+            },
+            {
+              "pc_code": "1.7",
+              "description": "Recognize the use of wire brush in furniture making"
+            },
+            {
+              "pc_code": "1.8",
+              "description": "Use wire brush to remove old finishes"
+            },
+            {
+              "pc_code": "1.9",
+              "description": "Use wire brush to clean wood surfaces"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Know the application of finishes with brush",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Identify any two methods of applying finishes"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Carry out preparation to apply finishing materials with brush"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Mix finishing material to the right consistency"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Apply all safety precautions for application of finishing materials"
+            },
+            {
+              "pc_code": "2.5",
+              "description": "Apply finishes with brush"
+            },
+            {
+              "pc_code": "2.6",
+              "description": "Clean brush and container after use"
+            },
+            {
+              "pc_code": "2.7",
+              "description": "Store brush and container appropriately"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Know the application of finishing materials with spray equipment",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Carry out preparations for application of finishes with spray equipment"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Observe safety precautions associated with spray equipment"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Apply finishes with spray equipment"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Clean spray gun"
+            },
+            {
+              "pc_code": "3.5",
+              "description": "Carry out appropriate housekeeping"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "CON/FWK/007/L2",
+      "title": "Introduction to basic upholstery",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Know Basic upholstery forms, tools and materials",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Identify material for basic upholstery platforms"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Identify types of wood for platform construction"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Identify different webbing Materials"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Identify different padding or stuffing materials"
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Identify different covering materials"
+            },
+            {
+              "pc_code": "1.6",
+              "description": "Identify basic tacking materials"
+            },
+            {
+              "pc_code": "1.7",
+              "description": "Identify different types of chair legs"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Know basic upholstery tools",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Identify basic upholstery tools"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Identify different upholstery power tools"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Identify measuring and marking tools"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Distinguish different upholstery specialty tools"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Know construct traditional upholstery",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Identify traditional upholstery platform"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Identify materials for traditional upholstery platform"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Select suitable wood for traditional platform"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Measure material for platform"
+            },
+            {
+              "pc_code": "3.5",
+              "description": "Cut material to required size and shape"
+            },
+            {
+              "pc_code": "3.6",
+              "description": "Select webbing material for traditional upholstery"
+            },
+            {
+              "pc_code": "3.7",
+              "description": "Fix webbing material"
+            },
+            {
+              "pc_code": "3.8",
+              "description": "Select suitable padding material"
+            },
+            {
+              "pc_code": "3.9",
+              "description": "Install Padding material on platform"
+            },
+            {
+              "pc_code": "3.10",
+              "description": "Select suitable fabric"
+            },
+            {
+              "pc_code": "3.11",
+              "description": "Cut fabric to size and shape"
+            },
+            {
+              "pc_code": "3.12",
+              "description": "Sew fabric where required"
+            },
+            {
+              "pc_code": "3.13",
+              "description": "Cover padded platform with fabric using tack nails or stapler"
+            },
+            {
+              "pc_code": "3.14",
+              "description": "Fix legs"
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Know Construct modern upholstery",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Identify materials for modern upholstery platform"
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Select suitable wood for modern platform"
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Measure material for platform"
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Cut material to required size and shape"
+            },
+            {
+              "pc_code": "4.5",
+              "description": "Select material for modern upholstery"
+            },
+            {
+              "pc_code": "4.6",
+              "description": "Fix webbing material"
+            },
+            {
+              "pc_code": "4.7",
+              "description": "Select suitable padding material"
+            },
+            {
+              "pc_code": "4.8",
+              "description": "Install Padding material on platform"
+            },
+            {
+              "pc_code": "4.9",
+              "description": "Select suitable fabric"
+            },
+            {
+              "pc_code": "4.10",
+              "description": "Cut fabric to size and shape"
+            },
+            {
+              "pc_code": "4.11",
+              "description": "Saw fabric where required"
+            },
+            {
+              "pc_code": "4.12",
+              "description": "Cover padded platform with fabric using tack nails or stapler"
+            },
+            {
+              "pc_code": "4.13",
+              "description": "Fix legs"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "CON/FWK/008/L2",
+      "title": "Furniture Making Business",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Know the process of establishing a business",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Explain a business plan"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Identify the importance of business plan"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Prepare a business plan"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Make a business forecast"
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Conduct market research"
+            },
+            {
+              "pc_code": "1.6",
+              "description": "Take decisions in establishing a business"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Know procedure for business set up",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Explain finance"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Explain the importance of finance in a business"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Identify sources of finance"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Recognize means of accessing finance"
+            },
+            {
+              "pc_code": "2.5",
+              "description": "Recognize sources of acquiring tools and equipment for establishing a business"
+            },
+            {
+              "pc_code": "2.6",
+              "description": "Recognize a business premises in a suitable and secure location"
+            },
+            {
+              "pc_code": "2.7",
+              "description": "Set up the business"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Know ways of marketing furniture product and furniture making services",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Explain marketing"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Explain the importance of marketing"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Identify ways of marketing furniture products"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Identify ways of marketing furniture making services"
+            },
+            {
+              "pc_code": "3.5",
+              "description": "Use medium to market furniture products"
+            },
+            {
+              "pc_code": "3.6",
+              "description": "Use medium to market furniture making services"
+            },
+            {
+              "pc_code": "3.7",
+              "description": "Evaluate marketing medium for efficiency"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "code": "CON/FWK/009/L2",
       "title": "Vocational Education and Training in Furniture Making",
       "learning_outcomes": [

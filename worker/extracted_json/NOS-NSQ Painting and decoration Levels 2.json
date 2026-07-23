@@ -3,7 +3,7 @@
   "units": [
     {
       "code": "CON/PD004/L2",
-      "title": "Unknown Title",
+      "title": "Handling and Storage of Painting and decorating materials",
       "learning_outcomes": [
         {
           "lo_num": "1",
@@ -63,7 +63,7 @@
     },
     {
       "code": "CON/PD005/L2",
-      "title": "Unknown Title",
+      "title": "Preparation of surfaces for painting & Decorating works",
       "learning_outcomes": [
         {
           "lo_num": "1",
@@ -80,7 +80,13 @@
             {
               "pc_code": "1.3",
               "description": "Use tools and materials to carryout surface preparation"
-            },
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "",
+          "performance_criteria": [
             {
               "pc_code": "2.1",
               "description": "Describe surface preparation."
@@ -291,7 +297,7 @@
     },
     {
       "code": "CON/PD008/L3",
-      "title": "Unknown Title",
+      "title": "Quantification (Math Skill)",
       "learning_outcomes": [
         {
           "lo_num": "1",
@@ -312,7 +318,13 @@
             {
               "pc_code": "1.4",
               "description": "Use numbers, graphs and charts to express measurements."
-            },
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "",
+          "performance_criteria": [
             {
               "pc_code": "2.1",
               "description": "Recognize the coverage areas For various painting and decorating materials."
@@ -328,7 +340,13 @@
             {
               "pc_code": "2.5",
               "description": "Calculate the cost of materials to be used"
-            },
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "",
+          "performance_criteria": [
             {
               "pc_code": "3.1",
               "description": "Carryout work Break down into sub units."
@@ -339,10 +357,16 @@
             },
             {
               "pc_code": "3.3",
-              "description": "Complete given task within specified time NSQ level: 2 Credit value: 4 Guided learning hours: 40 Page number"
+              "description": "Complete given task within specified time"
             }
           ]
-        },
+        }
+      ]
+    },
+    {
+      "code": "CON/PD/009/L2",
+      "title": "INTERIOR DECORATION WORK.",
+      "learning_outcomes": [
         {
           "lo_num": "1",
           "description": "Use of tools for wall paper and wall panels.",
@@ -407,7 +431,7 @@
         },
         {
           "lo_num": "4",
-          "description": "Correct work errors. NSQ Credit Guided learning hours:",
+          "description": "Correct work errors.",
           "performance_criteria": [
             {
               "pc_code": "4.1",
@@ -423,10 +447,16 @@
             },
             {
               "pc_code": "4.4",
-              "description": "Confirm the corrections level: 2 value: 4 40 Page number"
+              "description": "Confirm the corrections"
             }
           ]
-        },
+        }
+      ]
+    },
+    {
+      "code": "CON/PD/010/L2",
+      "title": "INSTALLATION OF POP AND SCREEDING WORKS",
+      "learning_outcomes": [
         {
           "lo_num": "1",
           "description": "Select tools for POP Casting and Screeding.",
