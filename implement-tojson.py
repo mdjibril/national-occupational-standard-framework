@@ -5,9 +5,10 @@ import pathlib
 import argparse
 
 def parse_pdf_to_json(pdf_path, trade_name=None):
-    unit_header_pattern = re.compile(r"^UNIT\s+\d+[:\s]*(.*)", re.IGNORECASE)
-    unit_code_pattern = re.compile(r"Unit Reference Number:?\s*([A-Z0-9/]+)", re.IGNORECASE)
-    unit_title_pattern = re.compile(r"Unit Title:\s*(.*)", re.IGNORECASE)
+    unit_header_pattern = re.compile(r"^UNIT\s*\d+[:\s\-]*(.*)", re.IGNORECASE)
+    unit_code_pattern = re.compile(r"Unit\s+[Rr]eference\s*[Nn]umber:?\s*([A-Z0-9/]+)", re.IGNORECASE)
+    alt_code_pattern = re.compile(r"(?:Qualification|Level)\s+[Rr]eference\s*[Nn]umber:?\s*([A-Z0-9/]+)", re.IGNORECASE)
+    unit_title_pattern = re.compile(r"Unit Title\s*[:-]\s*(.*)", re.IGNORECASE)
     lo_pattern = re.compile(r"(?:Learning\s*Outcome|LO)\.?\s*[:\s]*(\d+)\b", re.IGNORECASE)
     pc_pattern = re.compile(r"^(?:PC\s+)?(\d+\.\d+)$", re.IGNORECASE)
 
@@ -106,7 +107,7 @@ def parse_pdf_to_json(pdf_path, trade_name=None):
                     continue
                     
                 # Check if this line is just "Unit Reference Number:" with code on next line
-                if re.search(r'Unit Reference Number:?\s*$', line, re.IGNORECASE):
+                if re.search(r'Unit\s+[Rr]eference\s*[Nn]umber:?\s*$', line, re.IGNORECASE):
                     pending_code_line = True
                     continue
                 
@@ -123,6 +124,24 @@ def parse_pdf_to_json(pdf_path, trade_name=None):
                     current_pc = None
                     pending_title = ""
                     continue
+                
+                # Alternative reference formats (Qualification/Level) only when a title is pending
+                if pending_title:
+                    alt_match = alt_code_pattern.search(line)
+                    if alt_match:
+                        code_val = alt_match.group(1)
+                        # Skip level-level codes like CONMS000L2
+                        if not re.match(r'^[A-Z]{2,}/?[A-Z]{2,}0+L\d+$', code_val):
+                            current_unit = {
+                                "code": code_val,
+                                "title": pending_title,
+                                "learning_outcomes": []
+                            }
+                            data["units"].append(current_unit)
+                            current_lo = None
+                            current_pc = None
+                            pending_title = ""
+                            continue
                 
                 # Direct code on its own line (rare edge case)
                 if re.match(r'^[A-Z]{2,}/[A-Z]{2,}/\d+/L\d+$', line):
@@ -245,19 +264,52 @@ def parse_pdf_to_json(pdf_path, trade_name=None):
 
     return data
 
+def get_unit_level(code):
+    """Extract level from a unit code."""
+    m = re.search(r'L(\d+)\s*$', code)
+    if m:
+        return int(m.group(1))
+    return None
+
+
+def detect_levels(file_data, pdf_stem):
+    """Detect all NSQ levels present in the extracted data, grouped by level."""
+    levels = {}
+    for unit in file_data.get("units", []):
+        lvl = get_unit_level(unit.get("code", ""))
+        if lvl is None:
+            lvl = 2  # fallback
+        if lvl not in levels:
+            levels[lvl] = []
+        levels[lvl].append(unit)
+    if not levels:
+        m = re.search(r'Level[s]?\s*(\d+)', pdf_stem, re.IGNORECASE)
+        lvl = int(m.group(1)) if m else 2
+        levels[lvl] = file_data.get("units", [])
+    return levels
+
+
 def process_directory_to_individual_jsons(directory_path, trade_name=None):
     path = pathlib.Path(directory_path)
-    output_dir = path / "extracted_json"
-    output_dir.mkdir(exist_ok=True)
+    base_output = pathlib.Path("extracted_json")
 
     for pdf_file in path.glob("*.pdf"):
         try:
             print(f"Processing: {pdf_file.name}")
             file_data = parse_pdf_to_json(pdf_file, trade_name)
-            output_file = output_dir / f"{pdf_file.stem}.json"
-            with open(output_file, 'w', encoding='utf-8') as f:
-                json.dump(file_data, f, indent=2)
-            print(f"Saved to: {output_file}")
+            levels = detect_levels(file_data, pdf_file.stem)
+
+            for level, units in levels.items():
+                level_data = {
+                    "trade_name": file_data["trade_name"],
+                    "units": units
+                }
+                output_dir = base_output / f"level-{level}"
+                output_dir.mkdir(parents=True, exist_ok=True)
+                output_file = output_dir / f"{pdf_file.stem}.json"
+                with open(output_file, 'w', encoding='utf-8') as f:
+                    json.dump(level_data, f, indent=2)
+                print(f"  Level {level}: {len(units)} units -> {output_file}")
         except Exception as e:
             print(f"Error processing {pdf_file.name}: {e}")
 

@@ -1,0 +1,951 @@
+{
+  "trade_name": "QUALIFICATION: - MASONRY WORKS",
+  "units": [
+    {
+      "code": "CONMS001L3",
+      "title": "Health, Safety and Environment",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Personal health and hygiene",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Wear clean, smart and appropriate personal Protective Equipment."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Work safely at all times, complying with health and safety and other relevant regulations and Guidelines."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Get any cuts, grazes and wounds Treated by the appropriate person."
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Report illness and infection promptly to the appropriate Persons."
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Summarize own responsibility under the health and safety Act as it relates to own occupation."
+            },
+            {
+              "pc_code": "1.6",
+              "description": "Guide others on general rules of Hygiene that must be followed."
+            },
+            {
+              "pc_code": "1.7",
+              "description": "Supervise the use of Personal Protection Equipment such as Head Protection, Foot Protection, Face and eye Protection, Hand and Body protection and Regulatory Protection."
+            },
+            {
+              "pc_code": "1.8",
+              "description": "State the importance of maintaining good personal Hygiene."
+            },
+            {
+              "pc_code": "1.9",
+              "description": "Describe how to deal with cuts, grazes and wounds and why it is important to do so"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "",
+          "performance_criteria": [
+            {
+              "pc_code": "2.2",
+              "description": "Report any accidents or near accidents quickly and accurately to the proper person."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Promote health, hygiene and safely procedures during work"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Practice emergency procedures during work"
+            },
+            {
+              "pc_code": "2.5",
+              "description": "Ensure organizational security procedures are followed"
+            },
+            {
+              "pc_code": "2.6",
+              "description": "Ensure the disposal of waste and Pollution control with organic and Inorganic waste disposal methods."
+            },
+            {
+              "pc_code": "2.7",
+              "description": "Promote sound and noise control and protection methods"
+            },
+            {
+              "pc_code": "2.8",
+              "description": "Supervise identification of any hazards or potential hazards and deal with these correctly."
+            },
+            {
+              "pc_code": "2.9",
+              "description": "State where information about health and safety in your workplace can be obtained"
+            },
+            {
+              "pc_code": "2.10",
+              "description": "Describe the types of hazards in the workplace that may occur and how to deal with them"
+            },
+            {
+              "pc_code": "2.11",
+              "description": "Differentiate between hazards that can be dealt with personally and those that should be reported to Appropriate personnel."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Hygiene, safe and secure workplace",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Carry out organizational procedures on how to warn other people about hazards and why this is important"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "State why accidents and near accidents should be reported and who they should be reported to"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "CONMS002L3",
+      "title": "Communication system in a work environment",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Complex communicatio n system in a Work environment",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Supervise the use of audio, electronic, electro-magnetic means to pass on necessary information"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Describe simple non-verbal means of communication"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Read and interpret concept of symbols and signs appropriate"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Source of information in a work environment",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Participate in creating and making functional the source of information in an organization and work Environment."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Make accessible the source of information in an organization or work environment"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Relate appropriately with the source of information"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Use the various information flow system in an organization or work environment to overcome challenges"
+            },
+            {
+              "pc_code": "2.5",
+              "description": "Ensure proper documentation retrieval of information in accordance to procedure in a work environment"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Ensure the accessibility of the communication equipment in the work environment"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Describe the effective use of the various communication channels in a work environment"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Ensure effective information flow to the right personnel"
+            },
+            {
+              "pc_code": "3.5",
+              "description": "Ensure the effective deployment of the use of symbols, signs and codes"
+            },
+            {
+              "pc_code": "3.6",
+              "description": "Ensure that instructions are obeyed and disseminated in line with ethics of the work environment"
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Communicatio n equipment deployment",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Ensure that communication equipment are in good working Condition"
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Liaise with the maintenance unit to ensure that communication equipment are maintained regularly"
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Liaise with appropriate authority to replace communication equipment in the event of loss or damage"
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Ensure that communication equipment are stored appropriately in a work environment"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "CONMS003L3",
+      "title": "Team Work in Construction Environment",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Various teams in the construction site",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Distinguish between various teams e.g. Masonry, Carpentry, Iron bending, Plumbing etc."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Roles of the various Teams",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Identify the function of each team."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Discuss the function of each team"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Differentiate between the function of each team"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Requirement of various teams",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Select materials and tools required for each team."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Differentiate types of materials, tools and equipment requirement for each team"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Discuss the method of carrying out Activities for each team."
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Benefit of various teams.",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Recognize the sequence of various team activities"
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Differentiate between various time frame of each team activity"
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Deliver quality output as a team"
+            }
+          ]
+        },
+        {
+          "lo_num": "5",
+          "description": "Communication with co-workers, Superiors and subordinates across different teams Differentiate types of materials, tools and equipment requirement for each team Address the problems effectively need be report to appropriate person.",
+          "performance_criteria": [
+            {
+              "pc_code": "5.1",
+              "description": "Communicate work related information/requirement clearly to team members"
+            },
+            {
+              "pc_code": "5.2",
+              "description": "Inform co-workers and superiors about any kind of deviation from work Planned"
+            },
+            {
+              "pc_code": "5.3",
+              "description": "Address the problems effectively if need be report to appropriate person."
+            },
+            {
+              "pc_code": "5.4",
+              "description": "Gather instructions from superiors and respond effectively"
+            },
+            {
+              "pc_code": "5.5",
+              "description": "Communicate to team members/subordinates of the right Work techniques and methods."
+            },
+            {
+              "pc_code": "5.6",
+              "description": "Obtain clarification and advice from superiors as per work information where necessary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "CONMS004L3",
+      "title": "Special Structures",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Complex materials, components, and techniques",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "List special structures in building."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Identify different types of tools and equipment for the work. 1. 2 Identify and select materials required for the work"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Special structural drawings spE 2. 1 Interpret drawings for special structures",
+          "performance_criteria": [
+            {
+              "pc_code": "2.2",
+              "description": "Carry outwork in accordance with specification"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Special works in masonry spE work 3. 1 Work on elevated platform Special structural drawings Carry outwork in accordance with specification",
+          "performance_criteria": [
+            {
+              "pc_code": "3.2",
+              "description": "Carry out installation of precast Elements 3. 3 Assemble and dismantle elevated Platform"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Calculate material required to carry out special work."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "CONMS005L3",
+      "title": "Masonry Work in high-rise complex structures elements and",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Preparatory work to commence masonry works",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Read and interpret working drawings, before commencement of works"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Identify and transfer required levels using the right tools"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Ensure tools are in Good working Conditions"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Inspect and check for adequate wetness and roughness of surfaces."
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Set out Layout as per instructions from Superiors"
+            },
+            {
+              "pc_code": "1.6",
+              "description": "Recognize complex techniques and Construction."
+            },
+            {
+              "pc_code": "1.7",
+              "description": "Assemble and dismantle scaffolding"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Inspect materials used for bricks/blocks/stone works and POP",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Certify quality of bricks /block/stone before Usage"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Ensure fine aggregate is sieved asper grade requirement"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Ensure brick, block, stone are soaked Before usage."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Cure constructed masonry works LO (Learning outcome)",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Identify and select the required tools and equipment with regards to the task at hand"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Cut bricks, block, stone, concrete element, to required shapes and sizes for various work application."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Construct floors, bricks, blocks, stones and concrete element using the right mortar Criteria:-"
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Alignment of construction works",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Carryout proper levelling of construction works to specification"
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Use appropriate tools, check for vertical and horizontal alignment"
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Use straight edge section to ensure line and level of each course of brick/block/stone work"
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Set out 90o square at corners using builders square and 3:4:5 Method and spirit levels."
+            }
+          ]
+        },
+        {
+          "lo_num": "5",
+          "description": "Specialise Masonry works such as walls, Arches, staircases, Manholes and Walkways.",
+          "performance_criteria": [
+            {
+              "pc_code": "5.1",
+              "description": "Identify and select specialize materials in masonry works"
+            },
+            {
+              "pc_code": "5.2",
+              "description": "Identify and select tools and equipment for complex jobs"
+            },
+            {
+              "pc_code": "5.3",
+              "description": "Identify and apply specialized techniques in masonry works"
+            },
+            {
+              "pc_code": "5.4",
+              "description": "Perform raking of joints as specified before drying of bonding Mortar"
+            },
+            {
+              "pc_code": "5.5",
+              "description": "Fill joints with appropriate mortar to obtain required type of pointing using the right tools and Equipment"
+            },
+            {
+              "pc_code": "5.6",
+              "description": "Ensure proper curing of pointed Joints"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "CONMS006L3",
+      "title": "Plastering on Internal/External surfaces of masonry structures",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Preparatory works before commencement of plastering work",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Interpret sketches for plastering Works"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Identify and select the right materials, tools and equipment for the work"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Make good surfaces to receive plaster material"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Carry out plastering works according to required specifications"
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Produce appropriate level and make any grooves or lines on surfaces according to specification"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Inspection of materials used for rendering",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Ensure sieving of fine aggregate as per grade required"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Check quality of surfaces to be Rendered"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Check for quality and consistency of cement mortar mix"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "LO (Learning outcome)",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Identify and select the right tools and equipment for rendering work as given in the specification"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Ensure adherence to right mortar mix ratio required."
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Apply cement mortar slurry on surfaces uniformly"
+            },
+            {
+              "pc_code": "3.5",
+              "description": "Ensure uniform thickness according to specification"
+            },
+            {
+              "pc_code": "3.6",
+              "description": "Finish the surfaces using the right tools and equipment Criteria:-"
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Production and installation of POP Works",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Identify tools and equipment for the work"
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Identify and select materials for construction of POP boards and design element"
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Installation of POP boards and Design element."
+            }
+          ]
+        },
+        {
+          "lo_num": "5",
+          "description": "Line, level and alignment of masonry works",
+          "performance_criteria": [
+            {
+              "pc_code": "5.1",
+              "description": "Check for vertical levels and horizontal alignment using Appropriate tools and equipment."
+            },
+            {
+              "pc_code": "5.2",
+              "description": "Check for slopes, rise and fall of Floors."
+            },
+            {
+              "pc_code": "5.3",
+              "description": "Check for angles and curves if Required"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "CONMS007L3",
+      "title": "Plan, organise and estimate works to meet required",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Prioritization of work activities",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Achieve targets and timeline set by superiors"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Plan work activities with regards to schedule and sequence"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Give instructions to subordinates to achieve desired results"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Resources Required before the Commence ment of Work",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Select and arrange required resources before the commencement of work."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Select and apply correct tools and Equipment for completion of work."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Use allocated resources to complete Works ."
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Allocate human resources according to work schedule."
+            },
+            {
+              "pc_code": "2.5",
+              "description": "Use resources optimally to avoid Unnecessary wastage."
+            },
+            {
+              "pc_code": "2.6",
+              "description": "Work in line with specified standards and instructions"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Allocate human resources according to work schedule.",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Estimate the quantity of raw materials required for the work."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Estimate cost of labour required for a particular section of work"
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Simple conflict resolution within the area of coordination Determine the required measures for conflic resolutions",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Identify the various causes of conflict"
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Determine the required measures for conflict resolutions"
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Carry out resolution without bias. LO (Learning outcome) Criteria:- Ref Page number"
+            }
+          ]
+        },
+        {
+          "lo_num": "5",
+          "description": "",
+          "performance_criteria": [
+            {
+              "pc_code": "5.1",
+              "description": "Hand over required materials tools, equipment and workforce to interfacing Team."
+            },
+            {
+              "pc_code": "5.2",
+              "description": "Work together with co-workers in harmony."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "CONMS008L3",
+      "title": "Water proofing work on masonry structures",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Preparatory work before water Proofing",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Identify and rectify defects including sealing materials"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Clean and prepare surface to be water Proofed appropriately."
+            },
+            {
+              "pc_code": "1.3",
+              "description": ".Identify and select appropriate water proofing materials suitable for work"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Inspection of materials for water proofing",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Examine quality of cement, sand and water proofing additive for usage"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Inspect the consistency of grouting Materials"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Ascertain the usability of the waterproofing materials."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Application of water proofing Material",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Mark and transfer required level on surfaces of work"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Prepare and apply waterproofing cementations mixture on surfaces to required specification"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Protect waterproofed surface from any damage and for further leakage. 3,4 Install water bar according to specification e.g. basement tanking, swimming pool etc"
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Line, level and alignment",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Identify and transfer required level using appropriate tools"
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Check horizontal vertical alignment using appropriate tools"
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Mark and transfer required level at regular intervals."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "CONMS009L3",
+      "title": "Decorative Moulding Installation",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Identify and select appropriate tools.",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Read and interpret simple sketches and drawings"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Identify and select tools required"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Inspect and ensure moulding forms are cleaned and free from dirt and cracks"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Clean work area and confirm that surface of work is leveled."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Identify and select appropriate materials. Carry out decorative moulding to the required standard of qualit",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Confirm that surface is wet/rough enough to receive mouldings"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Identify and select materials to be used"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Use adequate mix ratio"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Follow mix duration/time sequence."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Carry out decorative moulding to the required standard of quality LO (Learning Outcome",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Carry out proper alignment of the surface to receive moulding."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Use appropriate tools to check horizontal alignment."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Use straight edge to ensure line/level the surface to receive moulding."
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Prepare surface to receive mouldings"
+            },
+            {
+              "pc_code": "3.5",
+              "description": "Install decorative moulding using appropriate tools and equipment"
+            },
+            {
+              "pc_code": "3.6",
+              "description": "Fill joints with appropriate mortar and temporary support"
+            },
+            {
+              "pc_code": "3.7",
+              "description": "Ensure moulding installation is dry enough before removal of temporary support"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "CONMS010L3",
+      "title": "Terrazo Flooring",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Identification of tools and terrazzo materials.",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Read and interpret simple sketches and drawings specification."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Identify and select tools and equipment."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Ensure the surface of work is wet, leveled and free from dirt/grease Identify and select materials required for stages of work."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Prepare mixes and lay terrazzo based on specificatio",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Prepare adequate mix based on mix ratio for every stage"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Ensure mix duration/time sequence is followed"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Construction, placement and curing of terrazzo screed",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Prepare and lay ordinary cement/sand mortar to level"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Install paneling material e.g. ebonite strip to the required design shapes"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Prepare and place pigment cement/marble/additive mix of required thickness"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Ensure surface is leveled, well compacted manually/mechanically."
+            },
+            {
+              "pc_code": "3.5",
+              "description": "Protect work from damage."
+            },
+            {
+              "pc_code": "3.6",
+              "description": "Ensure proper house keeping"
+            },
+            {
+              "pc_code": "3.7",
+              "description": "Cure surface appropriately."
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Finishing of terrazzo flooring",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Observe all safety precautions before using machine"
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Ensure all tools are in good working condition"
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Ensure proper grading of tones"
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Undertake washing in the required sequence Wash cured surfaces to achieve specified finish and thickness"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

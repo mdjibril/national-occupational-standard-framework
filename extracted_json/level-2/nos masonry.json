@@ -1,0 +1,656 @@
+{
+  "trade_name": "QUALIFICATION: - MASONRY WORKS",
+  "units": [
+    {
+      "code": "CONMS001L2",
+      "title": "Health, Safety and Environment",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Personal health and hygiene",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Wear clean, smart and appropriate personal Protective Equipment."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Work safely at all times, complying with health and safety and other relevant regulations and guidelines."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Get any cuts, grazes and wounds Treated by the appropriate person."
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Report illness and infection promptly to the appropriate Persons."
+            },
+            {
+              "pc_code": "1.5",
+              "description": "State own responsibility under the health and safety Act as it relates to own occupation."
+            },
+            {
+              "pc_code": "1.6",
+              "description": "State general rules on hygiene that must be followed."
+            },
+            {
+              "pc_code": "1.7",
+              "description": "Identify Personal Protective Equipment such as Head, Foot, Face, eye, Hand and Body protection as well as Regulatory Protection."
+            },
+            {
+              "pc_code": "1.8",
+              "description": "State the importance of maintaining good personal Hygiene."
+            },
+            {
+              "pc_code": "1.9",
+              "description": "Describe how to deal with cuts, grazes and wounds and why it is important to do so"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "",
+          "performance_criteria": [
+            {
+              "pc_code": "2.2",
+              "description": "Report any accidents or near accidents quickly and accurately to the proper person."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Follow health, hygiene and safely procedures during work"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Practice emergency procedures during work"
+            },
+            {
+              "pc_code": "2.5",
+              "description": "Follow organizational security Procedures"
+            },
+            {
+              "pc_code": "2.6",
+              "description": "Ensure the disposal of waste and Pollution control with organic and inorganic waste disposal methods."
+            },
+            {
+              "pc_code": "2.7",
+              "description": "Follow sound and noise control and protection methods"
+            },
+            {
+              "pc_code": "2.8",
+              "description": "Identify any hazards or potential hazards and deal with these correctly."
+            },
+            {
+              "pc_code": "2.9",
+              "description": "State where information about health and safety in your workplace can be obtained"
+            },
+            {
+              "pc_code": "2.10",
+              "description": "Describe the types of hazards in the workplace that may occur and how to deal with them"
+            },
+            {
+              "pc_code": "2.11",
+              "description": "State hazards that can be dealt with personally and those that should be reported to someone Else"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "State how to warn other people about hazards and why this is important."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Describe the types of emergencies that may happen in the workplace and how to deal with them"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "CONMS002L2",
+      "title": "Communication system in a work environment",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Non complex communicatio n system in a work environment",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Use a simple verbal means to pass on necessary information"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Use non-verbal means to pass on necessary information e.g. body language"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Interpret symbols and signs appropriately"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Source of information in a work Environment.",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Locate the source of information in an organization and work Environment."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Relate appropriately with source of information"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Use the various information flow systems in a work environment"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Use information to avoid challenges in a work situation"
+            },
+            {
+              "pc_code": "2.5",
+              "description": "Report findings in accordance to Procedure in a work environment."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Communicatio n n means in a work Environment.",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Locate the various communication equipment in the work environment"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Use effectively the various communication equipment in a work Environment."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Pass information effectively to the right personnel"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Pass information effectively using Symbols, signs and codes."
+            },
+            {
+              "pc_code": "3.5",
+              "description": "Obey instruction in line with ethics of The work environment."
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "work",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Describe team role and scope"
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Identify own role and responsibility within the team"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "CONMS003L2",
+      "title": "Team Work in Construction Environment",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Teams in the construction site",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Distinguish between various teams e.g. Masonry, Carpentry, Iron bending, Plumbing etc."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Roles of the various teams 2. 1 List the function of each team member 2. 2 Discuss the function of each team",
+          "performance_criteria": [
+            {
+              "pc_code": "2.3",
+              "description": "Differentiate between the function of each team"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Requirement of various teams 3. 1 Identify materials and Tools required for each team member. 3. 2 Enumerate the function of tools and equipment required for each team 3. 3 Describe the method of carrying out activities for each team.",
+          "performance_criteria": []
+        },
+        {
+          "lo_num": "4",
+          "description": "Benefit of team work.",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Recognize the sequence of various team activities"
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Differentiate between various time frame of each team activity 4. 3 Deliver quality output as a team"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "CONMS004L2",
+      "title": "Set out masonry Structures",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Materials, tools and equipment Required for setting out",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Distinguish the various types of materials, tools and equipment required in setting out."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Select the various types of materials, tools and equipment required in setting out."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Assemble the various types of materials, tools and equipment required in setting out."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Elementary building drawings",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Interpret Measuring unit and device."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Read and interpret various types of scales used."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Interpret simple sketches."
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Convert Dimensions from Imperial to Metric Units."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Methods of setting out",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Explain the methods of setting out with examples"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "State various simple setting out tools"
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Set out simple masonry structure",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Identify and indicate site boundaries"
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Set right angled corners"
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Establish building line and set back"
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Check building lines for squareness and Compliance"
+            },
+            {
+              "pc_code": "4.5",
+              "description": "Mark lines on profiles"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "CONMS005L2",
+      "title": "Erection of masonry works: using appropriate",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Tools, materials and equipment",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Identify and use the tools and equipment for masonry works"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Select materials for masonry work and apply them in construction."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Bricks, stone, block wall, concrete walls and floors",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Determine the different types of blocks/bricks/concrete wall and their sizes"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Determine the appropriate courses to attend at a certain level"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Explain the types of bonding in Construction"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Create openings at appropriate levels and locations"
+            },
+            {
+              "pc_code": "2.5",
+              "description": "Explain various mix ratios for blocks/bricks/concrete structures, thickness of joints and floors"
+            },
+            {
+              "pc_code": "2.6",
+              "description": "Lay block, brick, concrete and floors to required standard"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Techniques of laying natural stone structures",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Enumerate types of natural stone."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Determine the appropriate courses to attain at certain level"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "State purpose and condition under which stone work is Employed"
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Identify different types and purpose of wall thickness"
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Indicate the length at which double multi piers of wall will be introduced"
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Use expansion joint materials"
+            }
+          ]
+        },
+        {
+          "lo_num": "5",
+          "description": "Types of stairs /steps and method of construction",
+          "performance_criteria": [
+            {
+              "pc_code": "5.1",
+              "description": "Identify different types of staircase and steps"
+            },
+            {
+              "pc_code": "5.2",
+              "description": "Describe the various part of a stair case e.g threads, riser, Landing."
+            },
+            {
+              "pc_code": "5.3",
+              "description": "Describe method"
+            },
+            {
+              "pc_code": "5.4",
+              "description": "Explain method of fixing and placement of reinforcement."
+            }
+          ]
+        },
+        {
+          "lo_num": "6",
+          "description": "Curing in masonry structures",
+          "performance_criteria": [
+            {
+              "pc_code": "6.1",
+              "description": "State the purpose of curing in masonry structures"
+            },
+            {
+              "pc_code": "6.2",
+              "description": "Identify the materials required in curing masonry structures"
+            },
+            {
+              "pc_code": "6.3",
+              "description": "Perform various types of curing techniques at required intervals"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "CONMS006L2",
+      "title": "Rendering and Finishes according to specification",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Materials for rendering and Finishes",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Identify types of rendering/finishes materials"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Select required materials and tools in this Task"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "List the appropriate resources for plaster/POP/Floor finishes"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Preparation of materials for rendering and Finishes",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Explain the mix ratio of the materials for the Task"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Demonstrate mixing techniques"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Explain timing of mix batches for the various task"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Surfaces Preparation and application of rendering materials to surfaces/floors",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Clear surfaces of all dirt and debris."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Wet surface to be rendered"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Place plaster/ floor thickness/level/gauge on surfaces"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Apply rendering materials on surfaces to specifications"
+            },
+            {
+              "pc_code": "3.5",
+              "description": "Position and secure fibrous plaster components/POP/Floors"
+            },
+            {
+              "pc_code": "3.6",
+              "description": "Carry out proper finishes at edges"
+            },
+            {
+              "pc_code": "3.7",
+              "description": "Protect all freshly finished surfaces from Damage"
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Describe the purpose of curing in rendering works and floors"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "CONMS007L2",
+      "title": "Repair and Rectify Masonry structures",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Faulty or damage on masonry works",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Carry out periodic investigation of the Structure"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Determine previous repair / rectification works on the structure"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Identify minor causes of faults and damages."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Materials, tools, and equipment for work",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Identify various types of materials tools and equipment"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Select various types of materials tools and equipment"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Faulty or damage portion removal",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Identify and select various necessary tools and equipment for the work"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Determine the procedures for the removal of damaged portion"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Remove damaged portions using appropriate safety measures."
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Repair /Replace faulty portion of the structures Carry out periodic LO (Learning outcome)",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Identify the materials required"
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Select and prepare the material required"
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Repair/replace damaged portion Criteria:- Ref Page number"
+            }
+          ]
+        },
+        {
+          "lo_num": "5",
+          "description": "Finish of repaired/replaced portion of work",
+          "performance_criteria": [
+            {
+              "pc_code": "5.1",
+              "description": "Identify and select required materials for the works"
+            },
+            {
+              "pc_code": "5.2",
+              "description": "Prepare materials for all finishing work and cure the repaired and replaced portion of work"
+            }
+          ]
+        },
+        {
+          "lo_num": "6",
+          "description": "Dismantle /remove/lifting/ Lowering Equipment Level Purpose: This qualification is for the Senior Mason, who needs to be familiar with assistant mason and masons job descriptions as well as coordinate and carryout advanced masonry works. supervise Assistant Mason and Mason and carry out advanced masonry work. QUALIFICATION SUMMARY UNIT 01 02 03 04 05 06 07 08 09 10",
+          "performance_criteria": [
+            {
+              "pc_code": "6.1",
+              "description": "Carry out dismantling procedures"
+            },
+            {
+              "pc_code": "6.2",
+              "description": "Dismantle and store used materials /equipment"
+            },
+            {
+              "pc_code": "6.3",
+              "description": "Ensure proper house keeping"
+            },
+            {
+              "pc_code": "6.3",
+              "description": "Total learning hours 1000 + Guided learning hours Independent learning hours Work-based learning hours 400 600 + (based on training needs) CREDI T VALUE REF NO GLH UNIT ` REMARKS CONMS001L3 Health, Safety and Environment Mandatory CONMS002L3 30 Communication system in a work environment CONMS003L3 Team Work in Construction Environment CONMS004L3 Special structures 9 CONMS005L3 90 Masonry Work in high-rise complex structures elements and techniques in construction CONMS006L3 Plastering on Internal/External surfaces of masonry structures and POP works CONMS007L3 Plan, organise and estimate works to meet required standard CONMS008L3 Water proofing work on masonry structures CONMS009L3 Decorative Optional Moulding Installation CONMS010L3 Terrazo Flooring"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

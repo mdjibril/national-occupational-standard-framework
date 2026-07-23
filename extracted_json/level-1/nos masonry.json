@@ -1,0 +1,625 @@
+{
+  "trade_name": "QUALIFICATION: - MASONRY WORKS",
+  "units": [
+    {
+      "code": "CON/MS001/L1",
+      "title": "Health, Safety and Environment",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Maintain personal health and hygiene",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Wear clean, smart and appropriate personal Protective Equipment."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Work safely at all times, complying with health and safety and other relevant regulations and Guidelines."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Identify appropriate person to treat any cuts, grazes and wounds."
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Report illness and infection promptly to the appropriate Persons."
+            },
+            {
+              "pc_code": "1.5",
+              "description": "State own responsibility under the health and safety Act as it relates to own occupation."
+            },
+            {
+              "pc_code": "1.6",
+              "description": "State general rules on hygiene that must be followed."
+            },
+            {
+              "pc_code": "1.7",
+              "description": "State correct Personal Protection Equipment such as Head Protection, Foot Protection, Face and eye Protection, Hand and Body protection and regulatory protection."
+            },
+            {
+              "pc_code": "1.8",
+              "description": "State the importance of maintaining good personal Hygiene."
+            },
+            {
+              "pc_code": "1.9",
+              "description": "Describe how to deal with cuts, grazes and wounds and why it is important to do so"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Maintain a hygienic, safe and hazard free workplace.",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "State the importance of working in a healthy, safe and hygienic workplace"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Report any accidents or near accidents quickly and accurately to the proper person."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Follow health, hygiene and safety procedures during work"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Practice emergency procedures during work"
+            },
+            {
+              "pc_code": "2.5",
+              "description": "Follow organizational security procedures"
+            },
+            {
+              "pc_code": "2.6",
+              "description": "Ensure the disposal of waste and pollution control with organic and Inorganic waste disposal methods."
+            },
+            {
+              "pc_code": "2.7",
+              "description": "Follow sound and noise control and protection methods"
+            },
+            {
+              "pc_code": "2.8",
+              "description": "Identify any hazards or potential hazards and deal with these correctly."
+            },
+            {
+              "pc_code": "2.9",
+              "description": "State where information about health and safety in your workplace can be obtained"
+            },
+            {
+              "pc_code": "2.10",
+              "description": "Describe the types of hazards in the workplace that may occur and how to deal with them"
+            },
+            {
+              "pc_code": "2.11",
+              "description": "State hazards that can be dealt with personally and those that should be reported to someone else"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Maintain a hygienic, safe and secure workplace",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "State how to warn other people about hazards and why this is important"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "State why accidents and near accidents should be reported and who they should be reported to"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Describe the types of emergencies that may happen in the workplace and how to deal with them"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "State where to find the first-aid equipment and who the registered first-aider is in the work place"
+            },
+            {
+              "pc_code": "3.5",
+              "description": "State safe lifting and handling techniques that should be followed"
+            },
+            {
+              "pc_code": "3.6",
+              "description": "State other ways of working safely that are relevant to own position and why they are important"
+            },
+            {
+              "pc_code": "3.7",
+              "description": "Describe organizational emergencies procedures, in particular fire, and how these should be followed"
+            },
+            {
+              "pc_code": "3.8",
+              "description": "State the possible causes for fire in the workplace"
+            },
+            {
+              "pc_code": "3.9",
+              "description": "Describe how to minimize the possibility of fire in the workplace"
+            },
+            {
+              "pc_code": "3.10",
+              "description": "State where to find the alarms and how to set them off"
+            },
+            {
+              "pc_code": "3.11",
+              "description": "State why a fire should never be approached unless it is safe to do so."
+            },
+            {
+              "pc_code": "3.12",
+              "description": "State the importance of following the fire safety laws"
+            },
+            {
+              "pc_code": "3.13",
+              "description": "Describe organizational security procedures and why these are Important"
+            },
+            {
+              "pc_code": "3.14",
+              "description": "State the importance of reporting all usual or non- routine incidents to the appropriate personnel"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "CON/MS002/L1",
+      "title": "Communication System in a Work Environment",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Use simple communication system in a work environment",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Use a simple verbal means to pass on necessary information"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Use nonverbal means to pass on necessary information e.g. body language"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Identify symbols and signs appropriately"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Develop the ability to identify the source of information in a work Environment.",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Locate the source of information in an organization and work Environment."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Relate appropriately with source of information"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Use the general information flow systems in a work environment"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Use information to avoid challenges in a work situation"
+            },
+            {
+              "pc_code": "2.5",
+              "description": "Report findings in accordance to Procedure in a work environment."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Demonstrate the use of basic communicat- ion means in a work Environment...",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Locate the various communication equipment in the work environment"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Use effectively the general communication equipment in a work Environment."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Pass information effectively to the right personnel"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Pass information effectively using Symbols, signs and codes."
+            },
+            {
+              "pc_code": "3.5",
+              "description": "Comply with general instructions in line with ethics of the work Environment."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "CONMS003L1",
+      "title": "Team work in a work environment",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Positive working relationship with Colleagues.",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Identify the need for developing positive working relationship with Colleagues."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Recognize the importance of relating with other people in a way that makes them feel valued and Respected."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Assist team members when Required."
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Report to the personnel when request for assistance fall outside area of responsibility."
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Communicate information to colleagues about own work that might affect others."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Take Responsibilities within the Team",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Recognize own role and Responsibilities within the team."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Perform individual tasks in line with the team rules and Regulations."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Participate effectively in team Work."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Compliance with policy of Organization.",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Work in line with organizational Standard."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Use organization code of practice."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Explain organizational code of Conduct."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "CONMS004L1",
+      "title": "Identification of equipment, material handling and storage",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Identify /Select Equipment",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Identify manual and mechanically hand tools and equipment relevant to his/her Trade."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Select and use of hand tools and Equipment relevant to his/her trade."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Identify /Select appropriate material",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Identify relevant materials to his/her trade."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Select and use of appropriate materials for a particular work."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Handling Material, tools and equipment",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Comply with the given information to Move and handle tools and equipment."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Select the required quality and quantity of resources for the method of moving and Handling tools and equipment."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Recognize individual work and team work for lifting, loading and unloading materials and equipment."
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Follow sequence of loading and unloading of materials"
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Store equipment and material",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Comply with the given information to store Resources."
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Select the required quality and quantity of the resources for the method of storing resources."
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Follow sequence of storing Resources."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "CONMS005L1",
+      "title": "Site preparation and excavation",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Identify and clear site",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Identify tools and Equipment required for Site clearance."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Carry out Site clearance"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Assist in erection of temporary facilities"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Excavate earth surface",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Identify basic tools used in excavation"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Assist in setting out of the structure"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Assist in carrying out excavation"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Explain how to prepare shuttering against faces of excavation"
+            },
+            {
+              "pc_code": "2.5",
+              "description": "Assist in erection of shuttering against faces of eccavation"
+            },
+            {
+              "pc_code": "2.6",
+              "description": "Explain how and why surfaces of earth Should be treated."
+            },
+            {
+              "pc_code": "2.7",
+              "description": "Assist in treatment of earth"
+            },
+            {
+              "pc_code": "2.7",
+              "description": "surfaces."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Backfill level and compact earth",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Describe the procedures involved in filling leveling and compaction of earth manually and mechanically."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Backfill excavated material"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Compact earth manually"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Assist to compact earth mechanically"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "CONMS006L1",
+      "title": "Mix/Surface Preparation and Bonding",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Preparation of work surfaces",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Make the surface hard and clean from dirt/debris/grease or any other impurities"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Identify and select tools, materials and equipment required for the Job"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Describe the procedure of chiseling/ scraping and wet surface to Receive POP/Plaster."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Mix Appropriate of materials",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Identify materials for its appropriate application"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Describe the procedure of measuring materials by using appropriate measuring Devices."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Mix materials uniformly within the specification and stipulated time"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Differentiate types of mortar and concrete mix"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Differentiate uses and types of brick/block bonding",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Identify different uses and types of bonds"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Describe different types of bonding"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Participate in brick/block bonding works"
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Application of appropriate materials",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Practice shifting and stacking arrangement of the required Materials for the job."
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Lay blocks and bricks to line."
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Describe how to produce dry bonding"
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Apply basic plastering and POP materials"
+            },
+            {
+              "pc_code": "4.5",
+              "description": "Identify types of curing Methods and its timing."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "CONMS007L1",
+      "title": "Erection of simple scaffolding",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Differentiate types of scaffolding",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Identify different types of scaffolding in the workplace."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Explain the different types of plat form/ shuttering in the workplace"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Differentiate types of materials used in Scaffolding",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Identify types of materials used for Scaffolds"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Describe types of materials being used for scaffolding on site"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Erection of Scaffolds",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Identify and convey different types of scaffolding being used on site"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Explain the method of erecting different types of scaffolding"
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Dismantling of Scaffolds",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Explain the method used in dismantling different types of scaffolding"
+            }
+          ]
+        },
+        {
+          "lo_num": "5",
+          "description": "Storage of Scaffolding materials Total learning hours 750 + Guided learning hours 300 Level Purpose: This qualification is designed to enable the learner demonstrate basic health and safety practices, and carry out construction activities using appropriate materials, tools and equipment and assisting the Senior Mason. supervise Assistant Mason and assist the Senior Mason in carrying out masonry work. U NIT 1 2 4 6",
+          "performance_criteria": [
+            {
+              "pc_code": "5.1",
+              "description": "Describe appropriate methods of stacking scaffolding materials before and after usage. Independent learning hours Work-based learning hours 450 + (based on training needs) CREDIT VALUE REF NO GLH UNIT REMARKS CONMS001L2 40 Health, Safety and Environment Mandatory CONMS002L2 Communication system in a work environment 3 CONMS003L2 30 Team Work in Construction Environment 6 CONMS004L2 60 Set out masonry Structures CONMS005L2 Erection of masonry works: using appropriate tools and equipment 7 CONMS006L2 70 Rendering and Finishes according to specification Optional` CONMS007L2 Repair and Rectify Masonry structures"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
