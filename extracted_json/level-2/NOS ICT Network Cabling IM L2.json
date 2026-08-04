@@ -1,0 +1,962 @@
+{
+  "trade_name": "Network Cabling, Installation and Maintenance",
+  "level": 2,
+  "units": [
+    {
+      "code": "ICT/NCI/001/L2",
+      "title": "Safety Standards and Procedures in Network Cabling",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understand the importance of safety standards in network cabling",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Explain relevant safety standards and regulations in the network cabling industry (e.g., OSHA, ISO, NEC)."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Explain the importance of following safety standards to prevent accidents, electrical hazards, and ensure personal and team safety."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Describe the consequences of non-compliance with safety standards in network installation projects."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Recognize potential hazards in the network installation environment",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Identify common hazards in network cabling environments, such as electrical risks, tripping hazards, and sharp tools."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Assess risks in a work area before beginning cabling tasks to ensure safety."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Recommend appropriate mitigation strategies to reduce hazards during cabling and installation."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Use appropriate Personal Protective Equipment (PPE) for network cabling tasks",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Identify the correct PPE required for network cabling tasks (e.g., safety gloves, safety glasses, hard hats)."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Demonstrate the correct use of PPE to ensure personal safety during installation and maintenance."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Inspect PPE before use to ensure it is in good condition and meets safety requirements."
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Follow safe work practices during network cabling installation",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Apply lockout/tagout procedures to electrical systems to prevent electrical shock during cabling tasks."
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Safely handle tools, such as cable cutters, strippers, and crimpers, following safety procedures."
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Maintain a clean and organized work area to reduce the risk of accidents and ensure safe movement around the installation site."
+            }
+          ]
+        },
+        {
+          "lo_num": "5",
+          "description": "Safely dispose of materials and equipment",
+          "performance_criteria": [
+            {
+              "pc_code": "5.1",
+              "description": "Identify the proper disposal methods for materials used in network cabling (e.g., cables, insulation, packaging)."
+            },
+            {
+              "pc_code": "5.2",
+              "description": "Safely store and dispose of hazardous materials, such as batteries or chemicals, following environmental safety regulations."
+            },
+            {
+              "pc_code": "5.3",
+              "description": "Demonstrate the ability to clean up after installation tasks while adhering to environmental safety standards."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ICT/NCI/002/L2",
+      "title": "Teamwork and Collaboration in Network Installations",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understand the role of teamwork in network installation projects",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Explain the importance of teamwork in completing network installation tasks efficiently and on time."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Identify individual roles and responsibilities within a team during a network installation project."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Describe how effective teamwork contributes to safety and quality in network installation processes."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Collaborate effectively with team members on network cabling tasks",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Communicate task objectives and responsibilities clearly with team members to ensure mutual understanding."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Demonstrate the ability to assist other team members in completing tasks to maintain project flow."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Resolve conflicts or disagreements with team members constructively, without disrupting project progress."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Follow supervisory guidance and instructions during network installations",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Interpret instructions from supervisors or team leads accurately to ensure compliance with project requirements."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Demonstrate the ability to ask for clarification when instructions or tasks are not fully understood."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Execute tasks according to the supervisory plan, adjusting to changes in instruction as needed."
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Manage tasks and time effectively within a team environment",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Prioritize tasks based on project timelines and team objectives."
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Monitor task progress and adjust work pace to ensure deadlines are met without compromising quality."
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Coordinate with team members to ensure seamless task handovers and continuity of work."
+            }
+          ]
+        },
+        {
+          "lo_num": "5",
+          "description": "Demonstrate a positive attitude and work ethic in a team setting",
+          "performance_criteria": [
+            {
+              "pc_code": "5.1",
+              "description": "Show respect for diverse team members by valuing their input and contributions."
+            },
+            {
+              "pc_code": "5.2",
+              "description": "Maintain a positive attitude, even in challenging situations, to foster a supportive team environment."
+            },
+            {
+              "pc_code": "5.3",
+              "description": "Uphold professional standards by being punctual, reliable, and committed to delivering high-quality work."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ICT/NCI/003/L2",
+      "title": "Communication Skills for Network Installation Projects",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understand the importance of communication in network cabling projects",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Explain why clear and effective communication is essential in coordinating tasks within network cabling projects."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Identify potential consequences of poor communication in network installation and maintenance activities."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Recognize the role of communication in ensuring safety, efficiency, and adherence to project specifications."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Communicate effectively with supervisors and team members",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Demonstrate the ability to listen actively and follow verbal and written instructions from supervisors."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Use appropriate technical terminology when discussing project tasks with team members and supervisors."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Provide clear and concise updates on task progress, challenges, or delays to supervisors in a timely manner."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Write clear and accurate reports and documentation",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Draft task reports that accurately reflect the status of network cabling work, including completed tasks and any issues encountered."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Ensure documentation is organized, legible, and free from errors, following standard formats for technical reporting."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Submit reports and documentation on time, as required by the project or supervisor."
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Engage in professional communication with clients or stakeholders",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Demonstrate polite and professional communication when interacting with clients or stakeholders on-site."
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Explain technical information or project status to clients in clear, non-technical language."
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Handle client inquiries or concerns with a positive attitude, escalating issues to supervisors when necessary."
+            }
+          ]
+        },
+        {
+          "lo_num": "5",
+          "description": "Use digital communication tools effectively in network cabling projects",
+          "performance_criteria": [
+            {
+              "pc_code": "5.1",
+              "description": "Demonstrate proficiency in using email, messaging apps, and other digital tools to communicate project updates or instructions."
+            },
+            {
+              "pc_code": "5.2",
+              "description": "Ensure messages sent through digital tools are clear, concise, and professional."
+            },
+            {
+              "pc_code": "5.3",
+              "description": "Follow proper protocols for documenting and storing digital communication related to network cabling projects."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ICT/NCI/004/L2",
+      "title": "Introduction to Network Cabling and Infrastructure",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understand the fundamentals of network cabling systems",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Describe the different types of network cables, including twisted pair (e.g., Cat5e, Cat6), coaxial, and fiber optic cables."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Explain the basic principles of how network cables transmit data, including signal types and data rates."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Identify the components of a network cabling system, such as cables, connectors, patch panels, and network devices."
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Compare the advantages and limitations of different types of cables for various networking scenarios."
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Explain the role of cabling standards (e.g., TIA/EIA) in ensuring compatibility and performance."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Recognize and describe different network topologies",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Define with illustrations, common network topologies, including star, bus, ring, and mesh."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Explain the advantages and disadvantages of each network topology in terms of scalability, reliability, and maintenance."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Identify the impact of network topology on cabling requirements and network performance."
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Describe how topology influences network design decisions and the implementation of cabling infrastructure."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Understand basic network design principles",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Explain the concept of structured cabling and its importance in network design."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Describe the role of network design documents, such as floor plans and cable diagrams, in planning and implementing cabling projects."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Identify the factors that affect cable placement and routing, such as electrical interference, physical barriers, and distance limitations."
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Discuss best practices for ensuring future scalability and flexibility in network design."
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Identify and use common network cabling tools and equipment",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "List and describe the functions of tools commonly used in network cabling, such as cable testers, crimpers, and punch-down tools."
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Demonstrate the correct usage of these tools for tasks like cable preparation, termination, and testing."
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Explain how to maintain and calibrate network cabling tools to ensure accurate performance."
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Identify safety precautions associated with using network cabling tools and equipment."
+            }
+          ]
+        },
+        {
+          "lo_num": "5",
+          "description": "Introduction to network cable installation and maintenance",
+          "performance_criteria": [
+            {
+              "pc_code": "5.1",
+              "description": "Describe the basic steps involved in installing network cables, including measuring, cutting, and terminating cables."
+            },
+            {
+              "pc_code": "5.2",
+              "description": "Explain routine maintenance tasks for network cabling, such as checking for wear and tear, and verifying cable performance."
+            },
+            {
+              "pc_code": "5.3",
+              "description": "Identify common issues in cable installation and maintenance and discuss methods for troubleshooting these issues."
+            },
+            {
+              "pc_code": "5.4",
+              "description": "Demonstrate proper cable management techniques to ensure organized and efficient cabling systems."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ICT/NCI/005/L2",
+      "title": "Cabling Installation Techniques",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understand and apply cable routing and laying techniques",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Describe the principles of cable routing, including methods for minimizing signal interference and maintaining signal integrity."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Demonstrate the correct techniques for laying and securing cables in various environments (e.g., ceilings, walls, and floors)."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Identify appropriate cable types and routing methods for different applications and environments."
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Implement cable management practices, such as using cable ties, raceways, and conduits to organize and protect cables."
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Ensure compliance with industry standards and regulations for cable routing and installation."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Install connectors and terminations accurately",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Identify and select the appropriate connectors for different types of cables (e.g., RJ45 for twisted pair, LC/SC for fiber optic)."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Demonstrate the correct procedure for terminating cables with connectors, including stripping, crimping, and securing."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Verify that terminations are done correctly by testing and inspecting connectors for proper alignment and secure connections."
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Troubleshoot and resolve issues with connector terminations, such as poor connections or signal loss"
+            },
+            {
+              "pc_code": "2.5",
+              "description": "Document the types and locations of connectors used in the installation for future reference and maintenance."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Install and configure network components",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Describe the installation process for network components such as patch panels, wall plates, and network jacks"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Demonstrate how to mount and secure network components in racks, cabinets, or on walls according to industry best practices."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Connect and configure network components to ensure they function correctly with the installed cabling."
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Perform cable testing and verification after installation to confirm that all components are properly connected and operational."
+            },
+            {
+              "pc_code": "3.5",
+              "description": "Ensure that installed network components are organized and labeled for easy identification and troubleshooting."
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Conduct post-installation checks and adjustments",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Perform a visual inspection of the installed cabling to ensure it meets installation standards and is free from damage."
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Test network connections using appropriate testing equipment to verify signal strength, continuity, and performance."
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Make any necessary adjustments to cables, connectors, or network components to correct issues identified during testing."
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Document and report any issues or discrepancies discovered during post-installation checks and the steps taken to resolve them."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ICT/NCI/006/L2",
+      "title": "Network Cabling Testing and Certification",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understand the importance and objectives of cabling testing and certification",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Explain the purpose of cabling testing and certification in ensuring network reliability and performance."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Describe the key performance parameters for network cabling, such as signal integrity, attenuation, and crosstalk."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Identify industry standards and certification requirements for network cabling (e.g., TIA/EIA, ISO/IEC)."
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Discuss the implications of failing to properly test and certify network cabling."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Conduct comprehensive cabling tests",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Execute tests for continuity, signal strength, and performance using appropriate testing equipment."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Perform advanced tests for parameters such as impedance, attenuation, and near-end crosstalk (NEXT)."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Interpret test results to identify issues such as cable faults, performance degradation, or improper terminations."
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Document and report test results clearly, including any anomalies or issues detected."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Troubleshoot and resolve cabling issues",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Analyse test results to diagnose common cabling issues, such as signal loss, short circuits, or interference."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Implement troubleshooting techniques to isolate and fix identified issues in the cabling system."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Re-test cables and connections after troubleshooting to ensure that issues have been resolved and performance meets standards."
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Document the troubleshooting process and resolution steps for future reference."
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Prepare and maintain certification documentation",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Compile and organize test results and certification reports according to industry standards and client requirements."
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Ensure that all documentation is accurate, complete, and clearly formatted."
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Maintain records of all testing and certification activities for future reference and compliance audits."
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Explain the process for submitting certification reports to clients or regulatory bodies, including any required approvals or signatures."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ICT/NCI/007/L2",
+      "title": "Basic Network Troubleshooting and Maintenance",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Identify and diagnose common network cabling issues",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Describe typical problems in network cabling systems, such as signal loss, intermittent connectivity, and physical damage."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Use diagnostic tools and techniques to identify the root causes of network issues, including continuity testers and network analyzers."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Analyze symptoms and test results to pinpoint specific cabling problems, such as shorts, opens, or miswiring."
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Document observed issues and their potential causes to aid in troubleshooting and resolution."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Perform basic repairs and maintenance on network cabling",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Demonstrate the ability to perform repairs on faulty cables, including splicing or replacing damaged sections."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Re-terminate connectors and reconfigure terminations as needed to resolve issues with connectivity or performance."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Conduct routine maintenance tasks, such as checking cable integrity, cleaning connectors, and verifying cable management."
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Test repaired or maintained cables to ensure they meet performance standards and function correctly."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Implement preventive maintenance strategies",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Develop and follow a preventive maintenance schedule to regularly inspect and service network cabling systems."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Identify and address potential issues before they cause significant problems, such as monitoring for signs of wear and tear or environmental factors affecting cabling."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Apply best practices for cable management and organization to prevent future issues and ensure system longevity."
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Educate team members or users about proper cable handling and maintenance practices to reduce the likelihood of damage."
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Use diagnostic tools effectively for troubleshooting",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Identify and operate various diagnostic tools, such as cable testers, network analysers, and optical time-domain reflectometers (OTDR)."
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Interpret the output of diagnostic tools to determine the nature and location of network issues."
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Perform tests and measurements, such as cable length, signal attenuation, and bit error rate, to assess network performance."
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Record results to guide troubleshooting efforts and verify that issues have been resolved."
+            }
+          ]
+        },
+        {
+          "lo_num": "5",
+          "description": "Document troubleshooting and maintenance activities",
+          "performance_criteria": [
+            {
+              "pc_code": "5.1",
+              "description": "Create detailed records of troubleshooting steps, repairs performed, and maintenance activities conducted."
+            },
+            {
+              "pc_code": "5.2",
+              "description": "Document any changes made to the network cabling system, including modifications to configurations or installations."
+            },
+            {
+              "pc_code": "5.3",
+              "description": "Maintain logs of recurring issues and resolutions to help identify patterns and inform future maintenance strategies."
+            },
+            {
+              "pc_code": "5.4",
+              "description": "Prepare and present reports on troubleshooting and maintenance activities for review by supervisors or clients."
+            }
+          ]
+        },
+        {
+          "lo_num": "6",
+          "description": "Follow safety procedures during troubleshooting and maintenance",
+          "performance_criteria": [
+            {
+              "pc_code": "6.1",
+              "description": "Adhere to safety protocols when working with network cabling systems, including using appropriate personal protective equipment (PPE)."
+            },
+            {
+              "pc_code": "6.2",
+              "description": "Follow safe practices when handling tools and equipment to prevent accidents and injuries."
+            },
+            {
+              "pc_code": "6.3",
+              "description": "Ensure that the work area is safe and free from hazards during troubleshooting and maintenance activities."
+            },
+            {
+              "pc_code": "6.4",
+              "description": "Respond appropriately to emergencies or accidents, including reporting incidents and taking corrective actions as needed."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ICT/NCI/008/L2",
+      "title": "Introduction to Industry Standards and Best Practices",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understand key industry standards for network cabling",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Identify and describe the key industry standards related to network cabling, including TIA/EIA, ISO/IEC, and IEEE standards."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Explain the purpose of these standards and how they contribute to the quality, safety, and performance of network cabling systems."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Discuss the process of updating and revising standards and the impact of these changes on network installations."
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Explain how compliance with these standards is verified and documented during network installations and inspections."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Apply best practices for network cabling installation",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Describe best practices for cable routing, including minimizing bends, avoiding interference, and maintaining separation from electrical cables."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Demonstrate proper techniques for cable preparation and termination, ensuring adherence to standards for performance and reliability."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Implement best practices for cable management, including the use of cable trays, ties, and labels to organize and protect cables."
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Follow recommended installation procedures for network components such as patch panels, jacks, and racks to ensure optimal performance and ease of maintenance."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Ensure compliance with safety and environmental regulations",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Identify relevant safety regulations and guidelines for network cabling work, including those related to electrical safety and fire protection."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Apply environmental best practices, such as proper disposal of waste materials and minimizing environmental impact during installations."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Demonstrate knowledge of and compliance with workplace health and safety requirements, including the use of personal protective equipment (PPE) and safe work practices."
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Explain how to conduct risk assessments and implement safety measures to address potential hazards in network cabling environments."
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Utilize documentation and reporting standards",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Create and maintain detailed documentation of network cabling installations, including design schematics, installation procedures, and component specifications."
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Follow reporting standards for documenting compliance with industry standards and regulations, including test results and certification reports."
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Ensure that all documentation is accurate, up-to-date, and accessible for future reference and audits."
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Prepare clear and professional reports on network cabling projects, including summaries of compliance with standards and any deviations or issues encountered."
+            }
+          ]
+        },
+        {
+          "lo_num": "5",
+          "description": "Review and implement industry best practices for network maintenance",
+          "performance_criteria": [
+            {
+              "pc_code": "5.1",
+              "description": "Identify best practices for ongoing maintenance of network cabling systems, including regular inspections, testing, and troubleshooting procedures."
+            },
+            {
+              "pc_code": "5.2",
+              "description": "Apply best practices for updating and upgrading network infrastructure to accommodate new technologies or changing requirements."
+            },
+            {
+              "pc_code": "5.3",
+              "description": "Implement procedures for ensuring network cabling systems remain compliant with evolving industry standards and best practices."
+            },
+            {
+              "pc_code": "5.4",
+              "description": "Educate team members or clients on the importance of adhering to best practices and industry standards in maintaining network cabling systems."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ICT/NCI/009/L2",
+      "title": "Use of Tools and Equipment in Network Cabling",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Identify and describe common tools and equipment used in network cabling",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "List and describe the functions of essential network cabling tools, including cable testers, crimpers, punch-down tools, and cable strippers."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Explain the purpose and use of specialized equipment such as optical time-domain reflectometers (OTDR), network analyzers, and cable certifiers."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Identify various hand tools and power tools used in cabling installations, such as drills, wire cutters, and scissors."
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Describe the features and benefits of each tool or piece of equipment in relation to its application in network cabling."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Demonstrate correct usage of tools and equipment",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Show proper handling techniques for tools to prevent damage to cables and ensure safety during use."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Demonstrate the correct procedures for using cable testers and certifiers to evaluate cable performance and identify faults."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Use crimpers and punch-down tools accurately to terminate cables and secure connections, ensuring proper alignment and functionality."
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Perform cable stripping and preparation using appropriate tools, maintaining cable integrity and preparing for termination or connection."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Perform maintenance and calibration of tools and equipment",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Conduct regular maintenance on network cabling tools, including cleaning, lubricating, and inspecting for wear and tear."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Calibrate testing equipment as needed to ensure accuracy and reliability in measurements and results."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Identify and address common issues with tools and equipment, such as misalignment, malfunction, or damage."
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Replace or repair tools and equipment as necessary to maintain optimal performance and safety standards."
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Ensure safety and compliance during tool and equipment use",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Follow safety protocols for using tools and equipment, including wearing appropriate personal protective equipment (PPE) and adhering to safety guidelines."
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Demonstrate knowledge of safety practices related to electrical hazards, tool handling, and working in confined or elevated spaces."
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Store tools and equipment properly when not in use to prevent accidents and damage."
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Report and document any safety incidents or equipment malfunctions, following appropriate procedures for incident management and resolution."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
