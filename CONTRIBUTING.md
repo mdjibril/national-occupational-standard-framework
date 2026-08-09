@@ -273,5 +273,3 @@ The JSON follows this hierarchy:
 For questions, clarifications, or suggestions, reach out at:
 
 - **muhammadjibrildauda@gmail.com**
-- **mdjbinary@gmail.com**
-- **mdjibril.essa@gmail.com**
