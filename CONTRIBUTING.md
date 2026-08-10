@@ -78,6 +78,7 @@ These NOS have already been converted to JSON. Pick a trade **not** listed here 
 | ICT Computer Hardware Repairs & Maintenance | ✅ | ✅ | ✅ | | |
 | ICT Computer Networking | ✅ | ✅ | ✅ | | |
 | ICT Computer Operation | | ✅ | | | |
+| ICT Creative Media Production | ✅ | ✅ | ✅ | | |
 | ICT Cybersecurity Analyst | | | ✅ | | |
 | ICT Cybersecurity Engineering | | | | | ✅ |
 | ICT Data Analytics | | | | ✅ | |
