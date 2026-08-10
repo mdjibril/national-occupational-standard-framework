@@ -1,0 +1,864 @@
+{
+  "trade_name": "NOS ICT Creative Media Production",
+  "level": 1,
+  "units": [
+    {
+      "code": "ICT/CMP/001/L1",
+      "title": "Occupational Health and Safety",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Know Occupational Hazards",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Explain Occupational Hazards"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Identify Hazards in Creative Media Workplace"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Identify the following First Aid Measures: \u2022 First Aid Box \u2022 Fire Extinguisher \u2022 Sand Bucket \u2022 Smoke Alarm \u2022 Fire Alarm etc."
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Explain the negative effect of hazard in a work environment"
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Explain how to minimize occupational hazards in a creative media work environment"
+            },
+            {
+              "pc_code": "1.6",
+              "description": "Describe safety protocols in a work place"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Know Safety Protocols in a creative media work place",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Explain the use of the following: Helmets Hand Gloves Work Jackets"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Describe a safe video coverage environment"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Identify safe acts and unsafe conditions/practices in workplace"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Explain how to quench a fire"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Understand response to Health Emergencies",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Explain health emergency in a work place"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Identify emergency activity in a work place"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "How you can help with an emergency response"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ICT/CMP/002/L1",
+      "title": "Teamwork",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Know Team Work, Team Member and their Attributes",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Define team work in creative media"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "List the attributes of a team member in content creation:"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Explain purpose of team work in content creation"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Outline the advantages of team work"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Know Team Formation in creative media",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Explain team formation in creative media"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "List the roles of team members in creative media"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Explain roles of team members identified in 2.2"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Understand how to build an effective team",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Describe the stages of team development"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Outline the ways to build trust among team members"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Outline ways to resolve conflict in a team"
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Understand communication skills in a team",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Outline the importance of communication in a team"
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Explain listening skills"
+            },
+            {
+              "pc_code": "4.3",
+              "description": "List the importance of listening skills in a team setting"
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Explain effective communication structure"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ICT/CMP/003/L1",
+      "title": "Communication Skills",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understand simple communication command in creative media",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Explain Communication"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Explain the following channels of communication: \u2022 Walkie-talkie \u2022 Radio \u2022 Telephone \u2022 E-mails etc."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Explain the following media words: \u2022 Cue-in \u2022 Cue-out \u2022 Roll camera \u2022 Action"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Use two of the words in 1.3 and demonstrate in class"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Know different types of communication channels",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Explain the following channels of communication: \u2022 Letter \u2022 Social Media \u2022 e-mail \u2022 Memo"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Identify two channels of communication in 2.1"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Communicate in work place using sources identified in 2.1"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Know importance of communication",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Explain communication benefits"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Explain communication gap and its negative effect in a workplace"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Describe how communication gap causes problem in a workplace"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Carry out any announcement communication activity in class"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ICT/CMP/004/L1",
+      "title": "Computer Appreciation and Application",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Know computer and its types",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Define a computer system"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "List types of computer devices"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Outline the uses of computer"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Explain functions of computer and its devices in creative media"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Know computer software and hardware used in creative media",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "What is computer application"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Understand the concept of computer software"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Explain difference between software and hardware"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Outline the types of computer software in creative media"
+            },
+            {
+              "pc_code": "2.5",
+              "description": "List the uses of computer software used in creative media"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Know the basics of computer application",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "What is the user application interface"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Differentiate between the user interface and application interface"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "List the functions of application interface in creative media"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Demonstrate practical examples of some basic tools used in creative media"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ICT/CMP/005/L1",
+      "title": "Introduction to Performance Art",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Know the Basics of Performing Arts",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Define performance art"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Discuss the history of performance art"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Outline various forms of performance art"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Differentiate between aive Art and presentation in art"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Understand the Basics of Performance Creation and Theater Arts",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Outline types of theater arts"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "List the stages involved in performance creation"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Outline some of the rehearsals methods in performance art"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Know Event Planning and Performance",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Define event organization"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Explain key event organization plans \u2022 Performance \u2022 Scheduling \u2022 Logistics \u2022 Stage Setup"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "What is event management"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ICT/CMP/006/L1",
+      "title": "Introduction to Graphics Design",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understand Graphics Design",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Explain graphics design"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Discuss different types of graphics design"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Explain good quality of graphics design"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Explain motion graphics"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Know Requirements for a Graphics Designer",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "List the qualities of a graphics designer"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Identify roles of a graphic designer in communication"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Identify equipment required for graphics design."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Know the Applications for Graphic Design Production",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Explain the functions of Adobe Corel Draw and Adobe Illustrator."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Explain the tools for graphic design in Adobe Photoshop and Lightroom"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Explain the tools for Google SketchUp"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Identify different types of motion graphics software and their functions"
+            },
+            {
+              "pc_code": "3.5",
+              "description": "Sketch different types of graphics using Vector and Pixel Software"
+            },
+            {
+              "pc_code": "3.6",
+              "description": "Use any of the graphic design in 3.5 and explain their concepts."
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Know the Concept of Graphic Design in telling a story",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Explain the purpose of graphic design in storytelling"
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Use any graphic design to tell a story"
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Explain the concept of graphic design in Communication"
+            }
+          ]
+        },
+        {
+          "lo_num": "5",
+          "description": "Know the difference between Graphic Design and Animation",
+          "performance_criteria": [
+            {
+              "pc_code": "5.1",
+              "description": "Define animation"
+            },
+            {
+              "pc_code": "5.2",
+              "description": "Identify animation types"
+            },
+            {
+              "pc_code": "5.3",
+              "description": "Distinguish between graphics design and Animation"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ICT/CMP/007/L1",
+      "title": "Basic Filmmaking",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understand Film",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Define film"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Explain types of film genres: \u2022 Comedy \u2022 Action \u2022 Epic \u2022 Thrillers \u2022 Sci-Fi \u2022 Fantasy"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Explain the purposes of film production \u2022 Storytelling \u2022 Entertainment \u2022 Education \u2022 Documentation \u2022 Propaganda \u2022 Profit"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Differentiate between a stage play and a film"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Know different Types of Film Crew",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Explain film crew"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "List film crew members"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Explain different roles of crew members in film production"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Describe the role of a director in film production"
+            },
+            {
+              "pc_code": "2.5",
+              "description": "Explain the importance of director of photography in film production"
+            },
+            {
+              "pc_code": "2.6",
+              "description": "Explain the role of the gaffer in film production"
+            },
+            {
+              "pc_code": "2.7",
+              "description": "Explain the role of the sound recordist in film production"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Know Types of Film Category OBJECTIVE (LO) The learner will:",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Identify types of film production: \u2022 Feature Films \u2022 Short Films \u2022 Documentaries \u2022 Serials \u2022 Commercials \u2022 Music Video \u2022 Corporate/Industrial Films"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Explain the above types of film production in 3.1"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Explain the pre-production stage of film production in 3.1 Explain the production (Principal Photography) stage of film production Explain the post-production stage of film production"
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Know the Elements of Film",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Explain scriptwriting for film production \u2022 Plotting \u2022 Character Development \u2022 3 Act Structure-Beginning, Middle and End \u2022 Script Formatting"
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Explain production design in film production"
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Explain budget in film production"
+            }
+          ]
+        },
+        {
+          "lo_num": "5",
+          "description": "Know How to Distribute Film",
+          "performance_criteria": [
+            {
+              "pc_code": "5.1",
+              "description": "Explain film distribution"
+            },
+            {
+              "pc_code": "5.2",
+              "description": "Discuss the various channels of film distribution: \u2022 Social Media (Facebook, YouTube, Instagram, Snap Chat, X) \u2022 Streaming Platforms \u2022 Broadcast Stations \u2022 Terrestrial TV \u2022 Cinema Etc."
+            },
+            {
+              "pc_code": "5.3",
+              "description": "Use any streaming platform to watch a Film"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ICT/CMP/008/L1",
+      "title": "Introduction to Photography",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understand the Basic Components of Camera and their Functions",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Define a camera"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Discuss different types of cameras"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "List the various components of a camera"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Outline the functions of each camera component"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Know the Fundamentals of Camera Accessories and Lenses",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "List some camera accessories for creative media"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Outline the types of lenses used in creative media production"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Discuss the safety procedures when handling a camera and its accessories"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "List the steps involved in setting up a camera for production: \u2022 Battery Check \u2022 Tripod Balance Check \u2022 Storage \u2022 Sound Input"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Know Camera Settings and Adjustments",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Explain camera shooting and adjustment modes"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "List the advantages of camera settings and adjustments"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Outline the procedures involved in camera exposure adjustments: \u2022 ISO \u2022 Shutter Speed \u2022 Aperture \u2022 White Balance"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Explain Camera Focus: \u2022 Shallow Focus \u2022 Deep Focus \u2022 Rack Focus \u2022 Depth of Field"
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Understand Basic Camera Troubleshooting and Maintenance",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Explain the basic camera lens cleaning"
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Explain how to read basic camera error messages and their solutions"
+            },
+            {
+              "pc_code": "4.3",
+              "description": "List common camera problems and their solutions"
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Outline the advantages of camera maintenance"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ICT/CMP/009/L1",
+      "title": "Introduction to Sound Techniques",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understand Sound",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Define sound"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Explain the relationship between sound and action (Visual)"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Distinguish between sound and action (Visual)"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Identify types of sound"
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Explain the use of sound in creative media production"
+            },
+            {
+              "pc_code": "1.6",
+              "description": "Distinguishes creative sound and real sound"
+            },
+            {
+              "pc_code": "1.7",
+              "description": "Use a smartphone to record a sound"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Know Sound Equipment",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Explain the following sound tools and their various usages: \u2022 Microphones \u2022 Audio console \u2022 Speakers \u2022 Headphones \u2022 Sound Mixer"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Use sound recorder to record a sound"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Use headphones to listen to sound"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Explain Adobe Audition Software for sound editing"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Know the Concept of Sound Recording",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Explain sound recording"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Explain the importance of sound recording"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Identify recorded sound and its formats"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Explain the benefits of sound recording in creative media production"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ICT/CMP/0010/L1",
+      "title": "Digital Media",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understand the Basics of Digital Media",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Explain digital media"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "List the types of digital media"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Outline the uses of digital media"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Explain the classifications of digital media"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Understand the Basics of Digital Media Distribution",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Explain digital media distribution"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "List some Digital Media Distribution plans"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "List the advantages of Digital Media Distribution"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Know the Difference between Digital Media and other Forms of Media",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Differentiate between Digital Media and other Forms of Media"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "List the Main Functions of Digital Media"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Outline the Characteristics of Digital Media"
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Know applications used in digital media",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "List various application use in Digital Media Distribution"
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Outline the Uses of the Application listed above"
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Describe some Practical Examples of some Basic Tools in Digital Media Distribution"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

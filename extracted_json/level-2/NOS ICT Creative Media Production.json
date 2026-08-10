@@ -1,0 +1,864 @@
+{
+  "trade_name": "NOS ICT Creative Media Production",
+  "level": 2,
+  "units": [
+    {
+      "code": "ICT/CMP/001/L2",
+      "title": "Occupational Health and Safety",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": ".0 Understand Basic Health and Safety",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Explain Common Hazards in Creative Media"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "List Unsafe Acts in Creative Media"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Describe Simple Medical Evacuation Procedures"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Describe Basic Fire Prevention Measures"
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Demonstrate Basic First Aid Procedures"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": ".0 Know Occupational Health and Safety",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Explain the Use of Protective Equipment in the Workplace"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "State the likely Hazard Spots in the Workplace"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Mention possible devices Used in Preventing Workplace Hazards"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "List Types of Electrical Hazards in the Workplace"
+            },
+            {
+              "pc_code": "2.5",
+              "description": "Perform Pre-Connection Electrical Checks"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Know the Environmental Health and Safety",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Describe the Procedures involve in Hazard Control"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Describe Emergency Response Plans"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Describe how to conduct Risk Assessment before starting a project"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ICT/CMP/002/L2",
+      "title": "Communication Skills",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understand Effective Writing Skills",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Explain Formal and Informal Communication"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Give the Examples of Formal Communication"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Demonstrate how to write a Letter and a Memo"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Understand Effective Communication Skills",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Practice Listening Skills"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Explain Techniques involved in Providing Feedback to Questions"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Outline Advantages of Good Listening Skills"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Carry out a Strategy for Effective Communication Skills"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Know how to Communicate Effectively in the Appropriate Industry Language",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Demonstrate appropriate Communication Skills across Settings and Audience"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Describe how to build and maintain relationship throughe ffective communication"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Identify common grounds for successful interactions."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ICT/CMP/003/L2",
+      "title": "Teamwork",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Know and Apply Team Work Principles",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Discuss how to develop Team Vision and Mission"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Outline Guides for Division of Team Responsibilities"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Outline Strategies to improve Team Performance"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Apply the strategies from 1.3"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Learn how to manage Team Conflicts",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Define Conflict"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Discuss Conflict Resolution"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Discuss Problem Solving Techniques"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Define Mediation and Negotiation"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Learn how to Design and Implement Team-Based Projects",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Describe Project Plan and Timeline"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Outline Project Management Principles"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Describe how to Manage Team Resources Effectively"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ICT/CMP/004/L2",
+      "title": "Computer Skills and Knowledge",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Demonstrate Advance Proficiency in Creative Media Software",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Describe File and Folder Management"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Describe a File Path"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Define Digital Painting and Illustration"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Outline Digital Painting and Illustration techniques"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Understand Word Processing and its Applications",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Explain the principles of Word Processing"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Explain the features of Word Processing Application"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "State the uses of a Word Processor"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Create, edit, format, save and print a Word document"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Understand PowerPoint Presentations and its Application",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Explain the principles of Microsoft PowerPoint"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Explain the Features of Microsoft PowerPoint"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "State the Uses of Microsoft PowerPoint"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Describe the Process of Creating Presentations in Microsoft PowerPoint"
+            },
+            {
+              "pc_code": "3.5",
+              "description": "Create animate objects and a Video File in a slide using Microsoft Power Point"
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Understand General Spreadsheet Principles and its Applications",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Explain the features of a Spreadsheet Application"
+            },
+            {
+              "pc_code": "4.2",
+              "description": "State the uses of a Spreadsheet Application"
+            },
+            {
+              "pc_code": "4.3",
+              "description": "State the basic Spreadsheet Formula and Functions"
+            },
+            {
+              "pc_code": "4.4",
+              "description": "State the steps in Inputting Data in a Spreadsheet"
+            },
+            {
+              "pc_code": "4.5",
+              "description": "Prepare a simple Budget and Estimate using Spreadsheets"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ICT/CMP/005/L2",
+      "title": "Basic Photography",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understand Composition and Visual Storytelling",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Discuss the principles of Composition"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Explain Visual Storytelling"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Describe types of Photography Genres"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Know Lighting, Exposure and Focus for Photography",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Explain Lighting in Photography"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Outline the effects of Lighting in Photography"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Discuss Lighting Techniques"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Apply Exposure Settings and Depth of Field"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Know Post Processing Editing",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Know Photo Processing and Editing Software \u2022 Adobe Photoshop \u2022 Adobe Lightroom"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Outline the Features of \u2022 Adobe Photoshop \u2022 Adobe Lightroom"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Demonstrate how to Create a Complex Composition of Pictures"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ICT/CMP/006/L2",
+      "title": "Understanding the Basics of Light",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Know the Basics of Lighting",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Explain the role of Lighting in Filmmaking \u2022 Mood, \u2022 Storytelling \u2022 Visibility"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Identify types of Light Sources: Natural vs. Artificial"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Explain Hard vs. Soft Light \u2022 Shadows \u2022 Diffusion \u2022 Contrast"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Explain Color Temperature (Warm vs. Cool lighting, measured in Kelvin)"
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Observe Different Light Sources around you and note their Color Temperature and Hardness/Softness."
+            },
+            {
+              "pc_code": "1.6",
+              "description": "Use a smartphone or camera to capture the difference between \u2022 Daylight \u2022 Indoor Light \u2022 Candlelight Source"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Know the Three-Point Lighting System",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Explain Key Light: The Main Source of Illumination"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Explain Fill Light: Reduces shadows and balances the contrast"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Explain Back Light (Rim Light): Separates the subject from the background"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Set up a simple Three-Point Lighting arrangement using LED Lights."
+            },
+            {
+              "pc_code": "2.5",
+              "description": "Take photos or record video with only one light at a time, then combine them to see the effects."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Know Lighting Equipment and Modifiers OBJECTIVE (LO)",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Identify types of Lights: \u2022 Tungsten \u2022 LED \u2022 Fluorescent \u2022 HMI"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Explain Light Modifiers: Ref. Page \u2022 Soft Boxes \u2022 Reflectors \u2022 Diffusers \u2022 Gels"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Demonstrate Practical Lighting using available light sources creatively"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Demonstrate the use of a white sheet or a reflector to bounce natural light on to a subject."
+            },
+            {
+              "pc_code": "3.5",
+              "description": "Experiment with a DIY Diffuser (Thin white fabric or tracing paper over a light source) to soften shadows."
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "L0 4: Creative Lighting Techniques and Mood Setting",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Explain High Key vs. Low Key Lighting (Bright and Even vs. Dark and Moody)"
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Explain Silhouette and Rim Lighting (Dramatic and Artistic Effects)"
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Demonstrate Practical Lighting in Film Genres \u2022 Horror \u2022 Drama \u2022 Commercials"
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Recreate a scene from a movie using similar Lighting Techniques."
+            },
+            {
+              "pc_code": "4.5",
+              "description": "Use coloured gels or different light angles to create a mood."
+            },
+            {
+              "pc_code": "4.6",
+              "description": "Film a 30-60 second scene using different lighting setups to tell a short story."
+            },
+            {
+              "pc_code": "4.7",
+              "description": "Present and analyze how lighting impacted the mood and storytelling in 3.6"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ICT/CMP/007/L2",
+      "title": "Introduction to Videography",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understand Videography",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Explain Motion Picture"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Differentiate between Motion Picture and Still Picture"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Explain the Importance of Motion Picture"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Identify various camera accessories."
+            },
+            {
+              "pc_code": "1.5",
+              "description": "State the types of video cameras"
+            },
+            {
+              "pc_code": "1.6",
+              "description": "Set up a camera for use with its accessories."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Know Types of Camera Shots and Angles",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Explain camera shots"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Identify the following Shots \u2022 Wide Shot \u2022 Long Shot \u2022 Medium Shot \u2022 Close Up Shot \u2022 Extreme Close up \u2022 High Angle Shot \u2022 Low Angle Shot \u2022 Eye Level Shot \u2022 Profile Shot"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Discuss the procedures to choose and fit camera lenses correctly"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Understand Camera Setup",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Explain the techniques involved in recording a quality video"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Identify the best locations for recording videos"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Discuss Camera Recording Ethics in different situations"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ICT/CMP/008/L2",
+      "title": "Techniques of Film Production",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understand the Basics of Film Production",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Explain the basics of Storytelling in Film Production"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Explain the basic Elements of Film: \u2022 Story/Plot \u2022 Cinematography \u2022 Sound \u2022 Production Design \u2022 Editing \u2022 Performance (Actors) \u2022 Genre and Style \u2022 Special Effects"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Explain Location Settings in Film Production"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Differentiate Fiction Motion Picture and Documentary Motion Picture."
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Discuss the Visual Elements of Shot Composition."
+            },
+            {
+              "pc_code": "1.6",
+              "description": "Discuss the Elements of Cinematography"
+            },
+            {
+              "pc_code": "1.7",
+              "description": "Operate Components of Latest Video Camera, Lighting Equipment and Various Camera Gears."
+            },
+            {
+              "pc_code": "1.8",
+              "description": "Explain Costume in Film"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Understand Auditioning and Casting in Film Production",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Explain the Casting Process"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Explain the Concept of Auditioning"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Identify the Importance of Audition in Casting"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Identify the Methods of Auditioning"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Know the Importance of Lighting in Film Production",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Discuss the Elements of Lighting in Film Production"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Explain the Importance of Lighting in Film Production"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Discuss the Creative Use of Colour in Cinematography"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Demonstrate the Use of Lighting Techniques for Different Types of Shots"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ICT/CMP/009/L2",
+      "title": "Introduction to Illustrations and Sequential Arts",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Know the Use of Illustrations in Storytelling",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Explain Sequential Arts as a Basis of Storytelling"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Explain the Basic Elements of Sequential Arts"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "List the Various Methods of Graphic Representation"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Explain the Use and Meaning Of shots in Illustration"
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Identify the different Mediums of Illustration: \u2022 Storyboard \u2022 Comic Books \u2022 Story Books"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Understand the Elements of Good Illustration",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Discuss the Principles of Drawing as it relates to Life Drawing"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Explain Book Illustrations"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Explain Comic Book/ Graphic Novel"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Explain Storyboard"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Understand the Role of Color and Ink in Sequential Arts",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "List the Techniques of a Good Inker"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Discuss Light and Shades \u2022 Black and White"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Discuss the Use of Light box"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Identify Different Color Palette"
+            },
+            {
+              "pc_code": "3.5",
+              "description": "Demonstrate Basic Coloring"
+            },
+            {
+              "pc_code": "3.6",
+              "description": "Explain Basic Coloring Style"
+            },
+            {
+              "pc_code": "3.7",
+              "description": "Identify the Different Light Sources"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ICT/CMP/010/L2",
+      "title": "Introduction to Video Editing",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understand Video Editing and Composition",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Explain Video Editing"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Explain the Basic Techniques of Video Editing \u2022 Basic Video Editing \u2022 Montage Editing \u2022 Narrative Editing \u2022 Documentary Style Editing \u2022 Special Effects Editing \u2022 Color Correction & Grading \u2022 Motion Graphics \u2022 Virtual Reality \u2022 Social Media \u2022 Collaborative Editing"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Discuss these Processes: \uf0a7 Capturing Video and Audio Files from Camera and Audio Recording Device to Storage Device. \uf0a7 Importing Video and Audio Files from Storage Device into Editing Interface."
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Explain the Types of Editing \u2022 Linear Editing \u2022 Non-Linear Editing"
+            },
+            {
+              "pc_code": "1.5",
+              "description": "List the Tools Needed for Video Editing"
+            },
+            {
+              "pc_code": "1.6",
+              "description": "Explain the Basic Process of Post-Production"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Know Video Editing Software Applications",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Identify Video Editing Software"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Explain Basic Video Editing Effects"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Identify these Video Editing Software: \u2022 Adobe Premier Pro \u2022 Davinci Resolve \u2022 Sony Vegas \u2022 Final Cut Pro \u2022 Filmora \u2022 CapCut \u2022 Avid Pro"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Understand Video Editing Tools and its Components",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Explain Editing Interface and Tools, using: \u2022 Adobe Premiere Pro \u2022 Final Cut Pro \u2022 Avid Pro"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Describe the Steps in Performing the following Operations: \u2022 Creating and Naming a New Sequence \u2022 Import Video and Audio Files \u2022 Adding, Inserting and Arranging clips in a Sequence \u2022 Rename, Mark and Label video and audio tracks"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Explain the Procedure for Trimming video and audio in a Source Window."
+            },
+            {
+              "pc_code": "3.4",
+              "description": "State the Procedure of using Editing Tools on the Timeline."
+            },
+            {
+              "pc_code": "3.5",
+              "description": "Describe the Steps for Performing Slip and Split Edits"
+            },
+            {
+              "pc_code": "3.6",
+              "description": "Explain the steps in performing Color Correction and Composition"
+            },
+            {
+              "pc_code": "3.7",
+              "description": "Explain the following Concepts and Techniques of Editing: \u2022 Transitions \u2022 Video and Audio Effects \u2022 Laying Graphics, Text, and Background Music"
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Understand Video Editing Style",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Explain the following Type of Video Format, Resolutions and their Uses: \u2022 AVI-Audio Video Interleave \u2022 MOV \u2022 MPEG4-Moving Picture Expert Group 4 \u2022 3GP-Third Generation Partnership Project \u2022 MKV-Matroska Video"
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Explain various Editing Styles in Video Production"
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Explain Resolution Types and Aspect Ratio"
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Demonstrate Rendering and Exporting"
+            },
+            {
+              "pc_code": "4.5",
+              "description": "State the uniqueness and advantages of the following Video Connection Interfaces; \u2022 DVI - Digital Visual Interface \u2022 HDMI - High Definition Multimedia Interface \u2022 FireWire - IEEE 1394/800 \u2022 USB 3.0 - Universal Serial Bus \u2022 VGA - Video Graphics Array \u2022 PCIe - Peripheral Component \u2022 IE - Interconnect Express \u2022 AGP \u2013Accelerated Graphics Ports"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

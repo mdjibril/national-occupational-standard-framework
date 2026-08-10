@@ -1,0 +1,1336 @@
+{
+  "trade_name": "NOS ICT Creative Media Production",
+  "level": 3,
+  "units": [
+    {
+      "code": "ICT/CMP/001/L3",
+      "title": "Introduction to Project Management",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "L01 Understand the Basic Concepts of Project Management",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Define Project Management"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Discuss the Common Project Management Methodologies"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Define a Music Production Project Goal and Charter."
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Discuss: \u2022 Music Production as a Project \u2022 Video Production as a Project"
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Explain the following terms: \u2022 Project Planning \u2022 Executing Projects \u2022 Closing Projects \u2022 Managing Teams \u2022 Managing Expectations"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Understand Effective Communication Skills",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Explain Project Development Life Cycle in terms of: \u2022 Conceptualization \u2022 Design \u2022 Execution \u2022 Finish"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Discuss the Technique involved in \u2022 Organizing Music Production as a Project \u2022 Organizing Video Production as a Project"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Discuss the Techniques involved in motivating Project Team Members in Video and Music Productions"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Discuss the following processes in a Music Production Project \u2022 Collecting Requirements \u2022 Defining the Project Scope \u2022 Creating a Work Breakdown Structure \u2022 Verifying Scope \u2022 Controlling the Scope"
+            },
+            {
+              "pc_code": "2.5",
+              "description": "Carryout a Typical Music Production Project Scoping exercise"
+            },
+            {
+              "pc_code": "2.6",
+              "description": "Discuss Documentation of a Music/Video Production Project"
+            },
+            {
+              "pc_code": "2.7",
+              "description": "Demonstrate proper and comprehensive report documentation of a Typical Music Production Project"
+            },
+            {
+              "pc_code": "2.8",
+              "description": "Carry out a Simple Music Production Project"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Understand the Concept of Setting project scope in Project Management",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Discuss: \u2022 The Importance of Scoping in Music/Video Production \u2022 When scoping is necessary in Music/Video production \u2022 How Scoping in Music/Video Production is carried out"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Explain the steps in preparing the preliminary requirements and estimates in Project Management"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Explain the Use of SMART for Setting Project Goals"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Discuss the Techniques in managing: \u2022 Time in Music and Video Production \u2022 Money in Music and Video Production \u2022 Resources in Music and Video Production"
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Know the use of Project Management Strategies",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Explain the Importance of Optimal Distribution of Resources in Project Cycle"
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Explain the Techniques of Setting Measurable Objective in Music and Video Production"
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Explain the following in Music and Video Production \u2022 Stakeholder Profiling \u2022 Engagement \u2022 Project Risk \u2022 Customer Satisfaction \u2022 Project Sign Off Procedures"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ICT/CMP/002/L3",
+      "title": "Customer Service",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understand the Techniques in Communicating with Clients in Music and Video Production Projects",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Define Communication"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Outline the Benefits of using the Correct Form of Communication"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Explain the Different Techniques of Consulting Customers in Music and Video Production Service"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Demonstrate Effective Communication Techniques"
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Perform Client Consultation Techniques to Identify Music and Video Production Objectives"
+            },
+            {
+              "pc_code": "1.6",
+              "description": "Explain Internal and External Customer Service"
+            },
+            {
+              "pc_code": "1.7",
+              "description": "Explain the Forms of Customer Service Channels"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Know the Basic Customer Service Operations in Music and Video Production",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Define the term \u201cCustomer\u201d in Music and Video Production"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Describe the term \"Customer Service\""
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Explain the Importance of Excellent Customer Service"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "State the Importance of Customer Feedback"
+            },
+            {
+              "pc_code": "2.5",
+              "description": "Identify the Different Customers in Music and Video Production Service"
+            },
+            {
+              "pc_code": "2.6",
+              "description": "Identify the Needs of the Different Customers in Music and Video Production"
+            },
+            {
+              "pc_code": "2.7",
+              "description": "Explain the Importance of Dealing with complaints in a Positive Manner"
+            },
+            {
+              "pc_code": "2.8",
+              "description": "Identify the Consequences of Poor Customer Service"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Understand the Importance of Personal Presentation in",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Define the term \u201cPersonal Presentation\u201d in Music and Video Production"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Explain the Importance of Personal Presentation within Music and Video Production."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Outline the Benefits of Personal Presentation in Retaining Customers"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Demonstrate Professional Behavior in dealing with Customers"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ICT/CMP/003/L3",
+      "title": "Pre-Production Operation",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understand the Basic Requirements for Pre-Production",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Discuss the Pre-Production Stage using a Music Video Activity"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "State the Stages of Pre-Production in 1.1"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Discuss the following factors when planning for a Pre-Production Exercise: \u2022 Type of Media Production and its implications for the process. \u2022 Financial Constraints to produce the media product. \u2022 Revenue Streams (i.e. Financing Methods, Sponsorship, Crowd Funding, Corporate Finance, Advertising). \u2022 Time Constraints for the production of the media product. \u2022 Personnel involved (i.e. Numbers, Skills, Experience) Relevant Facilities, Locations and resources required for the Project (e.g. Studio, Props, Set, Microphones, Computers, Cameras, Software)"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "State the Techniques involved in setting up the following equipment: \u2022 Projectors (overhead, video, data grade) \u2022 Recording and Playback devices for audio, video and images. \u2022 Sound, Communication and Public Address Systems. \u2022 Lighting and Sound Devices. \u2022 Computers and Other Connectors. \u2022 Cables (Electrical and Signals)"
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Discuss the Various Types of Pre-Production Document"
+            },
+            {
+              "pc_code": "1.6",
+              "description": "Create the following Pre-Production Documents: \u2022 Proposals / treatments / project outlines \u2022 Production Schedule and Timeline \u2022 Asset log, call sheet, storyboard, visualization diagram, prototype, page mock-up, set design, consent and release forms and site structure diagram"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Understand Pre-Production Preparation",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Carry out Pre-Production Planning activities for Music and Video Production"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Discuss the term \u201cMood Board\u201d"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Identify the Content of a Mood Board."
+            },
+            {
+              "pc_code": "2.4",
+              "description": "State the equipment selection guidelines for any multimedia production activity"
+            },
+            {
+              "pc_code": "2.5",
+              "description": "List the types of equipment used for Music and Video Production"
+            },
+            {
+              "pc_code": "2.6",
+              "description": "Discuss the following operations involved in Pre-Production: \u2022 Installation of Audio-Visual Equipment \u2022 Testing of Audio-Visual Equipment \u2022 Modification of Audio-Visual Equipment \u2022 Perform Location Checks \u2022 Identify possible hazards in chosen location. \u2022 Pre-Electrical Installation \u2022 Electrical Connections and Cable Checks."
+            },
+            {
+              "pc_code": "2.7",
+              "description": "State the Contingency and Backup Plans for Equipment Usage and Operations."
+            },
+            {
+              "pc_code": "2.8",
+              "description": "State the Safety Measures involved in Pre-Production."
+            },
+            {
+              "pc_code": "2.9",
+              "description": "Explain the following terms: \u2022 Post Production Demobilization \u2022 Post Production Closure."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Understand the Techniques of Performing Location Scouting, Production Mobilization and Production Planning for Music and Video Shoots",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "State the Techniques involved in Managing Stocking and Equipment Inventory"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Collect required equipment under the direction of the appropriate personnel."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Select and undertake any basic maintenance on the equipment and ensure that it is operational"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Select all required stock and consumables and ensure that they are present in sufficient quantity to meet the needs of the production schedule under the direction of the Appropriate personnel."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ICT/CMP/004/L3",
+      "title": "Internet Use and Procedure",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Know the Use of Internet",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Explain Internet and its Operating Principles: \u2022 Transmission Control Protocol (TCP) \u2022 Internet Protocol (IP)"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Explain the following term World Wide Web"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Distinguish between the Internet and World Wide Web"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Explain the Basic Principles of Computer Network"
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Distinguish the following: \u2022 Local Area Network (LAN) \u2022 Wide Area Networks (WAN)"
+            },
+            {
+              "pc_code": "1.6",
+              "description": "Differentiate between Internet, Intranet and Extranet"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Understand the Use and Application of the Internet",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "State the Areas of Applications of the Internet"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Discuss the Use of a Web Browser"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "State the Different Types of a Web Browser"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Discuss the Use of Electronic Mail(e-mail) for Communication"
+            },
+            {
+              "pc_code": "2.5",
+              "description": "Perform any of the following task: \u2022 Compose an e-mail \u2022 Attach a document to an e-mail \u2022 Send an e-mail"
+            },
+            {
+              "pc_code": "2.6",
+              "description": "Send Message using any of the following Internet Applications: \u2022 Facebook \u2022 WhatsApp \u2022 X (Twitter) \u2022 YouTube"
+            },
+            {
+              "pc_code": "2.7",
+              "description": "Perform the following operations: \u2022 Surf the Internet"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Understand the Procedure to Upload a Content on the Internet",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Create an Account on the following: \u2022 YouTube \u2022 Facebook \u2022 X (Twitter)"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Explain the Importance of Internet Applications \u2022 Facebook \u2022 YouTube \u2022 Google Search Engine \u2022 Yahoo Google Drive"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Perform the Following Operations \u2022 Post on Facebook \u2022 Upload Music Video on YouTube \u2022 Post Video on Instagram"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Explain the Process of downloading and uploading from the Internet"
+            },
+            {
+              "pc_code": "3.5",
+              "description": "Download a Nigerian Movie from a Streaming Platform"
+            },
+            {
+              "pc_code": "3.6",
+              "description": "Upload a Video for Live Streaming on the Internet"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ICT/CMP/005/L3",
+      "title": "Video Editing",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Know Advanced Cutting and Storytelling Techniques",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Explain the Rhythm of a Scene"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Discuss the following: \u2022 Jump Cuts \u2022 Match Cuts \u2022 Smash Cuts \u2022 Montage Sequences \u2022 Time Manipulation \u2022 Emotional Editing \u2022 Cutting to Sound"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Create a 60 Seconds Short Montage that shows the above in 1.2 on a Video Editing Software"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Sync the above in 1.2 to a Music Track"
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Analyze the Emotional Impact in 1.4"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Know Advanced Transitions & Effects",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Carry out the following on a Video Editing Software \u2022 L Cuts \u2022 J Cuts"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Carry out a Seamless Transition between two shots"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Carry out the following: \u2022 Speed Ramp \u2022 Whip Pan \u2022 Text Integration \u2022 Morph Cut \u2022 Time-lapse"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Create Stylized Transitions for the following Genres: \u2022 Horror \u2022 Comedy \u2022 Action \u2022 Drama \u2022 TV Interview"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Know Layering and Complex Audio Editing",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Carry out the following \u2022 Dialogue Editing \u2022 Cleaning Up of Audio/ Denoising"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Discuss Sound Layering for immersion: \u2022 Foley Sound \u2022 Ambience \u2022 Choosing the Right Sound \u2022 Reverb \u2022 Delay \u2022 Amplitude & Balance"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Carry out the above in 3.2 for a 60 Seconds Video."
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Analyze how different music/sound changes the meaning of a scene."
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Know Color Grading & Final Polishing",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Discuss the following: \u2022 Color Theory \u2022 The Psychology of Warm and Cool Tones \u2022 Emotional Impact"
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Analyze a Short Scene from a Film, using 4.1"
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Apply Observation to a 60 Seconds Edit using: \u2022 LUTS \u2022 Manual Grading \u2022 Adjusting Skin Tones \u2022 Altering Background Colors"
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Export 4.3 to different formats for use."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ICT/CMP/006/L3",
+      "title": "FUNDAMENTALS OF FILM DIRECTING",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Know Basic Concepts in Film and Video Directing",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Discuss Film Directing"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Explain Directing For: \u2022 Feature Films \u2022 Short Films \u2022 Documentaries \u2022 Commercials \u2022 Television \u2022 Broadcast/Streaming"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Discuss the Responsibilities of a Film Director"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Discuss the Developments and Treads in Film Directing"
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Explain the Different Film and Television Genre"
+            },
+            {
+              "pc_code": "1.6",
+              "description": "Describe the Use of Blocking Techniques in Film Directing"
+            },
+            {
+              "pc_code": "1.7",
+              "description": "Write A Narrative Screenplay"
+            },
+            {
+              "pc_code": "1.8",
+              "description": "Mention Key Developments, Events and People"
+            },
+            {
+              "pc_code": "1.9",
+              "description": "Direct a Short Film \u2013 Script from 1.7"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Understand the Film Director",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Explain Process of Becoming a Film Director"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Discuss the Core Attributes of a Film Director"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Discuss the phrase \u201cDirectorial Approach\u201d"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Understand Basic Film Directing Techniques",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Discuss the Responsibilities of the Film Director during: \u2022 Pre-Production \u2022 Production \u2022 Post-Production"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Discuss the Entire Filmmaking Process: \u2022 Technical \u2022 Creative Point of View"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Discuss the term \u201cScript Breakdown\u201d"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Create and Analyze a shot list"
+            },
+            {
+              "pc_code": "3.5",
+              "description": "Describe the following: \u2022 Film Visualization \u2022 Film Styles"
+            },
+            {
+              "pc_code": "3.6",
+              "description": "Demonstrate the ability to perform the Following: \u2022 Casting \u2022 Script Editing \u2022 Shot Composition \u2022 Shot Selection \u2022 Shot Editing"
+            },
+            {
+              "pc_code": "3.7",
+              "description": "Discuss the following: \u2022 Budgeting \u2022 Proposal/Presentation \u2022 Partnership \u2022 Marketing \u2022 Funding \u2022 Distribution"
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Understand Professional Requirements in Film Directing",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Discuss the Techniques in Selecting the following: \u2022 Right Cast \u2022 Crew \u2022 Location for the Film \u2022 Rehearsals \u2022 Actors Performance"
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Discuss the Ability to Work with Actors and Artists"
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Show how to break down scripts to create Shooting Schedules and Timelines."
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Discuss the Techniques of managing the following on a Production Set: \u2022 Production Designer \u2022 Cinematographers \u2022 Visual Effects Artists"
+            }
+          ]
+        },
+        {
+          "lo_num": "5",
+          "description": "Know the Basic Techniques in Managing Film and Video Projects",
+          "performance_criteria": [
+            {
+              "pc_code": "5.1",
+              "description": "Explain the Techniques involved in managing the entire Filmmaking process such as: \u2022 Technical \u2022 Creative \u2022 Management \u2022 Finance \u2022 Marketing."
+            },
+            {
+              "pc_code": "5.2",
+              "description": "Discuss the Elements of managing budget and compliance with timelines in Film and Video Projects."
+            },
+            {
+              "pc_code": "5.3",
+              "description": "Explain the techniques in managing Cast and Crew members in Film and Video projects."
+            },
+            {
+              "pc_code": "5.4",
+              "description": "Describe the procedure of managing equipment for Film and Video Projects at: \u2022 Pre-Production Stage \u2022 Production Stage \u2022 Post-production Stage"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ICT/CMP/007/L3",
+      "title": "FUNDAMENTALS OF LIGHTING TECHNIQUES",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Know Lighting Syems",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Discuss Lighting Equipment"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Identify the Basic Lighting Kits"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Demonstrate Hard and Soft Lighting in Video Production"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Discuss the following process: \u2022 Set Light Colors \u2022 Set Light Intensity \u2022 Contrast Ratio"
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Demonstrate the following Lighting Properties in Video Production \u2022 Intensity \u2022 Color \u2022 Temperature \u2022 Quality \u2022 Angle"
+            },
+            {
+              "pc_code": "1.6",
+              "description": "Demonstrate the various Lighting Styles: \u2022 High-Key Lighting \u2022 Low-Key Lighting"
+            },
+            {
+              "pc_code": "1.7",
+              "description": "Calculate the Electricity Needs for Light Equipment"
+            },
+            {
+              "pc_code": "1.8",
+              "description": "State the Safety Measures of Setting Lighting in a Workplace"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Understand Lighting techniques",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Explain the following: \u2022 Density Filters \u2022 Subtractive Lighting"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Discuss Lighting Angles"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Discuss the following: \u2022 Shooting Inside with Artificial Light \u2022 Shooting Inside with Natural Light \u2022 Shooting Outside with Direct Sunlight \u2022 Shooting at Dawn and Dusk"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Discuss the Logic of Lighting Design"
+            },
+            {
+              "pc_code": "2.5",
+              "description": "Discuss Characteristics of Lighting Design in Film"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Understand the Use of Lighting Techniques in Video Production",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Explain the Various Types of Light Source which includes: \uf0a7 Flood Lights. \uf0a7 Broad Lights \uf0a7 Umbrella Lights \uf0a7 Florescent Lights \uf0a7 Spot Lights \uf0a7 Soft Lamps \uf0a7 Fixed-Focus Lighting"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Demonstrate the following Lighting Techniques in Short Videos \uf0a7 Using Simple Key Light. \uf0a7 Using a Reflector as a Fill. \uf0a7 Three-Point Lighting. \uf0a7 Ensuring Correct Color Balance \uf0a7 Using Natural Lighting"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Analyze the Short Videos from 3.2"
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Know the Basic s of Light Regulation and Maintenance",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Discus Light Consoles"
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Discuss Light Meter"
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Discuss the Process of Measuring Light Intensity using Light Meter"
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Demonstrate the Process of using Light Controller and Dimmer"
+            },
+            {
+              "pc_code": "4.5",
+              "description": "Discuss Ways of Light Maintenance"
+            },
+            {
+              "pc_code": "4.6",
+              "description": "Discuss the Maintenance Measures for the following: \u2022 Lighting Equipment \u2022 Detecting Equipment Malfunction"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ICT/CMP/008/L3",
+      "title": "FUNDAMENTALS OF SCRIPT WRITING",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understand the History and Basics of Script Writing",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Discuss the history of Script Writing"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Discuss the process of Script Writing"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Explain these key terminologies in Script Writing: \u2022 Exposition \u2022 Montage \u2022 Tone \u2022 Genre \u2022 Style \u2022 Structure \u2022 Character \u2022 Plot \u2022 Themes \u2022 Dialogue"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Discuss the following types of Script: \u2022 Film Script \u2022 Tv Script \u2022 Stage Play \u2022 Audio Script \u2022 Documentary Script \u2022 Animation Script \u2022 Corporate & Training Video Script \u2022 Video Game Script (Interactive Script) \u2022 Commercial (AD) Script \u2022 Spec Script \u2022 Shooting Script"
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Discuss the phases of Development in Script Writing \u2022 Idea & Concept Development \u2022 Logline \u2022 Synopsis \u2022 Treatment \u2022 Story Outline \u2022 1ST Drafts \u2022 Rewriting and Polishing \u2022 Final Draft"
+            },
+            {
+              "pc_code": "1.6",
+              "description": "State the Rules of Script Writing"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Understand Basic Requirements of Script Writing",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "State the qualities of a Script Writer"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Discuss the importance of possessing Excellent Writing Skills"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Discuss the process of Pitching an Idea/Script"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Discuss the Importance of Critiquing a Script"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Know the Techniques of Script Writing",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Discuss the following Writing Elements: \u2022 Comic Relief \u2022 Comical Irony \u2022 Suspense \u2022 Mystery \u2022 Foreshadowing \u2022 Dramatic Tension"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Discuss the following types of Characters: \u2022 Protagonist, \u2022 Antagonist \u2022 Supporting Characters \u2022 Background Characters"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Discuss the process of Character Development"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Explain the Continuity of Time in Script Writing"
+            },
+            {
+              "pc_code": "3.5",
+              "description": "Discuss the 3-Act Structure \u2022 Beginning \u2022 Middle \u2022 End"
+            },
+            {
+              "pc_code": "3.6",
+              "description": "Explain the following components of a script Format: \u2022 Slugline \u2022 Action \u2022 Character \u2022 Dialogue \u2022 Parenthetical \u2022 Subtext \u2022 Beat \u2022 Transition \u2022 Abbreviations \u2022 Montages \u2022 Intercuts \u2022 Page Breaking \u2022 Finer Points \u2022 Dual Dialogue \u2022 Adlibs"
+            },
+            {
+              "pc_code": "3.7",
+              "description": "Demonstrate a simple script format using Script Writing Software \u2022 Fade In \u2022 Final Draft \u2022 Celtix \u2022 Story Architect"
+            },
+            {
+              "pc_code": "3.8",
+              "description": "Develop a structured Short Script, with notable characters and carry out a critical analysis of the Script."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ICT/CMP/009/L3",
+      "title": "SOUND ENGINEERING TECHNIQUES",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "L01 Understand the Basic Principles of Sound and how Audio Signals Work",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Discuss the following Sound Elements: \u2022 Frequency \u2022 Amplitude \u2022 Wavelength"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Discuss the Types of Sound Waves: \u2022 Sine \u2022 Square \u2022 Triangle \u2022 Sawtooth"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Discuss Analog vs. Digital Sound"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Discuss Decibels (dB) and Sound Pressure Levels"
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Experiment with a Decibel Meter to Measure Loudness"
+            },
+            {
+              "pc_code": "1.6",
+              "description": "Discuss Audio Signal Flow & Chain \u2022 Microphone \u2192 \u2022 Mixer \u2192 \u2022 Speakers"
+            },
+            {
+              "pc_code": "1.7",
+              "description": "Listen to different Frequency Tones and identify High vs. Low Frequencies."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Learn about Different Microphones and Proper Recording Methods",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Demonstrate the Use of Microphones: \u2022 Dynamic Microphone (e.g., Shure SM58 \u2013 good for Live Sound) \u2022 Condenser (e.g., Rode NT1-A \u2013 best for Studio Vocals) \u2022 Ribbon (e.g., Royer R-121 \u2013 Warm Sound for Instruments)"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Identify Polar Patterns: \u2022 Cardioid (Unidirectional) \u2022 Super Cardioid \u2022 Hyper Cardioid \u2022 Omnidirectional, \u2022 Bi-Directional (Figure 8))"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Discuss Microphone Placement Techniques: \u2022 Close Mic Placement \u2022 Distant Mic Placement"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Discuss Recording Vocals vs. Instruments"
+            },
+            {
+              "pc_code": "2.5",
+              "description": "Explain Common Recording Mistakes and How to Avoid Them"
+            },
+            {
+              "pc_code": "2.6",
+              "description": "Set-up and Test Different Microphones. Record the same sound source using different microphone types and placements"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Balance, Enhance, and Shape Sound through Sound Mixing",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Explain the following: \u2022 Equalization (EQ) \u2013 Adjusting Frequency Balance \u2022 Compression \u2013 Controlling Dynamic Range \u2022 Reverb & Delay \u2013 Adding Depth and Space \u2022 Panning & Stereo Imaging \u2013 Placing Sounds in the Stereo Field"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Discuss Mixing Workflow and Best Practices"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Use a DAW (Digital Audio Workstation) like Pro Tools, Adobe Audition, Logic Pro, or FL Studio to mix a basic track."
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Apply EQ and Compression to improve Clarity of 3.3"
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Know the Difference Between Mixing and Mastering",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Explain the difference between Mixing and Mastering"
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Demonstrate Loudness Normalization (LUFS, RMS, Peak Levels)"
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Demonstrate Limiting and Maximizing Loudness Without Distortion"
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Explain Common Mastering Mistakes"
+            },
+            {
+              "pc_code": "4.5",
+              "description": "Demonstrate a Mastering of a Mixed 60 Seconds Track by applying final: \u2022 Final EQ \u2022 Compression, \u2022 Limiting."
+            },
+            {
+              "pc_code": "4.6",
+              "description": "Demonstrate Exporting Audio for Different Platforms: \u2022 Streaming, \u2022 Film \u2022 Radio"
+            },
+            {
+              "pc_code": "4.7",
+              "description": "Compare a Raw Mix vs. a Mastered Version."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ICT/CMP/010/L3",
+      "title": "PHOTOGRAPHY",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understand Photography, Developmental History and Photography in Relation to Light",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Explain Photography"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Discuss the Origin of Photography"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "State the Roles of the following People in the Development of Photography: \uf0a7 Al-Haitian \uf0a7 John Dolland \uf0a7 Prof Joham Henry \uf0a7 Schulze of Nuremburg. \uf0a7 Joseph Nicephore Niepce \uf0a7 Louis Joarcques Mande Daguerre \uf0a7 Henry Fox Talbot."
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Discuss the different Fields of Photography namely: \uf0a7 Glamour Photography \uf0a7 Portraiture \uf0a7 Sport Photography \uf0a7 Underwater Photography \uf0a7 Micro Photography \uf0a7 Photo Journalism \uf0a7 Advertising \uf0a7 Scientific Photography \uf0a7 Nature Photography"
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Discuss the Basic Principle of Light Vis-\u00e0-vis Photography using: \uf0a7 Visible Spectrum \uf0a7 Light Separations (ROYGBIV)"
+            },
+            {
+              "pc_code": "1.6",
+              "description": "Discuss the Properties of Light: \uf0a7 Reflection \uf0a7 Refraction \uf0a7 Transmission \uf0a7 Absorption \uf0a7 Dispersion"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Understand Cameras and Lenses Usage in Photo Production",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Discuss a Camera"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Identify Types of Cameras: \uf0a7 Cinema Camera \uf0a7 Mirror-less Camera \uf0a7 DLSR Camera \uf0a7 TLR \uf0a7 SLR \uf0a7 Range Finders \uf0a7 Instamatics \uf0a7 Digital Camera \uf0a7 View Camera"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Discuss the Functions and Differences of the Cameras listed in 2.2"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Identify the parts of a Camera: \uf0a7 Lens \uf0a7 Lens Hood \uf0a7 Film Chamber \uf0a7 View Finder \uf0a7 Film Advance Lever \uf0a7 Shutter Release Button \uf0a7 Exposure Meter \uf0a7 Filter \uf0a7 Flash Bracket"
+            },
+            {
+              "pc_code": "2.5",
+              "description": "Explain the Functions of the Part of Camera in 2.4"
+            },
+            {
+              "pc_code": "2.6",
+              "description": "Explain the Types of Lenses and Areas of Applications \uf0a7 Wide Angle Lens \uf0a7 Telephoto Lens \uf0a7 Zoom Lens \uf0a7 Micro Lens"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Understand the Advanced Camera Technique",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Explain the following Camera Techniques: \uf0a7 Manual mode mastery (Aperture, Shutter Speed, ISO) \uf0a7 Advanced Metering Techniques \uf0a7 White Balance Customization \uf0a7 Using External Flashes and Strobes \uf0a7 High-Speed Photography"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Demonstrate the Use of the following in Photography: \uf0a7 Aperture \uf0a7 Shutter Speed ISO"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Demonstrate High Speed Photography"
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Know Composition in Photography",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Explain the term Composition with respect to Photography"
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Explain Composition and Aesthetics using: \uf0a7 Rule of Thirds and Beyond \uf0a7 Leading Lines, Framing, and Depth \uf0a7 Color Theory in Photography \uf0a7 Negative Space and Minimalism \uf0a7 Storytelling through Composition"
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Discuss Depth and Dimension using: \u2022 Foreground, Middle ground, and Background Layering \u2022 Leading lines, Framing, and Perspective Tricks"
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Explain Color Theory and Emotional Impact: \u2022 Psychology of Colors in Photography \u2022 Color Harmony and Complementary Colors"
+            },
+            {
+              "pc_code": "4.5",
+              "description": "Discuss the Negative Space and Minimalism: \u2022 Using Empty Space to Enhance Subject Impact \u2022 Practical Exercises in Minimalistic Composition"
+            },
+            {
+              "pc_code": "4.6",
+              "description": "Storytelling through Composition \u2022 Narrative Techniques in Visual Art \u2022 Analyzing Master Photographers' Work"
+            }
+          ]
+        },
+        {
+          "lo_num": "5",
+          "description": "Understand Lighting Mastering",
+          "performance_criteria": [
+            {
+              "pc_code": "5.1",
+              "description": "Demonstrate Natural Light with the Use of Camera to achieve the Following: \u2022 Golden Hour Vs. Blue Hour \u2022 Diffused Vs. Harsh Sunlight"
+            },
+            {
+              "pc_code": "5.2",
+              "description": "Demonstrate Studio Lighting Techniques Using: \u2022 3-Point Lighting Setup (Key, Fill, Rim) \u2022 Rembrandt, Split, Butterfly, And Loop Lighting"
+            },
+            {
+              "pc_code": "5.3",
+              "description": "Demonstrate the Use of Reflectors and Diffusers in interviews to have the following Fills: \u2022 White, Silver, Gold, And Black Reflectors \u2022 DIY Light Modifiers"
+            },
+            {
+              "pc_code": "5.4",
+              "description": "Discuss the Low-Light and Night Photography using Long Exposure Techniques, Light Trails and Astro Photography Basics"
+            },
+            {
+              "pc_code": "5.5",
+              "description": "Demonstrate Creative Light Painting and Special Effects \uf0a7 Light Painting with LEDs and Torches \uf0a7 Using Colored Gels for Mood Shifts"
+            }
+          ]
+        },
+        {
+          "lo_num": "6",
+          "description": "Understand Specialized Photography Styles",
+          "performance_criteria": [
+            {
+              "pc_code": "6.1",
+              "description": "Discuss portrait photography using the following techniques: \uf0a7 Posing Techniques for Individuals and Groups \uf0a7 Environmental vs. Studio Portraits"
+            },
+            {
+              "pc_code": "6.2",
+              "description": "Explain Landscape and Cityscape photography using Videos and Images from BBC Planet Earth considering: \uf0a7 HDR Photography and Focus Stacking \uf0a7 Using ND Filters for Long Exposures"
+            },
+            {
+              "pc_code": "6.3",
+              "description": "How to Use Micro Lens for Macro-Photography using : \uf0a7 Focus Stacking for Extreme Detail \uf0a7 Extension Tubes and Macro Lenses"
+            },
+            {
+              "pc_code": "6.4",
+              "description": "Discuss Fashion and Editorial Photography working with stylists, models and creating Editorial-Style images (using Fashion Magazines as References)"
+            }
+          ]
+        },
+        {
+          "lo_num": "7",
+          "description": "Know how to Use Post-Processing and Editing",
+          "performance_criteria": [
+            {
+              "pc_code": "7.1",
+              "description": "Explain Adobe Lightroom and Adobe Photoshop Photo Editing Software with its Interface and Tools"
+            },
+            {
+              "pc_code": "7.2",
+              "description": "Demonstrate Advanced Lightroom Editing Technique: \uf0a7 Color Correction and Grading \uf0a7 Dodging and Burning for Depth"
+            },
+            {
+              "pc_code": "7.3",
+              "description": "Demonstrate Retouching in Photoshop using filters \uf0a7 Skin Retouching without Losing Texture \uf0a7 Frequency Separation and Clone Stamping"
+            },
+            {
+              "pc_code": "7.4",
+              "description": "Demonstrate the Use of Advanced Color grading and styles using Plug-ins, Filters and Presets: \uf0a7 Cinematic Color Grading \uf0a7 LUTs"
+            },
+            {
+              "pc_code": "7.5",
+              "description": "Discuss the use of AI for Noise Reduction and Sharpening Techniques"
+            },
+            {
+              "pc_code": "7.6",
+              "description": "Explain RAW Workflow and File Management in: \uf0a7 Organizing Files for Efficiency \uf0a7 Non-Destructive Editing Practices"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ICT/CMP/011/L3",
+      "title": "2D ANIMATION PRODUCTION",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understanding Animation & Digital Media, Traditional Vs Digital Animation",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Define Animation and how it applies to different industries"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Discuss the difference between Animation and Digital Media"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Discuss how Animation is used in: \uf0a7 Entertainment (Movies, TV Shows, Anime). \uf0a7 Video Games (Character Animation, Game Cinematics). \uf0a7 Advertising & Marketing (Motion Graphics, Animated Ads). \uf0a7 Social Media (GIFs, Animated Stories, Brand Animations). \uf0a7 Education and e-Learning (Explainer Videos, Interactive Content)"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Explain career paths in Animation and Digital Media, including: \uf0a7 2D Animator \uf0a7 3D Animator \uf0a7 Storyboard Artist. \uf0a7 Motion Graphics \uf0a7 Visual Effects (VFX) Artist \uf0a7 Game Freelance Animator \uf0a7 Content Creator"
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Discuss the skills required for different animation jobs, such as Storytelling, Drawing, Modeling, and Video Editing."
+            },
+            {
+              "pc_code": "1.6",
+              "description": "Explain the evolution of Animation from Hand-Drawn techniques to Digital methods."
+            },
+            {
+              "pc_code": "1.7",
+              "description": "Recognize the differences between: \u2022 Traditional Animation \u2022 Digital 2D Animation \u2022 Stop-Motion Animation \u2022 3D Animation"
+            },
+            {
+              "pc_code": "1.8",
+              "description": "Explain the basic tools and software for Animation using \uf0a7 Adobe Animate \uf0a7 Blender \uf0a7 Toon Boom Harmony \uf0a7 After Effects \uf0a7 Autodesk Maya"
+            },
+            {
+              "pc_code": "1.9",
+              "description": "Discuss the basic functions of each software in 1.8 and when to use them"
+            },
+            {
+              "pc_code": "1.10",
+              "description": "Explain software and hardware requirements for Animation (Graphics Tablets, Powerful Computers)."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Understand the Principles of Animation",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Explain the basic principles of Animation. \uf0a7 Squash and Stretch \uf0a7 Anticipation \uf0a7 Staging \uf0a7 Straight Ahead and Pose-to-Pose \uf0a7 Follow-Through and Overlapping Action \uf0a7 Slow In and Slow Out \uf0a7 Arcs \uf0a7 Secondary Action \uf0a7 Timing \uf0a7 Exaggeration \uf0a7 Solid Drawing \uf0a7 Appeal"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Explain Frame Rates and Key framing basics: \uf0a7 24 FPS (Frames Per Second) \uf0a7 30 FPS \uf0a7 12 FPS"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Explain the following basics of Key Framing: \uf0a7 Keyframes \uf0a7 In-Betweening (Tweening) \uf0a7 Ease-in and Ease-out"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Explain the Basics of Hand-Drawn (Frame-by-Frame) 2D Animation: \uf0a7 Using Onion Skinning to see previous frames. \uf0a7 Drawing Key Poses first, then adding in-between Frames"
+            },
+            {
+              "pc_code": "2.5",
+              "description": "\uf0a7 Explore stop-motion Animation Techniques: \uf0a7 Capturing individual frames of real objects (clay, paper, puppets). \uf0a7 Adjusting characters slightly between each shot to create motion. \uf0a7 Using software like Dragon frame or Mobile Apps for stop-motion animation."
+            },
+            {
+              "pc_code": "2.6",
+              "description": "Discuss the pros and cons of 2D Hand-Drawn Vs. Stop-Motion Animation. Show Weight and Gravity by adjusting Squash and Stretch and"
+            },
+            {
+              "pc_code": "2.7",
+              "description": "Create a Short Flipbook Animation or a Simple Stop-Motion Sequence."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Storytelling & Concept Development",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Define Storytelling and the Important of Storytelling"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Explain the key Elements of Story: \uf0a7 Character \uf0a7 Conflict \uf0a7 Resolution"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Demonstrate Character Development techniques: \uf0a7 Character Backstory \uf0a7 Visual Design \uf0a7 Expression and Movement"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Discuss the different Story Structures using: \uf0a7 The Three-Act Structure (Setup, Conflict, Resolution). \uf0a7 The Hero\u2019s Journey (Classic Storytelling arc used in films like The Lion King and Star Wars). \uf0a7 The Pixar Formula (\"Once upon a time\u2026 Every day\u2026 Until one day\u2026\")."
+            },
+            {
+              "pc_code": "3.5",
+              "description": "Create a Character Sheet with Personality Traits, Backstory, and Sketches."
+            },
+            {
+              "pc_code": "3.6",
+              "description": "Explain the Basics of Scriptwriting for Animation: \uf0a7 Writing in a Screenplay format (Scene Descriptions, Dialogue, and Actions. \uf0a7 Dialogue Concise and Expressive for Animation. \uf0a7 Beats and Pacing"
+            },
+            {
+              "pc_code": "3.7",
+              "description": "Demonstrate how to create a Storyboard: \u2022 Start with rough sketches of key scenes. \u2022 Use arrows to indicate movement. \u2022 Write brief scene descriptions and dialogue."
+            },
+            {
+              "pc_code": "3.8",
+              "description": "Explain how a Mood Board helps establish the artistic style of an Animation."
+            },
+            {
+              "pc_code": "3.9",
+              "description": "Demonstrate how to create a Mood Board and Animatic: \u2022 Rough sketches of key scenes. \u2022 Use arrows to indicate movement. \u2022 Write brief scene descriptions and dialogue. \u2022 A rough animated version of a storyboard \u2022 Pacing and scene flow before full animation."
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Introduction to 2D Digital Animation Technique",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Identify 2D Animation Software: \uf0a7 Adobe Animate \uf0a7 Adobe After Effect \uf0a7 Toon Boom Harmony"
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Identify Basic tools and features in both software above: \uf0a7 Drawing tools (Brush, Pencil, Vector Shapes). \uf0a7 Timeline and Frames (Frame-by-Frame vs. Tweening) \uf0a7 Onion skinning for smooth animations."
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Explain the Following: \uf0a7 Layering \uf0a7 Backgrounds \uf0a7 Compositing in 2D Demonstrate how Layering works in 2D Animation: \u2022 Foreground (Characters, Objects). \u2022 Midground (Props, Interactive Elements) \u2022 Background (Static Environment, Sky, Buildings)."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
