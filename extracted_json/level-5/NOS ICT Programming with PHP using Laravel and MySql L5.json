@@ -1,0 +1,1078 @@
+{
+  "trade_name": "Programming with PHP using Laravel and MySql",
+  "level": 5,
+  "units": [
+    {
+      "code": "ICT/PHP/001/L5",
+      "title": "OCCUPATIONAL HEALTH AND SAFETY",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Demonstrate Safe working Practices and Instructions",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Explain safe work practice and instructions in an ICT environment"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Carry out safe work practices and instructions in an ICT environment"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Work in accordance with health and safety best practices in an ICT environment"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Follow all necessary instructions related to safety in the work place"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Demonstrate Understanding of Safety Hazards and risks",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Identify work environment hazards in an ICT environment"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "State various methods to reduce the risk of identified hazards in an ICT environment"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Demonstrate use of safety equipment applicable to ICT environment."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Possess the ability to take appropriate actions during accident/injury",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "State how to maintain hygienic, safe and secure workplace."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Demonstrate the uses of safety equipment in an ICT environment as required."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Identify basic first aid equipment"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Illustrate basic first aid treatments"
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Demonstrate safe work habit and clean work environment",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Use safe access and exit routes in the work environment"
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Dispose all wastes appropriately to designated waste facilities"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ICT/PHP/002/L5",
+      "title": "COMMUNICATION AND INTERPERSONAL SKILLS",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Know of the importance of good communication",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "State reasons why good communication is important"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "List ways to communicate effectively"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Exhibit patience and a mild demeanor while communicating with colleagues, managers and clients"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Demonstrate how to speak in a respectful manner"
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Use respectful body language even when in a bad mood or while under pressure"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Demonstrate ability to follow documented instructions",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Read and accurately follow steps in a web framework/plugins installation manual"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Find specific Class definitions and Method descriptions in the programming language reference document."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Find feature descriptions in the plugin framework documentation, while using a plugins/framework,"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ICT/PHP/003/L5",
+      "title": "TEAMWORK",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Positive working relationship with colleagues",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Identify the need for developing positive working relationship with colleagues"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Recognize the importance of relating with other people in a way that makes them feel valued and respected"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Assist team members when required."
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Report to the appropriate personnel when request for assistance fall outside area of responsibility."
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Communicate information to colleagues about individual work that may affect team work."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Take responsibility within the team",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Recognize own role and responsibilities within a team"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Perform individual tasks in line with the team\u2019s rules and regulations."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Participate effectively in teamwork."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Compliance with policy of organization",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Explain organizational code of conduct"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Work in line with organizational standard"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Use organizational code of practice"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Adhere strictly to instructions given by the Management"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ICT/PHP/004/L5",
+      "title": "INTRODUCTION TO PHP PROGRAMMING",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understand the role of PHP in web development",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Explain i. Server-side scripting in web development. ii. Client-side scripting in web development."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Explain how PHP interacts with i. HTML ii. CSS, and iii. JavaScript to create dynamic websites."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Describe a scenario where PHP is appropriate for use in web applications."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Develop PHP scripts to handle server-side tasks.",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Write PHP scripts that handle server requests and send correct responses based on the data received."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Implement PHP scripts to handle server-side logic, managing incoming requests, executing back-end operations. (e.g., JSON or HTML)."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Generate dynamic HTML output using PHP."
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Integrate PHP scripts with web forms"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Work with PHP syntax, variables, data types, and operators.",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Use correct PHP syntax to define variables and constants."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Correctly assign different data types in PHP (e.g., strings, arrays, integers)."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Implement the usage of arithmetic, comparison, logical, and assignment operators in PHP scripts."
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Implement control structures like loops and conditionals.",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Use conditional statements effectively to control program flow."
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Use loops to go through arrays and other data structures."
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Use control structures for problem-solving scenarios."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ICT/PHP/005/L5",
+      "title": "FUNCTIONS AND OBJECT-ORIENTED PHP",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Create and use custom PHP functions",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Write custom PHP functions that perform reusable tasks."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Pass and return parameters in custom functions, demonstrating effective function usage."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Apply scope rules (global and local variables) within functions appropriately."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Understand the principles of Object-Oriented Programming (OOP)",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Explain the key concepts of OOP including classes, objects, methods, and attributes."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Identify the benefits of using OOP in PHP to build scalable web applications."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Demonstrate an understanding of the four pillars of OOP (Encapsulation, Inheritance, Abstraction, and Polymorphism) by correctly defining and applying each concept in PHP code."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Implement classes, objects, inheritance, and polymorphism in PHP",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Write PHP classes with attributes and methods, and instantiate objects from these classes."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Demonstrate inheritance by creating subclasses that inherit properties and methods from parent classes."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Use polymorphism by implementing method overriding in PHP."
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Develop reusable and modular code using OOP principles",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Organize code into reusable classes and methods for different functionalities."
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Implement encapsulation to protect data and modularize components."
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Design and apply interfaces and abstract classes to enforce consistent code structure."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ICT/PHP/006/L5",
+      "title": "PHP AND MYSQL INTEGRATION FOR WEB APPLICATIONS",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understand the interaction between PHP and MySQL for dynamic web applications.",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Explain the client-server model and the role of PHP as a server-side scripting language."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Describe how PHP scripts communicate with MySQL databases using SQL queries."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Demonstrate understanding of the request-response cycle in a web application involving PHP and MySQL."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Implement PHP functions to interact with MySQL databases",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Use PHP functions (`mysqli_*` or `PDO`) to connect to a MySQL database and handle queries."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Handle database connection errors and implement proper error reporting."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Write PHP code that successfully performs SQL queries and handles results efficiently."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Use prepared statements and parameterized queries to enhance database security",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Demonstrate the use of prepared statements to execute SQL queries in PHP."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Use parameterized queries to safely pass user input to the database and prevent SQL injection."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Verify that user inputs are sanitized and validated before being processed by the PHP script."
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Build web applications that connect, retrieve, and manipulate data from MySQL using PHP.",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Design a PHP script that can retrieve data from a MySQL database and display it in a web page."
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Implement data insertion, updating, and deletion operations using PHP and MySQL."
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Demonstrate how PHP handles form submissions and interacts with the database in real time."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ICT/PHP/007/L5",
+      "title": "MYSQL DATABASE MANAGEMENT",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Design MySQL databases",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Create well-structured database schemas using appropriate data types and table relationships."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Normalize databases to avoid redundancy and ensure data integrity."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Use primary keys, foreign keys, and indexes to optimize database queries and performance."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Perform CRUD (Create, Read, Update, Delete) operations using SQL",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Write SQL queries to create new records, retrieve data, update existing records, and delete entries from MySQL databases."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Use joins, aggregate functions, and subqueries to manipulate and retrieve data effectively."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Demonstrate the integration of PHP with MySQL to perform CRUD operations dynamically."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Interact with the Document Object Model (DOM) to create dynamic content",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Use PHP to manipulate the DOM structure of web pages."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Dynamically generate HTML content from PHP scripts based on user interaction and data retrieval."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Combine PHP with JavaScript or AJAX to modify DOM elements in real-time."
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Implement form validation and other basic interactivity in web pages",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Implement server-side validation in PHP to check and sanitize form inputs."
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Develop PHP scripts to handle form submissions and display appropriate responses."
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Use PHP to add interactivity to web pages, such as error handling, redirection, and session"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ICT/PHP/008/L5",
+      "title": "INTRODUCTION TO LARAVEL FRAMEWORK",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understand the architecture and features of Laravel",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Describe Laravel\u2019s components and MVC architecture"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Identify the key features that make Laravel suitable for web development"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Compare Laravel with other PHP frameworks."
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Explain Laravel\u2019s request lifecycle."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Configure Laravel on local and server environments",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Install Laravel using Composer on a local machine."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Set up a web server to run a Laravel project."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Configure environment variables and manage the .env file."
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Troubleshoot common installation and configuration errors."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Explore Laravel\u2019s MVC (Model-View-Controller) framework.",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Create models to interact with the database in Laravel."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Implement controllers to handle HTTP requests."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Create views using Blade templating engine."
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Integrate routes to connect views and controllers"
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Create basic routes, controllers, and views in Laravel.",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Define and register routes using route definitions."
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Implement controllers for handling requests and responses."
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Design views using Blade syntax to display dynamic data."
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Demonstrate basic request-response cycle handling in Laravel."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ICT/PHP/009/L5",
+      "title": "LARAVEL DATABASE MANAGEMENT AND ELOQUENT ORM",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understand Laravel\u2019s database configuration and migration system",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Configure Laravel to connect to a relational database."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Set up database migrations and ensure version control of schemas."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Automate data insertion with seeders."
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Test and verify migration execution without data loss."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Manage migrations, seeders, and factories for database manipulation.",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Create and run migrations to update database schemas."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Use seeders to prepopulate databases with sample data."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Implement factories for generating test data during development."
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Rollback and modify migrations without affecting data integrity."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Use Eloquent ORM for efficient database interaction.",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Create models to represent database tables in Laravel."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Use Eloquent relationships (one-to-one, one-to-many, many-to-many) to link models."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Implement CRUD operations using Eloquent methods."
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Optimize Eloquent performance with eager loading and query scopes."
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Write advanced Eloquent queries to manage complex data relationships.",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Write complex queries using Eloquent\u2019s query builder."
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Implement pivot tables for many-to-many relationships."
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Perform nested eager loading for multi-level data retrieval."
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Create dynamic scopes to streamline queries."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ICT/PHP/010/L5",
+      "title": "RESTful API DEVELOPMENT IN LARAVEL",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understand REST architecture and API development with Laravel",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Explain the principles of REST architecture, including statelessness, resource representation, and HTTP methods."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Identify the key components of Laravel for building APIs, such as routes, controllers, and middleware."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Demonstrate how to design RESTful endpoints adhering to best practices in Laravel."
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Describe the lifecycle of an HTTP request and response in a RESTful Laravel application."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Build secure RESTful APIs using Laravel\u2019s routing system.",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Configure Laravel routing to handle various HTTP methods such as GET, POST, PUT, DELETE for API endpoints."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Implement input validation within API routes to ensure data integrity and security."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Use route groups and middleware in Laravel to enforce security, such as authentication and role-based access control."
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Apply best practices for structuring URLs and organizing API routes within Laravel\u2019s routing system."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Implement authentication and authorization for APIs using Laravel Passport or Sanctum.",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Set up Laravel Passport or Sanctum for API authentication and generate access tokens for API consumers."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Implement user authentication using Laravel\u2019s built-in functionality and secure sensitive API routes."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Configure authorization policies in Laravel to restrict access based on user roles and permissions."
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Demonstrate how to revoke and refresh access tokens using Passport or Sanctum for session management."
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Test and document APIs using tools like Postman and Laravel\u2019s built-in testing tools.",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Create automated tests for API endpoints using Laravel\u2019s testing framework, ensuring accuracy and consistency of responses."
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Use Postman to simulate API requests and verify the correctness of responses."
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Generate and organize API documentation, ensuring endpoints, request formats, and responses are clearly defined."
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Conduct automated testing for API performance, security, and edge case scenarios using Laravel\u2019s testing framework."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ICT/PHP/011/L5",
+      "title": "ADVANCED LARAVEL FEATURES AND TOOLS",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understand middleware for HTTP request handling.",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Define the purpose of middleware in Laravel and explain its role in HTTP request lifecycle management."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Demonstrate the creation and registration of custom middleware in Laravel to handle specific request logic. Apply middleware to routes or groups of routes to enforce security, authentication, or validation of incoming HTTP requests."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Use Laravel\u2019s built-in middleware effectively for common tasks such as logging, CSRF protection, and authentication."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Schedule tasks and automate repetitive processes using Laravel\u2019s task scheduling feature.",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Configure the Laravel scheduler by setting up the schedule:run command in the server\u2019s cron job."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Define and schedule various types of tasks, such as database cleanup, email notifications, or automated reports, using Laravel\u2019s task scheduling feature. Implement conditional scheduling to ensure tasks are only run under specific conditions or environments."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Test and verify the correct execution of scheduled tasks by checking logs and output for potential errors or inconsistencies."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Implement event broadcasting using Laravel Echo and WebSockets.",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Set up Laravel Echo and configure the broadcasting driver (e.g., Redis, Pusher) for real-time communication."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Define and dispatch events in Laravel, ensuring proper use of event broadcasting channels for real-time updates. Implement listeners and client-side event handling with Laravel Echo, ensuring real-time data synchronization between the backend and frontend."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Secure broadcast channels by ensuring proper authorization rules are implemented for private and presence channels in real-time applications"
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Optimize application performance using Laravel\u2019s caching mechanisms.",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Identify and configure appropriate cache drivers (e.g., Redis, Memcached) in Laravel for optimal performance based on the application\u2019s requirements."
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Implement query caching to reduce database load and improve response times for frequently accessed data."
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Use Laravel\u2019s cache management features (e.g., cache:clear, cache:forget) to manage and invalidate cache when necessary."
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Measure and monitor the performance improvements from caching using tools like Laravel Debugbar or external performance monitoring solutions."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ICT/PHP/012/L5",
+      "title": "LARAVEL SECURITY AND AUTHENTICATION",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understand Laravel\u2019s built-in authentication system",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Configure Laravel\u2019s authentication system by using the Auth scaffolding for login, registration, and password reset functionality."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Demonstrate how to customize authentication logic by modifying the default controllers, middleware, and guards."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Explain the role of authentication guards and providers in handling user authentication across multiple backends or APIs."
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Secure user authentication with advanced features such as multi-factor authentication (MFA) or social login integration."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Implement authorization mechanisms using gates and policies.",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Define and implement authorization rules using gates to restrict access based on specific conditions or user attributes."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Create and register policies to manage authorization logic for specific models or resources within the application."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Integrate gates and policies with controller methods to ensure access control for various actions (e.g., create, update, delete)."
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Test and verify the correct functioning of gates and policies by simulating different user roles and access levels."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Protect web applications from SQL injection, XSS, CSRF, and other vulnerabilities.",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Implement input validation and parameterized queries to safeguard against SQL injection attacks in Laravel."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Use Laravel\u2019s built-in CSRF protection mechanisms, such as tokens, to prevent Cross-Site Request Forgery attacks."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Sanitize and escape user inputs to prevent Cross-Site Scripting (XSS) attacks, using helper functions like e() and filter_var()."
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Conduct security audits using Laravel\u2019s built-in tools and third-party libraries to identify and mitigate other potential vulnerabilities, such as file inclusion or remote code execution."
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Manage user roles and permissions in Laravel.",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Implement a role-based access control (RBAC) system by defining roles and assigning permissions to users through a database structure."
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Utilize Laravel packages, such as Spatie's \"Laravel-Permission,\" to simplify the management of roles and permissions."
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Apply role and permission checks at the controller or middleware level to control user access to routes, actions, or resources."
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Ensure that role and permission changes dynamically affect user access without requiring system reboots or additional configuration changes."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ICT/PHP/013/L5",
+      "title": "LARAVEL TESTING AND DEBUGGING",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understand Laravel\u2019s testing environment and tools",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Set up Laravel\u2019s testing environment, including configuration of PHPUnit and test databases for isolated test cases."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Demonstrate the use of Laravel\u2019s built-in testing tools and methods, such as assert methods, to verify the functionality of routes, models, and controllers."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Identify and explain different types of tests available in Laravel, including unit tests, feature tests, and browser testing using Laravel Dusk."
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Run and interpret test results in the Laravel testing environment, ensuring proper error handling and debugging."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Write unit and feature tests for Laravel applications.",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Write unit tests to validate the behaviour of individual functions, methods, and classes within the application."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Develop feature tests that simulate user interactions and test the behaviour of larger components, such as routes, forms, and API endpoints."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Use Laravel\u2019s actingAs() method to simulate authenticated users in feature tests to verify role-based or permission-based access."
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Organize tests effectively by grouping and tagging tests, ensuring test coverage is comprehensive and aligns with the application\u2019s core functionality."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Use Laravel debugging tools such as Telescope and logging.",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Install and configure Laravel Telescope for real-time application monitoring, including request logs, database queries, and exceptions."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Use Telescope to inspect and troubleshoot application issues by analysing log data, HTTP requests, and background tasks."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Implement logging using Laravel\u2019s logging system, configuring log channels (e.g., daily, single, slack) to monitor application behaviour."
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Analyse and interpret log files to detect errors, performance bottlenecks, and potential security issues."
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Automate testing and deployment processes",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Set up Continuous Integration (CI) pipelines using services like GitHub Actions, Travis CI, or Jenkins to automate testing of Laravel applications."
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Implement automated test scripts that run unit and feature tests on code commits, ensuring that the application is free of defects before deployment."
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Automate the deployment process using Laravel tools such as Envoyer or Forge, including database migrations and caching."
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Integrate automated notifications in CI/CD pipelines to alert the team of test failures or deployment errors in real-time."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
