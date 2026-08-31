@@ -1,0 +1,604 @@
+{
+  "trade_name": "Aluminium Cladding",
+  "level": 2,
+  "units": [
+    {
+      "code": "CON/ACI/001/L2",
+      "title": "Health, Safety and Environment",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Work practices and instructions In a Work environment",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Explain safe work practices and instructions to Assistant Aluminium Cladder."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Compare safe work practices and instructions in accordance with company safety Guides."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Apply safe work practices to a given task such as formwork, Aluminium Cladding Installation, etc."
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Determine safe methods and procedures of Work practices."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Understand Safety hazards and risks in the work Environment.",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Recognize safety sign and symbols in work Environment."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Identify potential hazards and risks in Work environment."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Recognize potential hazards and risks in surface, heights and Depth areas."
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Implement appropriate actions to prevent accident/injury."
+            },
+            {
+              "pc_code": "2.5",
+              "description": "Carry out safety drills."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Use of Various types of PPE in the work Environment.",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Identify types of PPE."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Describe work related PPE."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Select appropriate PPE."
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Wear PPE in accordance with Instructions."
+            },
+            {
+              "pc_code": "3.5",
+              "description": "Maintain PPE after use."
+            },
+            {
+              "pc_code": "3.6",
+              "description": "Store PPE after Cleaning."
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Apply Stacking Techniques.",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Apply appropriate methods of lifting techniques for materials in work Environment."
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Implement proper stacking methods and procedures in Material handling."
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Guide the Assistant Aluminium Cladder Scaffolder on proper application of manual lifting techniques for heavy materials."
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Communicate with Assistant Aluminium Cladder on the application of safe work practices and procedures in work Environment."
+            }
+          ]
+        },
+        {
+          "lo_num": "5",
+          "description": "Health & Safety Policy information.",
+          "performance_criteria": [
+            {
+              "pc_code": "5.1",
+              "description": "Provide information of company safety policy to Assistant Aluminium Cladder."
+            },
+            {
+              "pc_code": "5.2",
+              "description": "Explain the importance of health and safety in Aluminium Cladding."
+            },
+            {
+              "pc_code": "5.3",
+              "description": "Measure Assistant Aluminium Cladder\u2019s work Practices application with safety guidelines."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "CON/ACI/002/L2",
+      "title": "Communication system in a work environment.",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Complex communication system in a work environment",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Examine the use of audio, electronic, Electro-magnetic means to pass on necessary information."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Describe simple non-verbal means of communication."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Interpret symbols and signs appropriately."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Source of information in a work environment",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Determine sources of information in an organization and work environment."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Discuss the general information flow systems in a work environment"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Communicate findings in accordance to procedure in a work environment"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Use information to avoid challenges in a work situation"
+            },
+            {
+              "pc_code": "2.5",
+              "description": "Carry out proper documentation of information in accordance to procedure in a Work environment."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Use of Various types of PPE in the work Environment.",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Describe various communication channels in a work environment."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Demonstrate the use of various communication means in a work environment."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Communicate information to the right personnel."
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Maintain the effective use of symbols, signs and codes."
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Maintain and deploy communication equipment",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Examine that all communication equipment are in good working conditions."
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Interact with the maintenance unit to ensure that communication equipment is maintained regularly."
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Interact with appropriate authority to replace communication equipment in the event of loss or damage."
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Examine that communication equipment is stored appropriately in a work environment."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "CON/ACI/003/L2",
+      "title": "Team Work in Construction Environment.",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Positive working relationship with Colleagues.",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Identify the need for developing positive working relationship with Colleagues."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Recognize the importance of relating with other people in a way that makes them feel valued and Respected."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Interact with team members when required."
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Communicate to the appropriate personnel when request for assistance fall outside area of your responsibility"
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Communicate information to colleagues about own work that might affect Others."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Take responsibilities Within the team.",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Recognize own role and responsibilities within the Team."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Perform individual tasks in line with the team rules and regulations."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Perform effectively in teamwork."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Compliance with policy of organization.",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Perform in line with organizational standard."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Use organization code of practice."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Explain organizational code of conduct."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "CON/ACI/006/L2",
+      "title": "Preparation for Aluminium Cladding Installation",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Review basic Project Specifications",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Identify drawings & specifications"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Identify scope of cladding installations"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Identify basic design requirements such as cladding materials and dimensions"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Conduct Site Assessment",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Assess site condition"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Identify potential challenges that may affect installation process"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Identify location of utilities that might impact on safety"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Prepare work area for Cladding installation",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Clearly demarcate the boundaries of the work area using barriers or signage to prevent unauthorized access."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Allocate sufficient space for material storage, cutting table, and assembly of cladding components."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Select area for placement of cutting tools, fasteners, scaffolding, and other equipment required for the job"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Ensure the availability of safety equipment, including first aid kits, fire extinguishers, and personal protective equipment (PPE)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "CON/ACI/007/L2",
+      "title": "Basic Aluminium Cladding Installation",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Verify Materials and Tools",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Check that all required aluminum cladding materials are on-site and in good condition."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Ensure the availability and functionality of tools and equipment needed for the installation"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Select tools for the job including cutting tools, fasteners, and safety gear."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Understand Basic Scaffolding Principles",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Select tools for medium duty scaffold installation"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Select basic components for erecting scaffolds such as: \u2022 Joint pin \u2022 Couplers \u2022 Transom \u2022 Base plate Working platform"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Use tools to erect basic scaffolds"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Assemble basic scaffolding components such as: \u2022 Base component \u2022 Frame \u2022 Brace \u2022 Working platform Guardrail"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Be able to Dismantle Simple Erected scaffolds",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Select tools for dismantling light duty scaffold installation"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Select tools for medium duty scaffold installation"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Dismantle Scaffolds in this order: \u2022 Guardrail \u2022 Working platform \u2022 Brace \u2022 Frame \u2022 Base component"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Clean & Stack Components correctly"
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Measure and Mark",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Identify tools for Marking and Measurement"
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Measure the installation points on the building structure based on the project specification."
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Mark the installation points on the building structure based on the project specification."
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Identify unit of measurement"
+            }
+          ]
+        },
+        {
+          "lo_num": "5",
+          "description": "Cut & Shape Cladding Materials",
+          "performance_criteria": [
+            {
+              "pc_code": "5.1",
+              "description": "Select tools to cut aluminium cladding materials to required dimensions"
+            },
+            {
+              "pc_code": "5.2",
+              "description": "Select tools to shape aluminium cladding materials to required shape"
+            },
+            {
+              "pc_code": "5.3",
+              "description": "Apply precision to cut cladding materials to minimize waste"
+            },
+            {
+              "pc_code": "5.4",
+              "description": "Apply precision to shape cladding materials to minimize waste"
+            }
+          ]
+        },
+        {
+          "lo_num": "6",
+          "description": "Prepare Substrate and Insulation",
+          "performance_criteria": [
+            {
+              "pc_code": "6.1",
+              "description": "Select tools for dismantling light and medium duty scaffold installation"
+            },
+            {
+              "pc_code": "6.2",
+              "description": "Use tools for dismantling Simple erected scaffolds such as: \u2022 Claw hammer \u2022 Adjustable wrench \u2022 Suspension rope"
+            },
+            {
+              "pc_code": "6.3",
+              "description": "Prepare the substrate (building surface) to ensure it is clean and suitable for cladding installation."
+            },
+            {
+              "pc_code": "6.4",
+              "description": "Install insulation"
+            }
+          ]
+        },
+        {
+          "lo_num": "7",
+          "description": "Fasten Profiles and Cladding Panels",
+          "performance_criteria": [
+            {
+              "pc_code": "7.1",
+              "description": "Select Leveling instruments for aluminum cladding"
+            },
+            {
+              "pc_code": "7.2",
+              "description": "Select tools for fastening profiles such as screw, rivets, adhesives"
+            },
+            {
+              "pc_code": "7.3",
+              "description": "Select tools for fastening panels such as screw, rivets, adhesives"
+            },
+            {
+              "pc_code": "7.4",
+              "description": "Fasten aluminum cladding panels"
+            },
+            {
+              "pc_code": "7.5",
+              "description": "Ensure panels are level, plumb, and aligned according to the architectural drawings."
+            }
+          ]
+        },
+        {
+          "lo_num": "8",
+          "description": "Address Joints and Corners",
+          "performance_criteria": [
+            {
+              "pc_code": "8.1",
+              "description": "Identify Joints in Cladding"
+            },
+            {
+              "pc_code": "8.2",
+              "description": "Identify Joints in Corners"
+            },
+            {
+              "pc_code": "8.3",
+              "description": "Ensure Joints and corners are properly sealed and aligned to maintain the integrity of the cladding system."
+            },
+            {
+              "pc_code": "8.4",
+              "description": "Use appropriate techniques to create expansion joints and accommodate building movement."
+            }
+          ]
+        },
+        {
+          "lo_num": "9",
+          "description": "Understand Quality Checks",
+          "performance_criteria": [
+            {
+              "pc_code": "9.1",
+              "description": "Check the installed cladding for defects"
+            },
+            {
+              "pc_code": "9.2",
+              "description": "Check the installed cladding for misalignments"
+            },
+            {
+              "pc_code": "9.3",
+              "description": "Check the installed cladding for deviations from project specifications"
+            },
+            {
+              "pc_code": "9.4",
+              "description": "Rectify issues to maintain quality of installation"
+            }
+          ]
+        },
+        {
+          "lo_num": "10",
+          "description": "Perform Basic Cleaning",
+          "performance_criteria": [
+            {
+              "pc_code": "10.1",
+              "description": "Select tools for cleaning"
+            },
+            {
+              "pc_code": "10.2",
+              "description": "Clean the installed aluminium cladding to remove debris and marks"
+            },
+            {
+              "pc_code": "10.3",
+              "description": "Address visible seams and Joints"
+            }
+          ]
+        },
+        {
+          "lo_num": "11",
+          "description": "Document and Communicate",
+          "performance_criteria": [
+            {
+              "pc_code": "11.1",
+              "description": "Document the installation process"
+            },
+            {
+              "pc_code": "11.2",
+              "description": "Report identified issues & challenges to superiors"
+            },
+            {
+              "pc_code": "11.3",
+              "description": "Documents issues challenges identified during the installation process and solutions implemented."
+            },
+            {
+              "pc_code": "11.4",
+              "description": "Conduct follow up inspection after installation."
+            },
+            {
+              "pc_code": "11.5",
+              "description": "Communicate the completion process to superiors."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

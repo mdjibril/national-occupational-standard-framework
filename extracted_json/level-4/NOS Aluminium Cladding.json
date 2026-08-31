@@ -1,0 +1,738 @@
+{
+  "trade_name": "Aluminium Cladding",
+  "level": 4,
+  "units": [
+    {
+      "code": "CON/ACI/001/L4",
+      "title": "Health, Safety and Environment",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Demonstrate Personal health and hygiene",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "State the importance of maintaining good personal hygiene"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Wear clean, smart and appropriate personal Protective Equipment"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Work safely at all times, complying with health and safety and other relevant regulations and guidelines."
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Describe how to deal with cuts, grazes and wounds and why it is important to do so"
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Follow safety protocols for treatments of any cut, grazes and wounds"
+            },
+            {
+              "pc_code": "1.6",
+              "description": "Report illness and infection promptly to the appropriate person"
+            },
+            {
+              "pc_code": "1.7",
+              "description": "Supervise the use of Personal Protection Equipment such as Head Protection, Foot Protection, Face and eye Protection, Hand and Body protection and regulatory protection."
+            },
+            {
+              "pc_code": "1.8",
+              "description": "Summarize own responsibility under the health and safety Act as it relates to own occupation."
+            },
+            {
+              "pc_code": "1.9",
+              "description": "Guide Junior workmen & others on general rules of hygiene that must be followed while working on site"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Maintain Hygienic, safe and hazard-free workplace.",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "State the importance of working in a healthy, safe and hygienic workplace"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Determine the appropriate storage facility required."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Report any accidents or near accidents quickly and accurately to the proper person."
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Promote health, hygiene and safety procedures during work"
+            },
+            {
+              "pc_code": "2.5",
+              "description": "State procedure for disposal of waste"
+            },
+            {
+              "pc_code": "2.6",
+              "description": "Supervise identification of any hazards or potential hazards and deal with these correctly"
+            },
+            {
+              "pc_code": "2.7",
+              "description": "State where information about health and safety in your workplace can be obtained"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Demonstrate safe and Secure workplace practices",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Carry out organizational procedures on how to warn other people about hazards and why this is important"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "State why accidents and near-accidents should be reported and who they should be reported to"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Describe the types of emergencies that may happen in the workplace and how to deal with them"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Indicate where to find the first-aid equipment and locate the authorized personnel"
+            },
+            {
+              "pc_code": "3.5",
+              "description": "Lift and handle materials in line with work environment procedure."
+            },
+            {
+              "pc_code": "3.6",
+              "description": "State other ways of working safely that are relevant to own position & responsibility"
+            },
+            {
+              "pc_code": "3.7",
+              "description": "Describe organizational emergencies procedures, in particular fire, and how these should be followed"
+            },
+            {
+              "pc_code": "3.8",
+              "description": "State the possible causes for fire in the own area of work"
+            },
+            {
+              "pc_code": "3.9",
+              "description": "Describe how to minimize the possibility of fire in the Aluminium cladding workplace"
+            },
+            {
+              "pc_code": "3.10",
+              "description": "State where to find the alarms and how to set them off"
+            },
+            {
+              "pc_code": "3.11",
+              "description": "State the importance of following the fire safety laws"
+            },
+            {
+              "pc_code": "3.12",
+              "description": "State the importance of reporting all usual or non-routine incidents to the appropriate personnel"
+            },
+            {
+              "pc_code": "3.13",
+              "description": "Ensure security procedure for the movement of personnel and visitors are followed in your work environment"
+            },
+            {
+              "pc_code": "3.14",
+              "description": "Ensure security of equipment\u2019s in work environment within your responsibility"
+            },
+            {
+              "pc_code": "3.15",
+              "description": "Describe organizational security procedures in own area of works and why it is important"
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Understanding of safety protocols and regulations",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Display a comprehensive knowledge of relevant safety regulations, including OSHA (Occupational Safety and Health Administration) standards"
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Implement proper safety measures and protocols consistently to ensure a safe work environment for the team and others on the job site"
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Conduct regular safety briefings and training sessions for team members, emphasizing the importance of safety compliance"
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Develop and maintain an up-to-date safety plan for aluminium cladding installation projects, including emergency response procedures"
+            },
+            {
+              "pc_code": "4.5",
+              "description": "Participate in safety audits and inspections, addressing any identified issues promptly and effectively to maintain a safe workplace"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "CON/ACI/002/L4",
+      "title": "Communication System in Work Environment",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understand Complex communication system in a work environment",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Describe simple non-verbal means of communication"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Interpret concept of symbols and signs appropriate"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Supervise the use of audio and electronic means to pass on necessary information"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Understand Source of information and Management in a work environment",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Participate in creating and making functional the source of information in an organization and work environment."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Make accessible the source of information in an organization or work environment"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Relate appropriately with the source of information"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Use the various information flow system in an organization or work environment to overcome challenges"
+            },
+            {
+              "pc_code": "2.5",
+              "description": "Ensure proper documentation retrieval of information in accordance to procedure in a work environment"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Understand Communication process in a work environment",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Ensure the accessibility of the communication equipment in the work environment"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Describe the effective use of the various communication channels in a work environment"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Demonstrate the use of various communication means in a work environment"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Ensure effective information flow to the right personnel"
+            },
+            {
+              "pc_code": "3.5",
+              "description": "Ensure the effective deployment of the use of symbols, signs and codes"
+            },
+            {
+              "pc_code": "3.6",
+              "description": "Ensure that instructions are obeyed and disseminated in line with ethics of the work environment"
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Understand & Deploy Communication equipment",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Check to eensure that communication equipment is in good working condition"
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Liaise with the maintenance unit to ensure that communication equipment is maintained regularly"
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Liaise with appropriate authority to replace communication equipment in the event of loss or damage"
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Ensure that communication equipment is well secured in a work environment"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "CON/ACI/003/L4",
+      "title": "Team Work in Construction Environment",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understand Various team roles on the construction site",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Distinguish among various teams e.g. Masonry, Carpentry, Iron bending, Plumbing etc."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Identify the role of each team."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Discuss the importance of each team"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Deliver quality output as a team player"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Supervise team activity.",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Discuss the method of carrying out activities with team members."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Distribute workload and supervise cladding work activities"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Select materials and tools required for each team work activity"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Interpret and ensure understanding of directives to team members"
+            },
+            {
+              "pc_code": "2.5",
+              "description": "Recognize own role and responsibilities within the team."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Understand communication flow In a Team",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Communicate work related information/requirements clearly to team members"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Inform co-workers and superiors about any kind of deviation from workplan"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Address the problems effectively, if need be, to superiors appropriately"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Gather instructions from superiors and respond effectively"
+            },
+            {
+              "pc_code": "3.5",
+              "description": "Supervise & communicate to team members/subordinates of the right work techniques and methods."
+            },
+            {
+              "pc_code": "3.6",
+              "description": "Obtain clarification and advice from superiors as per work information were necessary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "CON/ACI/004/L4",
+      "title": "Advanced Tools and Equipment",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understand Complex Aluminium Cladding Tools.",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Identify advanced tools used in complex Aluminium Cladding Works"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Select appropriate advanced tools used in complex Aluminium Cladding Works"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Use advanced tools for Aluminium Cladding Works in accordance with safety regulations."
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Return advanced tools for storage according to manufacturer\u2019s specifications"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Understand Complex Aluminium Cladding Equipment",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Identify advanced equipment used in complex Aluminium Cladding Works"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Select appropriate advanced Equipment used in complex Aluminium Cladding Works"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Use advanced equipment for Aluminium Cladding Works In accordance with safety regulations"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Return advanced equipment for storage according to manufacturer\u2019s specifications"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Understand the personnel requirements on advanced Aluminium works",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Monitor the operators of advanced tools in Aluminium works"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Monitor the operators of advanced equipment in Aluminium works"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Ensure proper sequence in Aluminium works involving use of advanced tools"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Ensure proper sequence in Aluminium works involving use of advanced equipment"
+            },
+            {
+              "pc_code": "3.5",
+              "description": "Maintain a balanced cadre distribution of Aluminium cladders"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "CON/ACI/005/L4",
+      "title": "Estimate and Plan Labour Requirements for Aluminium Cladding for Advanced Projects",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Analyse project specifications and requirements.",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Interpret and understand project specifications and drawings accurately"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Identify factors that influence labour requirements, such as surface area, design complexity, scope of the project, environment, project duration, etc."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Mention factors that may affect labour estimates such as weather, change in preference by the client"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Identify how to mitigate factors that may affect labour estimates in 1.3 above"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Carry out estimating for Aluminium Cladding in Complex project.",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Demonstrate the allocation of labour resources efficiently for Complex project."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Demonstrate estimating of materials, tools and equipment required for aluminium cladding in complex project."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Supervise estimates for aluminium Cladding."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Understand ways to adjust labour requirements during the project lifecycle",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Monitor labour usage in real-time for conformity with labour requirements."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Monitor material usage in real-time for conformity with materials requirements."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Identify deviations from the initial labour plan."
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Identify impact of labour plan deviation on project budget."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "CON/ACI/006/L4",
+      "title": "Planning Aluminium Cladding Work for Advanced Project",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Demonstrate general understanding of advanced techniques for installing aluminium cladding systems",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Demonstrate proficiency in implementing innovative cladding solutions."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Demonstrate proficiency in implementing efficient cladding solutions."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Incorporate emerging trends in aluminium cladding installation."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Analyze and evaluate project specifications",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Evaluate project specifications to identify suitable materials."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Analyze project specifications to identify suitable installation methods."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Make decisions for materials that optimize durability."
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Select installation methods that optimize comfort of users."
+            },
+            {
+              "pc_code": "2.5",
+              "description": "Decide installation methods that optimize durability."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Develop project plans that integrate industry best practices, safety procedures",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Integrate safety protocols to ensure a secure work environment."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Create comprehensive project plans that incorporate industry best practices"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Monitor environmental sustainability in the project plan"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Monitor environmental sustainability in the project execution"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "CON/ACI/007/L4",
+      "title": "Project Review",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understand the technical aspects in the installation and maintenance of Aluminium cladding installations",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Identify advanced techniques and materials used in aluminium cladding"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Resolve technical challenges encountered during installation and maintenance of aluminium cladding systems"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Use advanced technology and tools to improve efficiency and quality in aluminium cladding projects."
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Demonstrate quality workmanship and attention to detail in aluminium cladding installations"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Know the latest industry standards and regulations, ensuring compliance with local and international building codes for aluminium cladding in advanced construction projects.",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Identify relevant local and international building codes and regulations related to aluminium cladding"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Demonstrate ability to ensure project designs and executions align with the latest industry standards and compliance requirements."
+            },
+            {
+              "pc_code": "2.3",
+              "description": ""
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Demonstrate commitment to continuous education and professional development to stay current with evolving compliance requirements."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Prepare comprehensive project plans for the implementation of aluminium cladding in advanced building designs",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Prepare project plans in a clear and understandable manner to all project stakeholders"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Demonstrate skills in resource allocation for advanced building designs"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Communicate project plans in a clear and understandable manner to all project stakeholders."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "CON/ACI/008/L4",
+      "title": "Special and Complex Aluminium Cladding Works",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understand the various complex forms of Aluminium cladding installations.",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Identify the complex areas of Aluminium cladding works."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Interpret drawings for a complex design"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Describe details of wet(closed) installation system"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Describe details of dry(gap) installation system"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Understand the factors to be considered in fulfilling the requirements of complex installations",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Explain thermal performance in complex aluminium cladding works"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Explain water management in sloped complex aluminium cladding works"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Explain fire resistance consideration for the envelope surface in complex aluminium cladding works"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Explain how to bridge the gap in extremely wide intervals for anchorage in special structures"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Understand the various complex installation requirements and techniques in aluminium cladding works",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Describe installation techniques for double panel installations"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Describe installation techniques for curved panel installations"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Describe installation requirements for sound-acoustics building"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Describe installation techniques for sound-acoustics building"
+            },
+            {
+              "pc_code": "3.5",
+              "description": "Describe installation requirements for bullet-proof panel."
+            },
+            {
+              "pc_code": "3.6",
+              "description": "Describe requirements for double panel installations"
+            },
+            {
+              "pc_code": "3.7",
+              "description": "Describe installation techniques for bullet-proof panel."
+            },
+            {
+              "pc_code": "3.8",
+              "description": "Describe installation requirements for curved panel installations"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,588 @@
+{
+  "trade_name": "Aluminium Cladding",
+  "level": 3,
+  "units": [
+    {
+      "code": "CON/ACI/001/L3",
+      "title": "Health, Safety and Environment",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Demonstrate Personal health and hygiene",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "State the importance of maintaining good personal hygiene"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Wear clean, smart and appropriate personal Protective Equipment"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Work safely at all times, complying with health and safety and other relevant regulations and guidelines."
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Describe how to deal with cuts, grazes and wounds and why it is important to do so"
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Follow safety protocols for treatments of any cut, grazes and wounds"
+            },
+            {
+              "pc_code": "1.6",
+              "description": "Report illness and infection promptly to the appropriate person"
+            },
+            {
+              "pc_code": "1.7",
+              "description": "Supervise the use of Personal Protection Equipment such as Head Protection, Foot Protection, Face and eye Protection, Hand and Body protection and regulatory protection."
+            },
+            {
+              "pc_code": "1.8",
+              "description": "Summarize own responsibility under the health and safety Act as it relates to own occupation."
+            },
+            {
+              "pc_code": "1.9",
+              "description": "Guide Junior workmen & others on general rules of hygiene that must be followed while working on site"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Maintain a hygienic, safe and hazard free workplace.",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "State the importance of working in a healthy, safe and hygienic workplace"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Follow health, hygiene and safety procedures during work"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Report any accidents or near accidents quickly and accurately to the proper person."
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Promote health, hygiene and safety procedures during work"
+            },
+            {
+              "pc_code": "2.5",
+              "description": "State procedure for disposal of waste"
+            },
+            {
+              "pc_code": "2.6",
+              "description": "Supervise identification of any hazards or potential hazards and deal with these correctly"
+            },
+            {
+              "pc_code": "2.7",
+              "description": "State where information about health and safety in your workplace can be obtained"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Demonstrate safe and Secure workplace practices",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Carry out organizational procedures on how to warn other people about hazards and why this is important"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "State why accidents and near-accidents should be reported and who they should be reported to"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Identify how workplace emergencies are dealt with"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Indicate where to find the first-aid equipment and locate the authorized personnel"
+            },
+            {
+              "pc_code": "3.5",
+              "description": "Lift and handle materials in line with work environment procedure."
+            },
+            {
+              "pc_code": "3.6",
+              "description": "State other ways of working safely that are relevant to own position & responsibility"
+            },
+            {
+              "pc_code": "3.7",
+              "description": "Describe organizational emergencies procedures, in particular fire, and how these should be followed"
+            },
+            {
+              "pc_code": "3.8",
+              "description": "State the possible causes for fire in the own area of work"
+            },
+            {
+              "pc_code": "3.9",
+              "description": "Describe how to minimize the possibility of fire in the Aluminium cladding workplace"
+            },
+            {
+              "pc_code": "3.10",
+              "description": "State where to find the alarms and how to set them off"
+            },
+            {
+              "pc_code": "3.11",
+              "description": "State the importance of following the fire safety laws"
+            },
+            {
+              "pc_code": "3.12",
+              "description": "State the importance of reporting all usual or non-routine incidents to the appropriate personnel"
+            },
+            {
+              "pc_code": "3.13",
+              "description": "Ensure security procedure for the movement of personnel and visitors are followed in your work environment"
+            },
+            {
+              "pc_code": "3.14",
+              "description": "Ensure security of equipment\u2019s in work environment within your responsibility"
+            },
+            {
+              "pc_code": "3.15",
+              "description": "Describe organizational security procedures in own area of works and why it is important"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "CON/ACI/002/L3",
+      "title": "Communication System in Work Environment",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understand Complex communication system in a work environment",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Describe simple non-verbal means of communication"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Interpret concept of symbols and signs appropriate"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Supervise the use of audio and electronic means to pass on necessary information"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Understand Source of information and Management in a work environment",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Identify functional sources of information in work environment."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Make accessible the source of information in a work environment"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Relate appropriately with the source of information"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Use the various information flow system in a work environment to overcome challenges"
+            },
+            {
+              "pc_code": "2.5",
+              "description": "Ensure proper documentation retrieval of information in accordance to procedure in a work environment"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Understand Communication process in a work environment",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Ensure the accessibility of the communication equipment in the work environment"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Describe the effective use of the various communication channels in a work environment"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Demonstrate the use of various communication means in a work environment"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Ensure effective information flow to the right personnel"
+            },
+            {
+              "pc_code": "3.5",
+              "description": "Ensure the effective deployment of the use of symbols, signs and codes"
+            },
+            {
+              "pc_code": "3.6",
+              "description": "Ensure that instructions are obeyed and disseminated in line with ethics of the work environment"
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Understand & Deploy Communication equipment",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Check that communication equipment is in good working condition"
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Liaise with the maintenance unit to ensure that communication equipment is maintained regularly"
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Liaise with appropriate authority to replace communication equipment in the event of loss, malfunction or damage."
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Ensure that communication equipment is well secured in a work environment"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "CON/ACI/003/L3",
+      "title": "Team Work in Construction Environment",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understand Various team roles on the construction site",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Identify the various work team on site e.g. Masonry, Carpentry, Iron bending, Plumbing etc."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Identify the role of each team in 1.1."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Discuss the importance of each team members"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Supervise team cladding work activity",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Discuss the method of carrying out activities with team members."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Distribute workload and supervise cladding work activities"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Select materials and tools required for each team work activity"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Interpret and ensure understanding of directives to team members"
+            },
+            {
+              "pc_code": "2.5",
+              "description": "Recognize own role and responsibilities within the team."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Understand communication flow In a Team",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Communicate work related information/requirements clearly to team members"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Inform co-workers and superiors about any kind of deviation from workplan"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Address the problems effectively, if need be, to superiors appropriately"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Gather instructions from superiors and respond effectively"
+            },
+            {
+              "pc_code": "3.5",
+              "description": "Supervise and communicate to team members/subordinates of the right work techniques and methods."
+            },
+            {
+              "pc_code": "3.6",
+              "description": "Obtain clarification and advice from superiors as per work information were necessary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "CON/ACI/004/L3",
+      "title": "Cladding Installation",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Demonstrate measuring and marking techniques in cladding installation",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Identify appropriate measuring tools"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Identify appropriate marking tools"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Use appropriate tools to measure"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Use appropriate tools to mark"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Demonstrate grooving and bending techniques",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Identify appropriate grooving tools"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Identify appropriate bending tools"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Use appropriate tools to groove"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Use appropriate tools to bend"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Demonstrate cutting and precision techniques",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Identify appropriate tools for cutting profiles"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Identify appropriate tools for cutting panels"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Cut members in batches"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Sort according to member sizes"
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Demonstrate the ability to produce panel layout",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Identify the tools for profile layout"
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Identify the tools for panel layout"
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Mark and set out panel layout"
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Identify drilling tools for anchorage of profiles"
+            },
+            {
+              "pc_code": "4.5",
+              "description": "Drill anchorage points for profiles layout"
+            },
+            {
+              "pc_code": "4.6",
+              "description": "Check alignment of both panels and profiles to comply with design"
+            }
+          ]
+        },
+        {
+          "lo_num": "5",
+          "description": "Coupling and assembling",
+          "performance_criteria": [
+            {
+              "pc_code": "5.1",
+              "description": "Select coupling tools"
+            },
+            {
+              "pc_code": "5.2",
+              "description": "Use coupling tools to fasten frame members"
+            },
+            {
+              "pc_code": "5.3",
+              "description": "Select installation equipment"
+            },
+            {
+              "pc_code": "5.4",
+              "description": "Supervise assembling procedures"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "CON/ACI/005/L3",
+      "title": "Drawings and Designs",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understand drawings and designs",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Read architectural drawings for cladding works"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Read & Interpret designs for cladding works"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Interpret design for joints"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Interpret drawings and designs",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Identify appropriate measuring tools"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Identify appropriate marking tools"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Use appropriate tools to measure"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Use appropriate tools to mark"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Sketch designs for profiles and panels",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Sketch designs for profile layout"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Sketch designs for panel layout"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Sketch joint types"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "CON/ACI/006/L3",
+      "title": "Aluminium Cladding Resource Estimates",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Determine Human Resource estimates",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Identify competent man-power required for the project"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Select suitable number of personnel required."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Select suitable combinations of personnel required."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Determine Material Resource estimates",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Estimate materials to execute a project"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Determine the appropriate storage facility required."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Maximize the use of off-cuts."
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Estimate accessories for the cladding work"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Determine Tools and equipment",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Identify Tools & Equipment"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Select the required Tools & Equipment"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Estimate the required accessories for tools and equipment"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

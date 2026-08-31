@@ -62,6 +62,7 @@ These NOS have already been converted to JSON. Pick a trade **not** listed here 
 | Trade | L1 | L2 | L3 | L4 | L5 |
 |---|---|---|---|---|---|
 | Agricultural Equipment Mechanics | ✅ | ✅ | ✅ | | |
+| Aluminium Cladding | ✅ | ✅ | ✅ | ✅ | ✅ |
 | Animal Husbandry (Livestock Farming) | ✅ | ✅ | ✅ | | |
 | Autobody Works | ✅ | ✅ | ✅ | | |
 | Automobile Mechanics | ✅ | ✅ | ✅ | | |

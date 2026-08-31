@@ -1,0 +1,1072 @@
+{
+  "trade_name": "Aluminium Cladding",
+  "level": 5,
+  "units": [
+    {
+      "code": "CON/ACI/001/L5",
+      "title": "Health, Safety and Environment",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Demonstrate Personal health and hygiene",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "State the importance of maintaining good personal hygiene"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Wear clean, smart and appropriate personal Protective Equipment"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Work safely at all times, complying with health and safety and other relevant regulations and guidelines."
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Describe how to deal with cuts, grazes and wounds and why it is important to do so"
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Follow safety protocols for treatments of any cut, grazes and wounds"
+            },
+            {
+              "pc_code": "1.6",
+              "description": "Report illness and infection promptly to the appropriate person"
+            },
+            {
+              "pc_code": "1.7",
+              "description": "Supervise the use of Personal Protection Equipment such as Head Protection, Foot Protection, Face and eye Protection, Hand and Body protection and regulatory protection."
+            },
+            {
+              "pc_code": "1.8",
+              "description": "Summarize own responsibility under the health and safety Act as it relates to own occupation."
+            },
+            {
+              "pc_code": "1.9",
+              "description": "Guide Junior workmen & others on general rules of hygiene that must be followed while working on site"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Maintain Hygienic, safe and hazard-free workplace.",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "State the importance of working in a healthy, safe and hygienic workplace"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Determine the appropriate storage facility required."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Report any accidents or near accidents quickly and accurately to the proper person."
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Promote health, hygiene and safety procedures during work"
+            },
+            {
+              "pc_code": "2.5",
+              "description": "State procedure for disposal of waste"
+            },
+            {
+              "pc_code": "2.6",
+              "description": "Supervise identification of any hazards or potential hazards and deal with these correctly"
+            },
+            {
+              "pc_code": "2.7",
+              "description": "State where information about health and safety in your workplace can be obtained"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Demonstrate safe and Secure workplace practices",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Carry out organizational procedures on how to warn other people about hazards and why this is important"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "State why accidents and near-accidents should be reported and who they should be reported to"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Describe the types of emergencies that may happen in the workplace and how to deal with them"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Indicate where to find the first-aid equipment and locate the authorized personnel"
+            },
+            {
+              "pc_code": "3.5",
+              "description": "Lift and handle materials in line with work environment procedure."
+            },
+            {
+              "pc_code": "3.6",
+              "description": "State other ways of working safely that are relevant to own position & responsibility"
+            },
+            {
+              "pc_code": "3.7",
+              "description": "Describe organizational emergencies procedures, in particular fire, and how these should be followed"
+            },
+            {
+              "pc_code": "3.8",
+              "description": "State the possible causes for fire in the own area of work"
+            },
+            {
+              "pc_code": "3.9",
+              "description": "Describe how to minimize the possibility of fire in the Aluminium cladding workplace"
+            },
+            {
+              "pc_code": "3.10",
+              "description": "State where to find the alarms and how to set them off"
+            },
+            {
+              "pc_code": "3.11",
+              "description": "State the importance of following the fire safety laws"
+            },
+            {
+              "pc_code": "3.12",
+              "description": "State the importance of reporting all usual or non-routine incidents to the appropriate personnel"
+            },
+            {
+              "pc_code": "3.13",
+              "description": "Ensure security procedure for the movement of personnel and visitors are followed in your work environment"
+            },
+            {
+              "pc_code": "3.14",
+              "description": "Ensure security of equipment\u2019s in work environment within your responsibility"
+            },
+            {
+              "pc_code": "3.15",
+              "description": "Describe organizational security procedures in own area of works and why it is important"
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Understanding of safety protocols and regulations",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Display a comprehensive knowledge of relevant safety regulations, including OSHA (Occupational Safety and Health Administration) standards"
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Implement proper safety measures and protocols consistently to ensure a safe work environment for the team and others on the job site"
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Conduct regular safety briefings and training sessions for team members, emphasizing the importance of safety compliance"
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Develop and maintain an up-to-date safety plan for aluminium cladding installation projects, including emergency response procedures"
+            },
+            {
+              "pc_code": "4.5",
+              "description": "Participate in safety audits and inspections, addressing any identified issues promptly and effectively to maintain a safe workplace"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "CON/ACI/002/L5",
+      "title": "Communication System in Work Environment",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understand Complex communication system in a work environment",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Describe simple non-verbal means of communication"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Interpret concept of symbols and signs appropriate"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Supervise the use of audio and electronic means to pass on necessary information"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Understand Source of information and Management in a work environment.",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Participate in creating and making functional the source of information in an organization and work environment."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Make accessible the source of information in an organization or work environment"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Relate appropriately with the source of information"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Use the various information flow system in an organization or work environment to overcome challenges"
+            },
+            {
+              "pc_code": "2.5",
+              "description": "Ensure proper documentation retrieval of information in accordance to procedure in a work environment"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Understand Communication process in a work environment",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Ensure the accessibility of the communication equipment in the work environment"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Describe the effective use of the various communication channels in a work environment"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Demonstrate the use of various communication means in a work environment"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Ensure effective information flow to the right personnel"
+            },
+            {
+              "pc_code": "3.5",
+              "description": "Ensure the effective deployment of the use of symbols, signs and codes"
+            },
+            {
+              "pc_code": "3.6",
+              "description": "Ensure that instructions are obeyed and disseminated in line with ethics of the work environment"
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Understand & Deploy Communication equipment",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Check to ensure that communication equipment is in good working condition"
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Liaise with the maintenance unit to ensure that communication equipment is maintained regularly"
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Liaise with appropriate authority to replace communication equipment in the event of loss or damage"
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Ensure that communication equipment is well secured in a work environment"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "CON/ACI/003/L5",
+      "title": "Team Work in Construction Environment",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understand Various team roles on the construction site",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Distinguish among various teams e.g. Masonry, Carpentry, Iron bending, Plumbing etc."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Identify the role of each team."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Discuss the importance of each team"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Deliver quality output as a team player"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Supervise team activity.",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Discuss the method of carrying out activities with team members."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Distribute workload and supervise cladding work activities"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Select materials and tools required for each team work activity"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Interpret and ensure understanding of directives to team members"
+            },
+            {
+              "pc_code": "2.5",
+              "description": "Recognize own role and responsibilities within the team."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Understand communication flow In a Team",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Communicate work related information/requirements clearly to team members"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Inform co-workers and superiors about any kind of deviation from workplan"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Address the problems effectively, if need be, to superiors appropriately"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Gather instructions from superiors and respond effectively"
+            },
+            {
+              "pc_code": "3.5",
+              "description": "Supervise and communicate to team members/subordinates of the right work techniques and methods."
+            },
+            {
+              "pc_code": "3.6",
+              "description": "Obtain clarification and advice from superiors as per work information were necessary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "CON/ACI/004/L5",
+      "title": "Terminology and Construction Practices in Aluminium",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Demonstrate the knowledge of industry terminologies",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "List industry terminologies in aluminium cladding installations"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Explain industry terminologies such as anodized aluminium, cassette cladding, curtain wall, bearing, buffing, deburring (dulling)"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Apply any of the above in a given task"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Demonstrate the methods in aluminium cladding installation",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Describe methods used in aluminium cladding installation"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Sketch a section of aluminium cladded wall"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Use appropriate method for a gap, closed, or any other advanced installation"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Interpret drawings and specifications related to aluminium cladding",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Interpret drawings in relation to aluminium cladding"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Apply architectural specifications for aluminium cladding installation"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Apply engineering specifications for aluminium cladding installation"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Identify discrepancies between drawings and specifications"
+            },
+            {
+              "pc_code": "3.5",
+              "description": "Liaise with professionals to clarify design intent"
+            },
+            {
+              "pc_code": "3.6",
+              "description": "Resolve any ambiguities in drawings or specifications"
+            },
+            {
+              "pc_code": "3.7",
+              "description": "Provide solutions that solves the conflict or discrepancies"
+            },
+            {
+              "pc_code": "3.8",
+              "description": "Make inputs in producing the as-built drawings"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "CON/ACI/005/L5",
+      "title": "Advanced Aluminium Cladding Installation Techniques",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Master techniques for cutting, shaping, and joining aluminium cladding materials",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Explain different aluminium cladding material types and their compatibility with specific cutting and joining methods"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Cut and shape aluminium cladding materials, ensuring clean edges and precise measurements"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Demonstrate proficiency in various cutting methods, including shearing, sawing, and routing"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Join cladding panels using appropriate fastening and bonding techniques, achieving seamless and secure connections"
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Properly align and install without visible gaps, irregularities, or distortions"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Execute complex installation methods, such as rainscreen and cassette systems, with precision and efficiency",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Implement rainscreen and cassette systems according to project specifications and architectural designs"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Carry out precise alignment and spacing of cladding panels within complex systems, maintaining aesthetic and functional integrity"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Complete installations within project deadlines and within budget"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Securely attach the substrate while allowing for necessary expansion and contraction"
+            },
+            {
+              "pc_code": "2.5",
+              "description": "Adapt installation techniques to accommodate unique project requirements, such as irregular building shapes or material preferences"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Troubleshoot and resolve installation challenges",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Identify installation challenges, such as structural or design-related issues, and propose viable solutions"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Resolve unexpected issues that may arise during installation, such as material defects or weather-related obstacles"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Collaborate with project stakeholders and teams to develop and implement corrective actions to overcome challenges"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Adjust installation techniques, materials, or methods to suit project-specific conditions and constraints"
+            },
+            {
+              "pc_code": "3.5",
+              "description": "Verify that resolutions to challenges do not compromise safety, quality, or compliance with building codes"
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Demonstrate proficiency in incorporating insulation, ventilation, and weatherproofing in the installation process",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Select and install appropriate insulation materials to enhance energy efficiency and thermal performance of cladding systems"
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Incorporate effective ventilation solutions that prevent moisture buildup and improve indoor air quality within the cladding system"
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Apply weatherproofing measures to ensure that cladding installations remain resistant to moisture, wind, and environmental factors"
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Verify that insulation, ventilation, and weatherproofing components are seamlessly integrated into the overall cladding system"
+            },
+            {
+              "pc_code": "4.5",
+              "description": "Ensure that the installation meets the required thermal and moisture performance standards"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "CON/ACI/006/L5",
+      "title": "Understand Building Codes and Standards",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understand relevant building codes and standards",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Interpret relevant building codes and standards"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Apply relevant building codes and standards"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Comply with legal requirements for cladding installation"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Check work progress to verify that it aligns with the established codes and standards"
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Engage in continuous professional development"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Understand Fire Safety Regulations",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Interpret fire safety regulations"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Apply fire safety regulations in aluminium cladding installations"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Conduct regular inspections to verify fire safety compliance"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Maintain records of fire safety compliance"
+            },
+            {
+              "pc_code": "2.5",
+              "description": "Communicate emergency response plan to relevant stakeholders"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Stay updated on evolving building codes and industry standards",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": ""
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Subscribe to and monitor industry publications, newsletters, and governmental notifications for the latest code and standard changes"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Provide training sessions or resources to team members on updated codes and standards"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Ensure that all projects initiated after code updates are designed and executed according to the latest standards"
+            },
+            {
+              "pc_code": "3.5",
+              "description": "Regularly assess the impact of updated codes and standards on ongoing projects and make necessary adjustments to mitigate any compliance risks"
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Collaborate with project stakeholders to ensure that installations adhere to legal requirements",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Maintain open and effective communication with all project stakeholders"
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Schedule regular project meetings to discuss compliance issues, seek clarifications, and make collaborative decisions when necessary"
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Ensure that project documentation, such as change orders, permits, and inspection reports, reflects agreed-upon legal requirements and decisions"
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Mediate and resolve any conflicts or discrepancies related to legal requirements between different project stakeholders"
+            },
+            {
+              "pc_code": "4.5",
+              "description": "Encourage feedback from all parties and incorporate it into the project execution process"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "CON/ACI/007/L5",
+      "title": "Advanced Problem-Solving Techniques",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understand issues encountered during the installation process",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Identify common challenges encountered during installation"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Categorize the challenges encountered during installation into materials and workmanship"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Develop effective solutions to address the challenges"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Document the challenges and solutions."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Understand risks and mitigation strategies",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Identify risks associated with the aluminium cladding installation"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Categorize risks associated with the aluminium cladding installation"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Assess the impact of each identified risk"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Implement risk mitigation plan"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Optimize installation techniques and adapt to project-specific challenges",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Evaluate existing installation techniques and procedures for efficiency"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Identify the techniques to address project-specific challenges"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Communicate decisions to project team members"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "CON/ACI/008/L5",
+      "title": "Time Management and Project Planning",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understand how to produce work programme.",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Prepare detailed project plans that include a schedule, task breakdown, and resource allocation"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Allocate resources such as materials, equipment and labour"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Develop project plans that are within cost limits"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Identify potential risks and challenges in the project plan"
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Communicate project plans to stakeholders"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Understand time and material management",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Execute project tasks in line with programme of works"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Manage resource wastage by ensuring efficient use of materials, equipment, and labour."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Monitor project expenses and ensure that they align with the budget"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Implement strategies to improve productivity and reduce downtime"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Optimize installation techniques and adapt to project-specific challenges",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Adapt to changing project priorities, such as unexpected design modifications or site conditions"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Manage tasks and allocate resources to accommodate shifts in project timelines."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Collaborate with team members and project managers to ensure smooth adjustments"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Resolve unexpected challenges and delays by quickly identifying solutions and implementing them"
+            },
+            {
+              "pc_code": "3.5",
+              "description": "Maintain clear and up-to-date project records to document changes, adjustments, and their impact on the project timeline"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "CON/ACI/009/L5",
+      "title": "Tasks and Duties",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understand the roles and responsibilities of cadres of aluminium cladders",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Describe the specific responsibilities and tasks associated with the role of an aluminium cladder."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Interpret site-specific requirements, such as architectural drawings, specifications, and project plans"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Demonstrate a thorough understanding of safety regulations and best practices"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Demonstrate an understanding of materials, tools, and equipment commonly used in advanced aluminium cladding"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Manage and delegate tasks to crew members while overseeing their work",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Delegate specific tasks and responsibilities to crew members based on their skills and experience"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Provide effective supervision by monitoring crew members' work progress"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Regularly assess the performance of crew members"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Maintain a strong focus on safety, ensuring that crew members adhere to safety protocols and procedures"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Maintain a safe and organized work environment",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Enforce safety protocols to prevent accidents and injuries on the construction site"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Ensure that the work area is organized and free from hazards, with materials, tools, and equipment stored in a safe and orderly manner"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Promote good housekeeping practices, including regular clean-up of debris and waste"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Develop emergency response plans for on-site incidents, such as fires, accidents, or hazardous material spills"
+            },
+            {
+              "pc_code": "3.5",
+              "description": "Demonstrate awareness of environmental regulations"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "CON/ACI/011/L5",
+      "title": "Prepare Work Areas on Aluminium Claddings.",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Prepare substrate to receive Aluminium Cladding",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Evaluate the condition of the existing structure to identify any imperfections, damage, or irregularities that may impact cladding installation"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Demonstrate the ability to effectively prepare the substrate"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Check that the prepared substrate is compatible with the specific type of aluminium cladding materials to be installed"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Achieve a level of surface cleanliness and smoothness that meets project specifications"
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Maintain accurate records and documentation of the preparation process, including any modifications or treatments applied"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Surface cleaning, and levelling",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Removal of contaminants from the substrate to ensure a clean surface"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Clean the substrates to achieve smooth and even surface, taking into account the type of cladding system being used"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Follow manufacturer\u2019s guidelines for substrate preparation"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Choose and apply substrates preparation that are compatible with the specific aluminium cladding materials"
+            },
+            {
+              "pc_code": "2.5",
+              "description": "Conduct inspections to confirm that the cleaned, levelled, and prepared surface meets the required standards and quality expectations"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Surface treatments",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Identify appropriate surface treatments, such as priming, waterproofing, or weatherproofing materials"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Apply surface treatments correctly"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Ensure that the application of surface treatments aligns with the project plans"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Conduct tests to confirm the effectiveness of surface treatments, making adjustments or corrections"
+            },
+            {
+              "pc_code": "3.5",
+              "description": "Conduct inspections to confirm the effectiveness of surface treatments, making adjustments or corrections"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "CON/ACI/012/L5",
+      "title": "Workplace Mentoring",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Mentor and guide team members",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Mentor team members"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Provide guidance to mentees"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Support mentees to understand complex techniques"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Create a collaborative and inclusive work environment",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Promote collaboration among team members."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Encourage a culture of respect and inclusivity within the work environment"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Involve team members in decision-making processes"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Recognize diverse perspectives and contributions within the team"
+            },
+            {
+              "pc_code": "2.5",
+              "description": "Create opportunities for skill-sharing, cross-training to enhance the overall team's capabilities"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Provide Feedback to mentees",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Provide feedback that is specific, actionable and delivered in a respectful manner"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Identify areas for improvement for team members"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Collaborate with mentees to develop personalized development plans and goals"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Monitor progress of mentees"
+            },
+            {
+              "pc_code": "3.5",
+              "description": "Adjust coaching and strategies to support continuous improvement"
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Promote the importance of continuous learning and professional development",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Demonstrate good leadership through personal commitment to ongoing learning and development"
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Share information about relevant industry trends, technologies, and best practices"
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Encourage participation in training, workshops, and industry events"
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Identify opportunities for certification or further education"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
