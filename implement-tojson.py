@@ -13,6 +13,33 @@ def parse_pdf_to_json(pdf_path, trade_name=None):
     pc_pattern = re.compile(r"^(?:PC\s+)?(\d+\.\d+)$", re.IGNORECASE)
     title_line_pattern = re.compile(r"^TITLE:?\s*(.*)$", re.IGNORECASE)
 
+    # A unit heading can wrap onto the following line ("Unit 001:Safety
+    # Standards and Procedures in Network" / "Cabling"). Collecting the
+    # remainder stops at the first line that starts one of the unit's
+    # detail fields or a repeated table header.
+    title_stop_pattern = re.compile(
+        r"^(?:UNIT\b|NSQ\b|Credit\s+Value|Guided\s+Learning|Unit\s+Purpose|"
+        r"Unit\s+assessment|Assessment\b|LEARNING\b|PERFORMANCE\b|OBJECTIVE\b|"
+        r"The\s+learner\b|NATIONAL\s+SKILLS|LEVEL\s*\d)",
+        re.IGNORECASE,
+    )
+
+    # Sign-off rows closing each unit ("Learner's Signature Date", ...).
+    # Anchored at the start of the cell so that performance-criteria text
+    # merely mentioning signatures ("...including any required approvals
+    # or signatures.") is no longer dropped along with them.
+    signoff_row_pattern = re.compile(
+        r"^(?:Learner|Candidate|Trainee|Assessor|Trainer|Internal\s+Verifier|"
+        r"External\s+Verifier|IQA|EQA)\s*[’'`]?\s*s?\s*Signature\b",
+        re.IGNORECASE,
+    )
+
+    # Attendee/contributor lists appended after the last unit. The heading
+    # wording varies per PDF ("PARTICIPANT FOR ... WORKSHOP", "REVIEW TEAM
+    # LIST", "REVALIDATION TEAM LIST", "CRITIQUE TEAM LIST", "VALIDATION
+    # TEAM LIST"), so match the shared shape rather than each literal.
+    appendix_pattern = re.compile(r"PARTICIPANTS?\s+FOR\b|\bTEAM\s+LIST\b")
+
     # Wrapped fragments of the repeated table header seen so far, across
     # several different NBTE table layouts. Which *column* these land in
     # varies per page/table, so they're matched by exact text instead.
@@ -37,6 +64,13 @@ def parse_pdf_to_json(pdf_path, trade_name=None):
     current_pc = None
     last_pc_col_idx = 999
     reached_appendix = False
+
+    def is_plausible_unit_code(code):
+        """The Mandatory/Optional summary tables open with a header line
+        ("Unit Reference Number NOS Title Credit Guided Remark") that the
+        unit-code regex reads as a unit whose code is "NOS", yielding empty
+        phantom units. Real reference numbers always carry a digit."""
+        return bool(code) and any(ch.isdigit() for ch in code)
 
     def get_or_create_lo(lo_num, desc=""):
         nonlocal current_lo, current_unit
@@ -95,8 +129,7 @@ def parse_pdf_to_json(pdf_path, trade_name=None):
             # extracting entirely for the rest of the document -- otherwise
             # its free-form text gets mistaken for continuation of the last
             # LO/PC.
-            appendix_markers = ("PARTICIPANT FOR", "REVIEW TEAM LIST", "REVALIDATION TEAM LIST")
-            if any(marker in text.upper() for marker in appendix_markers):
+            if appendix_pattern.search(text.upper()):
                 reached_appendix = True
             if reached_appendix:
                 continue
@@ -106,6 +139,7 @@ def parse_pdf_to_json(pdf_path, trade_name=None):
             pending_title = ""
             pending_title_line = False
             pending_code_line = False
+            title_wrap_budget = 0
             for line in lines:
                 line = line.strip()
                 if not line: continue
@@ -115,12 +149,13 @@ def parse_pdf_to_json(pdf_path, trade_name=None):
                 if pending_title_line:
                     pending_title = line
                     pending_title_line = False
+                    title_wrap_budget = 2
                     continue
 
                 # Handle multi-line reference numbers (code on next line)
                 if pending_code_line:
                     code_match = unit_code_pattern.search(line)
-                    if code_match:
+                    if code_match and is_plausible_unit_code(code_match.group(1)):
                         current_unit = {
                             "code": code_match.group(1),
                             "title": pending_title if pending_title else "Unknown Title",
@@ -152,6 +187,8 @@ def parse_pdf_to_json(pdf_path, trade_name=None):
                     pending_title = header_match.group(1).strip()
                     if not pending_title:
                         pending_title_line = True
+                    else:
+                        title_wrap_budget = 2
                     continue
                 
                 # Capture separate Unit Title: lines
@@ -166,7 +203,7 @@ def parse_pdf_to_json(pdf_path, trade_name=None):
                     continue
                 
                 code_match = unit_code_pattern.search(line)
-                if code_match:
+                if code_match and is_plausible_unit_code(code_match.group(1)):
                     code_val = code_match.group(1)
                     current_unit = {
                         "code": code_val,
@@ -214,6 +251,16 @@ def parse_pdf_to_json(pdf_path, trade_name=None):
                     pending_title = ""
                     continue
 
+                # Nothing structural matched. While a unit heading is still
+                # pending, such a line is the wrapped remainder of that
+                # heading -- without this the title is cut at the page's
+                # line break ("...Procedures in Network" losing "Cabling").
+                if (pending_title and title_wrap_budget > 0
+                        and not line.isdigit()
+                        and not title_stop_pattern.match(line)):
+                    pending_title = (pending_title + " " + line).strip()
+                    title_wrap_budget -= 1
+
             # 2. Process Tables for LOs and PCs
             tables = page.extract_tables(table_settings={
                 "vertical_strategy": "lines",
@@ -251,7 +298,7 @@ def parse_pdf_to_json(pdf_path, trade_name=None):
                         continue
                     if any("THE LEARNER WILL" in c.upper() or "THE LEARNER CAN" in c.upper() for c in clean_row):
                         continue
-                    if any("SIGNATURE" in c.upper() for c in clean_row):
+                    if any(signoff_row_pattern.match(c) for c in clean_row):
                         continue
                     
                     # Also strip header-like cells from the row
