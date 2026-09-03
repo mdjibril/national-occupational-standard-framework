@@ -214,7 +214,7 @@
         },
         {
           "lo_num": "3",
-          "description": "Comply with Policies and Regulations of the Organization Ref. Page No.",
+          "description": "Comply with Policies and Regulations of the Organization",
           "performance_criteria": [
             {
               "pc_code": "3.1",
@@ -466,7 +466,7 @@
         },
         {
           "lo_num": "3",
-          "description": "Know the working condition of tools and equipment. (LO)",
+          "description": "Know the working condition of tools and equipment.",
           "performance_criteria": [
             {
               "pc_code": "3.1",
@@ -535,26 +535,20 @@
             {
               "pc_code": "1.9",
               "description": "Perform cable jointing in accordance with specifications and laid down procedures"
-            }
-          ]
-        },
-        {
-          "lo_num": "10",
-          "description": "",
-          "performance_criteria": [
+            },
             {
-              "pc_code": "10.10",
+              "pc_code": "1.10",
               "description": "Apply safety measures in cable termination"
             },
             {
-              "pc_code": "10.11",
+              "pc_code": "1.11",
               "description": "Apply safety measures in cable jointing and ensure environmental protection guidelines."
             }
           ]
         },
         {
           "lo_num": "2",
-          "description": "Understand the cable insulation materials used in Solar PV Installations and Maintenance. (LO)",
+          "description": "Understand the cable insulation materials used in Solar PV Installations and Maintenance.",
           "performance_criteria": [
             {
               "pc_code": "2.1",

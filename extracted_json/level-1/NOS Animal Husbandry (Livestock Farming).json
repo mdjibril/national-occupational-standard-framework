@@ -45,11 +45,11 @@
               "description": "Discuss risks associated with livestock farming"
             },
             {
-              "pc_code": "2.3",
+              "pc_code": "2.4",
               "description": "State safety standards on livestock farms and processing facilities"
             },
             {
-              "pc_code": "2.4",
+              "pc_code": "2.5",
               "description": "Use safety tools, materials and equipment in livestock processing facilities"
             }
           ]
@@ -75,14 +75,14 @@
               "description": "Use appropriate PPEs for livestock farming"
             },
             {
-              "pc_code": "3.4",
+              "pc_code": "3.5",
               "description": "Maintain PPEs before or after use"
             }
           ]
         },
         {
           "lo_num": "4",
-          "description": "Respond to accidents/injury in livestock processing plants Ref. Page No.",
+          "description": "Respond to accidents/injury in livestock processing plants",
           "performance_criteria": [
             {
               "pc_code": "4.1",
@@ -134,7 +134,7 @@
         },
         {
           "lo_num": "6",
-          "description": "Demonstrate the skills of lifting, loading/offloading and stacking of materials in livestock processing facilities Ref. Page No.",
+          "description": "Demonstrate the skills of lifting, loading/offloading and stacking of materials in livestock processing facilities",
           "performance_criteria": [
             {
               "pc_code": "6.1",
@@ -332,7 +332,7 @@
         },
         {
           "lo_num": "2",
-          "description": "Demonstrate the differences between species, breeds and their characteristics of cattle, sheep and goats. Ref. Page No.",
+          "description": "Demonstrate the differences between species, breeds and their characteristics of cattle, sheep and goats.",
           "performance_criteria": [
             {
               "pc_code": "2.1",
@@ -408,7 +408,7 @@
         },
         {
           "lo_num": "2",
-          "description": "Demonstrate the methods of feeding cattle, sheep and goats Ref. Page No. OBJECTIVE (LO)",
+          "description": "Demonstrate the methods of feeding cattle, sheep and goats",
           "performance_criteria": [
             {
               "pc_code": "2.1",
@@ -438,7 +438,7 @@
         },
         {
           "lo_num": "3",
-          "description": "Understand the principles of health management of cattle, sheep and goats Ref. Page No.",
+          "description": "Understand the principles of health management of cattle, sheep and goats",
           "performance_criteria": [
             {
               "pc_code": "3.1",
@@ -488,7 +488,7 @@
         },
         {
           "lo_num": "2",
-          "description": "Understand the method of feed processing, storage and preservation Ref. Page No.",
+          "description": "Understand the method of feed processing, storage and preservation.",
           "performance_criteria": [
             {
               "pc_code": "2.1",
@@ -626,7 +626,7 @@
         },
         {
           "lo_num": "3",
-          "description": "Understand the processes of reproduction in cattle, sheep and goats Ref. Page No.",
+          "description": "Understand the processes of reproduction in cattle, sheep and goats.",
           "performance_criteria": [
             {
               "pc_code": "3.1",
@@ -645,7 +645,7 @@
               "description": "Identify the weaning ages for cattle sheep and goats"
             },
             {
-              "pc_code": "3.4",
+              "pc_code": "3.5",
               "description": "Carryout the weaning practices in cattle, sheep and goats."
             }
           ]
@@ -694,7 +694,7 @@
         },
         {
           "lo_num": "3",
-          "description": "Understand the preservation and transportation of meat and milk Ref. Page No.",
+          "description": "Understand the preservation and transportation of meat and milk",
           "performance_criteria": [
             {
               "pc_code": "3.1",

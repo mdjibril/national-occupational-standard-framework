@@ -8,7 +8,7 @@
       "learning_outcomes": [
         {
           "lo_num": "1",
-          "description": "Recognize Hand tools for Agricultural Equipment repair and maintenance Identify the different types of tillage equipment",
+          "description": "Recognize Hand tools for Agricultural Equipment repair and maintenance",
           "performance_criteria": [
             {
               "pc_code": "1.1",
@@ -29,7 +29,81 @@
             {
               "pc_code": "1.5",
               "description": "Apply the safety measures required in handling hand tools for Agricultural Equipment."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Recognize hand tools for seedbed preparation and planting",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Identify hand tools for seedbed preparation and planting"
             },
+            {
+              "pc_code": "2.2",
+              "description": "Carryout the maintenance process of each of these tools"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Apply the safety measures required in handling hand tools for seedbed preparation and planting"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Use hand tools for weeding and fertilizer/ manure application",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Identify hand tools for weeding and fertilizer/ manure application."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Weed the plot using appropriate tools/equipment"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Apply the safety measures required in handling hand tools for weeding and manure application"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Store and secure workshop tools"
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Use hand tools for harvesting crops",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Identify hand tools for harvesting crops: \u2022 Sickle \u2022 Cutlass \u2022 Hoe"
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Harvest crops, fruits and vegetables using appropriate tools/equipment"
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Maintain each of these tools in 1.1"
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Apply safety measures in handling hand tools for harvesting crops"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "AGR/AEM/L1/002",
+      "title": "REPAIR OF TILLAGE EQUIPMENT",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Identify the different types of tillage equipment",
+          "performance_criteria": [
             {
               "pc_code": "1.1",
               "description": "Identify tillage equipment"
@@ -46,21 +120,9 @@
         },
         {
           "lo_num": "2",
-          "description": "Recognize hand tools for seedbed preparation and planting Recognize types of maintenance for tillage equipment",
+          "description": "Recognize types of maintenance for tillage equipment",
           "performance_criteria": [
-            {
-              "pc_code": "2.1",
-              "description": "Identify hand tools for seedbed preparation and planting"
-            },
-            {
-              "pc_code": "2.2",
-              "description": "Carryout the maintenance process of each of these tools"
-            },
-            {
-              "pc_code": "2.3",
-              "description": "Apply the safety measures required in handling hand tools for seedbed preparation and planting"
-            },
-            {
+           {
               "pc_code": "2.1",
               "description": "Identify Primary tillage equipment e.g.: \u2022 Plough \u2022 Sub-soiler \u2022 Ridger"
             },
@@ -80,24 +142,8 @@
         },
         {
           "lo_num": "3",
-          "description": "Use hand tools for weeding and fertilizer/ manure application Recognise appropriate method for maintaining tillage equipment.",
+          "description": "Recognise appropriate method for maintaining tillage equipment.",
           "performance_criteria": [
-            {
-              "pc_code": "3.1",
-              "description": "Identify hand tools for weeding and fertilizer/ manure application."
-            },
-            {
-              "pc_code": "3.2",
-              "description": "Weed the plot using appropriate tools/equipment"
-            },
-            {
-              "pc_code": "3.3",
-              "description": "Apply the safety measures required in handling hand tools for weeding and manure application"
-            },
-            {
-              "pc_code": "3.4",
-              "description": "Store and secure workshop tools"
-            },
             {
               "pc_code": "3.1",
               "description": "Identify the importance of selecting appropriate method for maintaining tillage equipment"
@@ -130,24 +176,8 @@
         },
         {
           "lo_num": "4",
-          "description": "Use hand tools for harvesting crops OBJECTIVE (LO) Carryout maintenance of primary tillage equipment",
+          "description": "Carryout maintenance of primary tillage equipment",
           "performance_criteria": [
-            {
-              "pc_code": "4.1",
-              "description": "Identify hand tools for harvesting crops: \u2022 Sickle \u2022 Cutlass \u2022 Hoe"
-            },
-            {
-              "pc_code": "4.2",
-              "description": "Harvest crops, fruits and vegetables using appropriate tools/equipment"
-            },
-            {
-              "pc_code": "4.3",
-              "description": "Maintain each of these tools in 1.1"
-            },
-            {
-              "pc_code": "4.4",
-              "description": "Apply safety measures in handling hand tools for harvesting crops"
-            },
             {
               "pc_code": "4.1",
               "description": "Identify the effects of tillage on physical properties of the soil"
@@ -276,7 +306,7 @@
         },
         {
           "lo_num": "4",
-          "description": "Carry out repairs of chemical fertilizer broadcaster LEARNING OBJECTIVE (LO) \u2022 Change worn out parts \u2022 Tighten loose bolts and nuts \u2022 Adjust tension belt and chains \u2022 Lubricate bearings and ball joints",
+          "description": "Carry out repairs of chemical fertilizer broadcaster",
           "performance_criteria": [
             {
               "pc_code": "4.1",
@@ -287,8 +317,8 @@
               "description": "Select tools for chemical fertilizer broadcaster repairs"
             },
             {
-              "pc_code": "4.2",
-              "description": "Perform repair of chemical fertilizer broadcaster. \u2022 Wash and dry after use"
+              "pc_code": "4.3",
+              "description": "Perform repair of chemical fertilizer broadcaster. \u2022 Wash and dry after use \u2022 Change worn out parts \u2022 Tighten loose bolts and nuts \u2022 Adjust tension belt and chains \u2022 Lubricate bearings and ball joints"
             },
             {
               "pc_code": "4.4",
@@ -906,7 +936,7 @@
         },
         {
           "lo_num": "3",
-          "description": "Understand information from any given document. Ref. Page No.",
+          "description": "Understand information from any given document.",
           "performance_criteria": [
             {
               "pc_code": "3.1",
@@ -1122,7 +1152,7 @@
             },
             {
               "pc_code": "3.5",
-              "description": "Communicate information to colleagues about own work that might affect others. Credit Value Guided Learning Hours 3 30 1 10 2 20 7 70 4 40 21 210"
+              "description": "Communicate information to colleagues about own work that might affect others."
             }
           ]
         }
