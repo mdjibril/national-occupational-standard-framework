@@ -5,8 +5,14 @@ import pathlib
 import argparse
 
 def parse_pdf_to_json(pdf_path, trade_name=None):
-    unit_header_pattern = re.compile(r"^UNIT\s*\d+[:\s\-]*(.*)", re.IGNORECASE)
-    unit_code_pattern = re.compile(r"Unit\s+[Rr]eference\s*[Nn]umber:?\s*([A-Z0-9/]+)", re.IGNORECASE)
+    unit_header_pattern = re.compile(r"UNIT\s*\d+[:\s\-]*(.*)", re.IGNORECASE)
+    # Some pages render the heading as a bare "005: Title" with the "UNIT"
+    # word left orphaned on a separate line (or a separate page entirely,
+    # across an intervening signature block) -- 2-3 digits is enough to
+    # avoid the numbered "1. Direct Observation (DO)" assessment-method
+    # lists, which use a single digit and a period, never a colon.
+    bare_unit_header_pattern = re.compile(r"^(\d{2,3}):\s+(.+)$")
+    unit_code_pattern = re.compile(r"(?:Unit\s+)?[Rr]eference\s*[Nn]umber:?\s*([A-Z0-9/]+)", re.IGNORECASE)
     alt_code_pattern = re.compile(r"(?:Qualification|Level)\s+[Rr]eference\s*[Nn]umber:?\s*([A-Z0-9/]+)", re.IGNORECASE)
     unit_title_pattern = re.compile(r"Unit Title\s*[:-]\s*(.*)", re.IGNORECASE)
     lo_pattern = re.compile(r"(?:Learning\s*Outcome|LO)\.?\s*[:\s]*(\d+)\b", re.IGNORECASE)
@@ -20,7 +26,7 @@ def parse_pdf_to_json(pdf_path, trade_name=None):
     title_stop_pattern = re.compile(
         r"^(?:UNIT\b|NSQ\b|Credit\s+Value|Guided\s+Learning|Unit\s+Purpose|"
         r"Unit\s+assessment|Assessment\b|LEARNING\b|PERFORMANCE\b|OBJECTIVE\b|"
-        r"The\s+learner\b|NATIONAL\s+SKILLS|LEVEL\s*\d)",
+        r"The\s+learner\b|NATIONAL\s+SKILLS|LEVEL\s*\d|Validated\b)",
         re.IGNORECASE,
     )
 
@@ -40,11 +46,12 @@ def parse_pdf_to_json(pdf_path, trade_name=None):
     # TEAM LIST"), so match the shared shape rather than each literal.
     appendix_pattern = re.compile(r"PARTICIPANTS?\s+FOR\b|\bTEAM\s+LIST\b")
 
+
     # Wrapped fragments of the repeated table header seen so far, across
     # several different NBTE table layouts. Which *column* these land in
     # varies per page/table, so they're matched by exact text instead.
     HEADER_ROW_FRAGMENTS = {
-        "LEARNING", "OBJECTIVE", "(LO)", "THE LEARNER",
+        "LEARNING", "OBJECTIVE", "(LO)", "OBJECTIVE (LO)", "THE LEARNER",
         "THE LEARNER WILL:", "THE LEARNER WILL", "WILL:", "WILL",
         "PERFORMANCE", "CRITERIA", "PERFORMANCE CRITERIA",
         "THE LEARNER CAN:", "THE LEARNER CAN",
@@ -64,6 +71,15 @@ def parse_pdf_to_json(pdf_path, trade_name=None):
     current_pc = None
     last_pc_col_idx = 999
     reached_appendix = False
+    # A unit's title and reference number don't always land on the same
+    # page (the title can be the last line of one page, with "Unit
+    # reference number: ..." opening the next) -- these must persist across
+    # the page boundary like current_unit/current_lo/current_pc already do,
+    # not reset per page.
+    pending_title = ""
+    pending_title_line = False
+    pending_code_line = False
+    title_wrap_budget = 0
 
     def is_plausible_unit_code(code):
         """The Mandatory/Optional summary tables open with a header line
@@ -71,6 +87,35 @@ def parse_pdf_to_json(pdf_path, trade_name=None):
         unit-code regex reads as a unit whose code is "NOS", yielding empty
         phantom units. Real reference numbers always carry a digit."""
         return bool(code) and any(ch.isdigit() for ch in code)
+
+    def is_repeat_of_current_title(candidate):
+        """Every unit's heading gets rendered a second time immediately
+        before its own LO/PC table, right after the "Unit Purpose"/
+        assessment-methods prose that already consumed the first render's
+        pending_title. Re-arming pending_title (and its wrap-continuation
+        budget) for this repeat is pure risk: with nothing left to consume
+        it, the next couple of unrelated lines it happens to land on --
+        real PC/LO text, or eventually a stray reference-number-shaped cell
+        in a much later level's summary table -- can silently get glued
+        onto it or misread as a whole new unit."""
+        return (
+            current_unit is not None
+            and candidate.strip().rstrip('.').casefold()
+            == current_unit["title"].strip().rstrip('.').casefold()
+        )
+
+    def create_unit(code, title):
+        nonlocal current_unit, current_lo, current_pc, last_creation_line_idx, unit_before_last_creation
+        unit_before_last_creation = current_unit
+        last_creation_line_idx = line_idx
+        current_unit = {
+            "code": code,
+            "title": title if title else "Unknown Title",
+            "learning_outcomes": []
+        }
+        data["units"].append(current_unit)
+        current_lo = None
+        current_pc = None
 
     def get_or_create_lo(lo_num, desc=""):
         nonlocal current_lo, current_unit
@@ -134,13 +179,33 @@ def parse_pdf_to_json(pdf_path, trade_name=None):
             if reached_appendix:
                 continue
 
+            # Some pages end with the *next* unit's full heading and
+            # reference number rendered as a "coming up" preview, after that
+            # page's own table content -- e.g. a page holding unit 003's
+            # whole LO/PC table closes with "UNIT 004: ... / Unit reference
+            # number: CON/ACI/004/L2" as its last two lines, with unit 004's
+            # own content only starting next page. Other pages instead
+            # *open* with a brand new unit's heading and reference number,
+            # immediately followed on that same page by that same unit's own
+            # LO/PC table. Since the text loop below runs to completion
+            # (and so creates whichever unit(s) it encounters) before the
+            # table loop for this same page runs, naively using current_unit
+            # for tables gets the trailing-preview case wrong (attributing
+            # unit 003's table to freshly-created unit 004), while naively
+            # using the unit from before this page started gets the other
+            # case wrong (attributing unit 005's own table on its own
+            # opening page back to unit 004). Distinguish them by checking
+            # whether anything table-shaped (a PC code, an LO marker, or the
+            # table's own header row) follows the *last* unit created on
+            # this page: if nothing does, that creation was just a trailing
+            # preview and this page's tables belong to the unit active
+            # before it; otherwise they belong to the newly created unit.
+            last_creation_line_idx = None
+            unit_before_last_creation = None
+
             # 1. Process Text for Units
             lines = text.split('\n')
-            pending_title = ""
-            pending_title_line = False
-            pending_code_line = False
-            title_wrap_budget = 0
-            for line in lines:
+            for line_idx, line in enumerate(lines):
                 line = line.strip()
                 if not line: continue
 
@@ -156,38 +221,41 @@ def parse_pdf_to_json(pdf_path, trade_name=None):
                 if pending_code_line:
                     code_match = unit_code_pattern.search(line)
                     if code_match and is_plausible_unit_code(code_match.group(1)):
-                        current_unit = {
-                            "code": code_match.group(1),
-                            "title": pending_title if pending_title else "Unknown Title",
-                            "learning_outcomes": []
-                        }
-                        data["units"].append(current_unit)
-                        current_lo = None
-                        current_pc = None
+                        create_unit(code_match.group(1), pending_title)
                         pending_title = ""
                         pending_code_line = False
                         continue
-                    # Could also be a raw code like "CON/PD/009/L2"
-                    elif re.match(r'^[A-Z0-9/]+$', line):
-                        current_unit = {
-                            "code": line.strip(),
-                            "title": pending_title if pending_title else "Unknown Title",
-                            "learning_outcomes": []
-                        }
-                        data["units"].append(current_unit)
-                        current_lo = None
-                        current_pc = None
+                    # Could also be a raw code like "CON/PD/009/L2", possibly
+                    # followed on the same line by more fields that got
+                    # merged in ("CON/ACI/005/L3 NSQ level: 3") -- take just
+                    # the leading code-shaped token.
+                    elif re.match(r'^([A-Z0-9/]+)\b', line) and is_plausible_unit_code(re.match(r'^([A-Z0-9/]+)\b', line).group(1)):
+                        create_unit(re.match(r'^([A-Z0-9/]+)\b', line).group(1), pending_title)
                         pending_title = ""
                         pending_code_line = False
                         continue
                     pending_code_line = False
                 
-                header_match = unit_header_pattern.match(line)
+                # search(), not match(): a unit heading can be glued onto the
+                # end of the preceding Key/glossary line ("...INSTALLATION
+                # UNIT 001: Health, Safety and Environment") instead of
+                # starting the line.
+                header_match = unit_header_pattern.search(line)
                 if header_match:
-                    pending_title = header_match.group(1).strip()
-                    if not pending_title:
-                        pending_title_line = True
-                    else:
+                    candidate_title = header_match.group(1).strip()
+                    if not is_repeat_of_current_title(candidate_title):
+                        pending_title = candidate_title
+                        if not pending_title:
+                            pending_title_line = True
+                        else:
+                            title_wrap_budget = 2
+                    continue
+
+                bare_header_match = bare_unit_header_pattern.match(line)
+                if bare_header_match:
+                    candidate_title = bare_header_match.group(2).strip()
+                    if not is_repeat_of_current_title(candidate_title):
+                        pending_title = candidate_title
                         title_wrap_budget = 2
                     continue
                 
@@ -204,18 +272,10 @@ def parse_pdf_to_json(pdf_path, trade_name=None):
                 
                 code_match = unit_code_pattern.search(line)
                 if code_match and is_plausible_unit_code(code_match.group(1)):
-                    code_val = code_match.group(1)
-                    current_unit = {
-                        "code": code_val,
-                        "title": pending_title if pending_title else "Unknown Title",
-                        "learning_outcomes": []
-                    }
-                    data["units"].append(current_unit)
-                    current_lo = None
-                    current_pc = None
+                    create_unit(code_match.group(1), pending_title)
                     pending_title = ""
                     continue
-                
+
                 # Alternative reference formats (Qualification/Level) only when a title is pending
                 if pending_title:
                     alt_match = alt_code_pattern.search(line)
@@ -223,31 +283,17 @@ def parse_pdf_to_json(pdf_path, trade_name=None):
                         code_val = alt_match.group(1)
                         # Skip level-level codes like CONMS000L2
                         if not re.match(r'^[A-Z]{2,}/?[A-Z]{2,}0+L\d+$', code_val):
-                            current_unit = {
-                                "code": code_val,
-                                "title": pending_title,
-                                "learning_outcomes": []
-                            }
-                            data["units"].append(current_unit)
-                            current_lo = None
-                            current_pc = None
+                            create_unit(code_val, pending_title)
                             pending_title = ""
                             continue
-                
+
                 # Direct code on its own line (rare edge case). Only trust this
                 # when a unit title was just seen -- otherwise a code that
                 # happens to wrap onto its own line inside the Mandatory Units
                 # summary table (no title context at all) gets misread as the
                 # start of a new, empty unit.
                 if pending_title and re.match(r'^[A-Z]{2,}/[A-Z]{2,}/\d+/L\d+$', line):
-                    current_unit = {
-                        "code": line.strip(),
-                        "title": pending_title if pending_title else "Unknown Title",
-                        "learning_outcomes": []
-                    }
-                    data["units"].append(current_unit)
-                    current_lo = None
-                    current_pc = None
+                    create_unit(line.strip(), pending_title)
                     pending_title = ""
                     continue
 
@@ -262,14 +308,40 @@ def parse_pdf_to_json(pdf_path, trade_name=None):
                     title_wrap_budget -= 1
 
             # 2. Process Tables for LOs and PCs
+            unit_after_text = current_unit
+            if last_creation_line_idx is not None:
+                trailing_lines = lines[last_creation_line_idx + 1:]
+                has_own_content_after = any(
+                    re.match(r'^\d+\.\d+\b', l.strip()) or lo_pattern.search(l)
+                    or 'PERFORMANCE CRITERIA' in l.upper()
+                    for l in trailing_lines if l.strip()
+                )
+                if not has_own_content_after:
+                    current_unit = unit_before_last_creation
+
             tables = page.extract_tables(table_settings={
                 "vertical_strategy": "lines",
                 "horizontal_strategy": "lines",
                 "snap_tolerance": 3,
                 "join_tolerance": 3,
             })
-            
+
             for table in tables:
+                # The "Mandatory/Optional Units" summary table (Unit Number /
+                # Unit Reference Number / Unit Title / Credit Value / Guided
+                # Learning Hours) is itself a clean, well-formed grid table
+                # pdfplumber extracts like any other -- and since its rows
+                # have neither an LO/PC marker nor cells that are pure header
+                # fragments, they fall through the content_started gate
+                # below as if they were real content, dumping the *next*
+                # level's whole unit listing onto the last PC of the
+                # previous unit. Its header cells "Unit Reference [Number]"
+                # and "Unit Title" together are distinctive enough to catch
+                # and skip the whole table.
+                flat_cells = [str(c).upper() for row in table for c in row if c]
+                if any("UNIT REFERENCE" in c for c in flat_cells) and any("UNIT TITLE" in c for c in flat_cells):
+                    continue
+
                 # pdfplumber sometimes splits one visual table into the real
                 # multi-column table plus several spurious single-column
                 # "tables" -- word-wrap fragments of repeated headers and
@@ -293,8 +365,17 @@ def parse_pdf_to_json(pdf_path, trade_name=None):
                 for row in table:
                     clean_row = [str(c).replace('\n', ' ').strip() if c is not None else "" for c in row]
                     
-                    # Skip table headers and footers
+                    # Skip table headers and footers. These three checks catch
+                    # the repeated header's three rows ("LEARNING .../
+                    # PERFORMANCE CRITERIA ...", "OBJECTIVE (LO) / Type / Ref.
+                    # Page", "The learner will: / The learner can: / No.")
+                    # regardless of content_started, since on a long table
+                    # split across a page break the header repeats *after*
+                    # real content has already begun -- the content_started
+                    # gate below only guards the table's very first header.
                     if any("LEARNING OBJECTIVE" in c.upper() or "PERFORMANCE CRITERIA" in c.upper() for c in clean_row):
+                        continue
+                    if any("OBJECTIVE (LO)" in c.upper() or "OBJECTIVE(LO)" in c.upper() for c in clean_row):
                         continue
                     if any("THE LEARNER WILL" in c.upper() or "THE LEARNER CAN" in c.upper() for c in clean_row):
                         continue
@@ -404,6 +485,11 @@ def parse_pdf_to_json(pdf_path, trade_name=None):
                             # No PC active yet, everything goes to LO
                             if cell not in current_lo["description"]:
                                 current_lo["description"] = (current_lo["description"] + " " + cell).strip()
+
+            # Hand off to whichever unit the text loop above landed on, so
+            # the next page's tables (if that unit's content continues
+            # there) attribute correctly.
+            current_unit = unit_after_text
 
     return clean_data_text(data)
 
