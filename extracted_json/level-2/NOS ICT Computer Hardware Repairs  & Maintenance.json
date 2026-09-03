@@ -256,7 +256,7 @@
         },
         {
           "lo_num": "6",
-          "description": "Knowledge and Understanding Ref. Page No. OBJECTIVE (LO)",
+          "description": "Knowledge and Understanding",
           "performance_criteria": [
             {
               "pc_code": "6.1",
@@ -267,11 +267,11 @@
               "description": "Explain the following Technical Terminology and Concepts; I. CPU II. MOTHERBOARD III. RAM IV. HDD V. GPU VI. POST VII. BOOT PROCESS VIII. ERROR MESSAGES IX. TROUBLESHOOTING"
             },
             {
-              "pc_code": "6.4",
+              "pc_code": "6.3",
               "description": "Describe the following Communication Protocols and etiquette: I. Clear and concise language II. Active listening III. Respectful tone IV. Timely responses V. No-verbal communication VI. Cultural sensitivity VII. Avoid distractions VIII. Use a clear subject line IX. Use a formal greeting X. Use proper formatting XI. Proofread XII. Answer promptly XIII. Take messages"
             },
             {
-              "pc_code": "6.5",
+              "pc_code": "6.4",
               "description": "Explain the Importance of Effective Communication in Technical Environments"
             }
           ]
