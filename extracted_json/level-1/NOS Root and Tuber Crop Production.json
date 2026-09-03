@@ -1,0 +1,884 @@
+{
+  "trade_name": "Root and Tuber Crop Production",
+  "level": 1,
+  "units": [
+    {
+      "code": "AGR/RTP/001/L1",
+      "title": "OCCUPATIONAL HEALTH AND SAFETY",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Know Safe Working Practices and Instructions",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Explain safe work practice and instructions"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Identify safety signs and symbol"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Use signs and symbols correctly"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Carry out safe work practices and instructions"
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Work in accordance with health and safety best practices"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Demonstrate Safety Hazards and Risks",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Identify work environment hazards"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "State methods to reduce the risk of these hazards"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Identify Personal Protection Equipment (PPE) e.g.: \uf0b7 Goggles, \uf0b7 Boot, \uf0b7 Gloves etc."
+            },
+            {
+              "pc_code": "2.4",
+              "description": "State methods to resolve an occurring environmental hazard"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Possess the Ability to Take Appropriate Actions During Accident/Injury",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Identify basic first aid equipment"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "State how to maintain hygienic, safe and secure workplace."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "State the uses of safety equipment in a workplace as required."
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Know Safe Work Habit and Clean Work Environment",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Use safe access and exit routes in the work environment"
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Dispose all wastes appropriately to designated waste facilities"
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Explain methods of resource conservation (e.g.: \uf0b7 Water, \uf0b7 Energy etc."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "AGR/RTP/002/L1",
+      "title": "COMMUNICATION IN ROOT AND TUBER CROP PRODUCTION",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Know the Importance of Good Communication",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "State reasons why good communication is important"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "List ways to communicate effectively"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Exhibit patience and a mild demeanour while communicating with colleagues, managers and clients"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Speak in a respectful manner"
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Use respectful body language"
+            },
+            {
+              "pc_code": "1.6",
+              "description": "Interpret verbal communication accurately"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Demonstrate Ability to Document and Follow Documented Instructions",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Read and accurately follow steps in a an instruction manual pertaining to any of the units in this course"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Document information in the workplace (e.g.: Receipt, Invoices, Reports)"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Document Errors, solution, processes and reports"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Know Interpersonal Relationship",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Demonstrate polite greetings"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Recognise cultural and social differences"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Apply positive body language in interactions."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "AGR/RTP/003/L1",
+      "title": "TEAMWORK",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Develop Good Working Relationship with Co-Workers",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Define teamwork"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "List the importance of teamwork"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "List the qualities of a team player"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Take Responsibility Within the Team",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "List own roles and responsibilities within a team."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Perform tasks in line with the team rules and regulations."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Work well in a group."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Comply with Rule of Organization",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Explain code of conduct in work environment"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Use organizational code of practice"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Work in line with organizational standard."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "AGR/RTP/004/L1",
+      "title": "SITE SELECTION FOR ROOT AND TUBER CROPS PRODUCTION",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Know Root and Tuber Crop",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Define root and tuber crops"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "List the types of root and tuber crops"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Identify the types of root and tuber crops"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Explain benefits of root and tuber crops"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Know Soil and Soil Properties",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Define soil"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "List types of soil"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Define types of soil"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Identify types of soil"
+            },
+            {
+              "pc_code": "2.5",
+              "description": "Explain differences in the soil types"
+            },
+            {
+              "pc_code": "2.6",
+              "description": "Describe the physical characteristics of the soil types"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Know Soil and Climate Requirements for Root and Tuber Crops",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Define vegetation area"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Define rich vegetation area"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Locate a suitable well drained fertile soil"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Identify areas with good rainfall pattern"
+            },
+            {
+              "pc_code": "3.5",
+              "description": "List advantages of good rainfall pattern"
+            },
+            {
+              "pc_code": "3.6",
+              "description": "Identify areas with abundant sunshine"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "AGR/RTP/005/L1",
+      "title": "LAND PREPARATION FOR ROOT AND TUBER CROPS PRODUCTION",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Know Land Preparation",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Define land preparation"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Explain land preparation methods"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Carry out land clearing"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "List equipment used in land preparation"
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Demonstrate handling of land preparation debris"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Know Tillage Operations",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Define land tillage"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Identify a suitable location for nursery"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Erect the nursery close to a source of water"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Prepare a nursery bed for nursery practice"
+            },
+            {
+              "pc_code": "2.5",
+              "description": "Construct shed for the nursery"
+            },
+            {
+              "pc_code": "2.6",
+              "description": "Plough the field"
+            },
+            {
+              "pc_code": "2.7",
+              "description": "Harrow the field"
+            },
+            {
+              "pc_code": "2.8",
+              "description": "Ridge the field"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Know Basic Farm Tools",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Define farm tools"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "List types of farm tools"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Identify various simple farm tools used for land preparation"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Differentiate between the simple farm tools used for land preparation."
+            },
+            {
+              "pc_code": "3.5",
+              "description": "Carry out simple farm tools maintenance"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "AGR/RTP/006/L1",
+      "title": "NURSERY AND PLANTING PRACTICES IN ROOT AND TUBER CROPS PRODUCTION",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Know Planting Operation",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Define nursery"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Define nursery bed"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Select a suitable seeds for planting in the nursery or on the field"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Dress the seeds/stem cuttings"
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Measure and mark the spacing for individual crops in the nursery and on the field"
+            },
+            {
+              "pc_code": "1.6",
+              "description": "Plant seed/stem cuttings in the nursery"
+            },
+            {
+              "pc_code": "1.7",
+              "description": "Plant nursed seeds/stem cutting on the field"
+            },
+            {
+              "pc_code": "1.8",
+              "description": "Use simple irrigation tools"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Know Fertilizer and Herbicides Application",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Define fertilizer"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "List different types of fertilizer"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Identify different types of fertilizer"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Explain methods of fertilizer application"
+            },
+            {
+              "pc_code": "2.5",
+              "description": "Define herbicide"
+            },
+            {
+              "pc_code": "2.6",
+              "description": "List different types of herbicides"
+            },
+            {
+              "pc_code": "2.7",
+              "description": "Identify different types of herbicides"
+            },
+            {
+              "pc_code": "2.8",
+              "description": "Explain methods of herbicide application"
+            },
+            {
+              "pc_code": "2.9",
+              "description": "List different types of sprayers"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Know Irrigation Practices",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Define irrigation"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "State types of irrigation"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Explain simple irrigation procedure"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "List simple irrigation tools"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "AGR/RTP/007/L1",
+      "title": "CROP MANAGEMENT PRACTICES IN ROOT AND TUBER CROPS PRODUCTION",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Know seedlings",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Define seedlings"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "List types of seedlings"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Differentiate between yam seedlings and cassava seedlings"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Define thinning"
+            },
+            {
+              "pc_code": "1.5",
+              "description": "State advantages of thinning"
+            },
+            {
+              "pc_code": "1.6",
+              "description": "State disadvantages of thinning"
+            },
+            {
+              "pc_code": "1.7",
+              "description": "Carryout thinning in a nursery bed"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Know Fertilizer and Herbicides Application",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Explain fertilizer application"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Describe application of fertilizer on the field"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "List different methods of fertilizer application"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Observe herbicide application"
+            },
+            {
+              "pc_code": "2.5",
+              "description": "Describe application of herbicide on the field"
+            },
+            {
+              "pc_code": "2.6",
+              "description": "List different methods of herbicide application"
+            },
+            {
+              "pc_code": "2.7",
+              "description": "Explain the effect of herbicides and fertilizer on the environment"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Know Pests, Diseases and their Control",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Explain pest"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Identify field insect pests"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Identify damages caused by insect pests"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Identify damages caused by insect pests"
+            },
+            {
+              "pc_code": "3.5",
+              "description": "Describe pest management strategies"
+            },
+            {
+              "pc_code": "3.6",
+              "description": "Select measures in prevention and control of pests"
+            },
+            {
+              "pc_code": "3.7",
+              "description": "State the economic importance of pests"
+            },
+            {
+              "pc_code": "3.8",
+              "description": "Define disease"
+            },
+            {
+              "pc_code": "3.9",
+              "description": "Identify causative agents of diseases"
+            },
+            {
+              "pc_code": "3.10",
+              "description": "Identify damages caused by diseases"
+            },
+            {
+              "pc_code": "3.11",
+              "description": "Identify different methods of disease control"
+            },
+            {
+              "pc_code": "3.12",
+              "description": "Define weeds control"
+            },
+            {
+              "pc_code": "3.13",
+              "description": "Select measures in prevention and control of weeds"
+            },
+            {
+              "pc_code": "3.14",
+              "description": "Apply safety precautions in the application of insect pests, disease and weeds control chemicals"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "AGR/RTP/008/L1",
+      "title": "ROOT AND TUBER CROPS HARVESTING AND HARVESTING PROCEDURES",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Know Maturity Time of Root and Tuber Crops",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Define root and tuber crop maturity"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Identify matured Root and tuber crops"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "State the maturity period of Root and tuber crops"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Distinguish between mature and immature root and tuber crops"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Know Harvesting and Harvesting Procedures",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Define harvesting"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "List types of harvesting methods"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Identify simple tools used in harvesting root and tuber crops"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Operate simple harvesting tools"
+            },
+            {
+              "pc_code": "2.5",
+              "description": "Hold to air dry before storage"
+            },
+            {
+              "pc_code": "2.6",
+              "description": "Transport the harvested produce to processing and storage warehouse"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Know Post Harvest Loss",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Define post-harvest loss"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "State causes of post-harvest loss"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Explain measures of preventing post-harvest loss"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Explain impact of post-harvest loss"
+            },
+            {
+              "pc_code": "3.5",
+              "description": "Describe the storage of root and tuber crops produce"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "AGR/RTP/009/L1",
+      "title": "PROCESSING AND STORAGE OF ROOT AND TUBER CROP PRODUCTS",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Know Root and tuber crops handling and processing",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Define root and tuber crop processing"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Describe simple root and tuber crops processing procedures"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Define root and tuber crops handling"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Differentiate between products of various processed root and tuber crops"
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Describe packaging of Root and tuber products"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Know storage of processed root and tuber products",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Define storage"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Describe types of storage techniques"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Describe arrangement of root and tuber product in storage facility"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Know packaging",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Define root and tuber products packaging"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Describe how to package root and tuber products"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Define root and tuber crops packaging materials"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "List types of root and tuber crops packaging materials"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "AGR/RTP/010/L1",
+      "title": "TRANSPORT AND MARKETING OF ROOT AND TUBER CROPS",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Know the transportation of Root and tuber crops",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Identify means of transporting Root and tuber crops"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Choose the right means of transporting Root and tuber crops."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Perform loading of Root and tuber crops"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Perform offloading of Root and tuber crops."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Know grading/ standardization of root and tuber crops",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Sort Root and tuber crops"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Weigh Root and tuber crops"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Prepare Root and tuber crops for marketing."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Know marketing of Root and tuber crops",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Define root and tuber market"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Identify root and tuber aggregators"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Identify the middlemen in root and tuber crops marketing"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Explain the right time to market root and tuber crops"
+            },
+            {
+              "pc_code": "3.5",
+              "description": "Identify market for the root and tuber crop products"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
