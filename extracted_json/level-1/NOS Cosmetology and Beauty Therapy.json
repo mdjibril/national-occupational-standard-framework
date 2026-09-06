@@ -44,7 +44,7 @@
         },
         {
           "lo_num": "3",
-          "description": "OBJECTIVE (LO) Identify actions to avoid the repetition of customer service problems",
+          "description": "Identify actions to avoid the repetition of customer service problems",
           "performance_criteria": [
             {
               "pc_code": "3.1",
@@ -216,7 +216,7 @@
         },
         {
           "lo_num": "5",
-          "description": "know compliance with Health and Safety Regulations OBJECTIVE (LO)",
+          "description": "know compliance with Health and Safety Regulations",
           "performance_criteria": [
             {
               "pc_code": "5.1",
@@ -235,7 +235,7 @@
               "description": "Sterilise all equipment for multiple use after each usage. Ref Page number"
             },
             {
-              "pc_code": "5.6",
+              "pc_code": "5.5",
               "description": "State the importance of reporting all unusual/non-routine incidents to the appropriate persons."
             }
           ]
@@ -379,14 +379,14 @@
               "description": "Perform scalp drying"
             },
             {
-              "pc_code": "3.4",
+              "pc_code": "3.5",
               "description": "Style and finish hair of client."
             }
           ]
         },
         {
           "lo_num": "4",
-          "description": "know hair drying. OBJECTIVE (LO)",
+          "description": "know hair drying.",
           "performance_criteria": [
             {
               "pc_code": "4.1",
@@ -394,7 +394,7 @@
             },
             {
               "pc_code": "4.2",
-              "description": "Describe hair drying using a blow dryer or diffuser. Ref. Page No."
+              "description": "Describe hair drying using a blow dryer or diffuser."
             },
             {
               "pc_code": "4.3",
@@ -578,7 +578,7 @@
         },
         {
           "lo_num": "3",
-          "description": "Use foundation and concealer products to suit client\u2019s skin needs. OBJECTIVE (LO)",
+          "description": "Use foundation and concealer products to suit client\u2019s skin needs.",
           "performance_criteria": [
             {
               "pc_code": "3.1",
@@ -598,7 +598,7 @@
             },
             {
               "pc_code": "3.5",
-              "description": "Apply powder to get a finished smooth look. Ref. Page No."
+              "description": "Apply powder to get a finished smooth look."
             }
           ]
         },
@@ -748,7 +748,11 @@
             },
             {
               "pc_code": "3.5",
-              "description": "Preform desired body treatment: \u2022 Apply rose water to open pores. \u2022 Use steam or Sauna for the client. \u2022 Scrub the body in circular motions both hands. 3: 6 Apply appropriate mask where required."
+              "description": "Preform desired body treatment: \u2022 Apply rose water to open pores. \u2022 Use steam or Sauna for the client. \u2022 Scrub the body in circular motions both hands."
+            },
+            {
+              "pc_code": "3.6",
+              "description": "Apply appropriate mask where required."
             },
             {
               "pc_code": "3.7",
@@ -758,7 +762,7 @@
         },
         {
           "lo_num": "4",
-          "description": "know facials treatment and skin analysis. OBJECTIVE (LO)",
+          "description": "know facials treatment and skin analysis.",
           "performance_criteria": [
             {
               "pc_code": "4.1",
@@ -770,7 +774,7 @@
             },
             {
               "pc_code": "4.3",
-              "description": "Prepare for facial treatment (self, client, room). Ref. Page No."
+              "description": "Prepare for facial treatment (self, client, room)."
             },
             {
               "pc_code": "4.4",
@@ -862,7 +866,7 @@
         },
         {
           "lo_num": "4",
-          "description": "understand Nail Art design OBJECTIVE (LO)",
+          "description": "understand Nail Art design",
           "performance_criteria": [
             {
               "pc_code": "4.1",
@@ -942,7 +946,7 @@
         },
         {
           "lo_num": "3",
-          "description": "Understand tattoo design. 1 2 3 4 TOTAL 5. 6. 7. 8. 9. 10.",
+          "description": "Understand tattoo design.",
           "performance_criteria": [
             {
               "pc_code": "3.1",

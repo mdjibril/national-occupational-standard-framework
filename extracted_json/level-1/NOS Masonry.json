@@ -432,11 +432,7 @@
             },
             {
               "pc_code": "2.7",
-              "description": "Assist in treatment of earth"
-            },
-            {
-              "pc_code": "2.7",
-              "description": "surfaces."
+              "description": "Assist in treatment of earth surfaces"
             }
           ]
         },
@@ -612,11 +608,11 @@
         },
         {
           "lo_num": "5",
-          "description": "Storage of Scaffolding materials Total learning hours 750 + Guided learning hours 300 Level Purpose: This qualification is designed to enable the learner demonstrate basic health and safety practices, and carry out construction activities using appropriate materials, tools and equipment and assisting the Senior Mason. supervise Assistant Mason and assist the Senior Mason in carrying out masonry work. U NIT 1 2 4 6",
+          "description": "Storage of Scaffolding materials",
           "performance_criteria": [
             {
               "pc_code": "5.1",
-              "description": "Describe appropriate methods of stacking scaffolding materials before and after usage. Independent learning hours Work-based learning hours 450 + (based on training needs) CREDIT VALUE REF NO GLH UNIT REMARKS CONMS001L2 40 Health, Safety and Environment Mandatory CONMS002L2 Communication system in a work environment 3 CONMS003L2 30 Team Work in Construction Environment 6 CONMS004L2 60 Set out masonry Structures CONMS005L2 Erection of masonry works: using appropriate tools and equipment 7 CONMS006L2 70 Rendering and Finishes according to specification Optional` CONMS007L2 Repair and Rectify Masonry structures"
+              "description": "Describe appropriate methods of stacking scaffolding materials before and after usage."
             }
           ]
         }

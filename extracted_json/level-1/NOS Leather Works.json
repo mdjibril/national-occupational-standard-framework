@@ -78,7 +78,7 @@
         },
         {
           "lo_num": "4",
-          "description": "(LO) will:",
+          "description": "MAINTAN PERSONL HEALTH AND HYGIENE IN THE WORK ENVIRONMENT",
           "performance_criteria": [
             {
               "pc_code": "4.1",
@@ -124,7 +124,7 @@
         },
         {
           "lo_num": "5",
-          "description": "(LO) will:",
+          "description": "MAINTAN  HYGIENIC, SAFE AND SECURE WORKPLACE",
           "performance_criteria": [
             {
               "pc_code": "5.1",
@@ -137,6 +137,10 @@
             {
               "pc_code": "5.3",
               "description": "Follow health, hygienic and safety procedures in doing any work. Practice emergency procedures during work."
+            },
+            {
+              "pc_code": "5.4",
+              "description": "Practice emergency procedures in doing work."
             },
             {
               "pc_code": "5.5",
@@ -190,7 +194,7 @@
         },
         {
           "lo_num": "6",
-          "description": "(LO) will: WORK SAFELY IN HYGIENIC AND SECURE WORKPLACE",
+          "description": "WORK SAFELY IN HYGIENIC AND SECURE WORKPLACE",
           "performance_criteria": [
             {
               "pc_code": "6.1",
@@ -228,7 +232,7 @@
         },
         {
           "lo_num": "7",
-          "description": "(LO) will:",
+          "description": "DEMONSTRATE HANDLING OF FIRE EMERGENCIES IN THE WORKPLACE",
           "performance_criteria": [
             {
               "pc_code": "7.1",
@@ -249,6 +253,10 @@
             {
               "pc_code": "7.5",
               "description": "State where to find the alarms (e.g. fire alarms) and how to set them off. be approached unless it is safe."
+            },
+            {
+              "pc_code": "7.6",
+              "description": "State why a fire should never be approached unless it is safe."
             },
             {
               "pc_code": "7.7",
@@ -438,7 +446,7 @@
         },
         {
           "lo_num": "2",
-          "description": "UNDERSTAND HOW TO TAKE RESPONSIBILITIES WITHIN THE TEAM (LO)",
+          "description": "UNDERSTAND HOW TO TAKE RESPONSIBILITIES WITHIN THE TEAM",
           "performance_criteria": [
             {
               "pc_code": "2.1",
@@ -450,7 +458,7 @@
             },
             {
               "pc_code": "2.3",
-              "description": "Participate effectively in a given team work. No."
+              "description": "Participate effectively in a given team work."
             },
             {
               "pc_code": "2.4",
@@ -1081,10 +1089,6 @@
             {
               "pc_code": "3.6",
               "description": "Describe a way of protecting your brand"
-            },
-            {
-              "pc_code": "3.5",
-              "description": "List the Personal Protective Equipment (PPE) used in 5.1 to 5.4 above"
             }
           ]
         },
@@ -1125,6 +1129,10 @@
             {
               "pc_code": "5.4",
               "description": "State safety precautions in packaging Operation"
+            },
+            {
+              "pc_code": "5.5",
+              "description": "List the Personal Protective Equipment (PPE) used in 5.1 to 5.4 above"
             }
           ]
         }

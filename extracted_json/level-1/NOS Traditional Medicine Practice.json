@@ -12,7 +12,15 @@
           "performance_criteria": [
             {
               "pc_code": "1.1",
-              "description": "Explain the term communication in Traditional Medicine Practice 1.2 \uf0b7 \uf0b7 \uf0b7 List types of communication in Traditional Medicine Practice Verbal Written Sign, etc. 1.3 \uf0b7 \uf0b7 \uf0b7 Explain communication cycle Sender Receiver End-User"
+              "description": "Explain the term communication in Traditional Medicine Practice"
+            },
+            {
+              "pc_code": "1.2",
+              "description": " List types of communication in Traditional Medicine Practice Verbal Written Sign, etc. "
+            },
+            {
+              "pc_code": "1.3",
+              "description": "EExplain communication cycle Sender Receiver End-User"
             },
             {
               "pc_code": "1.4",
@@ -22,8 +30,16 @@
         },
         {
           "lo_num": "2",
-          "description": "Mode of Communication in Traditional Medicine 2.1 \uf0b7 \uf0b7 List communication channels Interpersonal Social Media Platforms PERFORMANCE CRITERIA OBJECTIVE (LO) The learner will: Practice Spiritual Culture 2.2 \uf0b7 \uf0b7 \uf0b7 List types of spiritual communication: Divination Incantation Prayers, etc.",
+          "description": "Mode of Communication in Traditional Medicine",
           "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "List communication channels :Interpersonal, Social Media Platforms, Spiritual, Culture"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "List types of spiritual communication: Divination Incantation Prayers, etc."
+            },
             {
               "pc_code": "2.3",
               "description": "Explain the significance of spiritual communication"
@@ -78,8 +94,12 @@
         },
         {
           "lo_num": "2",
-          "description": "Understand Leadership in Teamwork 2.1 \uf0b7 \uf0b7 \uf0b7 \uf0b7 \uf0b7 State the qualities of a good Leader in Traditional Medicine Practice: Compassion Mutual respect Knowledgeable Competent and Confident Good listener, etc.",
+          "description": "Understand Leadership in Teamwork",
           "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "State the qualities of a good Leader in Traditional Medicine Practice: Compassion, Mutual respect, Knowledgeable, Competent and Confident Good listener, etc."
+            },
             {
               "pc_code": "2.2",
               "description": "Explain the benefits of good Leadership in Traditional Medicine Practice"
@@ -100,7 +120,11 @@
             },
             {
               "pc_code": "3.2",
-              "description": "State the contributions of other Team members to ensure good health and social wellbeing in the Traditional Medicine workplace. 3.3 \uf0b7 \uf0b7 Identify strategies for good working relationship in Traditional Medicine Practice: Support for Team members Honesty Empathy Respect for authority etc"
+              "description": "State the contributions of other Team members to ensure good health and social wellbeing in the Traditional Medicine workplace."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Identify strategies for good working relationship in Traditional Medicine Practice: Support for Team members Honesty Empathy Respect for authority etc"
             }
           ]
         }
@@ -112,7 +136,7 @@
       "learning_outcomes": [
         {
           "lo_num": "1",
-          "description": "Understand the effect of Environment on Traditional Medicine Practice PERFORMANCE CRITERIA Evidence Ref. Page No. OBJECTIVE (LO) The learner will:",
+          "description": "Understand the effect of Environment on Traditional Medicine Practice",
           "performance_criteria": [
             {
               "pc_code": "1.1",
@@ -120,7 +144,11 @@
             },
             {
               "pc_code": "1.2",
-              "description": "State the effects of environmental temperature and humidity in Traditional Medicine Practice 1.3 \uf0b7 \uf0b7 \uf0b7 \uf0b7 \uf0b7 \uf0b7 List common environmental hazards/risks associated with Traditional Medicine Practice: Injury in the use of equipment Accident Infection Snake bite Spiritual attack Poison etc"
+              "description": "State the effects of environmental temperature and humidity in Traditional Medicine Practice"
+            },
+            {
+              "pc_code": "1.3",
+              "description": " List common environmental hazards/risks associated with Traditional Medicine Practice: Injury in the use of equipment Accident Infection Snake bite Spiritual attack Poison etc"
             },
             {
               "pc_code": "1.4",
@@ -138,7 +166,11 @@
           "performance_criteria": [
             {
               "pc_code": "2.1",
-              "description": "Explain personal hygiene in Traditional Medicine Practice 2.2 \uf0b7 \uf0b7 \uf0b7 \uf0b7 List the elements of personal hygiene in Traditional Medicine Practice: Constant washing of hands Cutting of nails Wearing of gloves Wearing of apparels etc"
+              "description": "Explain personal hygiene in Traditional Medicine Practice"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "List the elements of personal hygiene in Traditional Medicine Practice: Constant washing of hands Cutting of nails Wearing of gloves Wearing of apparels etc"
             },
             {
               "pc_code": "2.3",
@@ -148,7 +180,7 @@
         },
         {
           "lo_num": "3",
-          "description": "Safety in PERFORMANCE CRITERIA Evidence Ref. Page No. OBJECTIVE (LO) The learner will: Traditional Medicine Practice",
+          "description": "Safety in Traditional Medicine Practice",
           "performance_criteria": [
             {
               "pc_code": "3.1",
@@ -176,23 +208,61 @@
       "learning_outcomes": [
         {
           "lo_num": "1",
-          "description": "Basic concept of Traditional Anatomy PERFORMANCE CRITERIA Evidence Ref. Page No. OBJECTIVE (LO) The learner will:",
+          "description": "Basic concept of Traditional Anatomy",
           "performance_criteria": [
             {
               "pc_code": "1.1",
-              "description": "Define the Body in Traditional Medicine 1.2 \uf0b7 \uf0b7 \uf0b7 \uf0b7 \uf0b7 \uf0b7 \uf0b7 \uf0b7 List parts not hosted in the body trunk as understood in Traditional Medicine: Brain Eye Nose Ear Mouth Head Hand Leg 1.3 \uf0b7 \uf0b7 \uf0b7 \uf0b7 \uf0b7 \uf0b7 List the internal body organs: Heart Lung Mind Stomach Liver Spleen Gall bladder etc"
+              "description": "Define the Body in Traditional Medicine"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "List parts not hosted in the body trunk as understood in Traditional Medicine: Brain, Eye, Nose, Ear, Mouth, Head, Hand, Leg"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "List the internal body organs: Heart, Lung, Mind, Stomach, Liver, Spleen, Gall bladder etc"
             }
           ]
         },
         {
           "lo_num": "2",
-          "description": "Understand Body Organs 2.1 \uf0b7 \uf0b7 \uf0b7 List the internal body organs in relation to their position in the trunk: Lung - Upper trunk Liver \u2013 Middle trunk Bladder \u2013 Lower trunk, etc. 2.2 \uf0b7 \uf0b7 State the organs related to reproduction in Traditional Medicine: Kidney Male/Female Reproductive Organs, etc. 2.3 \uf0b7 \uf0b7 State the non- anatomical organs in the context of Traditional Medicine: Mind Soul",
-          "performance_criteria": []
+          "description": "Understand Body Organs",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "List the internal body organs in relation to their position in the trunk: Lung - Upper trunk, Liver - Middle trunk, Bladder - Lower trunk, etc."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "State the organs related to reproduction in Traditional Medicine: Kidney Male/Female Reproductive Organs, etc."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "State the non- anatomical organs in the context of Traditional Medicine: Mind Soul"
+            }
+          ]
         },
         {
           "lo_num": "3",
-          "description": "Understand 3.1 \uf0b7 List the two humours: Blood PERFORMANCE CRITERIA Evidence Ref. Page No. OBJECTIVE (LO) The learner will: Humours and Energy Phlegm 3.2 \uf0b7 \uf0b7 List the two energies Sugar Lipid 3.3 \uf0b7 \uf0b7 Relate the humour to the relevant organ: Liver-Blood Kidney \u2013 phlegm 3.4 \uf0b7 \uf0b7 Relate the energies to the relevant organs: Stomach \u2013 Sugar Liver - lipid",
-          "performance_criteria": []
+          "description": "Understand Humours and Energy",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "List the two humours: Blood, Phlegm"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "List the two energies: Sugar, Lipid"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Relate the humour to the relevant organ: Liver-Blood Kidney \u2013 phlegm"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Relate the energies to the relevant organs: Stomach \u2013 Sugar Liver - lipid"
+            }
+          ]
         }
       ]
     },
@@ -202,8 +272,16 @@
       "learning_outcomes": [
         {
           "lo_num": "1",
-          "description": "Understand Identification of Medicinal Plants 1.1 \uf0b7 \uf0b7 \uf0b7 State parts of plants: Leaves Flowers Roots etc. 1.2 \uf0b7 \uf0b7 \uf0b7 List the parameters for identifying Medicinal Plants: name, habitat odour etc.",
+          "description": "Understand Identification of Medicinal Plants",
           "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "State parts of plants: Leaves, Flowers, Roots etc. "
+            },
+            {
+              "pc_code": "1.2",
+              "description": "List the parameters for identifying Medicinal Plants: name, habitat, odour etc."
+            },
             {
               "pc_code": "1.3",
               "description": "Identify the shape, colour, texture etc, of Medicinal plants"
@@ -216,7 +294,7 @@
         },
         {
           "lo_num": "2",
-          "description": "Understand the Procedures of Collection of Medicinal Plants PERFORMANCE CRITERIA Evidence Ref. Page No. OBJECTIVE (LO) The learner will:",
+          "description": "Understand the Procedures of Collection of Medicinal Plants",
           "performance_criteria": [
             {
               "pc_code": "2.1",
@@ -242,11 +320,19 @@
         },
         {
           "lo_num": "3",
-          "description": "Understand general rules of Collection of Medicinal Plants PERFORMANCE CRITERIA Evidence Ref. Page No. OBJECTIVE (LO) The learner will:",
+          "description": "Understand general rules of Collection of Medicinal Plants",
           "performance_criteria": [
             {
               "pc_code": "3.1",
-              "description": "State the spiritual, cultural and traditional rules for collection of Medicinal Plants. 3.2 \uf0b7 \uf0b7 \uf0b7 \uf0b7 \uf0b7 List the criteria for collection of different parts of Medicinal Plants e.g: Flowers Leaves Seeds Fruits Barks Roots etc. 3.3 \uf0b7 \uf0b7 \uf0b7 \uf0b7 \uf0b7 Identify different tools for collection of Medicinal Plant Parts: Stone Knife Digger Hoes Cutlasses etc."
+              "description": "State the spiritual, cultural and traditional rules for collection of Medicinal Plants."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "List the criteria for collection of different parts of Medicinal Plants e.g: Flowers Leaves Seeds Fruits Barks Roots etc."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Identify different tools for collection of Medicinal Plant Parts: Stone Knife Digger Hoes Cutlasses etc."
             }
           ]
         }
@@ -258,8 +344,12 @@
       "learning_outcomes": [
         {
           "lo_num": "1",
-          "description": "Identify the Sources of Medicinal Plants 1.1 \uf0b7 \uf0b7 List sources of Medicinal Plants: Cultivated Wild, etc.",
+          "description": "Identify the Sources of Medicinal Plants",
           "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "List sources of Medicinal Plants: Cultivated Wild, etc."
+            },
             {
               "pc_code": "1.2",
               "description": "Identify plants obtained from cultivated sources"
@@ -292,7 +382,7 @@
         },
         {
           "lo_num": "2",
-          "description": "Understand Processing of Medicinal PERFORMANCE CRITERIA Evidence Ref. Page No. OBJECTIVE (LO) The learner will: Plants",
+          "description": "Understand Processing of Medicinal Plants",
           "performance_criteria": [
             {
               "pc_code": "2.1",
@@ -322,8 +412,16 @@
         },
         {
           "lo_num": "3",
-          "description": "Understand the different Forms of Medicinal Plants Preparations 3.1 \uf0b7 \uf0b7 Describe Methods of Medicinal Plant preparations: External Internal 3.2 \uf0b7 \uf0b7 List the forms of Medicinal Plants preparations: Solids (Powders, Teas, Capsules), etc. Liquids (Infusions, Decoctions and Tinctures), etc. PERFORMANCE CRITERIA Evidence Ref. Page No. OBJECTIVE (LO) The learner will:",
+          "description": "Understand the different Forms of Medicinal Plants Preparations",
           "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Describe Methods of Medicinal Plant preparations: External, Internal "
+            },
+            {
+              "pc_code": "3.2",
+              "description": " List the forms of Medicinal Plants preparations: Solids (Powders, Teas, Capsules), etc. Liquids (Infusions, Decoctions and Tinctures), etc."
+            },
             {
               "pc_code": "3.3",
               "description": "Explain the use of adjuvants in Medicinal Plant preparations (Vehicle, Flavours, Sweeteners, Preservatives), etc."
@@ -346,7 +444,7 @@
       "learning_outcomes": [
         {
           "lo_num": "1",
-          "description": "Understand Traditional Medicines PERFORMANCE CRITERIA OBJECTIVE (LO) The learner will:",
+          "description": "Understand Traditional Medicines",
           "performance_criteria": [
             {
               "pc_code": "1.1",
@@ -354,14 +452,34 @@
             },
             {
               "pc_code": "1.2",
-              "description": "Define Medicines in Traditional Medicine 1.3 \uf0b7 \uf0b7 \uf0b7 \uf0b7 List the origin of Traditional Medicine: Revelation Inspiration Dream Trial, etc. 1.4 \uf0b7 \uf0b7 \uf0b7 \uf0b7 List sources of Traditional Medicine materials: Plants Animal Mineral Spiritual etc. 1.5 \uf0b7 \uf0b7 State benefits of Traditional Medicines: Management Cure Prevention of diseases. 1.6 \uf0b7 \uf0b7 Explain side effects in Traditional Medicine: Allergy Disability, etc."
+              "description": "Define Medicines in Traditional Medicine"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "List the origin of Traditional Medicine: Revelation Inspiration Dream Trial, etc."
+            },
+            {
+              "pc_code": "1.4",
+              "description": "List sources of Traditional Medicine materials: Plants Animal Mineral Spiritual etc."
+            },
+            {
+              "pc_code": "1.5",
+              "description": "State benefits of Traditional Medicines: Management Cure Prevention of diseases."
+            },
+            {
+              "pc_code": "1.6",
+              "description": "Explain side effects in Traditional Medicine: Allergy Disability, etc."
             }
           ]
         },
         {
           "lo_num": "2",
-          "description": "Understand Dosage Forms in Traditional Medicines 2.1 \uf0b7 \uf0b7 \uf0b7 \uf0b7 \uf0b7 List the dosage forms in Traditional Medicine Practice: Liquid Solid Semi solid Vapour Gas, etc. PERFORMANCE CRITERIA OBJECTIVE (LO) The learner will:",
+          "description": "Understand Dosage Forms in Traditional Medicines",
           "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "List the dosage forms in Traditional Medicine Practice: Liquid Solid Semi solid Vapour Gas, etc."
+            },
             {
               "pc_code": "2.2",
               "description": "Explain how to determine the quantity of medicine per dosage"
@@ -382,15 +500,19 @@
         },
         {
           "lo_num": "3",
-          "description": "Understand the route of Administration in Traditional Medicine PERFORMANCE CRITERIA S/N NAME ADDRESS 1. Prof. Olukemi Odukoya University of Lagos 2. Prof. Aminu Adamu Ambi Gombe State University 3. TMP Ibrahim Dadanakowa Usman MTMPN President 4. Pharm. Titus T. Tile Fed. Min. of Health, Abuja 5. Mr. Bitrus Freeman 6. Chief Fatoye Bamidele MTMPN SEC- GEN 7. Nasiru Mato NAFDAC North West Zone, Kaduna 8. Dr. Naseer Sani Ajoge ABF-Future Assured, Abuja 9. Dr. M.I. Jawa MIJ College of Trad. Medicine, Damaturu 10. Walid Shawkey Moukarim Shifah Holistic Health care 11. Salman Muhammad Chairman NTMP, Kaduna State NBTE STAFF 12. Prof. Idris M. Bugaje Executive Secretary 13. Mall. Ibrahim Bashir Bello Special Assistant to E.S 14. Musa M Isgogo Director, Curriculum 15. Mr Donald Odiyoma NBTE Kaduna 16. Garba DanAsabe 17. Muhammad Bilyaminu Musa 18. Mrs. Ramatu Adeiza Ishaq SECRETARIAT 19. Bako Godwin 20. Kirki A. Dalhat Prof. Hajara Ibrahim Dept of Phamacognosy and Drug Development Ahmadu Bello University (ABU), Zaria Prof. Muhmmad I. Jawa MIJ College of Traditional Medicine Damaturu Prof. M.S. Abubakar Rep.PCN. Dept of Pharmacy and Drug Development Ahmadu Bello University (ABU) Zaria Dr.Salihu Ibrahim Dept.of Biochemistry, Federal University Dutse Nura Salihu Adam Salihannur Kano State Anas Abba Dept. of Pharmacognosy and Herbal Medicine, Bayero University Kano Prof. I.M Bugaje Executive Secretary NBTE Kaduna NBTE, Kaduna Ruqayya Muhammad Rabiu Curriculum Dept. NBTE Zainab Suleiman S/No. Name Address Prof. M.I. Jawa MIJ. College of TM Damaturu Yobe. Prof. Olukemi A. Odukoya Dept. of Pharmacognosy Faculty of Pharmacy University of Lagos. Prof. Maryam Mansur Yola BUK. Kano Dr. Faruna Paul NAFDAC, NWZ Office Kaduna. Mohammed Yusuf Association of Alternative Medicine Practitioners Muhammad Khamis Kibiya Gaskiyar Lamari Herbal. Kano Prof. Idris M. Bugaje. Executive Secretary, NBTE Kaduna Special Asst. To the E.S Musa M. Isgogo Director Curr. Dept. NBTE Kaduna Bala Danladi Akut D. D Curr. NBTE Kaduna Mamman Fatima Abdulkadir Muhammad Bilyamin Musa Muhammad Umar Auna Hassana Abdullahi Basira Hassan NBTE Consult",
+          "description": "Understand the route of Administration in Traditional Medicine",
           "performance_criteria": [
             {
               "pc_code": "3.1",
-              "description": "Define route of Administration in Traditional Medicine 3.2 \uf0b7 \uf0b7 \uf0b7 \uf0b7 \uf0b7 \uf0b7 Mention the route of Administration: Incision Oral Topical Bathing Steaming Inhalation, etc."
+              "description": "Define route of Administration in Traditional Medicine"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Mention the route of Administration: Incision Oral Topical Bathing Steaming Inhalation, etc."
             },
             {
               "pc_code": "3.3",
-              "description": "List reasons for determining route of Administration PHONE NUMBER E-MAIL 08063444373 olukodukoya@gmail.com 08053333691 aaminuambi@gmail.com 0905566226 ibrahimmdada33@yahoo.co m 08035076376 ttile07@yahoo.com 08035326868 fb:trus@yahoo.com 08035991824 fatayebamidelejohnson@g mail.com 08032892355 nasiru.mato@nafdac.gov.ng 08036424139 ajogenass@yahoo.com 08036212637 drjawa58@gmail.com 08023229228 walidmoukarim@gmail.co m 09033303888 Joint3workingdoctor@gmai l.com es@nbte.gov.ng 08037120542 08067185383 dugujiisgogo@gmail.com 08036301795 dodiyoma82@gmail.com 07035305022 hafeezdgm@gmail.com 09036071291 mahoganybm@gmail.com 08065500336 ramatuishaq04@gmail.com 07012222600 meetbako@gmail.com 08095669006 dalhatabubakarkirki@gmail .com haajara49@yahoo. com 08060902839 msabubakar@abu.edu.ng 08063165499 Salihu940@gmail.com 08036316108 Salihannur18@gmail.co m 08023110225 Anasringim2003@gmail. com 08030427519 dugujiisgogo@gmail.co m mahoganybm@gmail.co m rukyras4real@yahoo.co m 08038253699 sisterzeefta@gmail.com 08065500171 Dalletabubakarkirkigmail .com Email Phone No. olukodukoya@unilag.edu.ng maryamsharada1@gmail.com 08062615787 paul.faruna@nafda.gov.ng 08034272680 pacesetters57@gmail.com 08037052857 sangarib 111@gmail.com 08033499827 ibrahimb2@yahoo.com baladanladi2000@yahoo.ca 08033175286 ftmajids@gmail.com 08036016578 muhammadauna.mu@gmail.com 09034733784 08037671945 basirahassan@gmail.com 08036085919"
+              "description": "List reasons for determining route of Administration"
             }
           ]
         }

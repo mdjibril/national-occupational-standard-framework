@@ -80,7 +80,7 @@
         },
         {
           "lo_num": "5",
-          "description": "Dispose of materials and equipment Ref. Page No. OBJECTIVE (LO)",
+          "description": "Dispose of materials and equipment ",
           "performance_criteria": [
             {
               "pc_code": "5.1",
@@ -169,14 +169,14 @@
               "description": "Monitor task progress and adjust work pace to ensure deadlines are met without compromising quality."
             },
             {
-              "pc_code": "4.2",
+              "pc_code": "4.3",
               "description": "Coordinate with team members to ensure seamless task handovers and continuity of work."
             }
           ]
         },
         {
           "lo_num": "5",
-          "description": "Demonstrate a positive attitude and work ethics Ref. Page No. OBJECTIVE (LO) in a team setting",
+          "description": "Demonstrate a positive attitude and work ethics  in a team setting",
           "performance_criteria": [
             {
               "pc_code": "5.1",
@@ -272,7 +272,7 @@
         },
         {
           "lo_num": "5",
-          "description": "Use digital communication Ref. Page No. OBJECTIVE (LO) tools effectively in networking projects",
+          "description": "Use digital communication  tools effectively in networking projects",
           "performance_criteria": [
             {
               "pc_code": "5.1",
@@ -402,7 +402,7 @@
         },
         {
           "lo_num": "6",
-          "description": "Understand Basic Network Topologies Ref. Page No. OBJECTIVE (LO)",
+          "description": "Understand Basic Network Topologies ",
           "performance_criteria": [
             {
               "pc_code": "6.1",
@@ -424,7 +424,7 @@
         },
         {
           "lo_num": "7",
-          "description": "Know Role of Internet Protocols Ref. Page No.",
+          "description": "Know Role of Internet Protocols ",
           "performance_criteria": [
             {
               "pc_code": "7.1",
@@ -488,7 +488,7 @@
         },
         {
           "lo_num": "3",
-          "description": "Understand the concept of network media Ref. Page No.",
+          "description": "Understand the concept of network media ",
           "performance_criteria": [
             {
               "pc_code": "3.1",
@@ -568,7 +568,7 @@
         },
         {
           "lo_num": "3",
-          "description": "Understand Basic IPv4 Addressing including the Structure, the Classes (A, B, C, D, E) Ref. Page No.",
+          "description": "Understand Basic IPv4 Addressing including the Structure, the Classes (A, B, C, D, E)",
           "performance_criteria": [
             {
               "pc_code": "3.1",
@@ -644,7 +644,7 @@
         },
         {
           "lo_num": "3",
-          "description": "Understand connecting end devices in a SOHO Ref. Page No.",
+          "description": "Understand connecting end devices in a SOHO ",
           "performance_criteria": [
             {
               "pc_code": "3.1",
@@ -663,7 +663,7 @@
       ]
     },
     {
-      "code": "ICT/NCI008/L1",
+      "code": "ICT/NCI/008/L1",
       "title": "FUNDAMENTAL OF NETWORK SIMULATION TOOLS",
       "learning_outcomes": [
         {
@@ -743,14 +743,14 @@
               "description": "Outline the Basic Configuration of end devices in CISCO packet tracer"
             },
             {
-              "pc_code": "3.5",
+              "pc_code": "3.6",
               "description": "Outline the Basic configuration of intermediary devices in CISCO packet tracer"
             }
           ]
         },
         {
           "lo_num": "4",
-          "description": "Manage Network in CISCO Packet tracer Ref. Page No.",
+          "description": "Manage Network in CISCO Packet tracer ",
           "performance_criteria": [
             {
               "pc_code": "4.1",
@@ -844,7 +844,7 @@
         },
         {
           "lo_num": "4",
-          "description": "Use Diagnostic Tools for Network Troubleshooting Ref. Page No. OBJECTIVE (LO)",
+          "description": "Use Diagnostic Tools for Network Troubleshooting ",
           "performance_criteria": [
             {
               "pc_code": "4.1",

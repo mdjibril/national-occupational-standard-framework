@@ -429,18 +429,6 @@
             {
               "pc_code": "1.3",
               "description": "Prepare mixing platform by removing dirt with shovel or broom as appropriate."
-            },
-            {
-              "pc_code": "1.1",
-              "description": "Select tools for mixing different adhesives for tiling and stone decorative work."
-            },
-            {
-              "pc_code": "1.2",
-              "description": "Use tools and mix different adhesives for tiling and stone decorative work"
-            },
-            {
-              "pc_code": "1.3",
-              "description": "Properly Clean and store tools after each days\u2019 work"
             }
           ]
         },
@@ -450,26 +438,39 @@
           "performance_criteria": [
             {
               "pc_code": "2.1",
-              "description": "Use various batching methods for mixing materials as follows: \u2022 by normal measuring device (volume) e.g. Guage Box, Head pan, Bucket, Wheelbarrow etc \u2022 by comparing weighing scales"
+              "description": "Select tools for mixing different adhesives for tiling and stone decorative work."
             },
             {
               "pc_code": "2.2",
-              "description": "Mix cement sand screed by manual method"
+              "description": "Use tools and mix different adhesives for tiling and stone decorative work"
             },
             {
               "pc_code": "2.3",
-              "description": "Mix cement sand screed by mechanical method."
-            },
-            {
-              "pc_code": "2.4",
-              "description": "Mix Ordinary Portland cement/white cement for grouting in accordance with standard specifications."
+              "description": "Properly Clean and store tools after each days\u2019 work"
             }
           ]
         },
         {
           "lo_num": "3",
           "description": "Mix adhesives according to approved specification",
-          "performance_criteria": []
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Use various batching methods for mixing materials as follows: \u2022 by normal measuring device (volume) e.g. Guage Box, Head pan, Bucket, Wheelbarrow etc \u2022 by comparing weighing scales"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Mix cement sand screed by manual method"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Mix cement sand screed by mechanical method."
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Mix Ordinary Portland cement/white cement for grouting in accordance with standard specifications."
+            }
+          ]
         }
       ]
     }

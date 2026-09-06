@@ -238,7 +238,7 @@
           "performance_criteria": [
             {
               "pc_code": "5.1",
-              "description": "Identify common communication tools used in a workshop e.g.: \u2022 Walkie-talkies \u2022 Notice boards \u2022 L ogs"
+              "description": "Identify common communication tools used in a workshop e.g.: \u2022 Walkie-talkies \u2022 Notice boards \u2022 Logs"
             },
             {
               "pc_code": "5.2",
@@ -796,8 +796,12 @@
         },
         {
           "lo_num": "3",
-          "description": "Know how to construct a table 3- 1 Mark mortise and tenon joint",
+          "description": "Know how to construct a table",
           "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Mark mortise and tenon joint"
+            },
             {
               "pc_code": "3.2",
               "description": "Cut the tenon"

@@ -49,7 +49,7 @@
               "description": "Identify Personal Protective Equipment (PPE)."
             },
             {
-              "pc_code": "2.3",
+              "pc_code": "2.4",
               "description": "State methods to resolve an occurring environmental hazard"
             }
           ]
@@ -74,7 +74,7 @@
         },
         {
           "lo_num": "4",
-          "description": "Demonstrate safe working habit and clean work environment Ref. Page No",
+          "description": "Demonstrate safe working habit and clean work environment",
           "performance_criteria": [
             {
               "pc_code": "4.1",
@@ -154,7 +154,7 @@
         },
         {
           "lo_num": "3",
-          "description": "Apply effective communication in a work environment Ref. Page No.",
+          "description": "Apply effective communication in a work environment .",
           "performance_criteria": [
             {
               "pc_code": "3.1",
@@ -202,7 +202,7 @@
             },
             {
               "pc_code": "1.4",
-              "description": "Explain methods of Reporting f assistance falling outside area responsibility."
+              "description": "Explain methods of Reporting for assistance falling outside area responsibility."
             },
             {
               "pc_code": "1.5",
@@ -230,7 +230,7 @@
         },
         {
           "lo_num": "3",
-          "description": "Comply with Policy of Organization. Ref. Page No. able to:",
+          "description": "Comply with Policy of Organization.",
           "performance_criteria": [
             {
               "pc_code": "3.1",
@@ -258,7 +258,11 @@
           "performance_criteria": [
             {
               "pc_code": "1.1",
-              "description": "Identify various types of tyre \u2022 Tube \u2022 Tubeless 1,2 Explain the features of tyres. \u2022 Tread \u2022 Bead \u2022 Sidewall"
+              "description": "Identify various types of tyre \u2022 Tube \u2022 Tubeless"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Explain the features of tyres. \u2022 Tread \u2022 Bead \u2022 Sidewall"
             },
             {
               "pc_code": "1.3",
@@ -290,7 +294,7 @@
         },
         {
           "lo_num": "3",
-          "description": "Inspect vehicle tyres LEARNING OUTCOME (LO) able to: Ref. Page No.",
+          "description": "Inspect vehicle tyres",
           "performance_criteria": [
             {
               "pc_code": "3.1",
@@ -303,25 +307,26 @@
             {
               "pc_code": "3.3",
               "description": "Replace faulty tyres"
-            },
-            {
-              "pc_code": "3.1",
-              "description": "Carryout inspection on Light Vehicle wheels"
-            },
-            {
-              "pc_code": "3.2",
-              "description": "Repair faulty wheels"
-            },
-            {
-              "pc_code": "3.3",
-              "description": "Replace faulty wheels"
             }
           ]
         },
         {
           "lo_num": "4",
           "description": "Inspect vehicle wheels",
-          "performance_criteria": []
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Carryout inspection on Light Vehicle wheels"
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Repair faulty wheels"
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Replace faulty wheels"
+            }
+          ]
         }
       ]
     },
@@ -379,7 +384,7 @@
         },
         {
           "lo_num": "3",
-          "description": "Store tools and Equipment LEARNING OUTCOME (LO) able to: Ref. Page No.",
+          "description": "Store tools and Equipment.",
           "performance_criteria": [
             {
               "pc_code": "3.1",
@@ -407,7 +412,7 @@
       "learning_outcomes": [
         {
           "lo_num": "1",
-          "description": "Measure tyre and rim Interpret the functional ratings of various tyres Use Personal Protective Equipment as related to Vulcanizing operations Stick Tyre Gauge Dial Tyre Gauge Digital Tyre Guage Explain the effect of improper inflation pressure Under Inflation Over Inflation",
+          "description": "Measure tyre and rim",
           "performance_criteria": [
             {
               "pc_code": "1.1",
@@ -443,7 +448,7 @@
         },
         {
           "lo_num": "3",
-          "description": "Inflate and Deflate Tyres LEARNING OUTCOME (LO) able to: Ref. Page No",
+          "description": "Inflate and Deflate Tyres",
           "performance_criteria": [
             {
               "pc_code": "3.1",
@@ -473,7 +478,7 @@
         },
         {
           "lo_num": "4",
-          "description": "Maintain vehicle tyres and wheels LEARNING OUTCOME (LO) able to: Ref. Page No",
+          "description": "Maintain vehicle tyres and wheels",
           "performance_criteria": [
             {
               "pc_code": "4.1",
@@ -541,7 +546,7 @@
         },
         {
           "lo_num": "3",
-          "description": "",
+          "description": "Operate computers in modern tyre and wheels workshop.",
           "performance_criteria": [
             {
               "pc_code": "3.1",

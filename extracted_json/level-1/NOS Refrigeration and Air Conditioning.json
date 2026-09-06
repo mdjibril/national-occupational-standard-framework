@@ -52,7 +52,7 @@
         },
         {
           "lo_num": "3",
-          "description": "Work in compliance with the policy of the organization Ref. Page No.",
+          "description": "Work in compliance with the policy of the organization",
           "performance_criteria": [
             {
               "pc_code": "3.1",
@@ -246,7 +246,11 @@
             },
             {
               "pc_code": "3.4",
-              "description": "Describe selected personal protective equipment Use personal protective Equipment (PPE) correctly"
+              "description": "Describe selected personal protective equipment "
+            },
+            {
+              "pc_code": "3.5",
+              "description": "Use personal protective Equipment (PPE) correctly"
             },
             {
               "pc_code": "3.6",
@@ -407,23 +411,23 @@
               "description": "Explain the types of materials used for the internal body framework of our refrigerator"
             },
             {
-              "pc_code": "5.3",
+              "pc_code": "5.4",
               "description": "Define Compressor in the refrigeration system"
             },
             {
-              "pc_code": "5.2",
+              "pc_code": "5.5",
               "description": "Define condensers in the refrigeration system"
             },
             {
-              "pc_code": "5.3",
+              "pc_code": "5.6",
               "description": "Define evaporators in refrigeration System"
             },
             {
-              "pc_code": "5.4",
+              "pc_code": "5.7",
               "description": "Explain the types of pipes used in evaporators and condensers units of Refrigerators"
             },
             {
-              "pc_code": "5.5",
+              "pc_code": "5.8",
               "description": "Distinguish between pipes used in evaporators and condenser units of refrigerators"
             }
           ]
@@ -493,7 +497,7 @@
               "description": "Select appropriate tools for pipe- bending operations"
             },
             {
-              "pc_code": "2.8",
+              "pc_code": "2.9",
               "description": "Carry out pipe-bending operation"
             }
           ]
@@ -518,7 +522,7 @@
         },
         {
           "lo_num": "4",
-          "description": "",
+          "description": "Apply Swaging Operation",
           "performance_criteria": [
             {
               "pc_code": "4.1",
@@ -615,11 +619,11 @@
               "description": "Select tools/equipment to charge a refrigerator"
             },
             {
-              "pc_code": "4.2",
+              "pc_code": "4.3",
               "description": "Prepare to charge a refrigerator"
             },
             {
-              "pc_code": "4.3",
+              "pc_code": "4.4",
               "description": "Demonstrate the charging process in a refrigerator"
             }
           ]
@@ -800,7 +804,7 @@
         },
         {
           "lo_num": "4",
-          "description": "Test Run after Repairs in R&AC Unit 1 2 3 4 5 6 7 8 9 TOTAL Unit title Unit number Unit reference Unit level Unit credit value Unit aim Learning outcome Assessment criteria Unit assessment guidance Unit guided learning hours",
+          "description": "Test Run after Repairs in R&AC ",
           "performance_criteria": [
             {
               "pc_code": "4.1",

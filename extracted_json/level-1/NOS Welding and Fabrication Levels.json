@@ -76,7 +76,7 @@
             },
             {
               "pc_code": "3.4",
-              "description": "Report accident or near-miss to appropriate authority Nigerian Institute of Welding (NIW)"
+              "description": "Report accident or near-miss to appropriate authority "
             }
           ]
         }
@@ -204,7 +204,7 @@
             },
             {
               "pc_code": "3.3",
-              "description": "Work in line with organisational standard. Nigerian Institute of Welding (NIW)"
+              "description": "Work in line with organisational standard."
             }
           ]
         }
@@ -352,7 +352,7 @@
             },
             {
               "pc_code": "5.4",
-              "description": "List properties of metal Nigerian Institute of Welding (NIW)"
+              "description": "List properties of metal "
             }
           ]
         }
@@ -444,7 +444,7 @@
             },
             {
               "pc_code": "3.4",
-              "description": "Return tools after use Nigerian Institute of Welding (NIW)"
+              "description": "Return tools after use "
             }
           ]
         }
@@ -536,7 +536,7 @@
             },
             {
               "pc_code": "3.4",
-              "description": "Carry out care for marking out tools Nigerian Institute of Welding (NIW)"
+              "description": "Carry out care for marking out tools "
             }
           ]
         }
@@ -628,7 +628,7 @@
             },
             {
               "pc_code": "3.4",
-              "description": "Explain the care for various grinding tools listed in 2.4 above Nigerian Institute of Welding (NIW)"
+              "description": "Explain the care for various grinding tools listed in 2.4 above "
             }
           ]
         }
@@ -700,7 +700,7 @@
             },
             {
               "pc_code": "3.4",
-              "description": "Obtain information on materials from a given drawing Nigerian Institute of Welding (NIW)"
+              "description": "Obtain information on materials from a given drawing "
             }
           ]
         }
@@ -738,7 +738,7 @@
         },
         {
           "lo_num": "2",
-          "description": "Know the fundamental s of arc welding Processes",
+          "description": "Know the fundamentals of arc welding Processes",
           "performance_criteria": [
             {
               "pc_code": "2.1",
@@ -860,7 +860,7 @@
             },
             {
               "pc_code": "7.3",
-              "description": "Carry out costing for a given job Nigerian Institute of Welding (NIW)"
+              "description": "Carry out costing for a given job "
             }
           ]
         }
@@ -982,7 +982,7 @@
             },
             {
               "pc_code": "4.3",
-              "description": "Carry out costing for a given job Nigerian Institute of Welding (NIW)"
+              "description": "Carry out costing for a given job "
             }
           ]
         }

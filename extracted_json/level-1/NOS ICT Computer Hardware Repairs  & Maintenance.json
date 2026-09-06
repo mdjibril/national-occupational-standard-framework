@@ -1,5 +1,5 @@
 {
-  "trade_name": "NOS ICT Computer Hardware Repairs  & Maintenance",
+  "trade_name": "NOS ICT Computer Hardware Repairs & Maintenance",
   "level": 1,
   "units": [
     {
@@ -24,7 +24,11 @@
             },
             {
               "pc_code": "1.4",
-              "description": "Identify health and safety risks in computer work, such as: i. Electrostatic discharge ii. Electric surges iii. Electric shocks. 1. Use occupational health and safety equipment, including: i. Anti-static wristbands ii. Gloves iii. Coveralls iv. Boots v. Fire extinguishers vi. First aid kits"
+              "description": "Identify health and safety risks in computer work, such as: i. Electrostatic discharge ii. Electric surges iii. Electric shocks."
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Use occupational health and safety equipment, including: i. Anti-static wristbands ii. Gloves iii. Coveralls iv. Boots v. Fire extinguishers vi. First aid kits"
             },
             {
               "pc_code": "1.6",
@@ -34,7 +38,7 @@
         },
         {
           "lo_num": "2",
-          "description": "Understand Environmental Issues in Computer Ref. Page No. OBJECTIVE (LO) Operations and Maintenance",
+          "description": "Understand Environmental Issues in Computer Operations and Maintenance",
           "performance_criteria": [
             {
               "pc_code": "2.1",
@@ -90,7 +94,7 @@
         },
         {
           "lo_num": "4",
-          "description": "Demonstrate First Aid Practices Ref. Page No.",
+          "description": "Demonstrate First Aid Practices ",
           "performance_criteria": [
             {
               "pc_code": "4.1",
@@ -214,7 +218,7 @@
         },
         {
           "lo_num": "5",
-          "description": "Demonstrate the Ability to Read Reference OBJECTIVE (LO)",
+          "description": "Demonstrate the Ability to Read Reference ",
           "performance_criteria": [
             {
               "pc_code": "5.1",
@@ -306,7 +310,7 @@
         },
         {
           "lo_num": "3",
-          "description": "Understand Application Software Reference OBJECTIVE (LO)",
+          "description": "Understand Application Software Reference ",
           "performance_criteria": [
             {
               "pc_code": "3.1",
@@ -349,105 +353,106 @@
             {
               "pc_code": "4.4",
               "description": "Outline the procedures of cold and warm booting"
-            },
-            {
-              "pc_code": "4.1",
-              "description": "Describe of computer networking and its uses"
-            },
-            {
-              "pc_code": "4.2",
-              "description": "Identify the uses of computer networks"
-            },
-            {
-              "pc_code": "4.3",
-              "description": "State the classifications of networks: i. Local Area Network (LAN) ii. Metropolitan Area Network (MAN) iii. Wide Area Network (WAN) iv. Internet/World Wide Web"
-            },
-            {
-              "pc_code": "4.4",
-              "description": "Explain the different types of networks listed in 4.2"
-            },
-            {
-              "pc_code": "4.5",
-              "description": "Identify the following components of a simple computer network: i. Switches; ii. Routers; iii. Categories of Network Cables, e.g., CAT 5 and CAT-6e Ethernet cables, etc. iv. Coaxial Cables v. RJ-45 Connectors and BNC Connectors; vi. Network Interface Cards. Access points/Wireless routers"
-            },
-            {
-              "pc_code": "4.5",
-              "description": "Explain the meaning of the following basic terms: i. Topology. ii. Bandwidth; iii. Server. iv. Clients"
             }
           ]
         },
         {
           "lo_num": "5",
-          "description": "Understand the Basic Principles of Computer Networking Reference OBJECTIVE (LO) Maintenance and their Applications to Computers",
+          "description": "Understand the Basic Principles of Computer Networking Reference  Maintenance and their Applications to Computers",
           "performance_criteria": [
             {
               "pc_code": "5.1",
-              "description": "Explain hardware maintenance"
+              "description": "Describe of computer networking and its uses"
             },
             {
               "pc_code": "5.2",
-              "description": "Explain software maintenance"
+              "description": "Identify the uses of computer networks"
             },
             {
               "pc_code": "5.3",
-              "description": "State types of computer software maintenance"
+              "description": "State the classifications of networks: i. Local Area Network (LAN) ii. Metropolitan Area Network (MAN) iii. Wide Area Network (WAN) iv. Internet/World Wide Web"
             },
             {
               "pc_code": "5.4",
-              "description": "State types of computer hardware maintenance"
+              "description": "Explain the different types of networks listed in 5.3"
             },
             {
               "pc_code": "5.5",
-              "description": "Outline the benefits of carrying out preventive and corrective maintenance"
+              "description": "Identify the following components of a simple computer network: i. Switches; ii. Routers; iii. Categories of Network Cables, e.g., CAT 5 and CAT-6e Ethernet cables, etc. iv. Coaxial Cables v. RJ-45 Connectors and BNC Connectors; vi. Network Interface Cards. Access points/Wireless routers"
             },
             {
               "pc_code": "5.6",
-              "description": "Outline when to carry out preventive and corrective maintenance"
-            },
-            {
-              "pc_code": "5.7",
-              "description": "State the characteristics of computer hardware maintenance"
-            },
-            {
-              "pc_code": "5.8",
-              "description": "Perform the basic preventive maintenance on computers"
+              "description": "Explain the meaning of the following basic terms: i. Topology. ii. Bandwidth; iii. Server. iv. Clients"
             }
           ]
         },
         {
           "lo_num": "6",
-          "description": "Understand Classes of Reference",
+          "description": "Understand Classes of Maintance and their Application to Computers",
           "performance_criteria": [
             {
               "pc_code": "6.1",
-              "description": "Identify the following computer hardware maintenance tools: i. Soldering irons; ii. Set of pliers; iii. Cutters; iv. Set of screw drivers; Multi-meters, etc."
+              "description": "Explain hardware maintenance"
             },
             {
               "pc_code": "6.2",
-              "description": "Explain the importance of tools in computer hardware maintenance and repairs"
+              "description": "Explain software maintenance"
             },
             {
               "pc_code": "6.3",
-              "description": "Outline the functions of the following hardware maintenance tools: v. Soldering irons; vi. Set of pliers; vii. Cutters; viii. Set of screwdrivers. v. Multi-meters. vi. Wire strips. vii. Soldering stations. viii. Set of Allen keys. ix. Air blowers"
+              "description": "State types of computer software maintenance"
             },
             {
               "pc_code": "6.4",
-              "description": "Use tools listed in 6.3 above"
+              "description": "State types of computer hardware maintenance"
             },
             {
               "pc_code": "6.5",
-              "description": "Identify the appropriate equipment and facilities needed to set up a computer maintenance and repair workshop"
+              "description": "Outline the benefits of carrying out preventive and corrective maintenance"
             },
             {
               "pc_code": "6.6",
-              "description": "Explain the risks involved in using incorrect tools to carry out maintenance and repairs"
+              "description": "Outline when to carry out preventive and corrective maintenance"
+            },
+            {
+              "pc_code": "6.7",
+              "description": "State the characteristics of computer hardware maintenance"
+            },
+            {
+              "pc_code": "6.8",
+              "description": "Perform the basic preventive maintenance on computers"
             }
           ]
         },
         {
           "lo_num": "7",
           "description": "Use the Basic Tools Needed for Computer Hardware Maintenance and Repairs",
-          "performance_criteria": []
+          "performance_criteria": [
+            {
+              "pc_code": "7.1",
+              "description": "Identify the following computer hardware maintenance tools: i. Soldering irons; ii. Set of pliers; iii. Cutters; iv. Set of screw drivers; Multi-meters, etc."
+            },
+            {
+              "pc_code": "7.2",
+              "description": "Explain the importance of tools in computer hardware maintenance and repairs"
+            },
+            {
+              "pc_code": "7.3",
+              "description": "Outline the functions of the following hardware maintenance tools: v. Soldering irons; vi. Set of pliers; vii. Cutters; viii. Set of screwdrivers. v. Multi-meters. vi. Wire strips. vii. Soldering stations. viii. Set of Allen keys. ix. Air blowers"
+            },
+            {
+              "pc_code": "7.4",
+              "description": "Use tools listed in 7.3 above"
+            },
+            {
+              "pc_code": "7.5",
+              "description": "Identify the appropriate equipment and facilities needed to set up a computer maintenance and repair workshop"
+            },
+            {
+              "pc_code": "7.6",
+              "description": "Explain the risks involved in using incorrect tools to carry out maintenance and repairs"
+            }
+          ]
         }
       ]
     },
@@ -543,7 +548,7 @@
         },
         {
           "lo_num": "4",
-          "description": "Demonstrate how to format Reference OBJECTIVE (LO) The learner will: Hard drives of Computers",
+          "description": "Demonstrate how to format Reference  The learner will: Hard drives of Computers",
           "performance_criteria": [
             {
               "pc_code": "4.1",
@@ -793,7 +798,7 @@
         },
         {
           "lo_num": "2",
-          "description": "Know Physical Quantities Related to Electric Circuits Reference OBJECTIVE (LO)",
+          "description": "Know Physical Quantities Related to Electric Circuits Reference ",
           "performance_criteria": [
             {
               "pc_code": "2.1",
@@ -869,7 +874,7 @@
         },
         {
           "lo_num": "4",
-          "description": "Understand the basic electromagnetic principles due to current flowing through conductors Reference OBJECTIVE (LO)",
+          "description": "Understand the basic electromagnetic principles due to current flowing through conductors Reference ",
           "performance_criteria": [
             {
               "pc_code": "4.1",
@@ -917,7 +922,7 @@
         },
         {
           "lo_num": "6",
-          "description": "Identify Instruments to Measure Physical Quantities Reference S/No NOS Title /Unit Number 1 ICT/CMR/001/L2 Occupational Health and Safety in Workplace Environment ICT/CMR/002/L2 Communication 3 ICT/CMR/003/L2 Teamwork 4 ICT/CMR/004/L2 Disassemble and Assemble Computers 5 ICT/CMR/005/L2 Faults Trace, Measurement, and troubleshooting in Computers 6 ICT/CMR/006/L2 General Maintenance and Repairs of Faulty Computers 7 ICT/CMR/007/L2 Management Of Computer Hardware Maintenance And Repairs 8 ICT/CMR/008/L2 Fundamentals of Basic Electronics to Computer Hardware Maintenance and Repairs 9 ICT/CMR/009/L2 Fundamental Principles of Using Printers, Photocopy Machines and Scanners",
+          "description": "Identify Instruments to Measure Physical Quantities",
           "performance_criteria": [
             {
               "pc_code": "6.1",
@@ -929,7 +934,7 @@
             },
             {
               "pc_code": "6.3",
-              "description": "Identify the instruments that are used to measure the quantities listed in 6.1 Credit Guided Remark Value Learning Hours 2 20 Mandatory 4 40 22 220 3 30 60"
+              "description": "Identify the instruments that are used to measure the quantities listed in 6.1"
             }
           ]
         }
