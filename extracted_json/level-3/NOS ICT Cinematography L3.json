@@ -277,12 +277,12 @@
               "description": "Balance natural and artificial light sources for optimal results."
             },
             {
-              "pc_code": "3.4",
+              "pc_code": "3.3",
               "description": "Evaluate cinematography choices."
             },
             {
-              "pc_code": "3.5",
-              "description": "Integrate sound and visual elements to support the narrative of choices in 3.4."
+              "pc_code": "3.4",
+              "description": "Integrate sound and visual elements to support the narrative of choices in 3.3."
             }
           ]
         },
@@ -527,15 +527,15 @@
               "description": "Analyse the characteristics of artificial light sources"
             },
             {
-              "pc_code": "3.5",
+              "pc_code": "3.4",
               "description": "Explain the applications."
             },
             {
-              "pc_code": "3.6",
+              "pc_code": "3.5",
               "description": "Combine natural and artificial light to achieve desired lighting effects."
             },
             {
-              "pc_code": "3.7",
+              "pc_code": "3.6",
               "description": "Evaluate the effectiveness of natural and artificial light sources in different shooting conditions."
             }
           ]
