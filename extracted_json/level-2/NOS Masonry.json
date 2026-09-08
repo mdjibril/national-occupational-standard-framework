@@ -50,8 +50,12 @@
         },
         {
           "lo_num": "2",
-          "description": "",
+          "description": "Hygiene, safe and hazard free workplace.",
           "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "State the importance of working in a healthy, safe and hygienic workplace."
+            },
             {
               "pc_code": "2.2",
               "description": "Report any accidents or near accidents quickly and accurately to the proper person."
@@ -96,11 +100,15 @@
         },
         {
           "lo_num": "3",
-          "description": "",
+          "description": "Hygiene, safe and secured workplace",
           "performance_criteria": [
             {
               "pc_code": "3.1",
               "description": "State how to warn other people about hazards and why this is important."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "State why accidents and near accidents should be reported and who they should be reported to."
             },
             {
               "pc_code": "3.3",
@@ -186,7 +194,7 @@
         },
         {
           "lo_num": "4",
-          "description": "work",
+          "description": "Team work",
           "performance_criteria": [
             {
               "pc_code": "4.1",
@@ -195,6 +203,10 @@
             {
               "pc_code": "4.2",
               "description": "Identify own role and responsibility within the team"
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Recognize requirement of team work"
             }
           ]
         }
@@ -216,8 +228,16 @@
         },
         {
           "lo_num": "2",
-          "description": "Roles of the various teams 2. 1 List the function of each team member 2. 2 Discuss the function of each team",
+          "description": "Roles of the various teams",
           "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "List the function of each team member"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Discuss the function of each team"
+            },
             {
               "pc_code": "2.3",
               "description": "Differentiate between the function of each team"
@@ -252,7 +272,11 @@
             },
             {
               "pc_code": "4.2",
-              "description": "Differentiate between various time frame of each team activity 4. 3 Deliver quality output as a team"
+              "description": "Differentiate between various time frame of each team activity"
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Deliver quality output as a team"
             }
           ]
         }
@@ -412,7 +436,7 @@
         },
         {
           "lo_num": "4",
-          "description": "",
+          "description": "Multi thickness walls and piers",
           "performance_criteria": [
             {
               "pc_code": "4.1",
@@ -546,11 +570,19 @@
         },
         {
           "lo_num": "4",
-          "description": "",
+          "description": "Curing of rendering/finishing works",
           "performance_criteria": [
             {
               "pc_code": "4.1",
               "description": "Describe the purpose of curing in rendering works and floors"
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Identify the materials required in curing rendering works and floors"
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Perform various types of curing techniques at appropriate levels"
             }
           ]
         }
@@ -612,7 +644,7 @@
         },
         {
           "lo_num": "4",
-          "description": "Repair /Replace faulty portion of the structures Carry out periodic LO (Learning outcome)",
+          "description": "Repair /Replace faulty portion of the structures",
           "performance_criteria": [
             {
               "pc_code": "4.1",
@@ -624,7 +656,7 @@
             },
             {
               "pc_code": "4.3",
-              "description": "Repair/replace damaged portion Criteria:- Ref Page number"
+              "description": "Repair/replace damaged portion"
             }
           ]
         },

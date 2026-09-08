@@ -56,7 +56,7 @@
         },
         {
           "lo_num": "3",
-          "description": "",
+          "description": "Carry out maintance of a hygienic, safe and secure workplace",
           "performance_criteria": [
             {
               "pc_code": "3.1",
@@ -90,7 +90,7 @@
         },
         {
           "lo_num": "4",
-          "description": "",
+          "description": "Carryout Prevention of hazards in the work place",
           "performance_criteria": [
             {
               "pc_code": "4.1",
@@ -238,7 +238,7 @@
       "learning_outcomes": [
         {
           "lo_num": "1",
-          "description": "",
+          "description": "Identify Safety, Health and Environmental regulations at workplace.",
           "performance_criteria": [
             {
               "pc_code": "1.1",
@@ -278,7 +278,7 @@
         },
         {
           "lo_num": "3",
-          "description": "Carryout basic petrol and Diesel Engine component removal and Refitting operations L.O 1: Identify Safety, Health and Environmenta regulations at workplace.",
+          "description": "Carryout basic petrol and Diesel Engine component removal and Refitting operations",
           "performance_criteria": [
             {
               "pc_code": "3.1",
@@ -314,7 +314,7 @@
       "learning_outcomes": [
         {
           "lo_num": "1",
-          "description": "Identify tools and equipment used in basic engine system maintenance L.O 2: Identify basic components of engine cooling system Identify tools and equipment for engine system maintenance. Identify the layout of basic components in cooling system engine cooling system. Couple the basic cooling system",
+          "description": "Identify tools and equipment used in basic engine system maintenance",
           "performance_criteria": [
             {
               "pc_code": "1.1",
@@ -332,7 +332,7 @@
         },
         {
           "lo_num": "2",
-          "description": "",
+          "description": "Identify basic components of engine cooling system",
           "performance_criteria": [
             {
               "pc_code": "2.1",
@@ -354,7 +354,7 @@
         },
         {
           "lo_num": "3",
-          "description": "Identify basic components of engine lubrication system Identify the layout of basic components in cooling system Identify basic components of the Remove and refit basic lubrication system components",
+          "description": "Identify basic components of engine lubrication system",
           "performance_criteria": [
             {
               "pc_code": "3.1",
@@ -371,28 +371,12 @@
             {
               "pc_code": "3.4",
               "description": "Remove and refit basic lubrication system components"
-            },
-            {
-              "pc_code": "3.1",
-              "description": "Identify the basic components in the engine fuel system."
-            },
-            {
-              "pc_code": "3.2",
-              "description": "Identify the layout of basic components in engine fuel system"
-            },
-            {
-              "pc_code": "3.3",
-              "description": "Identify basic components of the engine fuel system"
-            },
-            {
-              "pc_code": "3.4",
-              "description": "Remove and refit basic fuel system components."
             }
           ]
         },
         {
           "lo_num": "4",
-          "description": "Identify the basic components of engine ignition system Identify the layout of basic components in ignition system Identify basic components of the Remove and refit basic ignition system component",
+          "description": "Identify the basic components of engine ignition system",
           "performance_criteria": [
             {
               "pc_code": "4.1",
@@ -414,8 +398,25 @@
         },
         {
           "lo_num": "5",
-          "description": "Identify the basic components of engine fuel system Identify the layout of basic components in engine fuel system Identify basic components of the Remove and refit basic fuel system components.",
-          "performance_criteria": []
+          "description": "Identify the basic components of engine fuel system.",
+          "performance_criteria": [
+            {
+              "pc_code": "5.1",
+              "description": "Identify the basic components in the engine fuel system."
+            },
+            {
+              "pc_code": "5.2",
+              "description": "Identify the layout of basic components in engine fuel system"
+            },
+            {
+              "pc_code": "5.3",
+              "description": "Identify basic components of the engine fuel system"
+            },
+            {
+              "pc_code": "5.4",
+              "description": "Remove and refit basic fuel system components."
+            }
+          ]
         }
       ]
     },
@@ -443,7 +444,7 @@
         },
         {
           "lo_num": "2",
-          "description": "",
+          "description": " Identify basic components of vehicle suspension system",
           "performance_criteria": [
             {
               "pc_code": "2.1",
@@ -515,7 +516,7 @@
       "learning_outcomes": [
         {
           "lo_num": "1",
-          "description": "Identify types of materials used in joining and fastening in automotive workshop. :",
+          "description": "Identify types of materials used in joining and fastening in automotive workshop.",
           "performance_criteria": [
             {
               "pc_code": "1.1",
@@ -533,7 +534,7 @@
         },
         {
           "lo_num": "2",
-          "description": "Identify tools and equipment for carrying out metal joining operations \u2022 check if consumables are correct",
+          "description": "Identify tools and equipment for carrying out metal joining operations",
           "performance_criteria": [
             {
               "pc_code": "2.1",
@@ -733,7 +734,7 @@
             },
             {
               "pc_code": "2.3",
-              "description": "Identify the characteristics and benefits of computer i automotive workshop"
+              "description": "Identify the characteristics and benefits of computer in automotive workshop"
             }
           ]
         },

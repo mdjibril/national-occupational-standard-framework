@@ -47,25 +47,26 @@
             {
               "pc_code": "2.3",
               "description": "Clean and store PPE appropriately after use"
-            },
-            {
-              "pc_code": "2.1",
-              "description": "Identify the location of the first aid box on site."
-            },
-            {
-              "pc_code": "2.2",
-              "description": "Describe and give examples of key accidents, trends, causes and prevention on site."
-            },
-            {
-              "pc_code": "2.3",
-              "description": "Explain health and safety considerations involved in tiling and stone decorative projects work."
             }
           ]
         },
         {
           "lo_num": "3",
           "description": "Demonstrate safety considerations on construction site",
-          "performance_criteria": []
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Identify the location of the first aid box on site."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Describe and give examples of key accidents, trends, causes and prevention on site."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Explain health and safety considerations involved in tiling and stone decorative projects work."
+            }
+          ]
         }
       ]
     },

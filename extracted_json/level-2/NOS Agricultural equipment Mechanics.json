@@ -749,6 +749,14 @@
             {
               "pc_code": "2.3",
               "description": "Procure parts required for repairs and maintenance"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "State the functions of each of the repairs and maintenance method."
+            },
+            {
+              "pc_code": "2.5",
+              "description": "Identify the precautions and planning techniques for shutdown maintenance."
             }
           ]
         },
@@ -756,14 +764,6 @@
           "lo_num": "3",
           "description": "Carryout repair and maintenance of crop processing and storage equipment",
           "performance_criteria": [
-            {
-              "pc_code": "3.2",
-              "description": "State the functions of each of the repairs and maintenance method."
-            },
-            {
-              "pc_code": "3.3",
-              "description": "Identify the precautions and planning techniques for shutdown maintenance."
-            },
             {
               "pc_code": "3.1",
               "description": "Identify the faults in crop processing and storage equipment"
@@ -920,7 +920,7 @@
         },
         {
           "lo_num": "3",
-          "description": "",
+          "description": "Identify Procurement activities",
           "performance_criteria": [
             {
               "pc_code": "3.1",
@@ -1082,7 +1082,7 @@
         },
         {
           "lo_num": "8",
-          "description": "",
+          "description": "Carryout Alignment Pre-Checks",
           "performance_criteria": [
             {
               "pc_code": "8.1",
@@ -1122,7 +1122,7 @@
         },
         {
           "lo_num": "10",
-          "description": "Carryout Alignment Post Checks S/No 1 2 3 4 Total Reference Number Credit Value 5 6 7 8 9 10",
+          "description": "Carryout Alignment Post Checks",
           "performance_criteria": [
             {
               "pc_code": "10.1",

@@ -25,18 +25,6 @@
             {
               "pc_code": "1.4",
               "description": "Follow safe methods and procedures of work practices."
-            },
-            {
-              "pc_code": "1.1",
-              "description": "Supervise the use of audio, electronic and Electro-magnetic means to pass on necessary information."
-            },
-            {
-              "pc_code": "1.2",
-              "description": "Describe simple non-verbal means of communication."
-            },
-            {
-              "pc_code": "1.3",
-              "description": "Read and interpret concept of symbols and signs appropriately."
             }
           ]
         },
@@ -63,7 +51,99 @@
             {
               "pc_code": "2.5",
               "description": "Carry out safety drills."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Understand the use of various types of PPE in the work environment. Understand various communication means in a work environment",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Identify types of PPE and their uses."
             },
+            {
+              "pc_code": "3.2",
+              "description": "Select and wear appropriate PPE correctly."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Provide PPE to Assistant Carpenter and supervise him/her to follow instructions."
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Maintain and return PPE for storage."
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Know stacking techniques.",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Apply appropriate methods of lifting techniques for materials in work environment."
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Implement proper stacking methods and procedures in material handling."
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Guide on proper application of manual lifting techniques for heavy materials."
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Check on application of safe work practices and procedures in work environment."
+            }
+          ]
+        },
+        {
+          "lo_num": "5",
+          "description": "Know how to provide information clearly to Assistant Carpenter on health & safety policy.",
+          "performance_criteria": [
+            {
+              "pc_code": "5.1",
+              "description": "Provide health and safety information of organizational safety policy to Assistant Carpenter."
+            },
+            {
+              "pc_code": "5.2",
+              "description": "Explain the importance of health and safety to Assistant Carpenter."
+            },
+            {
+              "pc_code": "5.3",
+              "description": "Compare Assistant Carpenter work practices with safety guidelines"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "CON/CJ/002/L2",
+      "title": "Communication System in a Work Environment",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Communication System in a Work environment",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Supervise the use of audio, electronic and Electro-magnetic means to pass on necessary information."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Describe simple non-verbal means of communication."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Read and interpret concept of symbols and signs appropriately."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Code information in the work environment.",
+          "performance_criteria": [
             {
               "pc_code": "2.1",
               "description": "Participate in creating and making functional the source of information in an organization, and work environment."
@@ -88,24 +168,8 @@
         },
         {
           "lo_num": "3",
-          "description": "Understand the use of various types of PPE in the work environment. Understand various communication means in a work environment",
+          "description": "Communication means in a work environment",
           "performance_criteria": [
-            {
-              "pc_code": "3.1",
-              "description": "Identify types of PPE and their uses."
-            },
-            {
-              "pc_code": "3.2",
-              "description": "Select and wear appropriate PPE correctly."
-            },
-            {
-              "pc_code": "3.3",
-              "description": "Provide PPE to Assistant Carpenter and supervise him/her to follow instructions."
-            },
-            {
-              "pc_code": "3.4",
-              "description": "Maintain and return PPE for storage."
-            },
             {
               "pc_code": "3.1",
               "description": "Ensure the accessibility of the communication equipment in the work environment."
@@ -134,24 +198,8 @@
         },
         {
           "lo_num": "4",
-          "description": "",
+          "description": "Learning Outcome Communication equipment.",
           "performance_criteria": [
-            {
-              "pc_code": "4.1",
-              "description": "Apply appropriate methods of lifting techniques for materials in work environment."
-            },
-            {
-              "pc_code": "4.2",
-              "description": "Implement proper stacking methods and procedures in material handling."
-            },
-            {
-              "pc_code": "4.3",
-              "description": "Guide on proper application of manual lifting techniques for heavy materials."
-            },
-            {
-              "pc_code": "4.4",
-              "description": "Check on application of safe work practices and procedures in work environment."
-            },
             {
               "pc_code": "4.1",
               "description": "Ensure that communication equipment are in good working conditions."
@@ -167,126 +215,6 @@
             {
               "pc_code": "4.4",
               "description": "Ensure that communication equipment are stored appropriately in a work environment."
-            }
-          ]
-        },
-        {
-          "lo_num": "5",
-          "description": "",
-          "performance_criteria": [
-            {
-              "pc_code": "5.1",
-              "description": "Provide health and safety information of organizational safety policy to Assistant Carpenter."
-            },
-            {
-              "pc_code": "5.2",
-              "description": "Explain the importance of health and safety to Assistant Carpenter."
-            },
-            {
-              "pc_code": "5.3",
-              "description": "Compare Assistant Carpenter work practices with safety guidelines"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "code": "CON/CJ/002/L3",
-      "title": "Communication System in a Work Environment",
-      "learning_outcomes": [
-        {
-          "lo_num": "1",
-          "description": "Communication System in a Work environment",
-          "performance_criteria": [
-            {
-              "pc_code": "1.1",
-              "description": "Supervise the use of audio, electronic, electro-magnetic means to pass on necessary information. e.g. mobile phone, Radio etc."
-            },
-            {
-              "pc_code": "1.2",
-              "description": "Describe simple non-verbal means of communication."
-            },
-            {
-              "pc_code": "1.3",
-              "description": "Interpret concept of symbols, codes and signs appropriately."
-            }
-          ]
-        },
-        {
-          "lo_num": "2",
-          "description": "Code information in the work environment.",
-          "performance_criteria": [
-            {
-              "pc_code": "2.1",
-              "description": "Locate functional source of information in an organization and work environment."
-            },
-            {
-              "pc_code": "2.2",
-              "description": "Provide the source of information in an organization or work environment."
-            },
-            {
-              "pc_code": "2.3",
-              "description": "Relate appropriately with the sources of information."
-            },
-            {
-              "pc_code": "2.4",
-              "description": "Use the various information flow system in an organization or work environment to overcome challenges."
-            },
-            {
-              "pc_code": "2.5",
-              "description": "Document information in accordance with procedure in a work environment."
-            }
-          ]
-        },
-        {
-          "lo_num": "3",
-          "description": "Communication means in a work environment",
-          "performance_criteria": [
-            {
-              "pc_code": "3.1",
-              "description": "Describe the effective uses of the various communication channels in a work environment."
-            },
-            {
-              "pc_code": "3.2",
-              "description": "Demonstrate the uses of various communication means in a work environment."
-            },
-            {
-              "pc_code": "3.3",
-              "description": "Ensure the accessibility of the communications equipment in the work environment."
-            },
-            {
-              "pc_code": "3.4",
-              "description": "Ensure effective information flow to the right personnel."
-            },
-            {
-              "pc_code": "3.5",
-              "description": "Ensure the effective deployment of the use of symbols, signs and codes."
-            },
-            {
-              "pc_code": "3.6",
-              "description": "Ensure that instructions are obeyed and disseminated in line with ethics of the work environment."
-            }
-          ]
-        },
-        {
-          "lo_num": "4",
-          "description": "Learning Outcome Communication equipment.",
-          "performance_criteria": [
-            {
-              "pc_code": "4.1",
-              "description": "Ensure that communication equipment are in good working condition."
-            },
-            {
-              "pc_code": "4.2",
-              "description": "Liaise with the maintenance unit to ensure that communication equipment are maintained regularly."
-            },
-            {
-              "pc_code": "4.3",
-              "description": "Liaise with appropriate authority to replace communication equipment in the event of loss or damage."
-            },
-            {
-              "pc_code": "4.4",
-              "description": "Monitor that communication equipment are stored appropriately in a work environment."
             }
           ]
         }
@@ -414,7 +342,7 @@
         },
         {
           "lo_num": "3",
-          "description": "",
+          "description": "Know how to use machine tools in carpentry and joinery work.",
           "performance_criteria": [
             {
               "pc_code": "3.1",
@@ -532,7 +460,7 @@
         },
         {
           "lo_num": "4",
-          "description": "",
+          "description": "Know bonding and fastening materials and in carpentry and joinery work.",
           "performance_criteria": [
             {
               "pc_code": "4.1",
@@ -592,7 +520,7 @@
         },
         {
           "lo_num": "6",
-          "description": "",
+          "description": "Know wood the various chemicals used in work environment.",
           "performance_criteria": [
             {
               "pc_code": "6.1",
@@ -600,7 +528,7 @@
             },
             {
               "pc_code": "6.2",
-              "description": "H andle hazardous materials such as Polyurethanes, Polyimides and Solignum etc. following safe methods and procedure in accordance with instructions."
+              "description": "Handle hazardous materials such as Polyurethanes, Polyimides and Solignum etc. following safe methods and procedure in accordance with instructions."
             },
             {
               "pc_code": "6.3",
@@ -635,7 +563,7 @@
       ]
     },
     {
-      "code": "CON/MS/011/L2",
+      "code": "CON/MS/006/L2",
       "title": "Site Clearance and Excavation II",
       "learning_outcomes": [
         {
@@ -700,7 +628,7 @@
         },
         {
           "lo_num": "3",
-          "description": "",
+          "description": "Select and use of resources",
           "performance_criteria": [
             {
               "pc_code": "3.1",
@@ -709,6 +637,10 @@
             {
               "pc_code": "3.2",
               "description": "State procedure for levelling."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "State procedure for compaction of earth manually and mechanically"
             }
           ]
         }
@@ -944,7 +876,7 @@
         },
         {
           "lo_num": "3",
-          "description": "",
+          "description": "Know how to Erect Formwork above ground level.",
           "performance_criteria": [
             {
               "pc_code": "3.1",
@@ -1080,7 +1012,7 @@
         },
         {
           "lo_num": "4",
-          "description": "",
+          "description": "Perform drilling operation of a given task",
           "performance_criteria": [
             {
               "pc_code": "4.1",
@@ -1160,7 +1092,7 @@
         },
         {
           "lo_num": "3",
-          "description": "",
+          "description": "Identify Resources (materials and tools) for a given task",
           "performance_criteria": [
             {
               "pc_code": "3.1",
@@ -1246,7 +1178,7 @@
         },
         {
           "lo_num": "6",
-          "description": "",
+          "description": "Keep time frame as scheduled.",
           "performance_criteria": [
             {
               "pc_code": "6.1",
@@ -1560,11 +1492,15 @@
         },
         {
           "lo_num": "3",
-          "description": "",
+          "description": "Inspect and ensure tile joints surfaces are aligned and flat.",
           "performance_criteria": [
             {
               "pc_code": "3.1",
-              "description": "Monitor the laying of the tiles to the final level. g 3.2 Organize to grout the joints using adhesives."
+              "description": "Monitor the laying of the tiles to the final level."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Organize to grout the joints using adhesives.."
             },
             {
               "pc_code": "3.3",
@@ -1640,7 +1576,7 @@
         },
         {
           "lo_num": "5",
-          "description": "",
+          "description": "Conﬁrm that joints grouted are straight and uniform in width.",
           "performance_criteria": [
             {
               "pc_code": "5.1",
@@ -1667,7 +1603,7 @@
       ]
     },
     {
-      "code": "CON/TL/015/L3",
+      "code": "CON/TL/015/L2",
       "title": "Tiling Curved Surface",
       "learning_outcomes": [
         {

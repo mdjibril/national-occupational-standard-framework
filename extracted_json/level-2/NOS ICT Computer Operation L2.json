@@ -44,7 +44,7 @@
         },
         {
           "lo_num": "3",
-          "description": "Apply Emergency Procedures and First Aid in the Workplace Ref. Page No.",
+          "description": "Apply Emergency Procedures and First Aid in the Workplace",
           "performance_criteria": [
             {
               "pc_code": "3.1",
@@ -104,7 +104,7 @@
         },
         {
           "lo_num": "3",
-          "description": "Contribute to Team Problem- Solving and Decision- Making Ref. Page No.",
+          "description": "Contribute to Team Problem- Solving and Decision- Making",
           "performance_criteria": [
             {
               "pc_code": "3.1",
@@ -164,7 +164,7 @@
         },
         {
           "lo_num": "3",
-          "description": "Listen and Respond Appropriately in a Professional Context Ref. Page No.",
+          "description": "Listen and Respond Appropriately in a Professional Context",
           "performance_criteria": [
             {
               "pc_code": "3.1",
@@ -240,7 +240,7 @@
         },
         {
           "lo_num": "3",
-          "description": "Understand the use of Hardware components of a computer PERFORMANCE CRITERIA Ref. Page No.",
+          "description": "Understand the use of Hardware components of a computer",
           "performance_criteria": [
             {
               "pc_code": "3.1",
@@ -282,7 +282,7 @@
         },
         {
           "lo_num": "2",
-          "description": "Understand the Operating Systems 2.3 ins",
+          "description": "Understand the Operating Systems",
           "performance_criteria": [
             {
               "pc_code": "2.1",
@@ -319,14 +319,14 @@
               "description": "Copy files into the Folder"
             },
             {
-              "pc_code": "3.4",
+              "pc_code": "3.5",
               "description": "Demonstrate how to delete folders"
             }
           ]
         },
         {
           "lo_num": "4",
-          "description": "Installation of Computer Software PERFORMANCE CRITERIA",
+          "description": "Installation of Computer Software",
           "performance_criteria": [
             {
               "pc_code": "4.1",
@@ -412,7 +412,7 @@
         },
         {
           "lo_num": "4",
-          "description": "Understand Document Security Ref. Page No.",
+          "description": "Understand Document Security",
           "performance_criteria": [
             {
               "pc_code": "4.1",
@@ -488,7 +488,7 @@
         },
         {
           "lo_num": "3",
-          "description": "Perform Basic Data Representation Ref. Page No.",
+          "description": "Perform Basic Data Representation",
           "performance_criteria": [
             {
               "pc_code": "3.1",
@@ -552,7 +552,7 @@
         },
         {
           "lo_num": "3",
-          "description": "Perform Slide Formatting Ref. Page No.",
+          "description": "Perform Slide Formatting",
           "performance_criteria": [
             {
               "pc_code": "3.1",
@@ -633,23 +633,17 @@
             {
               "pc_code": "3.3",
               "description": "Create Simple Cards"
-            }
-          ]
-        },
-        {
-          "lo_num": "4",
-          "description": "",
-          "performance_criteria": [
+            },
             {
-              "pc_code": "4.2",
+              "pc_code": "3.4",
               "description": "Save the design"
             },
             {
-              "pc_code": "4.3",
+              "pc_code": "3.5",
               "description": "Print the design"
             }
           ]
-        }
+        } 
       ]
     },
     {
@@ -706,7 +700,7 @@
         },
         {
           "lo_num": "3",
-          "description": "Understand the Basics of World Wide Web (www) Ref. Page No.",
+          "description": "Understand the Basics of World Wide Web (www)",
           "performance_criteria": [
             {
               "pc_code": "3.1",
@@ -770,7 +764,7 @@
         },
         {
           "lo_num": "3",
-          "description": "Understand Basic Concepts of Data Backup and Recovery LEARNING OBJECTIVE (LO)",
+          "description": "Understand Basic Concepts of Data Backup and Recovery",
           "performance_criteria": [
             {
               "pc_code": "3.1",

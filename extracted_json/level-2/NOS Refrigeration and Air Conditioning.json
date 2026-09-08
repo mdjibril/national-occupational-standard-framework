@@ -8,7 +8,7 @@
       "learning_outcomes": [
         {
           "lo_num": "1",
-          "description": "L01: Know Positive Working Relationship with Colleagues",
+          "description": "Know Positive Working Relationship with Colleagues",
           "performance_criteria": [
             {
               "pc_code": "1.1",
@@ -226,7 +226,7 @@
         },
         {
           "lo_num": "2",
-          "description": "",
+          "description": "UNDERSTAND SAFETY AND SECURITY IN THE WORKPLACE",
           "performance_criteria": [
             {
               "pc_code": "2.1",
@@ -286,7 +286,7 @@
         },
         {
           "lo_num": "4",
-          "description": "",
+          "description": "UNDERSTAND EMERGENCY PROCEDURES",
           "performance_criteria": [
             {
               "pc_code": "4.1",
@@ -522,14 +522,14 @@
             },
             {
               "pc_code": "4.2",
-              "description": "Sele ct tools/e quipment to charge a refrigerator"
-            },
-            {
-              "pc_code": "4.2",
-              "description": "Prepare to charge a refrigerator"
+              "description": "Select tools/equipment to charge a refrigerator"
             },
             {
               "pc_code": "4.3",
+              "description": "Prepare to charge a refrigerator"
+            },
+            {
+              "pc_code": "4.4",
               "description": "Demonstrate the charging process in a refrigerator"
             }
           ]

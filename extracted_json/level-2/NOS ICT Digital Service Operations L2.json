@@ -60,7 +60,7 @@
         },
         {
           "lo_num": "3",
-          "description": "Demonstrate the appropriate actions to take PERFORMANCE CRITERIA Ref. Page No. OBJECTIVE (LO) The learner will: during accident/injury",
+          "description": "Demonstrate the appropriate actions to take during accident/injury",
           "performance_criteria": [
             {
               "pc_code": "3.1",
@@ -78,7 +78,7 @@
         },
         {
           "lo_num": "4",
-          "description": "Demonstrate safe work habit and clean work environment PERFORMANCE CRITERIA Ref. Page No.",
+          "description": "Demonstrate safe work habit and clean work environment",
           "performance_criteria": [
             {
               "pc_code": "4.1",
@@ -142,7 +142,7 @@
         },
         {
           "lo_num": "3",
-          "description": "Know how to document and follow PERFORMANCE CRITERIA OBJECTIVE (LO) The learner will: documented instructions",
+          "description": "Know how to document and follow documented instructions",
           "performance_criteria": [
             {
               "pc_code": "3.1",
@@ -188,7 +188,7 @@
         },
         {
           "lo_num": "2",
-          "description": "Understand how to relate with team members Ref. Page No. OBJECTIVE (LO)",
+          "description": "Understand how to relate with team members",
           "performance_criteria": [
             {
               "pc_code": "2.1",
@@ -214,7 +214,7 @@
         },
         {
           "lo_num": "3",
-          "description": "Observe Positive Work Relationships with colleagues Ref. Page No. OBJECTIVE (LO)",
+          "description": "Observe Positive Work Relationships with colleagues",
           "performance_criteria": [
             {
               "pc_code": "3.1",
@@ -471,7 +471,7 @@
               "description": "Identify strategies to contain impact of the security breach."
             },
             {
-              "pc_code": "4.5",
+              "pc_code": "4.4",
               "description": "Create a recovery plan to restore normal operations after an incident."
             }
           ]
@@ -536,7 +536,7 @@
         },
         {
           "lo_num": "3",
-          "description": "",
+          "description": "Understand Security threats associated with e-payment systems",
           "performance_criteria": [
             {
               "pc_code": "3.1",
@@ -616,7 +616,7 @@
         },
         {
           "lo_num": "3",
-          "description": "",
+          "description": "Describe the operations of Customer Service in logistics management",
           "performance_criteria": [
             {
               "pc_code": "3.1",
@@ -696,7 +696,7 @@
         },
         {
           "lo_num": "3",
-          "description": "",
+          "description": "Understand Basic JavaScript Concepts",
           "performance_criteria": [
             {
               "pc_code": "3.1",
@@ -794,7 +794,7 @@
         },
         {
           "lo_num": "3",
-          "description": "",
+          "description": "Know the usage of Web Analytics Tools",
           "performance_criteria": [
             {
               "pc_code": "3.1",
@@ -862,7 +862,7 @@
         },
         {
           "lo_num": "3",
-          "description": "Carry out Online Survey S/N 1 2 3 4 5 6 7 8 9 10 11 12",
+          "description": "Carry out Online Survey",
           "performance_criteria": [
             {
               "pc_code": "3.1",

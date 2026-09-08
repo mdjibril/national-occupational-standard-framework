@@ -1,5 +1,5 @@
 {
-  "trade_name": "S",
+  "trade_name": "NOS Traditional Medicine Practice",
   "level": 2,
   "units": [
     {
@@ -34,11 +34,11 @@
         },
         {
           "lo_num": "2",
-          "description": "Mode of Communication in Traditional Medicine Practice LEARNING OBJECTIVE (LO)",
+          "description": "Mode of Communication in Traditional Medicine Practice",
           "performance_criteria": [
             {
               "pc_code": "2.1",
-              "description": "List communication channels \uf0b7 Interpersonal \uf0b7 Social Media PERFORMANCE Evidence Ref. Page No. CRITERIA Platforms \uf0b7 Spiritual \uf0b7 Cultural, etc."
+              "description": "List communication channels \uf0b7 Interpersonal \uf0b7 Social Media  Platforms \uf0b7 Spiritual \uf0b7 Cultural, etc."
             },
             {
               "pc_code": "2.2",
@@ -98,7 +98,7 @@
         },
         {
           "lo_num": "2",
-          "description": "Understand Leadership in Teamwork LEARNING OBJECTIVE (LO) The learner will: PERFORMANCE CRITERIA",
+          "description": "Understand Leadership in Teamwork",
           "performance_criteria": [
             {
               "pc_code": "2.1",
@@ -116,7 +116,7 @@
         },
         {
           "lo_num": "3",
-          "description": "Understand good working relationship in a Team LEARNING OBJECTIVE (LO) The learner will: PERFORMANCE CRITERIA",
+          "description": "Understand good working relationship in a Team",
           "performance_criteria": [
             {
               "pc_code": "3.1",
@@ -170,7 +170,7 @@
         },
         {
           "lo_num": "2",
-          "description": "Understand personal hygiene in Traditional Medicine Practice OBJECTIVE (LO)",
+          "description": "Understand personal hygiene in Traditional Medicine Practice",
           "performance_criteria": [
             {
               "pc_code": "2.1",
@@ -234,11 +234,11 @@
         },
         {
           "lo_num": "2",
-          "description": "Evidence Ref. Page No. LEARNING OBJECTIVE (LO) Understand Humours and Energies",
+          "description": "  Understand Humours and Energies",
           "performance_criteria": [
             {
               "pc_code": "2.1",
-              "description": "Discuss the sources of PERFORMANCE Evidence Ref. Page No. CRITERIA Humours"
+              "description": "Discuss the sources of  Humours"
             },
             {
               "pc_code": "2.2",
@@ -274,11 +274,11 @@
         },
         {
           "lo_num": "4",
-          "description": "Understand the Evidence Ref. Page No. LEARNING OBJECTIVE (LO) body system in conventional medicine",
+          "description": "Understand the body system in conventional medicine",
           "performance_criteria": [
             {
               "pc_code": "4.1",
-              "description": "Mention the systems of the body in conventional PERFORMANCE Evidence Ref. Page No. CRITERIA medicine."
+              "description": "Mention the systems of the body in conventional medicine."
             },
             {
               "pc_code": "4.2",
@@ -336,11 +336,11 @@
         },
         {
           "lo_num": "2",
-          "description": "Understand Temperamental Theory in Traditional LEARNING OBJECTIVE (LO) Medicine Practice",
+          "description": "Understand Temperamental Theory in Traditional  Medicine Practice",
           "performance_criteria": [
             {
               "pc_code": "2.1",
-              "description": "State the four Temperaments: \uf0b7 Hot \uf0b7 Cool PERFORMANCE Evidence Ref. Page No. CRITERIA \uf0b7 Damp \uf0b7 Dry"
+              "description": "State the four Temperaments: \uf0b7 Hot \uf0b7 Cool  \uf0b7 Damp \uf0b7 Dry"
             },
             {
               "pc_code": "2.2",
@@ -362,7 +362,7 @@
         },
         {
           "lo_num": "3",
-          "description": "Understand the function of the mind and brain in Traditional Medicine Practice LEARNING OBJECTIVE (LO)",
+          "description": "Understand the function of the mind and brain in Traditional Medicine Practice ",
           "performance_criteria": [
             {
               "pc_code": "3.1",
@@ -374,7 +374,7 @@
             },
             {
               "pc_code": "3.3",
-              "description": "Explain dominance of brain on the five sensory organs PERFORMANCE Evidence Ref. Page No. CRITERIA in Traditional Medicine: \uf0b7 Skin \uf0b7 Tongue \uf0b7 Eye \uf0b7 Nose \uf0b7 Ear"
+              "description": "Explain dominance of brain on the five sensory organs  in Traditional Medicine: \uf0b7 Skin \uf0b7 Tongue \uf0b7 Eye \uf0b7 Nose \uf0b7 Ear"
             }
           ]
         },
@@ -404,7 +404,7 @@
       "learning_outcomes": [
         {
           "lo_num": "1",
-          "description": "Understand Drying of Traditional Medicines OBJECTIVE (LO)",
+          "description": "Understand Drying of Traditional Medicines",
           "performance_criteria": [
             {
               "pc_code": "1.1",
@@ -438,7 +438,7 @@
         },
         {
           "lo_num": "2",
-          "description": "Understand Storage of Traditional Medicine OBJECTIVE (LO)",
+          "description": "Understand Storage of Traditional Medicine",
           "performance_criteria": [
             {
               "pc_code": "2.1",
@@ -464,7 +464,7 @@
         },
         {
           "lo_num": "3",
-          "description": "Understand Requirements and benefits of Proper Drying and Storage OBJECTIVE (LO)",
+          "description": "Understand Requirements and benefits of Proper Drying and Storage",
           "performance_criteria": [
             {
               "pc_code": "3.1",
@@ -510,7 +510,7 @@
         },
         {
           "lo_num": "2",
-          "description": "Understand causes of Illnesses in Traditional Medicine Evidence Ref. Page No. OBJECTIVE (LO) The learner will:",
+          "description": "Understand causes of Illnesses in Traditional Medicine ",
           "performance_criteria": [
             {
               "pc_code": "2.1",
@@ -554,7 +554,7 @@
         },
         {
           "lo_num": "4",
-          "description": "Understand Prescription in Traditional Medicine Evidence Ref. Page No. OBJECTIVE (LO) The learner will:",
+          "description": "Understand Prescription in Traditional Medicine",
           "performance_criteria": [
             {
               "pc_code": "4.1",
@@ -576,7 +576,7 @@
         },
         {
           "lo_num": "5",
-          "description": "Understand how to carry out Patient Treatment in Traditional Medicine Evidence Ref. Page No.",
+          "description": "Understand how to carry out Patient Treatment in Traditional Medicine ",
           "performance_criteria": [
             {
               "pc_code": "5.1",
@@ -644,11 +644,11 @@
         },
         {
           "lo_num": "3",
-          "description": "Understand Counselling in LEARNING OBJECTIVE (LO) Traditional Medicine Practice",
+          "description": "Understand Counselling in  Traditional Medicine Practice",
           "performance_criteria": [
             {
               "pc_code": "3.1",
-              "description": "Define counselling in Traditional Medicine PERFORMANCE Evidence Ref. Page No. CRITERIA Practice"
+              "description": "Define counselling in Traditional Medicine  Practice"
             },
             {
               "pc_code": "3.2",
@@ -736,7 +736,7 @@
         },
         {
           "lo_num": "2",
-          "description": "Understand disease prevention Evidence Ref. Page No. OBJECTIVE (LO) The learner will:",
+          "description": "Understand disease prevention ",
           "performance_criteria": [
             {
               "pc_code": "2.1",
@@ -758,7 +758,7 @@
         },
         {
           "lo_num": "3",
-          "description": "Understand the use of diet to prevent diseases in Traditional Medicine Practice Evidence Ref. Page No.",
+          "description": "Understand the use of diet to prevent diseases in Traditional Medicine Practice ",
           "performance_criteria": [
             {
               "pc_code": "3.1",
@@ -826,7 +826,7 @@
         },
         {
           "lo_num": "3",
-          "description": "Understand Dosage Forms in Traditional Medicines LEARNING OBJECTIVE (LO)",
+          "description": "Understand Dosage Forms in Traditional Medicines ",
           "performance_criteria": [
             {
               "pc_code": "3.1",
@@ -834,7 +834,7 @@
             },
             {
               "pc_code": "3.2",
-              "description": "Describe preparations of various dosage forms in Traditional Medicine: \uf0b7 Solids (Powders, Teas, Capsules, Ashing) \uf0b7 Semi-solids PERFORMANCE Evidence Ref. Page No. CRITERIA (ointments, creams, pastes) \uf0b7 Liquids (Infusions, Decoctions, Wines and Tinctures) etc"
+              "description": "Describe preparations of various dosage forms in Traditional Medicine: \uf0b7 Solids (Powders, Teas, Capsules, Ashing) \uf0b7 Semi-solids  (ointments, creams, pastes) \uf0b7 Liquids (Infusions, Decoctions, Wines and Tinctures) etc"
             },
             {
               "pc_code": "3.3",
@@ -844,7 +844,7 @@
         },
         {
           "lo_num": "4",
-          "description": "Understand Palatability and Preservation LEARNING OBJECTIVE (LO)",
+          "description": "Understand Palatability and Preservation ",
           "performance_criteria": [
             {
               "pc_code": "4.1",
@@ -868,7 +868,7 @@
             },
             {
               "pc_code": "4.6",
-              "description": "List the sources of contamination in Traditional PERFORMANCE Evidence Ref. Page No. CRITERIA Medicines: \uf0b7 Physical \uf0b7 Spiritual"
+              "description": "List the sources of contamination in Traditional  Medicines: \uf0b7 Physical \uf0b7 Spiritual"
             },
             {
               "pc_code": "4.7",
@@ -900,11 +900,11 @@
         },
         {
           "lo_num": "6",
-          "description": "Understand Labelling and Packaging LEARNING OBJECTIVE (LO)",
+          "description": "Understand Labelling and Packaging ",
           "performance_criteria": [
             {
               "pc_code": "6.1",
-              "description": "State the importance of labelling in Traditional Medicines PERFORMANCE Evidence Ref. Page No. CRITERIA"
+              "description": "State the importance of labelling in Traditional Medicines "
             },
             {
               "pc_code": "6.2",
@@ -928,7 +928,7 @@
       "learning_outcomes": [
         {
           "lo_num": "1",
-          "description": "Understand Cultivation of Medicinal Plants Evidence Ref. Page No. OBJECTIVE (LO)",
+          "description": "Understand Cultivation of Medicinal Plants ",
           "performance_criteria": [
             {
               "pc_code": "1.1",
@@ -939,30 +939,30 @@
               "description": "List the methods of Medicinal Plant propagation: \uf0b7 Non- Vegetative - Seeds - Tubers, etc. \uf0b7 Vegetative - Cuttings - Suckers, etc."
             },
             {
-              "pc_code": "1.2",
+              "pc_code": "1.3",
               "description": "List process of cultivation of Medicinal Plants: \uf0b7 Seed selection \uf0b7 Choice of soil \uf0b7 Clearing \uf0b7 Making of ridges \uf0b7 Planting, etc."
             },
             {
-              "pc_code": "1.3",
+              "pc_code": "1.4",
               "description": "State the importance of Cultivation of Medicinal Plants"
             },
             {
-              "pc_code": "1.4",
+              "pc_code": "1.5",
               "description": "List types of Medicinal Plants: \uf0b7 Herbs \uf0b7 Shrubs \uf0b7 Trees etc"
             },
             {
-              "pc_code": "1.5",
-              "description": "Explain the types of Medicinal Plants in 1.4 above"
+              "pc_code": "1.6",
+              "description": "Explain the types of Medicinal Plants in 1.5 above"
             },
             {
-              "pc_code": "1.6",
+              "pc_code": "1.7",
               "description": "List the main steps in cultivating Medicinal Plants: \uf0b7 Selection of viable seed/vegetative parts/nursery \uf0b7 Preparation of soil \uf0b7 Sowing \uf0b7 Adding manure \uf0b7 Watering \uf0b7 Nurturing \uf0b7 Harvesting \uf0b7 Storage, etc."
             }
           ]
         },
         {
           "lo_num": "2",
-          "description": "Understand Harvesting of Medicinal Plants Evidence Ref. Page No. Preparation of soi Sowing Adding manure Watering Storage, etc. List common tools for harvesting of Medicinal Plants: \uf0b7 Stone \uf0b7 Knife \uf0b7 Cutlass \uf0b7 Sticks \uf0b7 Hoe \uf0b7 Axe \uf0b7 Digger \uf0b7 Spade etc Mention the appropriate season of harvesting some Medicinal plants Maternal and Child health care As essential drugs, in food and nutrition For common illnesses and injury For infectious and non- infectious diseases Mental health OBJECTIVE (LO)",
+          "description": "Understand Harvesting of Medicinal Plants",
           "performance_criteria": [
             {
               "pc_code": "2.1",
@@ -1006,7 +1006,7 @@
         },
         {
           "lo_num": "4",
-          "description": "Carry out Harvesting of Medicinal Plants Evidence Ref. Page No. Provide food Feed for livestock Provide raw material for many types of pharmaceuticals Important source of nutrition Outside natural habitat by cultivating and maintaining plants in botanical gardens, parks, other suitable sites Through long term preservation of plant at home or farms OBJECTIVE (LO) \uf0b7 Flowers \uf0b7 Leaves Use the appropriate methods to carry out 4.1 above State the do\u2019s and dont\u2019s of harvesting Medicinal plants",
+          "description": "Carry out Harvesting of Medicinal Plants",
           "performance_criteria": [
             {
               "pc_code": "4.1",
@@ -1078,7 +1078,7 @@
         },
         {
           "lo_num": "3",
-          "description": "Understand Elements in Marketing of Traditional Medicine Evidence Ref. Page No. OBJECTIVE (LO) S/N NAME ADDRESS 1. Prof. Olukemi Odukoya University of Lagos 2. Prof. Aminu Adamu Ambi Gombe State University 3. TMP Ibrahim Dadanakowa Usman MTMPN President 4. Pharm. Titus T. Tile Fed. Min. of Health, Abuja 5. Mr. Bitrus Freeman 6. Chief Fatoye Bamidele MTMPN SEC- GEN 7. Nasiru Mato NAFDAC North West Zone, Kaduna 8. Dr. Naseer Sani Ajoge ABF-Future Assured, Abuja 9. Dr. M.I. Jawa MIJ College of Trad. Medicine, Damaturu 10. Walid Shawkey Moukarim Shifah Holistic Health care 11. Salman Muhammad Chairman NTMP, Kaduna State NBTE STAFF 12. Prof. Idris M. Bugaje Executive Secretary 13. Mall. Ibrahim Bashir Bello Special Assistant to E.S 14. Musa M Isgogo Director, Curriculum 15. Mr Donald Odiyoma NBTE Kaduna 16. Garba DanAsabe 17. Muhammad Bilyaminu Musa 18. Mrs. Ramatu Adeiza Ishaq SECRETARIAT 19. Bako Godwin 20. Kirki A. Dalhat Prof. Hajara Ibrahim Dept of Phamacognosy and Drug Development Ahmadu Bello University (ABU), Zaria Prof. Muhmmad I. Jawa MIJ College of Traditional Medicine Damaturu Prof. M.S. Abubakar Rep.PCN. Dept of Pharmacy and Drug Development Ahmadu Bello University (ABU) Zaria Dr.Salihu Ibrahim Dept.of Biochemistry, Federal University Dutse Nura Salihu Adam Salihannur Kano State Anas Abba Dept. of Pharmacognosy and Herbal Medicine, Bayero University Kano Prof. I.M Bugaje Executive Secretary NBTE Kaduna NBTE, Kaduna Ruqayya Muhammad Rabiu Curriculum Dept. NBTE Zainab Suleiman S/No. Name Address Prof. M.I. Jawa MIJ. College of TM Damaturu Yobe. Prof. Olukemi A. Odukoya Dept. of Pharmacognosy Faculty of Pharmacy University of Lagos. Prof. Maryam Mansur Yola BUK. Kano Dr. Faruna Paul NAFDAC, NWZ Office Kaduna. Mohammed Yusuf Association of Alternative Medicine Practitioners Muhammad Khamis Kibiya Gaskiyar Lamari Herbal. Kano Prof. Idris M. Bugaje. Executive Secretary, NBTE Kaduna Special Asst. To the E.S Musa M. Isgogo Director Curr. Dept. NBTE Kaduna Bala Danladi Akut D. D Curr. NBTE Kaduna Mamman Fatima Abdulkadir Muhammad Bilyamin Musa Muhammad Umar Auna Hassana Abdullahi Basira Hassan NBTE Consult",
+          "description": "Understand Elements in Marketing of Traditional Medicine",
           "performance_criteria": [
             {
               "pc_code": "3.1",
@@ -1090,7 +1090,7 @@
             },
             {
               "pc_code": "3.3",
-              "description": "Describe ways of Promoting Traditional medicine products PHONE NUMBER E-MAIL 08063444373 olukodukoya@gmail.com 08053333691 aaminuambi@gmail.com 0905566226 ibrahimmdada33@yahoo.com 08035076376 ttile07@yahoo.com 08035326868 fb:trus@yahoo.com 08035991824 fatayebamidelejohnson@gmail. com 08032892355 nasiru.mato@nafdac.gov.ng 08036424139 ajogenass@yahoo.com 08036212637 drjawa58@gmail.com 08023229228 walidmoukarim@gmail.com 09033303888 Joint3workingdoctor@gmail.co m es@nbte.gov.ng 08037120542 08067185383 dugujiisgogo@gmail.com 08036301795 dodiyoma82@gmail.com 07035305022 hafeezdgm@gmail.com 09036071291 mahoganybm@gmail.com 08065500336 ramatuishaq04@gmail.com 07012222600 meetbako@gmail.com 08095669006 dalhatabubakarkirki@gmail.co m haajara49@yahoo. com 08060902839 msabubakar@abu.edu.ng 08063165499 Salihu940@gmail.com 08036316108 Salihannur18@gmail.co m 08023110225 Anasringim2003@gmail. com 08030427519 dugujiisgogo@gmail.co m mahoganybm@gmail.co m rukyras4real@yahoo.co m 08038253699 sisterzeefta@gmail.com 08065500171 Dalletabubakarkirkigmail .com Email Phone No. olukodukoya@unilag.edu.ng maryamsharada1@gmail.com 08062615787 paul.faruna@nafda.gov.ng 08034272680 pacesetters57@gmail.com 08037052857 sangarib 111@gmail.com 08033499827 ibrahimb2@yahoo.com baladanladi2000@yahoo.ca 08033175286 ftmajids@gmail.com 08036016578 muhammadauna.mu@gmail.com 09034733784 08037671945 basirahassan@gmail.com 08036085919"
+              "description": "Describe ways of Promoting Traditional medicine products"
             }
           ]
         }

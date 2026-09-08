@@ -519,7 +519,7 @@
       ]
     },
     {
-      "code": "C0N/PL/008/L2",
+      "code": "CON/PL/008/L2",
       "title": "PIPING IN PLUMBING",
       "learning_outcomes": [
         {
@@ -678,7 +678,7 @@
         },
         {
           "lo_num": "3",
-          "description": "",
+          "description": "Demonstrate Installation of Sanitary Wares.",
           "performance_criteria": [
             {
               "pc_code": "3.1",
@@ -792,7 +792,7 @@
         },
         {
           "lo_num": "3",
-          "description": "",
+          "description": "Demonstrate Knowledge of Bath tub device",
           "performance_criteria": [
             {
               "pc_code": "3.1",

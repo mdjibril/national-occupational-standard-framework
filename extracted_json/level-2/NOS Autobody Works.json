@@ -42,7 +42,7 @@
         },
         {
           "lo_num": "2",
-          "description": "Understand hygiene, safe and hazard free workplace. OUTCOME (LO) be able to:",
+          "description": "Understand hygiene, safe and hazard free workplace.",
           "performance_criteria": [
             {
               "pc_code": "2.1",
@@ -58,7 +58,7 @@
             },
             {
               "pc_code": "2.4",
-              "description": "Observe emergency procedures during work. Ref. Page"
+              "description": "Observe emergency procedures during work."
             },
             {
               "pc_code": "2.5",
@@ -92,7 +92,7 @@
         },
         {
           "lo_num": "3",
-          "description": "Understand nts hazards and accide in the work place. OUTCOME (LO) be able to:",
+          "description": "Understand nts hazards and accide in the work place.",
           "performance_criteria": [
             {
               "pc_code": "3.1",
@@ -104,7 +104,7 @@
             },
             {
               "pc_code": "3.3",
-              "description": "Describe the types of emergencies that may happen in the workplace and how to deal with them. Ref. Page"
+              "description": "Describe the types of emergencies that may happen in the workplace and how to deal with them."
             },
             {
               "pc_code": "3.4",
@@ -192,7 +192,7 @@
         },
         {
           "lo_num": "3",
-          "description": "Know the a means of . communication in work environment OUTCOME (LO) able to:",
+          "description": "Know the a means of . communication in work environment",
           "performance_criteria": [
             {
               "pc_code": "3.1",
@@ -208,7 +208,7 @@
             },
             {
               "pc_code": "3.4",
-              "description": "Pass information using Symbols, signs and codes. Ref. Page"
+              "description": "Pass information using Symbols, signs and codes."
             },
             {
               "pc_code": "3.5",
@@ -246,8 +246,21 @@
         },
         {
           "lo_num": "2",
-          "description": "Know the requirement of the teams",
-          "performance_criteria": []
+          "description": "Know the requirement of the team",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Identify materials and tools required for each team member."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Enumerate the function of tools and equipment required for each team."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Describe the method of carrying out activities for each team."
+            }
+          ]
         },
         {
           "lo_num": "3",
@@ -255,32 +268,14 @@
           "performance_criteria": [
             {
               "pc_code": "3.1",
-              "description": "Identify materials and tools required for each team member."
-            },
-            {
-              "pc_code": "3.2",
-              "description": "Enumerate the function of tools and equipment required for each team."
-            },
-            {
-              "pc_code": "3.3",
-              "description": "Describe the method of carrying out activities for each team."
-            }
-          ]
-        },
-        {
-          "lo_num": "4",
-          "description": "",
-          "performance_criteria": [
-            {
-              "pc_code": "4.1",
               "description": "Describe the sequence of team activities."
             },
             {
-              "pc_code": "4.2",
+              "pc_code": "3.2",
               "description": "Differentiate between time frames of each team activity."
             },
             {
-              "pc_code": "4.3",
+              "pc_code": "3.3",
               "description": "Deliver quality output as a team player."
             }
           ]
@@ -293,7 +288,7 @@
       "learning_outcomes": [
         {
           "lo_num": "1",
-          "description": "Demonstrat e the use of Auto b dy tools",
+          "description": "Demonstrat e the use of Auto body tools",
           "performance_criteria": [
             {
               "pc_code": "1.1",
@@ -339,7 +334,7 @@
         },
         {
           "lo_num": "2",
-          "description": "Demonstrate dy the use of Auto b equipment LEARNING OUTCOME (LO) able to:",
+          "description": "Demonstrate the use of Auto body equipment",
           "performance_criteria": [
             {
               "pc_code": "2.1",
@@ -359,7 +354,7 @@
             },
             {
               "pc_code": "2.5",
-              "description": "Use the equipment in panel beating work PERFORMANCE Evid e nce CRITERIA Ref. Page No. learner"
+              "description": "Use the equipment in panel beating work PERFORMANCE Evidence"
             },
             {
               "pc_code": "2.6",
@@ -525,11 +520,11 @@
         },
         {
           "lo_num": "5",
-          "description": "OUTCOME (LO) able to:",
+          "description": "Know the welding process",
           "performance_criteria": [
             {
               "pc_code": "5.1",
-              "description": "Define welding. e Type Ref. Page No."
+              "description": "Define welding."
             },
             {
               "pc_code": "5.2",
@@ -607,7 +602,7 @@
         },
         {
           "lo_num": "8",
-          "description": "Understand the use of Riveting tools and materials. OUTCOME (LO) able to:",
+          "description": "Understand the use of Riveting tools and materials.",
           "performance_criteria": [
             {
               "pc_code": "8.1",
@@ -623,11 +618,11 @@
             },
             {
               "pc_code": "8.4",
-              "description": "Observe safety precautions durin g Riveting. e Type Ref. Page No."
+              "description": "Observe safety precautions during Riveting."
             },
             {
               "pc_code": "8.5",
-              "description": "Carry out maintenance on Rivetin g gun."
+              "description": "Carry out maintenance on Riveting gun."
             }
           ]
         }
@@ -771,7 +766,7 @@
         },
         {
           "lo_num": "3",
-          "description": "Understand methods of covering and fixing upholstery OUTCOME (LO) be able to:",
+          "description": "Understand methods of covering and fixing upholstery",
           "performance_criteria": [
             {
               "pc_code": "3.1",
@@ -791,7 +786,7 @@
             },
             {
               "pc_code": "3.5",
-              "description": "Describe the fixing process of upholstery fittings. Ref. Page No."
+              "description": "Describe the fixing process of upholstery fittings."
             },
             {
               "pc_code": "3.6",
@@ -833,7 +828,7 @@
         },
         {
           "lo_num": "2",
-          "description": "Understand the operation of power tools. OUTCOME (LO) be able to:",
+          "description": "Understand the operation of power tools.",
           "performance_criteria": [
             {
               "pc_code": "2.1",
@@ -857,7 +852,7 @@
             },
             {
               "pc_code": "2.6",
-              "description": "Observe safety precautions in locksmithing operation. Ref. Page No."
+              "description": "Observe safety precautions in locksmithing operation."
             }
           ]
         },
@@ -881,7 +876,7 @@
         },
         {
           "lo_num": "4",
-          "description": "Understand vehicle opening 1 2 3 4 5 Unit title Unit number Unit reference Unit level Unit credit value Unit aim Learning outcome Assessment criteria Unit assessment guidance Unit guided learning hours",
+          "description": "Understand vehicle opening",
           "performance_criteria": [
             {
               "pc_code": "4.1",
@@ -897,7 +892,7 @@
             },
             {
               "pc_code": "4.4",
-              "description": "Explain the following methods use d in opening vehicles: \u2022 Free-play pawl \u2022 Vertical lock rod \u2022 Horizontal lock rod \u2022 Vertical lock button from inside door \u2022 Under the glass tool \u2022 Plastic strip \u2022 Fondue fork \u2022 Vent window latch"
+              "description": "Explain the following methods used in opening vehicles: \u2022 Free-play pawl \u2022 Vertical lock rod \u2022 Horizontal lock rod \u2022 Vertical lock button from inside door \u2022 Under the glass tool \u2022 Plastic strip \u2022 Fondue fork \u2022 Vent window latch"
             },
             {
               "pc_code": "4.5",

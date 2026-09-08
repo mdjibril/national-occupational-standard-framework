@@ -78,7 +78,7 @@
         },
         {
           "lo_num": "4",
-          "description": "",
+          "description": "Maintain Personnel Health and Hygiene in the Work Environment",
           "performance_criteria": [
             {
               "pc_code": "4.1",
@@ -86,7 +86,11 @@
             },
             {
               "pc_code": "4.2",
-              "description": "Work safely at all times complying with health and safety and other relevant regulations and guidelines Get any cuts, grazes and Wounds given immediate treatment by the appropriate person(s) in the work environment."
+              "description": "Work safely at all times complying with health and safety and other relevant regulations and guidelines"
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Get any cuts, grazes and Wounds given immediate treatment by the appropriate person(s) in the work environment."
             },
             {
               "pc_code": "4.4",
@@ -120,7 +124,7 @@
         },
         {
           "lo_num": "5",
-          "description": "",
+          "description": "Maintain Hygienic, Safe and Secure Workplace",
           "performance_criteria": [
             {
               "pc_code": "5.1",
@@ -141,6 +145,10 @@
             {
               "pc_code": "5.5",
               "description": "Follow organizational security procedures in doing work."
+            },
+            {
+              "pc_code": "5.6",
+              "description": "Ensure the proper disposal methods of waste of organic And inorganic waste are strictly followed"
             },
             {
               "pc_code": "5.7",
@@ -498,7 +506,7 @@
         },
         {
           "lo_num": "3",
-          "description": "",
+          "description": "COMPLY WITH POLICY AND REGULATIONS OF ORGANIZATION.",
           "performance_criteria": [
             {
               "pc_code": "3.1",
@@ -521,7 +529,7 @@
               "description": "Itemize rules that guide the activities of the team"
             },
             {
-              "pc_code": "3.5",
+              "pc_code": "3.6",
               "description": "Report activities of the team work that may affect organizational code of conduct to the higher authority."
             }
           ]
@@ -590,7 +598,7 @@
         },
         {
           "lo_num": "3",
-          "description": "Works",
+          "description": "Use basic working tools in Leather Works",
           "performance_criteria": [
             {
               "pc_code": "3.1",
@@ -599,6 +607,10 @@
             {
               "pc_code": "3.2",
               "description": "Identify basic working tools used for leather works working tools used in leather works"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Describe the function of each basic working tools used in leather works"
             }
           ]
         },
@@ -770,7 +782,7 @@
         },
         {
           "lo_num": "3",
-          "description": "",
+          "description": "Operate Electric Sewing machines",
           "performance_criteria": [
             {
               "pc_code": "3.1",
@@ -779,6 +791,10 @@
             {
               "pc_code": "3.2",
               "description": "Select types of working tools to be fixed on the electric sewing machines for specified jobs."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Set up the electric sewing machine for operation."
             },
             {
               "pc_code": "3.4",
@@ -823,7 +839,7 @@
       ]
     },
     {
-      "code": "FLW/LWK/0O6/L2",
+      "code": "FLW/LWK/006/L2",
       "title": "Roughing/Smoothing Operation for Leather Works",
       "learning_outcomes": [
         {
@@ -950,7 +966,7 @@
         },
         {
           "lo_num": "2",
-          "description": "",
+          "description": "Understand the procedure for stamping of leather products",
           "performance_criteria": [
             {
               "pc_code": "2.1",
@@ -963,6 +979,10 @@
             {
               "pc_code": "2.3",
               "description": "Fix the transparent plate appropriately between the logo and leather products. process."
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Demonstrate the operation of hand lever of the stamping machines for stamping process."
             },
             {
               "pc_code": "2.5",
@@ -1006,7 +1026,7 @@
         },
         {
           "lo_num": "4",
-          "description": "",
+          "description": "Stamp brands on Leather works manually",
           "performance_criteria": [
             {
               "pc_code": "4.1",
@@ -1023,6 +1043,10 @@
             {
               "pc_code": "4.4",
               "description": "Position the leather material to be stamped at convenient working surface for the stamping process. foam onto the leather products prior to the application of the stamp."
+            },
+            {
+              "pc_code": "4.5",
+              "description": "Apply paint with cushion foam onto the leather products prior to the application of the stamp."
             },
             {
               "pc_code": "4.6",
@@ -1120,7 +1144,7 @@
         },
         {
           "lo_num": "3",
-          "description": "",
+          "description": "Carry out reconditioning process on leather products with manual tools.",
           "performance_criteria": [
             {
               "pc_code": "3.1",
@@ -1348,7 +1372,7 @@
             },
             {
               "pc_code": "3.5",
-              "description": "Cut leather materials to make various sizes PERFORMANCE CRITERIA Ref. Page of leather foot wears using scissors, knives, puncher, dice, razor cutting machines etc."
+              "description": "Cut leather materials to make various sizes of leather foot wears using scissors, knives, puncher, dice, razor cutting machines etc."
             }
           ]
         },

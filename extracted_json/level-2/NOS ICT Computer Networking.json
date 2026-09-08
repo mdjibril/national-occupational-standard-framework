@@ -44,7 +44,7 @@
         },
         {
           "lo_num": "3",
-          "description": "Respond to Workplace Emergencies and Incidents Ref. Page No.",
+          "description": "Respond to Workplace Emergencies and Incidents",
           "performance_criteria": [
             {
               "pc_code": "3.1",
@@ -104,7 +104,7 @@
         },
         {
           "lo_num": "3",
-          "description": "Utilize Digital Communication Tools for Networking Support Ref. Page No.",
+          "description": "Utilize Digital Communication Tools for Networking Support ",
           "performance_criteria": [
             {
               "pc_code": "3.1",
@@ -164,7 +164,7 @@
         },
         {
           "lo_num": "3",
-          "description": "Resolve Conflicts and Contribute to Team Success Ref. Page No.",
+          "description": "Resolve Conflicts and Contribute to Team Success ",
           "performance_criteria": [
             {
               "pc_code": "3.1",
@@ -254,7 +254,7 @@
         },
         {
           "lo_num": "4",
-          "description": "Troubleshoot Network Hardware Ref. Page No.",
+          "description": "Troubleshoot Network Hardware ",
           "performance_criteria": [
             {
               "pc_code": "4.1",
@@ -326,7 +326,7 @@
         },
         {
           "lo_num": "3",
-          "description": "Implement Proper Cable Routing and Labeling Techniques Ref. Page No.",
+          "description": "Implement Proper Cable Routing and Labeling Techniques ",
           "performance_criteria": [
             {
               "pc_code": "3.1",
@@ -420,7 +420,7 @@
         },
         {
           "lo_num": "4",
-          "description": "Maintain Wired and Wireless Network Performance Ref. Page No.",
+          "description": "Maintain Wired and Wireless Network Performance ",
           "performance_criteria": [
             {
               "pc_code": "4.1",
@@ -510,7 +510,7 @@
         },
         {
           "lo_num": "4",
-          "description": "Optimize Network Performance Through Configuration Adjustments Ref. Page No.",
+          "description": "Optimize Network Performance Through Configuration Adjustments ",
           "performance_criteria": [
             {
               "pc_code": "4.1",
@@ -622,7 +622,7 @@
         },
         {
           "lo_num": "5",
-          "description": "Monitor and Respond to Security Incidents Ref. Page No. OBJECTIVE (LO)",
+          "description": "Monitor and Respond to Security Incidents  OBJECTIVE (LO)",
           "performance_criteria": [
             {
               "pc_code": "5.1",

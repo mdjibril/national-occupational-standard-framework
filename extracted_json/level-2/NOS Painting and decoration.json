@@ -86,7 +86,7 @@
         },
         {
           "lo_num": "2",
-          "description": "",
+          "description": "Know Surface preparations.",
           "performance_criteria": [
             {
               "pc_code": "2.1",
@@ -99,6 +99,10 @@
             {
               "pc_code": "2.3",
               "description": "Use various techniques for surface preparation e.g. grinding, scrapping, wire brushing, sandpapering and spackling"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Demonstrate the painting of surfaces using appropriate primer to wood, plastics, glass, metal and plaster."
             },
             {
               "pc_code": "2.5",

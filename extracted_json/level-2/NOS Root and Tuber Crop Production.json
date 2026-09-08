@@ -1,5 +1,5 @@
 {
-  "trade_name": "Root and Tuber Crop Production",
+  "trade_name": "NOS Root and Tuber Crop Production",
   "level": 2,
   "units": [
     {
@@ -100,7 +100,7 @@
         },
         {
           "lo_num": "5",
-          "description": "Apply Safe Work Habit and Clean Work Environment in Crop Processing Plants (LO)",
+          "description": "Apply Safe Work Habit and Clean Work Environment in Crop Processing Plants",
           "performance_criteria": [
             {
               "pc_code": "5.1",
@@ -112,7 +112,7 @@
             },
             {
               "pc_code": "5.3",
-              "description": "Use tools and equipment safely in accordance with the supervisor\u2019s instructions (PC) Page"
+              "description": "Use tools and equipment safely in accordance with the supervisor\u2019s instructions"
             },
             {
               "pc_code": "5.4",
@@ -390,7 +390,7 @@
         },
         {
           "lo_num": "3",
-          "description": "Know Soil and Climatic Requirements for Root and Tuber Crops (LO)",
+          "description": "Know Soil and Climatic Requirements for Root and Tuber Crops",
           "performance_criteria": [
             {
               "pc_code": "3.1",
@@ -406,7 +406,7 @@
             },
             {
               "pc_code": "3.4",
-              "description": "Identify general soil requirements for root and tuber crops production (PC) Page"
+              "description": "Identify general soil requirements for root and tuber crops production"
             },
             {
               "pc_code": "3.5",

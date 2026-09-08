@@ -56,7 +56,7 @@
         },
         {
           "lo_num": "3",
-          "description": "Know the appropriate actions to take during accident/injuries OBJECTIVE (LO)",
+          "description": "Know the appropriate actions to take during accident/injuries",
           "performance_criteria": [
             {
               "pc_code": "3.1",
@@ -88,7 +88,7 @@
             },
             {
               "pc_code": "3.8",
-              "description": "Identify locations of fire Ref. Page extinguishers in case of fire outbreak"
+              "description": "Identify locations of fire extinguishers in case of fire outbreak"
             },
             {
               "pc_code": "3.9",
@@ -370,11 +370,11 @@
         },
         {
           "lo_num": "3",
-          "description": "Know geometrical measurement and (LO) calculations in preparation for installation",
+          "description": "Know geometrical measurement and calculations in preparation for installation",
           "performance_criteria": [
             {
               "pc_code": "3.1",
-              "description": "Explain measurements requirements in preparation for a specific task. Ref. Page"
+              "description": "Explain measurements requirements in preparation for a specific task."
             },
             {
               "pc_code": "3.2",
@@ -698,7 +698,7 @@
         },
         {
           "lo_num": "3",
-          "description": "Understand Configuration of OBJECTIVE (LO) Solar PV battery",
+          "description": "Understand Configuration of Solar PV battery",
           "performance_criteria": [
             {
               "pc_code": "3.1",
@@ -706,7 +706,7 @@
             },
             {
               "pc_code": "3.2",
-              "description": "Explain the need for parallel Ref. Page battery configuration"
+              "description": "Explain the need for parallel battery configuration"
             },
             {
               "pc_code": "3.3",
@@ -792,7 +792,7 @@
         },
         {
           "lo_num": "3",
-          "description": "Install inverters (LO)",
+          "description": "Install inverters",
           "performance_criteria": [
             {
               "pc_code": "3.1",
@@ -820,7 +820,7 @@
             },
             {
               "pc_code": "3.7",
-              "description": "Prepare installation for wall mounting according to: \u2022 Determine suitable point on the wall \u2022 Mark out hole positions according to Inverter design \u2022 Drill holes on the Wall with suitable size bits \u2022 Select appropriate fisher and screws \u2022 Mount the inverter and fasten the screws to appropriate torque Ref. Page"
+              "description": "Prepare installation for wall mounting according to: \u2022 Determine suitable point on the wall \u2022 Mark out hole positions according to Inverter design \u2022 Drill holes on the Wall with suitable size bits \u2022 Select appropriate fisher and screws \u2022 Mount the inverter and fasten the screws to appropriate torque"
             },
             {
               "pc_code": "3.8",
@@ -834,11 +834,11 @@
         },
         {
           "lo_num": "4",
-          "description": "Install Uninterruptible Power Supply (UPS) (LO)",
+          "description": "Install Uninterruptible Power Supply (UPS)",
           "performance_criteria": [
             {
               "pc_code": "4.1",
-              "description": "Apply safety and environmental standards in accordance with the manufacturer\u2019s specifications Ref. Page and guidelines"
+              "description": "Apply safety and environmental standards in accordance with the manufacturer\u2019s specifications and guidelines"
             },
             {
               "pc_code": "4.2",
@@ -930,7 +930,7 @@
         },
         {
           "lo_num": "3",
-          "description": "Know the sources of battery charging and output power supply OBJECTIVE (LO)",
+          "description": "Know the sources of battery charging and output power supply",
           "performance_criteria": [
             {
               "pc_code": "3.1",
@@ -1072,7 +1072,7 @@
         },
         {
           "lo_num": "6",
-          "description": "Know the procedure of Solar Panel Assembly (LO)",
+          "description": "Know the procedure of Solar Panel Assembly",
           "performance_criteria": [
             {
               "pc_code": "6.1",

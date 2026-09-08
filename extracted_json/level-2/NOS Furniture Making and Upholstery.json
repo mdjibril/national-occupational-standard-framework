@@ -305,7 +305,7 @@
               "description": "Determine the use of different types of portable power tools"
             },
             {
-              "pc_code": "1.4",
+              "pc_code": "1.6",
               "description": "Return portable power tools for appropriate storage"
             }
           ]
@@ -327,43 +327,43 @@
               "description": "Recognize parts of a portable power saw"
             },
             {
-              "pc_code": "2.3",
+              "pc_code": "2.4",
               "description": "Recognize the function of each part of a portable power saw"
             },
             {
-              "pc_code": "2.4",
+              "pc_code": "2.5",
               "description": "Set the fence of portable power saw for ripping operation"
             },
             {
-              "pc_code": "2.5",
+              "pc_code": "2.6",
               "description": "Carry out ripping operation"
             },
             {
-              "pc_code": "2.6",
+              "pc_code": "2.7",
               "description": "Set the required distance for rebating operation with a portable power saw"
             },
             {
-              "pc_code": "2.7",
+              "pc_code": "2.8",
               "description": "Set the required depth of cut for rebating operation with a portable power saw"
             },
             {
-              "pc_code": "2.8",
+              "pc_code": "2.9",
               "description": "Carry out rebating operation"
             },
             {
-              "pc_code": "2.9",
+              "pc_code": "2.10",
               "description": "Set fence for cross cutting operation"
             },
             {
-              "pc_code": "2.10",
+              "pc_code": "2.11",
               "description": "Carry out cross cutting operation"
             },
             {
-              "pc_code": "2.11",
+              "pc_code": "2.12",
               "description": "Perform grooving operation with a portable power saw"
             },
             {
-              "pc_code": "2.12",
+              "pc_code": "2.13",
               "description": "Carryout maintenance and safe keeping of portable power saw"
             }
           ]
@@ -1305,19 +1305,19 @@
           "description": "Know the various applications of a cell phone.",
           "performance_criteria": [
             {
-              "pc_code": "5.3",
+              "pc_code": "5.1",
               "description": "Snap pictures of projects using a cell phone"
             },
             {
-              "pc_code": "5.4",
+              "pc_code": "5.2",
               "description": "Place an advert using a cell phone"
             },
             {
-              "pc_code": "5.5",
+              "pc_code": "5.3",
               "description": "Open and use an E-mail address using a cell phone"
             },
             {
-              "pc_code": "5.6",
+              "pc_code": "5.4",
               "description": "Connect to the internet and download information using a cell phone."
             }
           ]

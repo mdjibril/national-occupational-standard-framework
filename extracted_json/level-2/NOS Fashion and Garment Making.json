@@ -155,6 +155,10 @@
           "description": "Demonstrate creative Ideas For Garment Designs",
           "performance_criteria": [
             {
+              "pc_code": "1.1",
+              "description": "Enumerate sources of inspiration to create garment designs"
+            },
+            {
               "pc_code": "1.2",
               "description": "Apply sources of inspiration to create garment designs"
             },
@@ -172,10 +176,6 @@
           "lo_num": "2",
           "description": "Demonstrate Body Anatomy",
           "performance_criteria": [
-            {
-              "pc_code": "2.1",
-              "description": "Enumerate sources of inspiration to create garment designs"
-            },
             {
               "pc_code": "2.1",
               "description": "Explain body anatomy as it relates to garment making"
@@ -234,7 +234,7 @@
         },
         {
           "lo_num": "4",
-          "description": "Demonstrate the Knowledge of clothing a figure Ref. Page No.",
+          "description": "Demonstrate the Knowledge of clothing a figure",
           "performance_criteria": [
             {
               "pc_code": "4.1",

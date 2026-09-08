@@ -282,7 +282,7 @@
         },
         {
           "lo_num": "4",
-          "description": "Know Encryption and Data Protection Ref. Page No.",
+          "description": "Know Encryption and Data Protection",
           "performance_criteria": [
             {
               "pc_code": "4.1",
@@ -432,7 +432,7 @@
         },
         {
           "lo_num": "6",
-          "description": "Ref. Page No. OBJECTIVE (LO) The learner will: Know Object Relational Mapper",
+          "description": "Know Object Relational Mapper",
           "performance_criteria": [
             {
               "pc_code": "6.1",
@@ -519,16 +519,12 @@
             {
               "pc_code": "2.4",
               "description": "Use header and status code to send response"
-            },
-            {
-              "pc_code": "2.4",
-              "description": ""
             }
           ]
         },
         {
           "lo_num": "3",
-          "description": "Know Web Protocols Ref. Page No. OBJECTIVE (LO) The learner will:",
+          "description": "Know Web Protocols",
           "performance_criteria": [
             {
               "pc_code": "3.1",
@@ -656,7 +652,7 @@
         },
         {
           "lo_num": "7",
-          "description": "Understand Network Performance Optimization Ref. Page No. OBJECTIVE (LO) The learner will:",
+          "description": "Understand Network Performance Optimization",
           "performance_criteria": [
             {
               "pc_code": "7.1",
@@ -766,7 +762,7 @@
         },
         {
           "lo_num": "4",
-          "description": "Understand User Experience UX Research Ref. Page No. OBJECTIVE (LO) The learner will: User Experience UX in web development",
+          "description": "Understand User Experience UX Research",
           "performance_criteria": [
             {
               "pc_code": "4.1",
@@ -783,33 +779,34 @@
             {
               "pc_code": "4.4",
               "description": "Develop a robust search feature with filters and auto-suggestion"
-            },
-            {
-              "pc_code": "4.5",
-              "description": "Create low fidelity wireframes to outline the layout and structure of pages"
-            },
-            {
-              "pc_code": "4.6",
-              "description": "Develop interactive prototypes to simulate user interactive development"
-            },
-            {
-              "pc_code": "4.7",
-              "description": "Apply micro interactions e.g button hovers, form validation messages, loading indicator etc"
-            },
-            {
-              "pc_code": "4.8",
-              "description": "Conduct text real users to observe their interactions"
-            },
-            {
-              "pc_code": "4.9",
-              "description": "Get user behavior and feedback"
             }
           ]
         },
         {
           "lo_num": "5",
-          "description": "Understand",
-          "performance_criteria": []
+          "description": "Understand User Experience UX in web development",
+          "performance_criteria": [
+            {
+              "pc_code": "5.1",
+              "description": "Create low fidelity wireframes to outline the layout and structure of pages"
+            },
+            {
+              "pc_code": "5.2",
+              "description": "Develop interactive prototypes to simulate user interactive development"
+            },
+            {
+              "pc_code": "5.3",
+              "description": "Apply micro interactions e.g button hovers, form validation messages, loading indicator etc"
+            },
+            {
+              "pc_code": "5.4",
+              "description": "Conduct text real users to observe their interactions"
+            },
+            {
+              "pc_code": "5.5",
+              "description": "Get user behavior and feedback"
+            }
+          ]
         }
       ]
     },
@@ -863,7 +860,7 @@
         },
         {
           "lo_num": "3",
-          "description": "Know Boolean values, conditional execution, loops, lists and list processing, logical and bitwise operations Ref. Page No. OBJECTIVE (LO) The learner will:",
+          "description": "Know Boolean values, conditional execution, loops, lists and list processing, logical and bitwise operations  ",
           "performance_criteria": [
             {
               "pc_code": "3.1",
@@ -953,7 +950,7 @@
         },
         {
           "lo_num": "6",
-          "description": "Understand strings, string and list methods, and exceptions Ref. Page No.",
+          "description": "Understand strings, string and list methods, and exceptions ",
           "performance_criteria": [
             {
               "pc_code": "6.1",
@@ -1041,7 +1038,7 @@
         },
         {
           "lo_num": "3",
-          "description": "Know HTML, CSS Code Ref. Page No.",
+          "description": "Know HTML, CSS Code ",
           "performance_criteria": [
             {
               "pc_code": "3.1",
@@ -1111,7 +1108,7 @@
         },
         {
           "lo_num": "2",
-          "description": "Know JavaScript fundamentals (Variables, Function) Ref. Page No. OBJECTIVE (LO) The learner will:",
+          "description": "Know JavaScript fundamentals (Variables, Function)",
           "performance_criteria": [
             {
               "pc_code": "2.1",
@@ -1171,7 +1168,7 @@
         },
         {
           "lo_num": "4",
-          "description": "Know Event Ref. Page No.",
+          "description": "Know Event",
           "performance_criteria": [
             {
               "pc_code": "4.1",

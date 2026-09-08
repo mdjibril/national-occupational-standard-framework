@@ -8,8 +8,12 @@
       "learning_outcomes": [
         {
           "lo_num": "1",
-          "description": "Understand delivering service to clients. 1:1 Describe the importance of customer service delivery.",
+          "description": "Understand delivering service to clients. 1:1 ",
           "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Describe the importance of customer service delivery."
+            },
             {
               "pc_code": "1.2",
               "description": "Determine and handle client\u2019s needs in a knowledgeable and friendly way."
@@ -33,7 +37,7 @@
               "description": "Assemble and review clients feedback to help improve service delivery e.g. feedback forms, word of mouth etc."
             },
             {
-              "pc_code": "2.4",
+              "pc_code": "2.3",
               "description": "Address customer issues/request based on feedback received."
             }
           ]
@@ -187,7 +191,7 @@
       ]
     },
     {
-      "code": "CBT/COS/OO4/L2",
+      "code": "CBT/COS/004/L2",
       "title": "TEAM WORK",
       "learning_outcomes": [
         {
@@ -350,7 +354,11 @@
             },
             {
               "pc_code": "4.5",
-              "description": "Perform and finish hair style to client desire. 4. 6 Perform health and safety by cleaning up work area and tools."
+              "description": "Perform and finish hair style to client desire. "
+            },
+            {
+              "pc_code": "4.6",
+              "description": "Perform health and safety by cleaning up work area and tools."
             }
           ]
         },
@@ -714,7 +722,7 @@
         },
         {
           "lo_num": "4",
-          "description": "",
+          "description": "know facial treatment for various skin types",
           "performance_criteria": [
             {
               "pc_code": "4.1",

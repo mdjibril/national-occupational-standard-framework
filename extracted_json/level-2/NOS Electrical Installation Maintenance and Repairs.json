@@ -143,13 +143,8 @@
           ]
         },
         {
-          "lo_num": "4",
-          "description": "Prevent hazards and maintain a safe and secure workplace",
-          "performance_criteria": []
-        },
-        {
           "lo_num": "3",
-          "description": "",
+          "description": "Prevent hazards and maintain a safe and secure workplace",
           "performance_criteria": [
             {
               "pc_code": "3.1",
@@ -306,7 +301,7 @@
               "description": "Carryout wiring in a sequential order using appropriate tools and techniques"
             },
             {
-              "pc_code": "2.7",
+              "pc_code": "2.6",
               "description": "Carry out test of the completed surface wiring using the appropriate instrument."
             }
           ]
@@ -455,7 +450,7 @@
         },
         {
           "lo_num": "3",
-          "description": "",
+          "description": "Inspect Domestic Installation",
           "performance_criteria": [
             {
               "pc_code": "3.1",

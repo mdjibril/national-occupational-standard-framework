@@ -366,7 +366,7 @@
         },
         {
           "lo_num": "4",
-          "description": "Use heating methods to achieve desired forging LO (Learning Outcome) Criteria: - temperature",
+          "description": "Use heating methods to achieve desired forging - temperature",
           "performance_criteria": [
             {
               "pc_code": "4.1",
@@ -473,24 +473,25 @@
         {
           "lo_num": "2",
           "description": "Prepare materials and work pieces for welding and joining operations",
-          "performance_criteria": []
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Prepare metal surfaces for welding and joining operations."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Set up work pieces before welding or joining operations."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Apply appropriate heat and pressure control techniques for effective welding and joining operations."
+            }
+          ]
         },
         {
           "lo_num": "3",
           "description": "Demonstrate proficiency in various welding and joining operations",
           "performance_criteria": [
-            {
-              "pc_code": "3.1",
-              "description": "Prepare metal surfaces for welding and joining operations."
-            },
-            {
-              "pc_code": "3.2",
-              "description": "Set up work pieces before welding or joining operations."
-            },
-            {
-              "pc_code": "3.3",
-              "description": "Apply appropriate heat and pressure control techniques for effective welding and joining operations."
-            },
             {
               "pc_code": "3.1",
               "description": "Perform forge welding, arc welding, and gas welding operations."

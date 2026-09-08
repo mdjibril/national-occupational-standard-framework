@@ -256,7 +256,7 @@
         },
         {
           "lo_num": "2",
-          "description": "",
+          "description": "Compliance with policy of organisation",
           "performance_criteria": [
             {
               "pc_code": "2.1",
@@ -362,7 +362,7 @@
         },
         {
           "lo_num": "3",
-          "description": "Understand work condition on a ruminant farm (LO) Ref. Page No.",
+          "description": "Understand work condition on a ruminant farm",
           "performance_criteria": [
             {
               "pc_code": "3.1",
@@ -422,7 +422,7 @@
         },
         {
           "lo_num": "3",
-          "description": "Understand the principles of calf, lamb and kid health management Ref. Page No.",
+          "description": "Understand the principles of calf, lamb and kid health management",
           "performance_criteria": [
             {
               "pc_code": "3.1",
@@ -486,7 +486,7 @@
         },
         {
           "lo_num": "3",
-          "description": "Identify some consumables used in livestock farm in Nigeria Ref. Page No.",
+          "description": "Identify some consumables used in livestock farm in Nigeria ",
           "performance_criteria": [
             {
               "pc_code": "3.1",
@@ -566,7 +566,7 @@
         },
         {
           "lo_num": "3",
-          "description": "Understand the different methods of processing and storage of livestock feeds Ref. Page No.",
+          "description": "Understand the different methods of processing and storage of livestock feeds ",
           "performance_criteria": [
             {
               "pc_code": "3.1",
@@ -750,7 +750,7 @@
         },
         {
           "lo_num": "3",
-          "description": "Understand the proper way of restraining and transporting animals OBJECTIVE (LO)",
+          "description": "Understand the proper way of restraining and transporting animals",
           "performance_criteria": [
             {
               "pc_code": "3.1",
@@ -822,7 +822,7 @@
         },
         {
           "lo_num": "3",
-          "description": "Understand types of biosecurity S/No /Unit 1 2 3 4 5 6 7 Credit Value 8 9",
+          "description": "Understand types of biosecurity",
           "performance_criteria": [
             {
               "pc_code": "3.1",
@@ -833,7 +833,7 @@
               "description": "Carryout isolation of sick animals"
             },
             {
-              "pc_code": "3.4",
+              "pc_code": "3.3",
               "description": "Assist, administer routine vaccines to farm animals"
             }
           ]
