@@ -56,7 +56,7 @@
         },
         {
           "lo_num": "3",
-          "description": "Know appropriate actions to take during accident/injuries Ref. Page No. OBJECTIVE (LO)",
+          "description": "Know appropriate actions to take during accident/injuries",
           "performance_criteria": [
             {
               "pc_code": "3.1",
@@ -106,7 +106,7 @@
         },
         {
           "lo_num": "4",
-          "description": "Know safe work practices and clean work environment Ref. Page No.",
+          "description": "Know safe work practices and clean work environment No.",
           "performance_criteria": [
             {
               "pc_code": "4.1",
@@ -270,7 +270,7 @@
         },
         {
           "lo_num": "3",
-          "description": "Comply with Policies and Regulations of Organization OBJECTIVE (LO)",
+          "description": "Comply with Policies and Regulations of Organization",
           "performance_criteria": [
             {
               "pc_code": "3.1",
@@ -362,11 +362,11 @@
         },
         {
           "lo_num": "3",
-          "description": "Know Solar- PV Battery Bank OBJECTIVE (LO)",
+          "description": "Know Solar- PV Battery Bank",
           "performance_criteria": [
             {
               "pc_code": "3.1",
-              "description": "Compare different battery technologies, such as lead-acid and lithium-ion; considering internal design, characteristics, reliability, Ref. Page safety, convenience, lifespan, and cost to make informed decisions on their suitability for various system requirements"
+              "description": "Compare different battery technologies, such as lead-acid and lithium-ion; considering internal design, characteristics, reliability, safety, convenience, lifespan, and cost to make informed decisions on their suitability for various system requirements"
             },
             {
               "pc_code": "3.2",
@@ -490,11 +490,11 @@
         },
         {
           "lo_num": "4",
-          "description": "Know how to review Solar PV OBJECTIVE (LO) Installation System Performance",
+          "description": "Know how to review Solar PV Installation System Performance",
           "performance_criteria": [
             {
               "pc_code": "4.1",
-              "description": "Conduct performance testing to ensure the solar PV system is Ref. Page operating at the expected efficiency"
+              "description": "Conduct performance testing to ensure the solar PV system is operating at the expected efficiency"
             },
             {
               "pc_code": "4.2",
@@ -686,7 +686,7 @@
         },
         {
           "lo_num": "2",
-          "description": "Know the maintenance on Solar PV Systems OBJECTIVE (LO)",
+          "description": "Know the maintenance on Solar PV Systems",
           "performance_criteria": [
             {
               "pc_code": "2.1",
@@ -842,22 +842,22 @@
         },
         {
           "lo_num": "3",
-          "description": "Know the laid down procedures in project commissioning Ref. Page No.",
+          "description": "Know the laid down procedures in project commissioning ",
           "performance_criteria": [
             {
               "pc_code": "3.1",
               "description": "Apply safety and environmental measures in commissioning a project according to laid down procedures"
             },
             {
-              "pc_code": "3.3",
+              "pc_code": "3.2",
               "description": "Outline the various types of project commissioning: \u2022 Check Specifications \u2022 Check Components compliance \u2022 Check performance compliance \u2022 Check installation \u2022 Check documentation \u2022 Maintain user Education"
             },
             {
-              "pc_code": "3.4",
+              "pc_code": "3.3",
               "description": "Explain the process of commissioning a Solar PV"
             },
             {
-              "pc_code": "3.5",
+              "pc_code": "3.4",
               "description": "Carry out safe and orderly handover of the project to the client"
             }
           ]

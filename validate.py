@@ -85,6 +85,7 @@ def validate_file(path):
     validate_performance_criteria(data, result)
     validate_duplicates(data, result)
     validate_empty_descriptions(data, result)
+    validate_empty_performance_criteria(data, result)
 
     return result
 
@@ -626,6 +627,29 @@ def validate_empty_descriptions(data, result, file = None):
                             message="Performance criterion description is empty.",
                             location=f"Unit {unit_index}, PC {pc_code}",
                         )
+
+def validate_empty_performance_criteria(data, result, file = None):
+
+        units = data.get("units", [])
+
+        for unit_index, unit in enumerate(units, start=1):
+
+            learning_outcomes = unit.get("learning_outcomes", [])
+
+            for lo in learning_outcomes:
+
+                lo_num = lo.get("lo_num", "?")
+
+                performance_criteria = lo.get("performance_criteria")
+
+                if isinstance(performance_criteria, list) and not performance_criteria:
+                    add_issue(
+                        result,
+                        severity=ERROR,
+                        rule='EmptyPerformanceCriteriaRule',
+                        message="Learning outcome has no performance criteria.",
+                        location=f"Unit {unit_index}, LO {lo_num}",
+                    )
 
 def print_report(result: Dict) -> str:
         lines = []
