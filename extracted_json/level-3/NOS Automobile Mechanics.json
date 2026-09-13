@@ -56,7 +56,7 @@
         },
         {
           "lo_num": "3",
-          "description": "",
+          "description": "Carryout maintainance of a hygienic, safe and secure healthy workplace",
           "performance_criteria": [
             {
               "pc_code": "3.1",
@@ -90,7 +90,7 @@
         },
         {
           "lo_num": "4",
-          "description": "",
+          "description": "Carryout preventation of hazards and accidents in the workplace",
           "performance_criteria": [
             {
               "pc_code": "4.1",
@@ -404,7 +404,7 @@
         },
         {
           "lo_num": "2",
-          "description": "L.O3: Identify starting System Construction and Operation",
+          "description": "Identify starting System Construction and Operation",
           "performance_criteria": [
             {
               "pc_code": "2.1",
@@ -426,7 +426,7 @@
         },
         {
           "lo_num": "3",
-          "description": "L.O3: Identify starting System Construction and Operation",
+          "description": "Identify starting System Construction and Operation",
           "performance_criteria": [
             {
               "pc_code": "3.1",
@@ -502,7 +502,7 @@
         },
         {
           "lo_num": "3",
-          "description": "L.O 1: Identify Petrol and Diesel Engine Operation L.O2 Identify safe working practices in petrol engine maintenance. Carryout Petrol and Diesel Engine Dismantling and Re-assembling Procedures",
+          "description": "Carryout Petrol and Diesel Engine Dismantling and Re-assembling Procedures",
           "performance_criteria": [
             {
               "pc_code": "3.1",
@@ -521,23 +521,23 @@
               "description": "Store all removed components safely in a safe location."
             },
             {
-              "pc_code": "3.4",
-              "description": "Carry out replacement of the working procedures"
-            },
-            {
               "pc_code": "3.5",
-              "description": "Couple components according to manufacturer\u2019s specifications."
+              "description": "Carry out replacement of the removed engine using working procedures"
             },
             {
               "pc_code": "3.6",
-              "description": "Dispose all wastes properly following relevant laws and regulations"
+              "description": "Couple components according to manufacturer\u2019s specifications."
             },
             {
               "pc_code": "3.7",
-              "description": "Observe safety precautions during dismantling and re-assembling in a workshop"
+              "description": "Dispose all wastes properly following relevant laws and regulations"
             },
             {
               "pc_code": "3.8",
+              "description": "Observe safety precautions during dismantling and re-assembling in a workshop"
+            },
+            {
+              "pc_code": "3.9",
               "description": "Record finding(s) and make necessary recommendation to the appropriate personnel."
             }
           ]
@@ -732,7 +732,7 @@
         },
         {
           "lo_num": "4",
-          "description": "Carryout Cooling system component testing and performance evaluation Radiator Cooling fan Heater matrices Thermostat Coolant flush",
+          "description": "Carryout Cooling system component testing and performance evaluation",
           "performance_criteria": [
             {
               "pc_code": "4.1",
@@ -1277,11 +1277,11 @@
               "description": "Read and clear faults on different ECU\u2019s using both OEM and generic scan tool."
             },
             {
-              "pc_code": "2.5",
+              "pc_code": "2.6",
               "description": "Read parameter measurement/Live data on basic vehicle systems"
             },
             {
-              "pc_code": "2.6",
+              "pc_code": "2.7",
               "description": "Carryout procedures to perform actuator/component testing on the following components. a. Engine cooling fan, b. horn, c. dipped beams & main beams, door lock actuators, d. ETC"
             }
           ]

@@ -160,7 +160,7 @@
       "learning_outcomes": [
         {
           "lo_num": "1",
-          "description": "Understand communication system in a Work Environment LO 1: Understand",
+          "description": "Understand communication system in a Work Environment",
           "performance_criteria": [
             {
               "pc_code": "1.1",
@@ -208,7 +208,7 @@
         },
         {
           "lo_num": "3",
-          "description": "understand Communication processes Lo 3: understand",
+          "description": "understand Communication processes",
           "performance_criteria": [
             {
               "pc_code": "3.1",
@@ -266,7 +266,7 @@
       "learning_outcomes": [
         {
           "lo_num": "1",
-          "description": "know how to appreciate team work in a work environment LO 1: know how to",
+          "description": "know how to appreciate team work in a work environment",
           "performance_criteria": [
             {
               "pc_code": "1.1",
@@ -288,7 +288,7 @@
         },
         {
           "lo_num": "2",
-          "description": "Know the requirements of the various teams Lo 2: Know the",
+          "description": "Know the requirements of the various teams",
           "performance_criteria": [
             {
               "pc_code": "2.1",
@@ -306,7 +306,7 @@
         },
         {
           "lo_num": "3",
-          "description": "Understand the Benefits of the various teams. Lo 3: Understand the",
+          "description": "Understand the Benefits of the various teams.",
           "performance_criteria": [
             {
               "pc_code": "3.1",
@@ -442,7 +442,7 @@
         },
         {
           "lo_num": "2",
-          "description": "Remove and replace vehicle suspension and steering systems Lo 2: Remove and",
+          "description": "Remove and replace vehicle suspension and steering systems",
           "performance_criteria": [
             {
               "pc_code": "2.1",
@@ -483,24 +483,8 @@
               "description": "State how to recognise and report damaged components in a vehicle"
             },
             {
-              "pc_code": "3.2",
-              "description": ""
-            },
-            {
-              "pc_code": "3.3",
-              "description": ""
-            },
-            {
-              "pc_code": "3.4",
-              "description": "OUTCOME (LO) able to:"
-            },
-            {
               "pc_code": "3.5",
               "description": "Identify specifications and grades of steering and suspension lubricants."
-            },
-            {
-              "pc_code": "3.5",
-              "description": ""
             }
           ]
         }
@@ -512,7 +496,7 @@
       "learning_outcomes": [
         {
           "lo_num": "1",
-          "description": "Observe Health and safety in workplace during tyres and wheels maintenance Carry out wear and damage detection on the following: Tyres ball joints bearings track arm track rod coil spring, etc",
+          "description": "Observe Health and safety in workplace during tyres and wheels maintenance",
           "performance_criteria": [
             {
               "pc_code": "1.1",
@@ -556,7 +540,7 @@
         },
         {
           "lo_num": "3",
-          "description": "Use Wheel Alignment Tools and Equipment LEARNING OUTCOME (LO) to: Ref. Page No.",
+          "description": "Use Wheel Alignment Tools and Equipment",
           "performance_criteria": [
             {
               "pc_code": "3.1",
@@ -582,7 +566,7 @@
         },
         {
           "lo_num": "4",
-          "description": "Maintain Tyres and Wheels LEARNING OUTCOME (LO) to: Ref. Page No. Carry out pre alignment checks on heavy duty vehicles Carryout wheel alignment operations on heavy duty vehicles Carryout post alignment checks",
+          "description": "Maintain Tyres and Wheels ",
           "performance_criteria": [
             {
               "pc_code": "4.1",
@@ -595,10 +579,6 @@
             {
               "pc_code": "4.3",
               "description": "Carry out wheel balancing within the acceptable limits"
-            },
-            {
-              "pc_code": "4.2",
-              "description": ""
             }
           ]
         }
@@ -650,7 +630,7 @@
         },
         {
           "lo_num": "3",
-          "description": "Carry Out Patch Process Ref. Page No.",
+          "description": "Carry Out Patch Process",
           "performance_criteria": [
             {
               "pc_code": "3.1",

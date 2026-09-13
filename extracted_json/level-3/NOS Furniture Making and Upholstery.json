@@ -69,7 +69,7 @@
               "description": "Supervise proper use and maintenance of PPE"
             },
             {
-              "pc_code": "2.6",
+              "pc_code": "2.4",
               "description": "Monitor compliance with instructions"
             }
           ]
@@ -215,7 +215,55 @@
             {
               "pc_code": "1.5",
               "description": "Communicate information to colleagues about own work that might affect others"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Take responsibilities within the team Know how to Calculate and set out angles",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Recognize own role and responsibilities within the team"
             },
+            {
+              "pc_code": "2.2",
+              "description": "Perform individual tasks within the team\u2019s rules and regulations"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Participate effectively in team work"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Compliance with organizational policies Know how to read simple designs of furniture items",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Work in line with organizational standards"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Use organizational codes of practice"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Explain organizational code of conduct"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "CON/FM/004/L3",
+      "title": "Teamwork",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Know measurements in furniture work",
+          "performance_criteria": [
             {
               "pc_code": "1.1",
               "description": "Carryout measurement and marking out"
@@ -236,20 +284,8 @@
         },
         {
           "lo_num": "2",
-          "description": "Take responsibilities within the team Know how to Calculate and set out angles",
+          "description": "Know how to calculate and set out angles",
           "performance_criteria": [
-            {
-              "pc_code": "2.1",
-              "description": "Recognize own role and responsibilities within the team"
-            },
-            {
-              "pc_code": "2.2",
-              "description": "Perform individual tasks within the team\u2019s rules and regulations"
-            },
-            {
-              "pc_code": "2.3",
-              "description": "Participate effectively in team work"
-            },
             {
               "pc_code": "2.1",
               "description": "Make calculations relating to angles"
@@ -266,20 +302,8 @@
         },
         {
           "lo_num": "3",
-          "description": "Compliance with organizational policies Know how to read simple designs of furniture items",
+          "description": "Know how to read simple design of furniture items",
           "performance_criteria": [
-            {
-              "pc_code": "3.1",
-              "description": "Work in line with organizational standards"
-            },
-            {
-              "pc_code": "3.2",
-              "description": "Use organizational codes of practice"
-            },
-            {
-              "pc_code": "3.3",
-              "description": "Explain organizational code of conduct"
-            },
             {
               "pc_code": "3.1",
               "description": "Interpret drawings and sketches of furniture items"
@@ -1253,19 +1277,19 @@
               "description": "Show how to record video"
             },
             {
-              "pc_code": "5.3",
+              "pc_code": "5.2",
               "description": "Snap pictures of projects using a cell phone"
             },
             {
-              "pc_code": "5.4",
+              "pc_code": "5.3",
               "description": "Place an advert using a cell phone"
             },
             {
-              "pc_code": "5.5",
+              "pc_code": "5.4",
               "description": "Open and use an E-mail address using a cell phone"
             },
             {
-              "pc_code": "5.6",
+              "pc_code": "5.5",
               "description": "Connect to the internet and download information using a cell phone"
             }
           ]

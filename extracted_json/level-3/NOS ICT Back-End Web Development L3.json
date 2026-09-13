@@ -256,7 +256,7 @@
         },
         {
           "lo_num": "3",
-          "description": "Understand Access Right Ref. Page No.",
+          "description": "Understand Access Right",
           "performance_criteria": [
             {
               "pc_code": "3.1",
@@ -378,7 +378,7 @@
         },
         {
           "lo_num": "4",
-          "description": "Setup C# Environment Ref. Page No.",
+          "description": "Setup C# Environment",
           "performance_criteria": [
             {
               "pc_code": "4.1",
@@ -449,7 +449,7 @@
               "description": "Evaluate the Program"
             },
             {
-              "pc_code": "1.8",
+              "pc_code": "1.9",
               "description": "Document the Program"
             }
           ]
@@ -478,7 +478,7 @@
         },
         {
           "lo_num": "3",
-          "description": "Understand Variable Scope Ref. Page No.",
+          "description": "Understand Variable Scope",
           "performance_criteria": [
             {
               "pc_code": "3.1",
@@ -529,7 +529,7 @@
               "description": "Develop a program with DO-WHILE Statement to control the flow of program execution"
             },
             {
-              "pc_code": "1.5",
+              "pc_code": "1.6",
               "description": "Describe Control flow keyword"
             }
           ]
@@ -570,7 +570,7 @@
         },
         {
           "lo_num": "3",
-          "description": "Understand Jump Statement, Loop Statement in C# Ref. Page No.",
+          "description": "Understand Jump Statement, Loop Statement in C#",
           "performance_criteria": [
             {
               "pc_code": "3.1",
@@ -770,7 +770,7 @@
         },
         {
           "lo_num": "5",
-          "description": "Understand Data Security Ref. Page No.",
+          "description": "Understand Data Security",
           "performance_criteria": [
             {
               "pc_code": "5.1",
@@ -828,7 +828,7 @@
           "performance_criteria": [
             {
               "pc_code": "2.1",
-              "description": "Explain Document Database 2.3"
+              "description": "Explain Document Database"
             },
             {
               "pc_code": "2.2",
@@ -872,7 +872,7 @@
         },
         {
           "lo_num": "4",
-          "description": "Ref. Page No.",
+          "description": "Understand Object Relational Mapper",
           "performance_criteria": [
             {
               "pc_code": "4.1",
@@ -933,11 +933,11 @@
               "description": "Develop PHP Code using Polymorphism Develop PHP Code using Inheritance"
             },
             {
-              "pc_code": "2.4",
+              "pc_code": "2.3",
               "description": "Develop PHP Code using Abstraction"
             },
             {
-              "pc_code": "2.5",
+              "pc_code": "2.4",
               "description": "Explain the difference between Inheritance and Polymorphism"
             }
           ]
@@ -970,7 +970,7 @@
         },
         {
           "lo_num": "4",
-          "description": "L4: Know Constructor and Destructor in PHP",
+          "description": "Know Constructor and Destructor in PHP",
           "performance_criteria": [
             {
               "pc_code": "4.1",

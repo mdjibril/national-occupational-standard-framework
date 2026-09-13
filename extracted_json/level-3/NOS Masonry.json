@@ -3,7 +3,7 @@
   "level": 3,
   "units": [
     {
-      "code": "CON/MS001/L3",
+      "code": "CON/MS/001/L3",
       "title": "Health, Safety and Environment",
       "learning_outcomes": [
         {
@@ -50,8 +50,12 @@
         },
         {
           "lo_num": "2",
-          "description": "",
+          "description": "Hygiene, safe and hazard free workplace",
           "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "State the importance of working in a healthy, safe and hygienic Workplace"
+            },
             {
               "pc_code": "2.2",
               "description": "Report any accidents or near accidents quickly and accurately to the proper person."
@@ -105,6 +109,10 @@
             {
               "pc_code": "3.2",
               "description": "State why accidents and near accidents should be reported and who they should be reported to"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Describe the types of emergencies that may happening the workplace and how to deal with them"
             }
           ]
         }
@@ -160,7 +168,7 @@
         },
         {
           "lo_num": "3",
-          "description": "",
+          "description": "Communication means in a work environment",
           "performance_criteria": [
             {
               "pc_code": "3.1",
@@ -169,6 +177,10 @@
             {
               "pc_code": "3.2",
               "description": "Describe the effective use of the various communication channels in a work environment"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Demonstrate the use of various communication means in a work environment"
             },
             {
               "pc_code": "3.4",
@@ -186,7 +198,7 @@
         },
         {
           "lo_num": "4",
-          "description": "Communicatio n equipment deployment",
+          "description": "Communication equipment deployment",
           "performance_criteria": [
             {
               "pc_code": "4.1",
@@ -278,7 +290,7 @@
         },
         {
           "lo_num": "5",
-          "description": "Communication with co-workers, Superiors and subordinates across different teams Differentiate types of materials, tools and equipment requirement for each team Address the problems effectively need be report to appropriate person.",
+          "description": "Communication with co-workers, Superiors and subordinates across different teams",
           "performance_criteria": [
             {
               "pc_code": "5.1",
@@ -328,8 +340,12 @@
         },
         {
           "lo_num": "2",
-          "description": "Special structural drawings spE 2. 1 Interpret drawings for special structures",
+          "description": "Special structural drawings",
           "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Interpret drawings for special structures"
+            },
             {
               "pc_code": "2.2",
               "description": "Carry outwork in accordance with specification"
@@ -338,11 +354,19 @@
         },
         {
           "lo_num": "3",
-          "description": "Special works in masonry spE work 3. 1 Work on elevated platform Special structural drawings Carry outwork in accordance with specification",
+          "description": "Special works in masonry",
           "performance_criteria": [
             {
+              "pc_code": "3.1",
+              "description": "Work on elevated platform"
+            },
+            {
               "pc_code": "3.2",
-              "description": "Carry out installation of precast Elements 3. 3 Assemble and dismantle elevated Platform"
+              "description": "Carry out installation of precast Elements"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Assemble and dismantle elevated Platform"
             },
             {
               "pc_code": "3.4",
@@ -410,7 +434,7 @@
         },
         {
           "lo_num": "3",
-          "description": "Cure constructed masonry works LO (Learning outcome)",
+          "description": "Cure constructed masonry works",
           "performance_criteria": [
             {
               "pc_code": "3.1",
@@ -530,11 +554,15 @@
         },
         {
           "lo_num": "3",
-          "description": "LO (Learning outcome)",
+          "description": "Internal/external rendering of masonry structures",
           "performance_criteria": [
             {
               "pc_code": "3.1",
               "description": "Identify and select the right tools and equipment for rendering work as given in the specification"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Wet surfaces sufficiently before rendering"
             },
             {
               "pc_code": "3.3",
@@ -646,11 +674,15 @@
         },
         {
           "lo_num": "3",
-          "description": "Allocate human resources according to work schedule.",
+          "description": "Estimation of cost of materials for a particular section/element of work",
           "performance_criteria": [
             {
               "pc_code": "3.1",
               "description": "Estimate the quantity of raw materials required for the work."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Estimate the cost of materials required for the section of work"
             },
             {
               "pc_code": "3.3",
@@ -660,7 +692,7 @@
         },
         {
           "lo_num": "4",
-          "description": "Simple conflict resolution within the area of coordination Determine the required measures for conflic resolutions",
+          "description": "Simple conflict resolution within the area of coordination",
           "performance_criteria": [
             {
               "pc_code": "4.1",
@@ -672,13 +704,13 @@
             },
             {
               "pc_code": "4.3",
-              "description": "Carry out resolution without bias. LO (Learning outcome) Criteria:- Ref Page number"
+              "description": "Carry out resolution without bias. Criteria:- Ref Page number"
             }
           ]
         },
         {
           "lo_num": "5",
-          "description": "",
+          "description": "Support co- workers to execute project",
           "performance_criteria": [
             {
               "pc_code": "5.1",

@@ -1,5 +1,5 @@
 {
-  "trade_name": "NOS ICT Web Development L3",
+  "trade_name": "NOS ICT Web Development",
   "level": 3,
   "units": [
     {
@@ -184,7 +184,7 @@
         },
         {
           "lo_num": "3",
-          "description": "Compliance with policy of organization Ref. Page No.",
+          "description": "Compliance with policy of organization",
           "performance_criteria": [
             {
               "pc_code": "3.1",
@@ -278,7 +278,7 @@
         },
         {
           "lo_num": "4",
-          "description": "Recognize the importance of responsive design in web applications. Ref. Page No.",
+          "description": "Recognize the importance of responsive design in web applications.",
           "performance_criteria": [
             {
               "pc_code": "4.1",
@@ -372,7 +372,7 @@
         },
         {
           "lo_num": "4",
-          "description": "Implement version control best practices. Ref. Page No.",
+          "description": "Implement version control best practices.",
           "performance_criteria": [
             {
               "pc_code": "4.1",
@@ -466,7 +466,7 @@
         },
         {
           "lo_num": "4",
-          "description": "Understand the client-server interaction in web programming. Ref. Page No.",
+          "description": "Understand the client-server interaction in web programming.",
           "performance_criteria": [
             {
               "pc_code": "4.1",
@@ -560,7 +560,7 @@
         },
         {
           "lo_num": "4",
-          "description": "Ensure web server and database security. Ref. Page No.",
+          "description": "Ensure web server and database security.",
           "performance_criteria": [
             {
               "pc_code": "4.1",
@@ -658,7 +658,7 @@
         },
         {
           "lo_num": "4",
-          "description": "Customize the appearance and functionality of a CMS Ref. Page No.",
+          "description": "Customize the appearance and functionality of a CMS",
           "performance_criteria": [
             {
               "pc_code": "4.1",
@@ -752,7 +752,7 @@
         },
         {
           "lo_num": "4",
-          "description": "Implement open-source best practices in web development projects. Ref. Page No.",
+          "description": "Implement open-source best practices in web development projects.",
           "performance_criteria": [
             {
               "pc_code": "4.1",
@@ -850,7 +850,7 @@
         },
         {
           "lo_num": "4",
-          "description": "Understand client-side storage options. Ref. Page No.",
+          "description": "Understand client-side storage options.",
           "performance_criteria": [
             {
               "pc_code": "4.1",
@@ -944,7 +944,7 @@
         },
         {
           "lo_num": "4",
-          "description": "Ensure security in server- side development. Ref. Page No.",
+          "description": "Ensure security in server- side development.",
           "performance_criteria": [
             {
               "pc_code": "4.1",

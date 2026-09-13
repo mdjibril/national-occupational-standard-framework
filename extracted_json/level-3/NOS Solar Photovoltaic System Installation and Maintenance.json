@@ -106,7 +106,7 @@
         },
         {
           "lo_num": "4",
-          "description": "Know safe work practices and clean work environment No.",
+          "description": "Know safe work practices and clean work environment",
           "performance_criteria": [
             {
               "pc_code": "4.1",

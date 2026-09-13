@@ -141,11 +141,11 @@
               "description": "State why a fire should never be approached unless it is safe to."
             },
             {
-              "pc_code": "4.17",
+              "pc_code": "4.16",
               "description": "Describe organizational security procedures and why these are important"
             },
             {
-              "pc_code": "4.18",
+              "pc_code": "4.17",
               "description": "State the importance of reporting all usual or non-routine incidents to the appropriate personnel."
             }
           ]
@@ -365,7 +365,7 @@
               "description": "Describe the consequences of not considering security during design phase"
             },
             {
-              "pc_code": "3.1",
+              "pc_code": "3.4",
               "description": "Describe the advantages and disadvantages of security by design"
             }
           ]
@@ -452,7 +452,7 @@
         },
         {
           "lo_num": "4",
-          "description": "Know social engineering (PC)",
+          "description": "Know social engineering",
           "performance_criteria": [
             {
               "pc_code": "4.1",

@@ -204,7 +204,7 @@
         },
         {
           "lo_num": "3",
-          "description": "Perform equipment maintenance Ref. Page No.",
+          "description": "Perform equipment maintenance",
           "performance_criteria": [
             {
               "pc_code": "3.1",
@@ -318,7 +318,7 @@
         },
         {
           "lo_num": "4",
-          "description": "Demonstrate use of Basic blocks to produce collar and (LO) sleeves.",
+          "description": "Demonstrate use of Basic blocks to produce collar and sleeves.",
           "performance_criteria": [
             {
               "pc_code": "4.1",
@@ -334,7 +334,7 @@
             },
             {
               "pc_code": "4.4",
-              "description": "Describe the different sleeve types Ref. Page"
+              "description": "Describe the different sleeve types"
             },
             {
               "pc_code": "4.5",
@@ -608,7 +608,7 @@
         },
         {
           "lo_num": "3",
-          "description": "Understand the overview of OBJECTIVE (LO) fashion sales promotion",
+          "description": "Understand the overview of OBJECTIVEfashion sales promotion",
           "performance_criteria": [
             {
               "pc_code": "3.1",

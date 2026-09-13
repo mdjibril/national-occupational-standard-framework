@@ -52,7 +52,7 @@
         },
         {
           "lo_num": "3",
-          "description": "Understand Accident in the workplace OBJECTIVE (LO)",
+          "description": "Understand Accident in the workplace",
           "performance_criteria": [
             {
               "pc_code": "3.1",
@@ -60,7 +60,7 @@
             },
             {
               "pc_code": "3.2",
-              "description": "State causes of accident in the workplace Ref. Page"
+              "description": "State causes of accident in the workplace"
             },
             {
               "pc_code": "3.3",
@@ -116,7 +116,7 @@
         },
         {
           "lo_num": "3",
-          "description": "Understand elements of communication in workplace OBJECTIVE (LO)",
+          "description": "Understand elements of communication in workplace",
           "performance_criteria": [
             {
               "pc_code": "3.1",
@@ -128,7 +128,7 @@
             },
             {
               "pc_code": "3.3",
-              "description": "Pass verbal information/instruction on the job Ref. Page"
+              "description": "Pass verbal information/instruction on the job"
             }
           ]
         },
@@ -184,7 +184,7 @@
         },
         {
           "lo_num": "2",
-          "description": "Understand how to relate with team members OBJECTIVE (LO)",
+          "description": "Understand how to relate with team members",
           "performance_criteria": [
             {
               "pc_code": "2.1",
@@ -200,7 +200,7 @@
             },
             {
               "pc_code": "2.4",
-              "description": "Explain the role of a Network Administrator in an ICT work environment. Ref. Page"
+              "description": "Explain the role of a Network Administrator in an ICT work environment."
             },
             {
               "pc_code": "2.5",
@@ -312,7 +312,7 @@
         },
         {
           "lo_num": "4",
-          "description": "Select appropriate blogging platform Ref. Page No. OBJECTIVE (LO)",
+          "description": "Select appropriate blogging platform",
           "performance_criteria": [
             {
               "pc_code": "4.1",
@@ -384,7 +384,7 @@
         },
         {
           "lo_num": "3",
-          "description": "Understand trending content Ref. Page No.",
+          "description": "Understand trending content",
           "performance_criteria": [
             {
               "pc_code": "3.1",
@@ -440,7 +440,7 @@
         },
         {
           "lo_num": "5",
-          "description": "Use artificial intelligence (AI) tools and technologies to enhance blogging Use AI-powered tools to generate content ideas Utilize AI writing assistants to draft, edit, and improve blog posts",
+          "description": "Use artificial intelligence (AI) tools and technologies to enhance blogging",
           "performance_criteria": [
             {
               "pc_code": "5.1",
@@ -536,7 +536,7 @@
         },
         {
           "lo_num": "3",
-          "description": "Understand user experience (UX) Ref. Page No. OBJECTIVE (LO)",
+          "description": "Understand user experience (UX)",
           "performance_criteria": [
             {
               "pc_code": "3.1",
@@ -554,7 +554,7 @@
         },
         {
           "lo_num": "4",
-          "description": "Design a logo Ref. Page No.",
+          "description": "Design a logo",
           "performance_criteria": [
             {
               "pc_code": "4.1",
@@ -652,7 +652,7 @@
         },
         {
           "lo_num": "4",
-          "description": "Improve website speed and mobile- friendliness Ref. Page No.",
+          "description": "Improve website speed and mobile- friendliness",
           "performance_criteria": [
             {
               "pc_code": "4.1",
@@ -722,7 +722,7 @@
         },
         {
           "lo_num": "2",
-          "description": "Execute effective email marketing campaigns Ref. Page No. OBJECTIVE (LO)",
+          "description": "Execute effective email marketing campaigns",
           "performance_criteria": [
             {
               "pc_code": "2.1",
@@ -770,7 +770,7 @@
         },
         {
           "lo_num": "4",
-          "description": "Implement offline strategies to promote a blog Ref. Page No. Identify relevant offline events (e.g., conferences, local meetups)",
+          "description": "Implement offline strategies to promote a blog Identify relevant offline events (e.g., conferences, local meetups)",
           "performance_criteria": [
             {
               "pc_code": "4.1",
@@ -860,7 +860,7 @@
         },
         {
           "lo_num": "4",
-          "description": "Advertise digital products Ref. Page No. OBJECTIVE (LO)",
+          "description": "Advertise digital products",
           "performance_criteria": [
             {
               "pc_code": "4.1",
@@ -934,7 +934,7 @@
         },
         {
           "lo_num": "7",
-          "description": "Explore advertising options Ref. Page No. OBJECTIVE (LO)",
+          "description": "Explore advertising options",
           "performance_criteria": [
             {
               "pc_code": "7.1",
@@ -964,7 +964,7 @@
         },
         {
           "lo_num": "8",
-          "description": "Implement other strategies to earn passive income through digital channels Ref. Page No.",
+          "description": "Implement other strategies to earn passive income through digital channels",
           "performance_criteria": [
             {
               "pc_code": "8.1",
@@ -1094,7 +1094,7 @@
         },
         {
           "lo_num": "2",
-          "description": "Manage blog comments Ref. Page No. Describe how to respond to comments in a thoughtful and Demonstrate ability to manage conflicts or disagreements in",
+          "description": "Manage blog comments Describe how to respond to comments in a thoughtful and Demonstrate ability to manage conflicts or disagreements in",
           "performance_criteria": [
             {
               "pc_code": "2.1",
@@ -1188,7 +1188,7 @@
         },
         {
           "lo_num": "5",
-          "description": "Implement security best practices to protect the blog Analyze the root cause of technical problems to address underlying",
+          "description": "Implement security best practices to protect the blog",
           "performance_criteria": [
             {
               "pc_code": "5.1",
@@ -1296,7 +1296,7 @@
         },
         {
           "lo_num": "2",
-          "description": "Understand privacy principles and requirements Ref. Page No. Implement mechanisms for obtaining explicit consent from users Create transparent privacy notices or policies that inform users about what OBJECTIVE (LO)",
+          "description": "Understand privacy principles and requirements",
           "performance_criteria": [
             {
               "pc_code": "2.1",
@@ -1378,7 +1378,7 @@
         },
         {
           "lo_num": "5",
-          "description": "Apply online ethics to digital content Ref. Page No. OBJECTIVE (LO)",
+          "description": "Apply online ethics to digital content",
           "performance_criteria": [
             {
               "pc_code": "5.1",
@@ -1396,7 +1396,7 @@
         },
         {
           "lo_num": "6",
-          "description": "Understand blogging regulations and compliance requirements Ref. Page No.",
+          "description": "Understand blogging regulations and compliance requirements",
           "performance_criteria": [
             {
               "pc_code": "6.1",
@@ -1577,11 +1577,11 @@
               "description": "Implement new technologies and tools that enhance capabilities"
             },
             {
-              "pc_code": "6.3",
+              "pc_code": "6.4",
               "description": "Adapt content strategies to align with changing audience preferences and consumption patterns"
             },
             {
-              "pc_code": "6.4",
+              "pc_code": "6.5",
               "description": "Explore new monetization opportunities arising from emerging trends"
             }
           ]

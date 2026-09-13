@@ -681,7 +681,7 @@
               "description": "Ensure tiles are prepared for the position."
             },
             {
-              "pc_code": "1.4",
+              "pc_code": "1.3",
               "description": "Estimate quantity of tiles required"
             }
           ]
@@ -929,7 +929,7 @@
               "description": "Evaluate the quality of materials."
             },
             {
-              "pc_code": "3.6",
+              "pc_code": "3.4",
               "description": "Assess compliance with standard operating procedures"
             }
           ]

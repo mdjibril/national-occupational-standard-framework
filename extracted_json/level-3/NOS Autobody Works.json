@@ -46,7 +46,7 @@
         },
         {
           "lo_num": "2",
-          "description": "Recognize Hygienic, safe and hazard free Workplace. OUTCOME (LO) able to:",
+          "description": "Recognize Hygienic, safe and hazard free Workplace.",
           "performance_criteria": [
             {
               "pc_code": "2.1",
@@ -54,7 +54,7 @@
             },
             {
               "pc_code": "2.2",
-              "description": "Report any accidents or near y accidents promptly and accuratel to the proper personnel. Ref. Page"
+              "description": "Report any accidents or near y accidents promptly and accuratel to the proper personnel."
             },
             {
               "pc_code": "2.3",
@@ -96,11 +96,11 @@
         },
         {
           "lo_num": "3",
-          "description": "Understand hazards and accidents in a work environment OUTCOME (LO) able to:",
+          "description": "Understand hazards and accidents in a work environment",
           "performance_criteria": [
             {
               "pc_code": "3.1",
-              "description": "Carry out organizational procedures on how to warn other s people about hazards and why thi is important. OUTCOME (LO) Ref. Page able to:"
+              "description": "Carry out organizational procedures on how to warn other s people about hazards and why thi is important."
             },
             {
               "pc_code": "3.2",
@@ -144,7 +144,7 @@
             },
             {
               "pc_code": "3.12",
-              "description": "State the importance of following safety laws. Ref. Page"
+              "description": "State the importance of following safety laws."
             },
             {
               "pc_code": "3.13",
@@ -212,11 +212,11 @@
         },
         {
           "lo_num": "3",
-          "description": "Understand Communication processes OUTCOME (LO) able to:",
+          "description": "Understand Communication processes",
           "performance_criteria": [
             {
               "pc_code": "3.1",
-              "description": "Ensure the accessibility of the communication equipment in the work environment. Ref. Page"
+              "description": "Ensure the accessibility of the communication equipment in the work environment."
             },
             {
               "pc_code": "3.2",
@@ -328,11 +328,11 @@
         },
         {
           "lo_num": "4",
-          "description": "Know how t o h Communicate wit co-workers, OUTCOME (LO) able to: subordinates and superiors.",
+          "description": "Know how to Communicate wit co-workers, subordinates and superiors.",
           "performance_criteria": [
             {
               "pc_code": "4.1",
-              "description": "Communicate work related information/requirements clearly to team members. Ref. Page"
+              "description": "Communicate work related information/requirements clearly to team members."
             },
             {
               "pc_code": "4.2",
@@ -364,7 +364,7 @@
       "learning_outcomes": [
         {
           "lo_num": "1",
-          "description": "Know how t o select Auto body work tools and equipment",
+          "description": "Know how to select Auto body work tools and equipment",
           "performance_criteria": [
             {
               "pc_code": "1.1",
@@ -386,7 +386,7 @@
         },
         {
           "lo_num": "2",
-          "description": "Know how t o use Auto body work tools",
+          "description": "Know how to use Auto body work tools",
           "performance_criteria": [
             {
               "pc_code": "2.1",
@@ -420,7 +420,7 @@
         },
         {
           "lo_num": "3",
-          "description": "Know how t o maintain auto body work tools and equipment OUTCOME (LO) be able to:",
+          "description": "Know how to maintain auto body work tools and equipment",
           "performance_criteria": [
             {
               "pc_code": "3.1",
@@ -428,7 +428,7 @@
             },
             {
               "pc_code": "3.2",
-              "description": "Carry out preventive maintenance of the following tools/equipment: \u2022 Body jack \u2022 Hydraulic jack \u2022 Air compressor \u2022 Grinding machine Ref. Page No."
+              "description": "Carry out preventive maintenance of the following tools/equipment: \u2022 Body jack \u2022 Hydraulic jack \u2022 Air compressor \u2022 Grinding machine"
             },
             {
               "pc_code": "3.3",
@@ -478,7 +478,7 @@
         },
         {
           "lo_num": "2",
-          "description": "Carry out removal and refitting of vehicle components OUTCOME (LO) be able to:",
+          "description": "Carry out removal and refitting of vehicle components",
           "performance_criteria": [
             {
               "pc_code": "2.1",
@@ -486,7 +486,7 @@
             },
             {
               "pc_code": "2.2",
-              "description": "Carry out refitting of the nts compone mentioned in 2.1. Ref. Page No."
+              "description": "Carry out refitting of the nts compone mentioned in 2.1."
             },
             {
               "pc_code": "2.3",
@@ -576,7 +576,7 @@
         },
         {
           "lo_num": "3",
-          "description": "Carryout major repairs on vehicle body components OUTCOME (LO) able to:",
+          "description": "Carryout major repairs on vehicle body components",
           "performance_criteria": [
             {
               "pc_code": "3.1",
@@ -584,7 +584,7 @@
             },
             {
               "pc_code": "3.2",
-              "description": "Carry out repairs on defective chassis and frame. Ref. Page No."
+              "description": "Carry out repairs on defective chassis and frame."
             },
             {
               "pc_code": "3.3",
@@ -614,7 +614,7 @@
         },
         {
           "lo_num": "4",
-          "description": "Know the us e of Damaged Dozer",
+          "description": "Know the use of Damaged Dozer",
           "performance_criteria": [
             {
               "pc_code": "4.1",
@@ -632,7 +632,7 @@
         },
         {
           "lo_num": "5",
-          "description": "Understand the composition of m etal OUTCOME (LO) able to:",
+          "description": "Understand the composition of metal",
           "performance_criteria": [
             {
               "pc_code": "5.1",
@@ -644,7 +644,7 @@
             },
             {
               "pc_code": "5.3",
-              "description": "Explain the application of the following: \u2022 Mild steel \u2022 Stainless steel \u2022 Copper \u2022 Aluminium Ref. Page No."
+              "description": "Explain the application of the following: \u2022 Mild steel \u2022 Stainless steel \u2022 Copper \u2022 Aluminium"
             },
             {
               "pc_code": "5.4",
@@ -684,7 +684,7 @@
         },
         {
           "lo_num": "7",
-          "description": "Carryout OxyAcetylene welding OUTCOME (LO) able to:",
+          "description": "Carryout OxyAcetylene welding",
           "performance_criteria": [
             {
               "pc_code": "7.1",
@@ -696,7 +696,7 @@
             },
             {
               "pc_code": "7.3",
-              "description": "Demonstrate how to produce suitable flame for the operation. Ref. Page No."
+              "description": "Demonstrate how to produce suitable flame for the operation."
             },
             {
               "pc_code": "7.4",
@@ -794,7 +794,7 @@
         },
         {
           "lo_num": "3",
-          "description": "Prepare surface for refinishing OUTCOME (LO) be able to:",
+          "description": "Prepare surface for refinishing",
           "performance_criteria": [
             {
               "pc_code": "3.1",
@@ -802,7 +802,7 @@
             },
             {
               "pc_code": "3.2",
-              "description": "Demonstrate method of preparing surfaces: \u2022 Paint removal Ref. Page No. \u2022 Body filling"
+              "description": "Demonstrate method of preparing surfaces: \u2022 Paint removal \u2022 Body filling"
             },
             {
               "pc_code": "3.3",
@@ -910,19 +910,19 @@
             },
             {
               "pc_code": "1.2",
-              "description": "Demonstrate the safe operation o f jig saws."
+              "description": "Demonstrate the safe operation of jig saws."
             },
             {
               "pc_code": "1.3",
-              "description": "Demonstrate the safe operation o f key machines."
+              "description": "Demonstrate the safe operation of key machines."
             },
             {
               "pc_code": "1.4",
-              "description": "Demonstrate the safe operation o f die grinder."
+              "description": "Demonstrate the safe operation of die grinder."
             },
             {
               "pc_code": "1.5",
-              "description": "Demonstrate the safe operation o f power drills"
+              "description": "Demonstrate the safe operation of power drills"
             },
             {
               "pc_code": "1.6",
@@ -936,7 +936,7 @@
         },
         {
           "lo_num": "2",
-          "description": "Dismantle a nd assemble locks OUTCOME (LO) be able to:",
+          "description": "Dismantle and assemble locks",
           "performance_criteria": [
             {
               "pc_code": "2.1",
@@ -948,13 +948,13 @@
             },
             {
               "pc_code": "2.3",
-              "description": "Describe recombination of the following lock mechanisms: \u2022 Pin tumbler cylinders \u2022 Lever locks Ref. Page No. \u2022 Tubular locks \u2022 Wafer locks"
+              "description": "Describe recombination of the following lock mechanisms: \u2022 Pin tumbler cylinders \u2022 Lever locks \u2022 Tubular locks \u2022 Wafer locks"
             }
           ]
         },
         {
           "lo_num": "3",
-          "description": "",
+          "description": "Demonstrate the method of originating and duplicating keys",
           "performance_criteria": [
             {
               "pc_code": "3.1",
@@ -1072,7 +1072,7 @@
         },
         {
           "lo_num": "3",
-          "description": "Carryout repairs on frame structures OUTCOME (LO) be able to:",
+          "description": "Carryout repairs on frame structures",
           "performance_criteria": [
             {
               "pc_code": "3.1",
@@ -1088,7 +1088,7 @@
             },
             {
               "pc_code": "3.4",
-              "description": "Fix frame structures safely Ref. Page No."
+              "description": "Fix frame structures safely"
             },
             {
               "pc_code": "3.5",
@@ -1098,11 +1098,11 @@
         },
         {
           "lo_num": "4",
-          "description": "",
+          "description": "Maintain tools and equipment",
           "performance_criteria": [
             {
               "pc_code": "4.1",
-              "description": "Distinguish between corrective a d preventive maintenance."
+              "description": "Distinguish between corrective ad preventive maintenance."
             },
             {
               "pc_code": "4.2",

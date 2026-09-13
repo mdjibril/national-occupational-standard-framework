@@ -541,7 +541,7 @@
       ]
     },
     {
-      "code": "CON/CI/006/L3",
+      "code": "CON/CJ/006/L3",
       "title": "Carpentry and Joinery Materials III",
       "learning_outcomes": [
         {
@@ -1257,11 +1257,11 @@
               "description": "Load dismantled scaffold members in accordance with handling procedures."
             },
             {
-              "pc_code": "3.3",
+              "pc_code": "3.4",
               "description": "Stack scaffold members in accordance with instruction, observing stacking/storage procedures and method of safe handling."
             },
             {
-              "pc_code": "3.4",
+              "pc_code": "3.5",
               "description": "Carry out hoekeeping and maintain clean work environment in accordance with work and safety regulations."
             }
           ]
@@ -1647,7 +1647,7 @@
       ]
     },
     {
-      "code": "EPS/SO/014/L3",
+      "code": "CON/CJ/014/L3",
       "title": "Information and Communication Technology (ICT)",
       "learning_outcomes": [
         {
@@ -2115,7 +2115,7 @@
       ]
     },
     {
-      "code": "CON/TL/003/L3",
+      "code": "CON/CJ/018/L3",
       "title": "Mix Preparation",
       "learning_outcomes": [
         {
@@ -2173,7 +2173,7 @@
       ]
     },
     {
-      "code": "CON/TL/019/L3",
+      "code": "CON/CJ/019/L3",
       "title": "Surface Preparation for Tiling",
       "learning_outcomes": [
         {
@@ -2229,7 +2229,7 @@
       ]
     },
     {
-      "code": "CON/TL/020/L3",
+      "code": "CON/CJ/020/L3",
       "title": "Math Skill in Tiling",
       "learning_outcomes": [
         {

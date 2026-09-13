@@ -50,7 +50,7 @@
         },
         {
           "lo_num": "2",
-          "description": "",
+          "description": "Maintain hygienic, safe and hazard free workplace",
           "performance_criteria": [
             {
               "pc_code": "2.1",
@@ -100,7 +100,7 @@
         },
         {
           "lo_num": "3",
-          "description": "",
+          "description": "Demonstrate Safe and Secure Workplace",
           "performance_criteria": [
             {
               "pc_code": "3.1",
@@ -220,7 +220,7 @@
         },
         {
           "lo_num": "3",
-          "description": "",
+          "description": "Understand Communication Processes in a Work Environment",
           "performance_criteria": [
             {
               "pc_code": "3.1",
@@ -250,7 +250,7 @@
         },
         {
           "lo_num": "4",
-          "description": "",
+          "description": "Understand Communication Equipment Deployment",
           "performance_criteria": [
             {
               "pc_code": "4.1",
@@ -353,7 +353,7 @@
       ]
     },
     {
-      "code": "CON/PL/OO4/L3",
+      "code": "CON/PL/004/L3",
       "title": "EXTERNAL PLUMBING PIPING LAYOUT",
       "learning_outcomes": [
         {
@@ -436,7 +436,7 @@
         },
         {
           "lo_num": "4",
-          "description": "",
+          "description": "Demonstrate sewage pipe laying in Plumbing work.",
           "performance_criteria": [
             {
               "pc_code": "4.1",
@@ -467,7 +467,7 @@
       ]
     },
     {
-      "code": "CON/PL/OO5/L3",
+      "code": "CON/PL/005/L3",
       "title": "CHECKING AND TESTING EXTERNAL PLUMBING INSTALLATION",
       "learning_outcomes": [
         {
@@ -516,7 +516,7 @@
         },
         {
           "lo_num": "3",
-          "description": "",
+          "description": "Correct Faults in Plumbing Systems to Speciﬁcation",
           "performance_criteria": [
             {
               "pc_code": "3.1",

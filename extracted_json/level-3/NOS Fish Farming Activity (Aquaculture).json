@@ -488,7 +488,7 @@
         },
         {
           "lo_num": "2",
-          "description": "Carry out fish stocking into pond and other culture systems LEARNING OUTCOME (LO)",
+          "description": "Carry out fish stocking into pond and other culture systems",
           "performance_criteria": [
             {
               "pc_code": "2.1",
@@ -504,7 +504,7 @@
             },
             {
               "pc_code": "2.4",
-              "description": "Perform correct species-specific stocking rate PERFORMANCE CRITERIA Ref. Page"
+              "description": "Perform correct species-specific stocking rate "
             }
           ]
         },
@@ -554,7 +554,7 @@
         },
         {
           "lo_num": "5",
-          "description": "Demonstrate efficient feeding of fish at various stages of production LEARNING OUTCOME (LO)",
+          "description": "Demonstrate efficient feeding of fish at various stages of production",
           "performance_criteria": [
             {
               "pc_code": "5.1",
@@ -562,7 +562,7 @@
             },
             {
               "pc_code": "5.2",
-              "description": "Keep accurate record of fish growth and feed utilization PERFORMANCE CRITERIA Ref. Page"
+              "description": "Keep accurate record of fish growth and feed utilization "
             },
             {
               "pc_code": "5.3",

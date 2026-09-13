@@ -1,0 +1,1208 @@
+{
+  "trade_name": "NOS Welding and Fabrication",
+  "level": 3,
+  "units": [
+    {
+      "code": "ENGG/WF/001/L3",
+      "title": "OCCUPATIONAL HEALTH AND SAFETY",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Demonstrate Personal health and hygiene",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "State the importance of maintaining good personal hygiene"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Wear clean, smart and appropriate personal protective equipment"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Work safely at all times by complying with health and safety and other relevant guidelines."
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Describe how to deal with cuts, burns and wounds."
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Report illness and infection promptly to the appropriate authority"
+            },
+            {
+              "pc_code": "1.6",
+              "description": "Monitor others on the general rules on hygiene that must be followed"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Maintain Hygienic, safe and hazard-free workplace.",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "State the importance of working in a healthy, safe and hygienic workplace"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "State where information about health and safety in your workplace can be obtained"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Promote health, hygiene and safety procedures during work"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Conduct emergency safety drills during work"
+            },
+            {
+              "pc_code": "2.5",
+              "description": "Describe the types of hazards in the workplace that may occur and how to deal with them"
+            },
+            {
+              "pc_code": "2.6",
+              "description": "Differentiate between hazards that can be dealt with personally and those that should be reported to appropriate authority."
+            },
+            {
+              "pc_code": "2.7",
+              "description": "Report any accidents or near- miss quickly and accurately to the appropriate authority."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Maintain clean and healthy environment.",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Promote sound and noise control."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Separate wastes into their various designated places"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Ensure the disposal of waste and Pollution control with organic and inorganic waste disposal methods"
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Demonstrate safe and secure workplace",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Carry out organisational procedures on how to warn other people about hazards and why this is important"
+            },
+            {
+              "pc_code": "4.2",
+              "description": "State why accidents and near- miss should be reported appropriately"
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Describe the types of emergencies that may happen in the workplace and how to deal with them"
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Indicate where to find the first- aid equipment and locate the authorized personnel"
+            },
+            {
+              "pc_code": "4.5",
+              "description": "Lift and handle materials in line with work environment procedure."
+            }
+          ]
+        },
+        {
+          "lo_num": "5",
+          "description": "Understand how to manage fire in a workplace",
+          "performance_criteria": [
+            {
+              "pc_code": "5.1",
+              "description": "Describe organisational fire emergency procedures."
+            },
+            {
+              "pc_code": "5.2",
+              "description": "Discuss possible causes of fire in the workplace"
+            },
+            {
+              "pc_code": "5.3",
+              "description": "Describe how to avoid the possibility of fire in the workplace"
+            },
+            {
+              "pc_code": "5.4",
+              "description": "State where to find fire alarms and how to set them off"
+            },
+            {
+              "pc_code": "5.5",
+              "description": "State why a fire should never be approached unless it is safe to"
+            },
+            {
+              "pc_code": "5.6",
+              "description": "State the importance of following the fire safety laws"
+            }
+          ]
+        },
+        {
+          "lo_num": "6",
+          "description": "Work safely in confined space. ",
+          "performance_criteria": [
+            {
+              "pc_code": "6.1",
+              "description": "Discuss the characteristics of confined space."
+            },
+            {
+              "pc_code": "6.2",
+              "description": "Discuss the procedure for permit to work in confined space"
+            },
+            {
+              "pc_code": "6.3",
+              "description": "Describe the procedures for working in a confined place."
+            },
+            {
+              "pc_code": "6.4",
+              "description": "Discuss roles of personnel working in confined space: \u2022 Attendants/Standby- man \u2022 Entrant \u2022 Entry Supervisor \u2022 Whistle Blower"
+            },
+            {
+              "pc_code": "6.5",
+              "description": "Describe confined space hazards"
+            },
+            {
+              "pc_code": "6.6",
+              "description": "Control confined space hazards"
+            },
+            {
+              "pc_code": "6.7",
+              "description": "Eliminate confined space hazards"
+            },
+            {
+              "pc_code": "6.8",
+              "description": "Perform rescue operation in confined space"
+            },
+            {
+              "pc_code": "6.9",
+              "description": "Outline rights of employee in confined space."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ENGG/WF/002/L3",
+      "title": "COMMUNICATION SYSTEM IN WORKPLACE",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understand complex communication system in a workplace",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Importance of effective communication in a workplace"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Describe simple non-verbal means of communication"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Interpret concept of symbols and signs appropriately"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Use audio and electronic means to pass on necessary information"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Understand sources of information and Management in a workplace",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Discuss sources of information in an organisation and work environment."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Access appropriate information in an organisation or work environment from relevant sources"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Use the various information flow system in an organisation or work environment to overcome challenges"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Ensure proper documentation, retrieval of information in accordance to procedure in a work environment"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Understand communication channels in a workplace",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Describe the effective use of the various communication channels in a workplace"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Demonstrate the use of various communication means in a workplace"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Ensure effective information flow to the right personnel"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Ensure the effective deployment of the use of symbols, signs and codes"
+            },
+            {
+              "pc_code": "3.5",
+              "description": "Ensure that instructions are disseminated and obeyed in line with ethics of the workplace"
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Understand communication equipment deployment",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Ensure that communication equipment is in good working condition"
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Promptly report the loss, faulty or damaged communication equipment."
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Ensure safe handling of communication equipment."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ENGG/WF/003/L3",
+      "title": "TEAM WORK",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understand various team roles in workplace",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "List the various teams in workplace: \u2022 Welders \u2022 Fitters \u2022 Helpers \u2022 QA/QC \u2022 Inspectors \u2022 Engineering"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Discuss the roles of the various teams"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Discuss how your work as a welder affects others in delivering quality output as a team."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Coordinate team activities",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Discuss the method of carrying out activities with team members."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Distribute work load and coordinate activities"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Select materials and tools required for each team activity"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Interpret directives to team members"
+            },
+            {
+              "pc_code": "2.5",
+              "description": "Ensure that team members comply with directives"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Understand communication flow",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Communicate work related information/requirement clearly to team members"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Inform co-workers and superiors about any kind of deviation from work plan"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Address the problems effectively if need be to superiors appropriately"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Gather instructions from superiors and respond effectively"
+            },
+            {
+              "pc_code": "3.5",
+              "description": "Communicate to team members/subordinates of the right work techniques and methods"
+            },
+            {
+              "pc_code": "3.6",
+              "description": "Obtain clarification and advice from superiors as per work information where necessary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ENGG/WF/004/L3",
+      "title": "INTERPRETATION OF BLUEPRINT",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understand blueprint",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Explain the term \u201cblueprint\u201d"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "List types of blueprints in engineering."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Explain parts of mechanical blueprint"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Discuss welding symbols in blueprint"
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Explain how to read blueprint for fabrication job."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Interpret blueprint",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Obtain welding details from blueprint"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Obtain fitting details from blueprint"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Obtain information on materials from blueprint"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Obtain information on reference and standard"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Know pipe pattern and development",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Explain the term \u201cpattern development\u201d."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "List the steps in pattern development"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Carry out pattern development for pipe"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ENGG/WF/005/L3",
+      "title": "PIPE WELDING.",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Carry out joint preparation for pipe welding",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Discuss different classes of pipes in terms of physical features"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Identify the types of joint in pipe welding."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Use Welding Procedures Specification (WPS) in preparing joints for pipe welding"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Justify the application of the different methods of joint preparation according to standard"
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Inspect the prepared joint: \u2022 Before \u2022 during \u2022 after"
+            },
+            {
+              "pc_code": "1.6",
+              "description": "Explain joint design"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Carry out fit-up for pipe",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Identify methods of fitting pipes together for: \u2022 The same diameter \u2022 Different diameters"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "State the importance of fitting pipes and connections: \u2022 Elbow \u2022 Spools \u2022 T-K-Y connections \u2022 Flanges"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Justify the selection of various methods of fitting pipes according to standard."
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Carryout fit-up of pipes and branch connections."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Interpret drawings and measurement to specification",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Discuss fabrication drawings and measurement to specifications"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Discuss working drawings: orthographic, isometric projections and sectioning"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Use drawings to assemble components for welding to specifications."
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Identify welding symbols"
+            },
+            {
+              "pc_code": "3.5",
+              "description": "Interpret welding symbols"
+            },
+            {
+              "pc_code": "3.6",
+              "description": "Use WPS for pipe welding operations"
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Carry out pipe welding operations",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Explain the importance of thickness and diameter in pipe welding"
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Describe the ease of welding small diameter pipes less than or equal to 100 mm (4 inches)"
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Describe the ease welding large diameter pipes greater than 100 mm (4 inches)"
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Describe the methods used in welding pipes."
+            },
+            {
+              "pc_code": "4.5",
+              "description": "Describe the techniques used for welding pipes"
+            },
+            {
+              "pc_code": "4.6",
+              "description": "Carry out pipe welding operations for the following: \u2022 Small Pipes \u2022 Large pipes \u2022 Branch connection \u2022 Different diameters"
+            },
+            {
+              "pc_code": "4.7",
+              "description": "Check for weld defects (before, during and after)"
+            },
+            {
+              "pc_code": "4.8",
+              "description": "Carry out repair on defected areas"
+            },
+            {
+              "pc_code": "4.9",
+              "description": "Carry out good house-keeping"
+            }
+          ]
+        },
+        {
+          "lo_num": "5",
+          "description": "Know costing and quotation",
+          "performance_criteria": [
+            {
+              "pc_code": "5.1",
+              "description": "Identify cost units for a given job"
+            },
+            {
+              "pc_code": "5.2",
+              "description": "Compute welding estimate for a given job"
+            },
+            {
+              "pc_code": "5.3",
+              "description": "Carry out costing for a given job"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ENGG/WF/006/L3",
+      "title": "TUNGSTEN INERT GAS (TIG) WELDING PROCESS (OPTIONAL",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Demonstrate the understanding of safety precautions in TIG welding",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Explain safety precautions in TIG welding operations"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Identify appropriate PPE in TIG welding operations"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Select appropriate PPE for use in TIG welding operations"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Know TIG welding process",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Describe TIG welding process"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Describe types of TIG welding process: \u2022 Manual \u2022 Semi-automatic \u2022 Fully automatic"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Explain set up for the types of process listed in 2.2"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Discuss the operational features of a TIG welding machine."
+            },
+            {
+              "pc_code": "2.5",
+              "description": "Describe various techniques for TIG welding: \u2022 Walking the cup/Duck walk \u2022 Lifting up"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Carry out TIG welding operations",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Identify tools and accessories used in TIG welding: \u2022 Accessories (Collet, Collet body, Ceramic cup, Cylinder gauge, Gas lens.) \u2022 Tools (Wire brush, Chipping Hammer, Tongs, Table grinder, Spindle key, Adjustable spanner, Plier)"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Select appropriate consumables for TIG welding operations: \u2022 Electrodes \u2022 Gases \u2022 Filler rods"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Set up TIG welding machine for use"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Grind tungsten electrode to standard"
+            },
+            {
+              "pc_code": "3.5",
+              "description": "Carry out TIG welding operations using appropriate techniques"
+            },
+            {
+              "pc_code": "3.6",
+              "description": "Check for weld defects"
+            },
+            {
+              "pc_code": "3.7",
+              "description": "Repair weld defects"
+            },
+            {
+              "pc_code": "3.8",
+              "description": "Carry out good housekeeping"
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Know costing and quotation",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Identify cost units for a given job"
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Compute welding estimate for a given job"
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Carry out costing for a given job"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ENGG/WF/007/L3",
+      "title": "METAL INERT GAS/METAL ACTIVE GAS (MIG/MAG)",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Demonstrate the understanding of safety precautions in MIG/MAG welding operations",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Explain safety precautions in MIG/MAG welding operations"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Identify appropriate PPE in MIG/MAG welding operations"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Select appropriate PPE for use in MIG/MAG welding operations"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Know MIG/MAG welding process",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Describe MIG/MAG welding process"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Describe types of MIG/MAG welding process: \u2022 Manual \u2022 Semi-automatic \u2022 Fully automatic"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Set-up for the types of processes listed in 2.2 above"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Discuss the operational features of a MIG/MAG welding machine."
+            },
+            {
+              "pc_code": "2.5",
+              "description": "Describe various techniques for MIG/MAG welding: \u2022 Weaving \u2022 Stringer"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Carry out MIG/MAG welding operations.",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Identify tools and accessories used in MIG/MAG welding: \u2022 Accessories (Contact tip, Nozzle, Gas diffuser, Power hose, Torch-head assembly, External wire feed unit, Welding visor) \u2022 Tools (Wire brush, Chipping Hammer, Tongs, Cutter, Spindle key, Adjustable spanner, Plier)"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Select appropriate consumables for MIG/MAG welding operations: \u2022 Gases \u2022 Filler wires"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Set up MIG/MAG welding machine for use"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Carry out MIG/MAG welding operations using appropriate techniques"
+            },
+            {
+              "pc_code": "3.5",
+              "description": "Check for weld defects"
+            },
+            {
+              "pc_code": "3.6",
+              "description": "Repair weld defects"
+            },
+            {
+              "pc_code": "3.7",
+              "description": "Carry out good housekeeping"
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Know costing and quotation",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Identify cost units for a given job"
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Compute welding estimate for a given job"
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Carry out costing for a given job"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ENGG/WF/008/L3",
+      "title": "FLUX-CORED ARC WELDING (FCAW) PROCESS (OPTIONAL UNIT).",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Demonstrate the understanding of safety precautions in FCAW operations",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Explain safety precautions in FCAW operations"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Identify appropriate PPE in FCAW operations"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Select appropriate PPE for use in FCAW operations"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Know FCAW process",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Describe FCAW process"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Describe types of FCAW process: \u2022 Manual \u2022 Semi-automatic \u2022 Fully automatic"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Set-up for the types of process listed in 2.2 above"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Discuss the operational features of a FCAW machine."
+            },
+            {
+              "pc_code": "2.5",
+              "description": "Describe various techniques for FCAW: \u2022 Weaving \u2022 Stringer"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Carry out FCAW operations.",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Identify tools and accessories used in FCAW: \u2022 Accessories (Contact tip, Nozzle, Gas diffuser, Power hose, Torch-head assembly, External wire feed unit, Welding visor) \u2022 Tools (Wire brush, Chipping Hammer, Tongs, Cutter, Spindle key, Adjustable spanner, Plier)"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Select appropriate consumables for FCAW operations: \u2022 Gases \u2022 Filler wires"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Set up FCAW machine for use"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Carry out FCAW operations using appropriate techniques"
+            },
+            {
+              "pc_code": "3.5",
+              "description": "Check for weld defects"
+            },
+            {
+              "pc_code": "3.6",
+              "description": "Repair weld defects"
+            },
+            {
+              "pc_code": "3.7",
+              "description": "Carry out good housekeeping"
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Know costing and quotation",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Identify cost units for a given job"
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Compute welding estimate for a given job"
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Carry out costing for a given job"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ENGG/WF/009/L3",
+      "title": "SUBMERGED ARC WELDING (SAW) PROCESS (OPTIONAL",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Demonstrate the understanding of safety precautions in SAW operations",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Explain safety precautions in SAW operations"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Identify appropriate PPE in SAW operations"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Select appropriate PPE for use in SAW operations"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Know SAW process",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Describe SAW process"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Describe types of SAW process: \u2022 Semi-automatic \u2022 Fully automatic"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Set-up for the types of process listed in 2.2 above"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Discuss the operational features of a SAW machine."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Carry out SAW operations.",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Identify tools and accessories used in SAW: \u2022 Accessories (Flux hopper, Nozzle, Power hose, Torch-head assembly, External wire feed unit, Plain goggle, Allen key) \u2022 Tools (Wire brush, Chipping Hammer, Tongs, Cutter, Spindle key, Adjustable spanner, Plier)"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Select appropriate consumables for SAW operations: \u2022 Filler wires \u2022 Granular Flux"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Set up SAW machine for use"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Carry out SAW operations"
+            },
+            {
+              "pc_code": "3.5",
+              "description": "Check for weld defects"
+            },
+            {
+              "pc_code": "3.6",
+              "description": "Repair weld defects"
+            },
+            {
+              "pc_code": "3.7",
+              "description": "Carry out good housekeeping"
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Know costing and quotation ",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Identify cost units for a given job"
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Compute welding estimate for a given job"
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Carry out costing for a given job"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ENGG/WF/010/L3",
+      "title": "COMBINATION WELDING PROCESS (OPTIONAL UNIT).",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Demonstrate the understanding of safety precautions in Combination Welding operations",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Explain safety precautions in Combination Welding operations"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Identify appropriate PPE in Combination Welding operations"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Select appropriate PPE for use in Combination Welding operations"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Know Combination Welding processes",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Describe Combination Welding process"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Describe types of Combination Welding processes: \u2022 TIG/MMA \u2022 TIG/FCAW \u2022 TIG/MIG/MAG \u2022 MMA/FCAW"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Set-up a multi-process welding machine for use"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Discuss the operational features of a multi process welding machine"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Carry out Combination Welding operations",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Select appropriate consumables for Combination Welding operations"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Set up appropriate machine for Combination Weld"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Carry out Combination Welding operations"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Check for weld defects"
+            },
+            {
+              "pc_code": "3.5",
+              "description": "Repair weld defects"
+            },
+            {
+              "pc_code": "3.6",
+              "description": "Carry out good housekeeping"
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Know costing and quotation",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Identify cost units for a given job"
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Compute welding estimate for a given job"
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Carry out costing for a given job"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ENGG/WF/011/L3",
+      "title": "COMPOSITE WELDING (OPTIONAL UNIT).",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Demonstrate the understanding of safety precautions in Composite Welding operations",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Explain safety precautions in Composite Welding operations"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Identify appropriate PPE in Composite Welding operations"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Select appropriate PPE for use in Composite Welding operations"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Understand Composite Materials",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Define composite materials"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "List the different types of composite materials for welding operations"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "State the importance of composite materials for welding operations"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Discuss properties of composite materials for welding operations"
+            },
+            {
+              "pc_code": "2.5",
+              "description": "Select appropriate composite materials for a given task"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Know Composite Welding process",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Describe Composite Welding operations"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Set-up a multi process welding machine"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Discuss the operational features of a multi process welding machine."
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Carry out Composite Welding",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Describe Composite Welding"
+            },
+            {
+              "pc_code": "4.2",
+              "description": "State the reason for Composite Welding"
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Prepare materials for Composite Welding"
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Carry out Composite Welding using different processes: \u2022 Induction \u2022 Ultrasonic \u2022 TIG \u2022 Resistance \u2022 Fusion Bonding \u2022 MMA"
+            },
+            {
+              "pc_code": "4.5",
+              "description": "Check for weld defects"
+            },
+            {
+              "pc_code": "4.6",
+              "description": "Repair weld defects"
+            },
+            {
+              "pc_code": "4.7",
+              "description": "Carry out good housekeeping"
+            }
+          ]
+        },
+        {
+          "lo_num": "5",
+          "description": "Know costing and quotation",
+          "performance_criteria": [
+            {
+              "pc_code": "5.1",
+              "description": "Identify cost units for a given job"
+            },
+            {
+              "pc_code": "5.2",
+              "description": "Compute welding estimate for a given job"
+            },
+            {
+              "pc_code": "5.3",
+              "description": "Carry out costing for a given job ."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

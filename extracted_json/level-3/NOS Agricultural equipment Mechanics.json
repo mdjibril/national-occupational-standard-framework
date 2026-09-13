@@ -179,25 +179,26 @@
             {
               "pc_code": "3.3",
               "description": "Use non-verbal means to pass on necessary information e.g. body language."
-            },
-            {
-              "pc_code": "3.1",
-              "description": "List the importance of mixed-up messages in communication."
-            },
-            {
-              "pc_code": "3.2",
-              "description": "List, with examples, barriers to workshop/ workplace communication."
-            },
-            {
-              "pc_code": "3.3",
-              "description": "Explain how physical instructions can impede communication process."
             }
           ]
         },
         {
           "lo_num": "4",
           "description": "Understand factors constituting barriers to effective communication.",
-          "performance_criteria": []
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "List the importance of mixed-up messages in communication."
+            },
+            {
+              "pc_code": "4.2",
+              "description": "List, with examples, barriers to workshop/ workplace communication."
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Explain how physical instructions can impede communication process."
+            }
+          ]
         },
         {
           "lo_num": "5",
@@ -849,7 +850,7 @@
         },
         {
           "lo_num": "3",
-          "description": "Identify common types of faults in harvesting equipment LEARNING OBJECTIVE (LO)",
+          "description": "Identify common types of faults in harvesting equipment",
           "performance_criteria": [
             {
               "pc_code": "3.1",
@@ -1025,7 +1026,7 @@
         },
         {
           "lo_num": "4",
-          "description": "Carry out Engine Inspection, Repair, and Performance Testing \u2022 Piston rings \u2022 Valve seats, etc.",
+          "description": "Carry out Engine Inspection, Repair, and Performance Testing",
           "performance_criteria": [
             {
               "pc_code": "4.1",
@@ -1041,7 +1042,7 @@
             },
             {
               "pc_code": "4.4",
-              "description": "Measure and evaluate wear on engine components: \u2022 Cylinder bore"
+              "description": "Measure and evaluate wear on engine components: \u2022 Cylinder bore  \u2022 Piston rings \u2022 Valve seats, etc."
             },
             {
               "pc_code": "4.5",
@@ -1106,35 +1107,35 @@
               "description": "Use suitable personal protective equipment when carrying out repairs."
             },
             {
-              "pc_code": "7.2",
+              "pc_code": "7.3",
               "description": "Carry out all repair activities following: manufacturers' instructions Health, Safety and Environment requirements."
             },
             {
-              "pc_code": "7.3",
+              "pc_code": "7.4",
               "description": "Use the tools and equipment required, correctly and safely throughout all repair activities"
             },
             {
-              "pc_code": "7.4",
+              "pc_code": "7.5",
               "description": "Adjust components and units correctly to ensure that they operate to meet system requirements."
             },
             {
-              "pc_code": "7.5",
+              "pc_code": "7.6",
               "description": "Demonstrate procedures for dismantling and assembling a transmission system and its associated components."
             },
             {
-              "pc_code": "7.6",
+              "pc_code": "7.7",
               "description": "Demonstrate procedures for repairing and/or replacing component parts of a transmission system and its associated components."
             },
             {
-              "pc_code": "7.7",
+              "pc_code": "7.8",
               "description": "Apply procedures for measuring and evaluating wear on component parts of the transmission system."
             },
             {
-              "pc_code": "7.8",
+              "pc_code": "7.9",
               "description": "Demonstrate procedures for repairing and replacing automatic transmission system."
             },
             {
-              "pc_code": "7.9",
+              "pc_code": "7.10",
               "description": "Demonstrate procedures for operational testing of automatic transmission system components."
             }
           ]
@@ -1266,34 +1267,29 @@
         {
           "lo_num": "3",
           "description": ": Follow Up Service",
-          "performance_criteria": []
-        },
-        {
-          "lo_num": "4",
-          "description": "",
           "performance_criteria": [
             {
-              "pc_code": "4.1",
+              "pc_code": "3.1",
               "description": "Compile further customer approval where the contracted agreement is likely to be exceeded."
             },
             {
-              "pc_code": "4.2",
+              "pc_code": "3.2",
               "description": "Describe how to get feedback from customers."
             },
             {
-              "pc_code": "4.3",
+              "pc_code": "3.3",
               "description": "Carryout customer satisfaction survey."
             },
             {
-              "pc_code": "4.4",
+              "pc_code": "3.4",
               "description": "Obtain customer feedback on completed jobs."
             },
             {
-              "pc_code": "4.5",
+              "pc_code": "3.5",
               "description": "Analyze customer feedback."
             }
           ]
-        }
+        } 
       ]
     }
   ]

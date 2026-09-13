@@ -1,6 +1,6 @@
 {
-  "trade_name": "NOS ICT Digital Service Operations L3",
-  "level": 2,
+  "trade_name": "NOS ICT Digital Service Operations",
+  "level": 3,
   "units": [
     {
       "code": "ICT/DSO/L3/001",
@@ -52,7 +52,7 @@
         },
         {
           "lo_num": "3",
-          "description": "Understand Accident in workplace Ref. Page No. LEARNING OBJECTIVE (LO)",
+          "description": "Understand Accident in workplace",
           "performance_criteria": [
             {
               "pc_code": "3.1",
@@ -60,7 +60,7 @@
             },
             {
               "pc_code": "3.2",
-              "description": "State causes of accidents in workplace PERFORMANCE Evidence Ref. Page No. CRITERIA"
+              "description": "State causes of accidents in workplace"
             },
             {
               "pc_code": "3.3",
@@ -116,7 +116,7 @@
         },
         {
           "lo_num": "3",
-          "description": "Understand elements of Communication in workplace LEARNING OBJECTIVE (LO) Ref. Page No.",
+          "description": "Understand elements of Communication in workplace",
           "performance_criteria": [
             {
               "pc_code": "3.1",
@@ -128,13 +128,13 @@
             },
             {
               "pc_code": "3.3",
-              "description": "Pass verbal information/instruction on the job CRITERIA"
+              "description": "Pass verbal information/instruction on the job"
             }
           ]
         },
         {
           "lo_num": "4",
-          "description": "Communicate to immediate supervisor/team members LEARNING OBJECTIVE (LO) Ref. Page No.",
+          "description": "Communicate to immediate supervisor/team members",
           "performance_criteria": [
             {
               "pc_code": "4.1",
@@ -184,11 +184,11 @@
         },
         {
           "lo_num": "2",
-          "description": "Understand how to relate with team members Ref. Page No. LEARNING OBJECTIVE (LO)",
+          "description": "Understand how to relate with team members",
           "performance_criteria": [
             {
               "pc_code": "2.1",
-              "description": "Explain the need for good working relationship with team members at the workplace. PERFORMANCE Evidence Ref. Page No. CRITERIA"
+              "description": "Explain the need for good working relationship with team members at the workplace."
             },
             {
               "pc_code": "2.2",
@@ -210,7 +210,7 @@
         },
         {
           "lo_num": "3",
-          "description": "Observe Positive Work Relationships with colleagues Ref. Page No. LEARNING OBJECTIVE (LO)",
+          "description": "Observe Positive Work Relationships with colleagues",
           "performance_criteria": [
             {
               "pc_code": "3.1",
@@ -218,7 +218,7 @@
             },
             {
               "pc_code": "3.2",
-              "description": "Relate with other members at workplace PERFORMANCE Evidence Ref. Page No. CRITERIA"
+              "description": "Relate with other members at workplace"
             },
             {
               "pc_code": "3.3",
@@ -332,7 +332,7 @@
         },
         {
           "lo_num": "2",
-          "description": "",
+          "description": "Understand data processing with server-side scripting",
           "performance_criteria": [
             {
               "pc_code": "2.1",
@@ -435,21 +435,27 @@
             {
               "pc_code": "2.3",
               "description": "Explain Port, Service and Data Enumeration as it relates to hacking"
-            },
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Carry out ethical hacking",
+          "performance_criteria": [
             {
-              "pc_code": "2.1",
+              "pc_code": "3.1",
               "description": "Detect Ransomware Attack"
             },
             {
-              "pc_code": "2.2",
+              "pc_code": "3.2",
               "description": "Detect Phishing"
             },
             {
-              "pc_code": "2.3",
+              "pc_code": "3.3",
               "description": "Recover hacked facebook account"
             },
             {
-              "pc_code": "2.4",
+              "pc_code": "3.4",
               "description": "Recover Hacked Whatsapp account"
             }
           ]
@@ -586,7 +592,7 @@
         },
         {
           "lo_num": "3",
-          "description": "",
+          "description": "Understand Database Structured Query Langauge and Managment System",
           "performance_criteria": [
             {
               "pc_code": "3.1",
@@ -722,7 +728,7 @@
         },
         {
           "lo_num": "3",
-          "description": "",
+          "description": "Know Digital Marketing Matrices",
           "performance_criteria": [
             {
               "pc_code": "3.1",
@@ -730,11 +736,11 @@
             },
             {
               "pc_code": "3.2",
-              "description": ""
+              "description": "Describe how to measure online marketing success with digital marketing tools"
             },
             {
               "pc_code": "3.3",
-              "description": ""
+              "description": "Conduct analysis of digital marketing campaign"
             }
           ]
         }
@@ -772,7 +778,7 @@
         },
         {
           "lo_num": "2",
-          "description": "",
+          "description": "Understand the tools, techniques and stakeholders",
           "performance_criteria": [
             {
               "pc_code": "2.1",
@@ -866,7 +872,7 @@
         },
         {
           "lo_num": "3",
-          "description": "",
+          "description": "Understand knowledge management infrastructure",
           "performance_criteria": [
             {
               "pc_code": "3.1",
@@ -878,7 +884,7 @@
             },
             {
               "pc_code": "3.3",
-              "description": "Explain ways in which knowledge management infrastructure impacts business Define the key components of"
+              "description": "Explain ways in which knowledge management infrastructure impacts business"
             }
           ]
         }
@@ -926,7 +932,7 @@
         },
         {
           "lo_num": "3",
-          "description": "",
+          "description": "Know environmental analysis tools and techniques",
           "performance_criteria": [
             {
               "pc_code": "3.1",
@@ -948,7 +954,7 @@
         },
         {
           "lo_num": "4",
-          "description": "",
+          "description": "Understand the Role of Strategy in Digital Service Operations",
           "performance_criteria": [
             {
               "pc_code": "4.1",

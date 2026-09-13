@@ -100,7 +100,7 @@
         },
         {
           "lo_num": "5",
-          "description": "Apply safe work habit and clean work environment in livestock processing plants OBJECTIVE (LO)",
+          "description": "Apply safe work habit and clean work environment in livestock processing plants",
           "performance_criteria": [
             {
               "pc_code": "5.1",
@@ -350,7 +350,7 @@
         },
         {
           "lo_num": "3",
-          "description": "Maintain equipment handling before and after usage Ref. Page No.",
+          "description": "Maintain equipment handling before and after usage",
           "performance_criteria": [
             {
               "pc_code": "3.1",
@@ -505,7 +505,7 @@
       ]
     },
     {
-      "code": "AHP/LSF/007/L2",
+      "code": "AHP/LSF/007/L3",
       "title": "Meat and milk handling Techniques",
       "learning_outcomes": [
         {
@@ -646,7 +646,7 @@
         },
         {
           "lo_num": "3",
-          "description": "OBJECTIVE (LO) Understand the techniques for formulating feeds for ruminant animals",
+          "description": "Understand the techniques for formulating feeds for ruminant animals",
           "performance_criteria": [
             {
               "pc_code": "3.1",

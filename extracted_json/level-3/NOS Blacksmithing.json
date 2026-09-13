@@ -179,37 +179,37 @@
           ]
         },
         {
-          "lo_num": "5",
+          "lo_num": "4",
           "description": "Demonstrate Safety Measures in Welding and Metal Joining Operations",
           "performance_criteria": [
             {
-              "pc_code": "5.1",
+              "pc_code": "4.1",
               "description": "Identify potential hazards associated with welding and joining operations."
             },
             {
-              "pc_code": "5.2",
+              "pc_code": "4.2",
               "description": "Use appropriate personal protective equipment (PPE) such as welding helmets, gloves, aprons, etc."
             },
             {
-              "pc_code": "5.3",
+              "pc_code": "4.3",
               "description": "Follow workplace safety protocols, including proper ventilation and fire prevention."
             }
           ]
         },
         {
-          "lo_num": "6",
+          "lo_num": "5",
           "description": "Evaluate the Strength and Quality of Welded and Joined Metal Components",
           "performance_criteria": [
             {
-              "pc_code": "6.1",
+              "pc_code": "5.1",
               "description": "Conduct visual and mechanical tests on welded joints."
             },
             {
-              "pc_code": "6.2",
+              "pc_code": "5.2",
               "description": "Assess weld quality based on penetration, bead uniformity, and defect presence."
             },
             {
-              "pc_code": "6.3",
+              "pc_code": "5.3",
               "description": "Recommend improvements for welding and joining techniques to enhance quality."
             }
           ]

@@ -8,7 +8,7 @@
       "learning_outcomes": [
         {
           "lo_num": "1",
-          "description": "",
+          "description": "Use Tools, Equipment and Materials in a High-Rise structures Construction Sites",
           "performance_criteria": [
             {
               "pc_code": "1.1",
@@ -25,6 +25,10 @@
             {
               "pc_code": "1.4",
               "description": "Supervise the erection of the required equipment in accordance with specification."
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Use the appropraite tools and equipment for painting and decoration of high- rise structures"
             },
             {
               "pc_code": "1.6",
@@ -71,15 +75,15 @@
               "description": "Describe the prevention of defects in painting and decoration such as clean the surface, choose high quality materials, apply paint correctly, control temperature, monitor the painting process and use of compatible materials"
             },
             {
-              "pc_code": "3.5",
+              "pc_code": "3.4",
               "description": "Describe safety requirement for painting and decorating in high rise structure."
             },
             {
-              "pc_code": "3.6",
+              "pc_code": "3.5",
               "description": "Apply safety guidelines in high- rise structures."
             },
             {
-              "pc_code": "3.7",
+              "pc_code": "3.6",
               "description": "Review work methods for high rise structure in accordance with specification."
             }
           ]
@@ -338,7 +342,7 @@
         },
         {
           "lo_num": "3",
-          "description": "",
+          "description": "Apply Paint Using Different Methods and Techniques",
           "performance_criteria": [
             {
               "pc_code": "3.1",
@@ -347,6 +351,10 @@
             {
               "pc_code": "3.2",
               "description": "Use specialized decorative techniques to enhance visual appeal."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Maintain uniform color, texture, and sheen"
             },
             {
               "pc_code": "3.4",
@@ -439,7 +447,7 @@
               "description": "Describe areas for various spots that require patching or sanding that can affect the smoothness of surface preparation."
             },
             {
-              "pc_code": "3.5",
+              "pc_code": "3.4",
               "description": "Match patterns of wall paper and wall panels, for installation."
             }
           ]
@@ -510,11 +518,15 @@
         },
         {
           "lo_num": "2",
-          "description": "",
+          "description": "Prepare Detailed Cost Estimates for Painting and Decorating Works",
           "performance_criteria": [
             {
               "pc_code": "2.1",
               "description": "- Create a detailed Bill of Quantities (BOQ) listing required materials and labor."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Apply unit cost rates to estimate total expenses for the project."
             },
             {
               "pc_code": "2.3",
@@ -566,7 +578,7 @@
         },
         {
           "lo_num": "2",
-          "description": "",
+          "description": " Allocate Resources for Painting and Decoration Projects",
           "performance_criteria": [
             {
               "pc_code": "2.1",
@@ -656,7 +668,7 @@
         },
         {
           "lo_num": "2",
-          "description": "",
+          "description": "Entrepreneurship and Business Opportunities",
           "performance_criteria": [
             {
               "pc_code": "2.1",
@@ -669,6 +681,10 @@
             {
               "pc_code": "2.3",
               "description": "Evaluate business opportunities, considering Strengths, Weaknesses, Opportunities and Threats (SWOT ANALYSIS)."
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Develop business skills e.g. bargaining, communicating, leadership,problem solving, time management, financial management, branding, market research, quality control, customer service, risk management and marketing"
             },
             {
               "pc_code": "2.5",
@@ -690,7 +706,7 @@
         },
         {
           "lo_num": "3",
-          "description": "",
+          "description": "Business Goodwill",
           "performance_criteria": [
             {
               "pc_code": "3.1",
@@ -716,7 +732,7 @@
         },
         {
           "lo_num": "4",
-          "description": "",
+          "description": "Record keeping and accountability procedures",
           "performance_criteria": [
             {
               "pc_code": "4.1",
@@ -735,12 +751,16 @@
               "description": "Recommend types of record keeping e.g. financial, operational, administrative, customer, regulatory, human resource and project record keeping."
             },
             {
-              "pc_code": "4.4",
+              "pc_code": "4.5",
               "description": "Use required accounting procedures."
             },
             {
-              "pc_code": "4.5",
+              "pc_code": "4.6",
               "description": "Adapt record keeping practices."
+            },
+            {
+              "pc_code": "4.7",
+              "description": "Supervise the implementation of proper business and accounting records"
             }
           ]
         }
@@ -774,11 +794,11 @@
         },
         {
           "lo_num": "2",
-          "description": "",
+          "description": "Professionalism, Citizenships and National values",
           "performance_criteria": [
             {
               "pc_code": "2.1",
-              "description": ""
+              "description": "Promote professional development relevant to painting and decorating"
             },
             {
               "pc_code": "2.2",
@@ -789,6 +809,10 @@
               "description": "Describe the structure of the three arms of Government in Nigeria i.e. Executive, Legislature and Judiciary"
             },
             {
+              "pc_code": "2.4",
+              "description": "Interpret government roles and rights, and Know the ethics of a professional e.g. integrity, objectivity, respect, responsibility, competence, trust and fairness"
+            },
+            {
               "pc_code": "2.5",
               "description": "Identify the progression line of a structure e.g. NSQ level I, II, III, IV, V, VI, VII, VIII, and IX"
             }
@@ -796,11 +820,11 @@
         },
         {
           "lo_num": "3",
-          "description": "Code of practice and operational guidelines Describe the relationship between the code of practice and operational guidelines.",
+          "description": "Code of practice and operational guidelines ",
           "performance_criteria": [
             {
               "pc_code": "3.1",
-              "description": ""
+              "description": "Describe the relationship between the code of practice and operational guidelines."
             },
             {
               "pc_code": "3.2",

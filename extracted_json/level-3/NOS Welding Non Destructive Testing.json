@@ -1,0 +1,910 @@
+{
+  "trade_name": "NOS Welding Non Destructive Testing",
+  "level": 3,
+  "units": [
+    {
+      "code": "ENGG/WF/001/L3",
+      "title": "OCCUPATIONAL HEALTH AND SAFETY",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Demonstrate personal health and hygiene",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "State the importance of maintaining good personal hygiene"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Wear clean, smart and appropriate personal protective equipment"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Work safely at all times by complying with health, safety and other relevant guidelines."
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Describe how to deal with cuts, burns and wounds."
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Report illness and infection promptly to the appropriate authority"
+            },
+            {
+              "pc_code": "1.6",
+              "description": "Monitor others on the general rules on hygiene that must be followed"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Maintain hygienic, safe and hazard-free workplace.",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "State the importance of working in a healthy, safe and hygienic workplace"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "State where information about health and safety in your workplace can be obtained"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Promote health, hygiene and safety procedures during work"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Conduct emergency safety drills during work"
+            },
+            {
+              "pc_code": "2.5",
+              "description": "Describe the types of hazards in the workplace that may occur and how to deal with them"
+            },
+            {
+              "pc_code": "2.6",
+              "description": "Differentiate between hazards that can be dealt with personally and those that should be reported to appropriate authority."
+            },
+            {
+              "pc_code": "2.7",
+              "description": "Report any accidents or near- miss quickly and accurately to the appropriate authority."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Maintain clean and healthy environment.",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Promote sound and noise control."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Separate wastes into their various designated places"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Ensure the disposal of waste and pollution control with organic and inorganic waste disposal methods"
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Demonstrate safe and secure workplace",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Carry out organisational procedures on how to warn other people about hazards and why this is important"
+            },
+            {
+              "pc_code": "4.2",
+              "description": "State why accidents and near- miss should be reported appropriately"
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Describe the types of emergencies that may happen in the workplace and how to deal with them"
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Indicate where to find the first- aid equipment and locate the authorized personnel"
+            },
+            {
+              "pc_code": "4.5",
+              "description": "Lift and handle materials in line with work environment procedure."
+            }
+          ]
+        },
+        {
+          "lo_num": "5",
+          "description": "Understand how to manage fire in a workplace",
+          "performance_criteria": [
+            {
+              "pc_code": "5.1",
+              "description": "Describe fire emergency procedures."
+            },
+            {
+              "pc_code": "5.2",
+              "description": "Discuss possible causes of fire in the workplace"
+            },
+            {
+              "pc_code": "5.3",
+              "description": "Describe how to avoid the possibility of fire in the workplace"
+            },
+            {
+              "pc_code": "5.4",
+              "description": "State where to find fire alarms and how to set them off"
+            },
+            {
+              "pc_code": "5.5",
+              "description": "State why a fire should never be approached unless it is safe to"
+            },
+            {
+              "pc_code": "5.6",
+              "description": "State the importance of following the fire safety rules"
+            }
+          ]
+        },
+        {
+          "lo_num": "6",
+          "description": "Work safely in confined space. ",
+          "performance_criteria": [
+            {
+              "pc_code": "6.1",
+              "description": "Discuss the characteristics of confined space."
+            },
+            {
+              "pc_code": "6.2",
+              "description": "Discuss the procedure for permit to work in confined space"
+            },
+            {
+              "pc_code": "6.3",
+              "description": "Describe the procedures for working in a confined place."
+            },
+            {
+              "pc_code": "6.4",
+              "description": "Discuss roles of personnel working in confined space: \u2022 Attendants/Standby- man \u2022 Entrant \u2022 Entry Supervisor \u2022 Whistle Blower"
+            },
+            {
+              "pc_code": "6.5",
+              "description": "Describe confined space hazards"
+            },
+            {
+              "pc_code": "6.6",
+              "description": "Control confined space hazards"
+            },
+            {
+              "pc_code": "6.7",
+              "description": "Eliminate confined space hazards"
+            },
+            {
+              "pc_code": "6.8",
+              "description": "Perform rescue operation in confined space"
+            },
+            {
+              "pc_code": "6.9",
+              "description": "Outline rights of employee in confined space."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ENGG/WF/002/L3",
+      "title": "COMMUNICATION SYSTEM IN WORKPLACE",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understand advance communication system in a workplace",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Discuss importance of effective communication in a workplace"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Describe simple non-verbal means of communication"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Interpret concept of symbols and signs appropriately"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Use audio and electronic means to pass on necessary information"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Understand sources of information and Management in a workplace",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Discuss sources of information in an organisation and work environment."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Access appropriate information in an organisation or work environment from relevant sources"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Use the various information flow system in an organisation or work environment to overcome challenges"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Ensure proper documentation, retrieval of information in accordance to procedure in a work environment"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Understand communication channels in a workplace",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Describe the effective use of the various communication channels in a workplace"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Demonstrate the use of various communication means in a workplace"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Ensure effective information flow to the right personnel"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Ensure the effective deployment of the use of symbols, signs and codes"
+            },
+            {
+              "pc_code": "3.5",
+              "description": "Ensure that instructions are disseminated and obeyed in line with ethics of the workplace"
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Understand communication equipment deployment",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Ensure that communication equipment is in good working condition"
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Promptly report the loss, faulty or damaged communication equipment."
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Ensure safe handling of communication equipment."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ENGG/WF/003/L3",
+      "title": "TEAM WORK",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understand various team roles in workplace",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "List the various teams in workplace: \u2022 Fitter \u2022 Welders \u2022 Helpers \u2022 QA/QC \u2022 Inspectors \u2022 Engineering \u2022 Etc"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Discuss the roles of the various teams in 1.1"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Discuss how your work as a fitter affects others in delivering quality output as a team."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Coordinate team activities",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Discuss the method of carrying out activities with team members."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Distribute work load and coordinate activities"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Select materials and tools required for each team activity"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Interpret directives to team members"
+            },
+            {
+              "pc_code": "2.5",
+              "description": "Ensure that team members comply with directives"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Understand communication flow",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Communicate work related information/requirement clearly to team members"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Inform co-workers and superiors about any kind of deviation from work plan"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Address the problems effectively if need be to superiors appropriately"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Received instructions from superiors and respond effectively"
+            },
+            {
+              "pc_code": "3.5",
+              "description": "Communicate to team members/subordinates of the right work techniques and methods"
+            },
+            {
+              "pc_code": "3.6",
+              "description": "Obtain clarification and advice from superiors as per work information where necessary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ENGG/WFR/015/L3",
+      "title": "RADIOGRAPHY TESTING",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understand Personal safety and radiation protection",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Explain exposure to X rays and gamma rays"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "List dangers of excessive exposure to X rays and gamma rays"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "List ways of personal monitoring: \u2022 Wearing of monitoring badges \u2022 Reading of pocket dosimeters \u2022 Recording of daily dosimeter reading \u2022 Off-scale dosimeter-action required"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Carry out RT putting on monitoring badge"
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Carry out RT putting on pocket dosimeter"
+            },
+            {
+              "pc_code": "1.6",
+              "description": "Document your daily dosimeter"
+            },
+            {
+              "pc_code": "1.7",
+              "description": "Explain permissible doses"
+            },
+            {
+              "pc_code": "1.8",
+              "description": "List method of controlling exposure dose: \u2022 Time \u2022 Distance \u2022 Shielding"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Demonstrate the knowledge and skills of radiography test (RT)",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Define radiography"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "List types of radiography: \u2022 X ray \u2022 Gamma ray"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Explain radiography set-up"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Identify X ray equipment"
+            },
+            {
+              "pc_code": "2.5",
+              "description": "Identify gamma ray equipment"
+            },
+            {
+              "pc_code": "2.6",
+              "description": "Set up X ray equipment"
+            },
+            {
+              "pc_code": "2.7",
+              "description": "Set up gamma ray equipment"
+            },
+            {
+              "pc_code": "2.8",
+              "description": "Identify the class RT belong to (volumetric or visual)"
+            },
+            {
+              "pc_code": "2.9",
+              "description": "List the limitations of radiography test"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Understand the physical principle of RT",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "List the penetrating radiation: \u2022 X rays \u2022 Gamma rays"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Explain wavelength and energy"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Explain principle of radioactive decay"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Explain properties of propagation of penetrant radiation"
+            },
+            {
+              "pc_code": "3.5",
+              "description": "Explain Absorption coefficient, half- thickness"
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Understand Equipment- radiation sources",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Explain X ray generator and tube, target material and characteristics, configuration, focus, heat dissipation"
+            },
+            {
+              "pc_code": "4.2",
+              "description": "List various accessories of X ray equipment \u2022 Film markers \u2022 Cassette holder \u2022 Film viewer \u2022 Film developer \u2022 Drier \u2022 Hanger \u2022 etc"
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Identify the basic component and control of X ray equipment"
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Use X ray equipment and accessories"
+            },
+            {
+              "pc_code": "4.5",
+              "description": "Define radioisotopes"
+            },
+            {
+              "pc_code": "4.6",
+              "description": "List types of radioisotope: \u2022 Hydrogen-3 (tritium) 12.32yrs \u2022 Carbon-14 5,700yrs \u2022 Chlorine-36 301,000yrs \u2022 Lead-210 22.2yrs"
+            },
+            {
+              "pc_code": "4.7",
+              "description": "Identify the spectrum of the radioisotope and its activity"
+            },
+            {
+              "pc_code": "4.8",
+              "description": "Dismantle and couple X ray tubes and accessories"
+            }
+          ]
+        },
+        {
+          "lo_num": "5",
+          "description": "Know Photographic and photographic recording",
+          "performance_criteria": [
+            {
+              "pc_code": "5.1",
+              "description": "Define film for RT"
+            },
+            {
+              "pc_code": "5.2",
+              "description": "Identify classes of industrial radiographic films"
+            },
+            {
+              "pc_code": "5.3",
+              "description": "relate the code of the film to its properties (grain size, contrast, speed);"
+            },
+            {
+              "pc_code": "5.4",
+              "description": "Explain photographic recording"
+            },
+            {
+              "pc_code": "5.5",
+              "description": "List types of screen: \u2022 Lead \u2022 Fluorescent"
+            },
+            {
+              "pc_code": "5.6",
+              "description": "Distinguish between the types of screens and their applications."
+            },
+            {
+              "pc_code": "5.7",
+              "description": "Select appropriate film for a given task"
+            },
+            {
+              "pc_code": "5.8",
+              "description": "Develop exposed film"
+            },
+            {
+              "pc_code": "5.9",
+              "description": "Record data generated"
+            },
+            {
+              "pc_code": "5.10",
+              "description": "Compare data with established standards"
+            }
+          ]
+        },
+        {
+          "lo_num": "6",
+          "description": "Understand work parameters and conditions",
+          "performance_criteria": [
+            {
+              "pc_code": "6.1",
+              "description": "Explain parameters and work conditions"
+            },
+            {
+              "pc_code": "6.2",
+              "description": "Explain image quality, contrast and definition"
+            },
+            {
+              "pc_code": "6.3",
+              "description": "Define density measures"
+            },
+            {
+              "pc_code": "6.4",
+              "description": "Explain image density"
+            },
+            {
+              "pc_code": "6.5",
+              "description": "List factors that can affect density: \u2022 Total number of X-rays that reach the film \u2022 Penetrating power of X-rays \u2022 The developing time \u2022 The temperature of the developer"
+            },
+            {
+              "pc_code": "6.6",
+              "description": "List causes of defective radiography: \u2022 Distorted images \u2022 Finger marks \u2022 Blurred images \u2022 Double exposure \u2022 Undeveloped/ clear area of film \u2022 Etc"
+            },
+            {
+              "pc_code": "6.7",
+              "description": "List remedy for 6.6 above"
+            },
+            {
+              "pc_code": "6.8",
+              "description": "Explain darkroom"
+            },
+            {
+              "pc_code": "6.9",
+              "description": "List equipment in the darkroom: \u2022 Safe light \u2022 Developer \u2022 Focus finder \u2022 Darkroom trays \u2022 etc"
+            },
+            {
+              "pc_code": "6.10",
+              "description": "Explain film processing"
+            },
+            {
+              "pc_code": "6.11",
+              "description": "List processing defects: \u2022 High density \u2022 Low density \u2022 Contrast \u2022 Definition \u2022 Fog"
+            }
+          ]
+        },
+        {
+          "lo_num": "7",
+          "description": "Know Processing of film",
+          "performance_criteria": [
+            {
+              "pc_code": "7.1",
+              "description": "Mix chemical for development to the right proportion"
+            },
+            {
+              "pc_code": "7.2",
+              "description": "Extract film from jacket"
+            },
+            {
+              "pc_code": "7.3",
+              "description": "Immerse film in developer"
+            },
+            {
+              "pc_code": "7.4",
+              "description": "Immerse film in fixer"
+            },
+            {
+              "pc_code": "7.5",
+              "description": "Immersed film in washer and wash"
+            },
+            {
+              "pc_code": "7.6",
+              "description": "Dry the film in the drier"
+            },
+            {
+              "pc_code": "7.7",
+              "description": "View film with the film viewer"
+            }
+          ]
+        },
+        {
+          "lo_num": "8",
+          "description": "Demonstrate the skills of techniques selection in RT process",
+          "performance_criteria": [
+            {
+              "pc_code": "8.1",
+              "description": "Explain techniques according to the geometry of the object"
+            },
+            {
+              "pc_code": "8.2",
+              "description": "Explain: \u2022 Single wall/single image \u2022 Double wall/double image \u2022 Double wall/Single image"
+            },
+            {
+              "pc_code": "8.3",
+              "description": "Explain Panoramic exposure"
+            },
+            {
+              "pc_code": "8.4",
+              "description": "Explain Thickness compensation"
+            },
+            {
+              "pc_code": "8.5",
+              "description": "Explain Masks"
+            },
+            {
+              "pc_code": "8.6",
+              "description": "Select appropriate film"
+            },
+            {
+              "pc_code": "8.7",
+              "description": "Put film in the appropriate gasket"
+            },
+            {
+              "pc_code": "8.8",
+              "description": "Mount film on object or test piece"
+            },
+            {
+              "pc_code": "8.9",
+              "description": "Set idle time and exposure time"
+            },
+            {
+              "pc_code": "8.10",
+              "description": "Conduct radiography test"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ENGG/WFU/016/L3",
+      "title": "ULTRASONIC TESTING",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understand Principles and Fundamentals of Ultrasonic",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Define ultrasonic"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "List ultrasonic terminologies: \u2022 Frequency, \u2022 Amplitude, \u2022 Reflection, \u2022 Speed of propagation \u2022 Wavelength etc"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Define the terminologies in 1.2 above"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Explain the concepts relating to frequency, amplitude, wave length and speed of propagation"
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Define sensor"
+            },
+            {
+              "pc_code": "1.6",
+              "description": "List types of sensor: \u2022 Normal \u2022 Angular \u2022 Emitter-receiver"
+            },
+            {
+              "pc_code": "1.7",
+              "description": "Define sonic filed"
+            },
+            {
+              "pc_code": "1.8",
+              "description": "explain the relationship between transducer size, frequency and tested material on sonic field"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Know Testing Techniques and Limitations",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Define techniques in UT"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "List various types of techniques in UT: \u2022 Pulse-echo \u2022 Direct contact \u2022 Transmission \u2022 Resonance etc"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Define coupling in UT"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Define the characteristics of a good couplant;"
+            },
+            {
+              "pc_code": "2.5",
+              "description": "List substances which can be used as a good couplants: \u2022 Oil \u2022 Grease \u2022 Glycerine"
+            },
+            {
+              "pc_code": "2.6",
+              "description": "Describe the nature of the transmission technique"
+            },
+            {
+              "pc_code": "2.7",
+              "description": "list the applications and limitations of the transmission technique"
+            },
+            {
+              "pc_code": "2.8",
+              "description": "State the basic principle of the pulse- echo technique;"
+            },
+            {
+              "pc_code": "2.9",
+              "description": "list the applications and limitations of the technique"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Understand UT equipment and accessories",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Describe UT equipment"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "List types of UT equipment"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "List UT accessories: \u2022 Probe \u2022 Reference block"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "List types of probes: \u2022 Angular shear wave \u2022 Straight beam"
+            },
+            {
+              "pc_code": "3.5",
+              "description": "Set-up UT equipment"
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Calibrate testing equipment",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Define calibration"
+            },
+            {
+              "pc_code": "4.2",
+              "description": "List calibration equipment: \u2022 Calibration block \u2022 Reference block"
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Explain checking the calibration of equipment: \u2022 consideration of differences in speed of propagation between calibration block and test piece, \u2022 comparison with reference blocks"
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Explain calibration procedure in line with standards"
+            },
+            {
+              "pc_code": "4.5",
+              "description": "perform the calibration correctly with an angular sensor"
+            },
+            {
+              "pc_code": "4.6",
+              "description": "Distinguish between calibration techniques for angular sensors"
+            },
+            {
+              "pc_code": "4.7",
+              "description": "Perform calibration to locate the beam exit point and verify the angle."
+            },
+            {
+              "pc_code": "4.8",
+              "description": "Explain the adjustment for calibration to compensate for the difference in speed of ultrasonic propagation between the calibration block and the test piece."
+            },
+            {
+              "pc_code": "4.9",
+              "description": "Perform calibration in line with 4.8 above"
+            }
+          ]
+        },
+        {
+          "lo_num": "5",
+          "description": "Know codes, standards, specifications and procedures",
+          "performance_criteria": [
+            {
+              "pc_code": "5.1",
+              "description": "Define Codes, Standards, Specification and procedures in relation to UT"
+            },
+            {
+              "pc_code": "5.2",
+              "description": "List various codes and standards which exist for the application of UT"
+            },
+            {
+              "pc_code": "5.3",
+              "description": "Define discontinuity"
+            },
+            {
+              "pc_code": "5.4",
+              "description": "List types of discontinuities: \u2022 Cracks \u2022 Porosity \u2022 Inclusion \u2022 Laminar tear etc"
+            },
+            {
+              "pc_code": "5.5",
+              "description": "Prepare a procedure for a given task"
+            }
+          ]
+        },
+        {
+          "lo_num": "6",
+          "description": "Recording and evaluation of results",
+          "performance_criteria": [
+            {
+              "pc_code": "6.1",
+              "description": "Explain recording in UT"
+            },
+            {
+              "pc_code": "6.2",
+              "description": "Define evaluation in UT"
+            },
+            {
+              "pc_code": "6.3",
+              "description": "List format for recording result: \u2022 Template \u2022 Written \u2022 Digital"
+            },
+            {
+              "pc_code": "6.4",
+              "description": "Explain how defects are detected: \u2022 By its position \u2022 Size of reflector"
+            },
+            {
+              "pc_code": "6.5",
+              "description": "Carry out test using UT equipment"
+            },
+            {
+              "pc_code": "6.6",
+              "description": "Evaluate work using UT method"
+            },
+            {
+              "pc_code": "6.7",
+              "description": "Record findings from 6.5 above"
+            },
+            {
+              "pc_code": "6.8",
+              "description": "Submit report to appropriate authority."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

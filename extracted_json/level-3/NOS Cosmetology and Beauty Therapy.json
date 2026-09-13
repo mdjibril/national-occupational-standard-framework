@@ -162,7 +162,7 @@
         },
         {
           "lo_num": "2",
-          "description": "understand individual basic right in health and safety.",
+          "description": "Understand individual basic right in health and safety.",
           "performance_criteria": [
             {
               "pc_code": "2.1",
@@ -203,7 +203,7 @@
       ]
     },
     {
-      "code": "CBT/COS/OO4/L3",
+      "code": "CBT/COS/004/L3",
       "title": "TEAM WORK",
       "learning_outcomes": [
         {
@@ -294,7 +294,7 @@
         },
         {
           "lo_num": "2",
-          "description": "understand methods of marketing",
+          "description": "Understand methods of marketing",
           "performance_criteria": [
             {
               "pc_code": "2.1",
@@ -312,7 +312,7 @@
         },
         {
           "lo_num": "3",
-          "description": "understand digital marketing",
+          "description": "Understand digital marketing",
           "performance_criteria": [
             {
               "pc_code": "3.1",
@@ -770,7 +770,7 @@
         },
         {
           "lo_num": "3",
-          "description": "carry out aromatherapy massage.",
+          "description": "Carry out aromatherapy massage.",
           "performance_criteria": [
             {
               "pc_code": "3.1",
@@ -795,16 +795,12 @@
             {
               "pc_code": "3.6",
               "description": "Certify client satisfaction and Clean up massage room."
-            },
-            {
-              "pc_code": "3.5",
-              "description": "Carry out clean up treatment room"
             }
           ]
         },
         {
           "lo_num": "4",
-          "description": "",
+          "description": "Demonstrate steam and sauna use.",
           "performance_criteria": [
             {
               "pc_code": "4.1",
@@ -823,53 +819,63 @@
               "description": ". Maintain decency and privacy on clien for use of sauna or steam"
             },
             {
-              "pc_code": "4.1",
-              "description": "Prepare work area, self and client"
-            },
-            {
-              "pc_code": "4.2",
-              "description": "Prepare and ensure health and safety checks of facials."
-            },
-            {
-              "pc_code": "4.3",
-              "description": "Perform skin analysis after face cleansing"
-            },
-            {
-              "pc_code": "4.4",
-              "description": "Assemble needed products based on skin analysis."
-            },
-            {
               "pc_code": "4.5",
-              "description": "Perform facials based on skin type."
-            },
-            {
-              "pc_code": "4.6",
-              "description": "Certify finished result is to client\u2019s satisfaction."
+              "description": "Carry out clean up treatment room"
             }
           ]
         },
         {
           "lo_num": "5",
-          "description": "Carry out Hot Stone Massage. Know Facial extraction.",
+          "description": "Carry out Hot Stone Massage.",
           "performance_criteria": [
             {
               "pc_code": "5.1",
-              "description": "Prepare client for facial extraction: \u2022 Apply pre-extraction treatment. \u2022 Steam clients face. \u2022 Perform extraction on blackhead and whiteheads only. \u2022 Apply post extraction treatment."
+              "description": "Prepare work area, self and client"
             },
             {
               "pc_code": "5.2",
-              "description": "Use moisturize on clients face."
+              "description": "Prepare and ensure health and safety checks of facials."
             },
             {
               "pc_code": "5.3",
-              "description": "Guide on after care and next service date."
+              "description": "Perform skin analysis after face cleansing"
             },
             {
               "pc_code": "5.4",
-              "description": "clean up treatment room."
+              "description": "Assemble needed products based on skin analysis."
             },
             {
               "pc_code": "5.5",
+              "description": "Perform facials based on skin type."
+            },
+            {
+              "pc_code": "5.6",
+              "description": "Certify finished result is to client\u2019s satisfaction."
+            }
+          ]
+        },
+        {
+          "lo_num": "6",
+          "description": "Know Facial extraction.",
+          "performance_criteria": [
+            {
+              "pc_code": "6.1",
+              "description": "Prepare client for facial extraction: \u2022 Apply pre-extraction treatment. \u2022 Steam clients face. \u2022 Perform extraction on blackhead and whiteheads only. \u2022 Apply post extraction treatment."
+            },
+            {
+              "pc_code": "6.2",
+              "description": "Use moisturize on clients face."
+            },
+            {
+              "pc_code": "6.3",
+              "description": "Guide on after care and next service date."
+            },
+            {
+              "pc_code": "6.4",
+              "description": "clean up treatment room."
+            },
+            {
+              "pc_code": "6.5",
               "description": "use sauna or steam for Client"
             }
           ]
@@ -882,7 +888,7 @@
       "learning_outcomes": [
         {
           "lo_num": "1",
-          "description": "understand skin.  Know Cosmetic ingredients and its application.",
+          "description": "Understand skin.",
           "performance_criteria": [
             {
               "pc_code": "1.1",
@@ -900,7 +906,7 @@
         },
         {
           "lo_num": "2",
-          "description": "",
+          "description": "Know Cosmetic ingredients and its application.",
           "performance_criteria": [
             {
               "pc_code": "2.1",
@@ -919,64 +925,59 @@
         {
           "lo_num": "3",
           "description": "Carry out basic Facials",
-          "performance_criteria": []
-        },
-        {
-          "lo_num": "4",
-          "description": "know Facial extraction.",
           "performance_criteria": [
             {
-              "pc_code": "4.1",
+              "pc_code": "3.1",
               "description": "Prepare work area, self and client"
             },
             {
-              "pc_code": "4.2",
+              "pc_code": "3.2",
               "description": "Prepare and ensure health and safety checks of facials."
             },
             {
-              "pc_code": "4.3",
+              "pc_code": "3.3",
               "description": "Perform skin analysis after face cleansing"
             },
             {
-              "pc_code": "4.4",
+              "pc_code": "3.4",
               "description": "Assemble needed products based on skin analysis.(scrub, toner, mask\u2026)"
             },
             {
-              "pc_code": "4.5",
+              "pc_code": "3.5",
               "description": "Perform facials based on skin type."
             },
             {
-              "pc_code": "4.6",
+              "pc_code": "3.6",
               "description": "Certify finished result is to client\u2019s satisfaction."
             }
           ]
         },
         {
-          "lo_num": "5",
-          "description": "OBJECTIVE (LO)",
+          "lo_num": "4",
+          "description": "Know Facial extraction.",
           "performance_criteria": [
             {
-              "pc_code": "5.1",
+              "pc_code": "4.1",
               "description": "Explain Facial extraction."
             },
             {
-              "pc_code": "5.2",
+              "pc_code": "4.2",
               "description": "Identify tools and products used for facial extraction."
             },
             {
-              "pc_code": "5.3",
-              "description": "Prepare client for facial extraction: \u2022 Apply pre-extraction treatment. \u2022 Steam clients face. \u2022 Perform extraction on blackhead and whiteheads only. \u2022 Apply post extraction treatment. Ref. Page No."
+              "pc_code": "4.3",
+              "description": "Prepare client for facial extraction: \u2022 Apply pre-extraction treatment. \u2022 Steam clients face. \u2022 Perform extraction on blackhead and whiteheads only. \u2022 Apply post extraction treatment."
             },
             {
-              "pc_code": "5.4",
+              "pc_code": "4.4",
               "description": "Use moisturize on clients face."
             },
             {
-              "pc_code": "5.5",
+              "pc_code": "4.5",
               "description": "Guide on after care and next service date."
             },
             {
-              "pc_code": "5.6",
+              "pc_code": "4.6",
               "description": "Carryout clean up treatment room."
             }
           ]
@@ -1011,7 +1012,7 @@
         },
         {
           "lo_num": "2",
-          "description": "understand the application of body tattoo.",
+          "description": "Understand the application of body tattoo.",
           "performance_criteria": [
             {
               "pc_code": "2.1",

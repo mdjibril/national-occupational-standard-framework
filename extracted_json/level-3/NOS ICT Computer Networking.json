@@ -44,7 +44,7 @@
         },
         {
           "lo_num": "3",
-          "description": "Address Cybersecurity Health and Safety Risks Ref. Page No.",
+          "description": "Address Cybersecurity Health and Safety Risks",
           "performance_criteria": [
             {
               "pc_code": "3.1",
@@ -104,7 +104,7 @@
         },
         {
           "lo_num": "3",
-          "description": "Utilize Digital Communication Tools for Effective Collaboration Ref. Page No.",
+          "description": "Utilize Digital Communication Tools for Effective Collaboration",
           "performance_criteria": [
             {
               "pc_code": "3.1",
@@ -164,7 +164,7 @@
         },
         {
           "lo_num": "3",
-          "description": "Resolve Conflicts and Maintain a Positive Team Dynamic Ref. Page No.",
+          "description": "Resolve Conflicts and Maintain a Positive Team Dynamic",
           "performance_criteria": [
             {
               "pc_code": "3.1",
@@ -232,7 +232,7 @@
         },
         {
           "lo_num": "3",
-          "description": "Configure VLANs (Virtual Local Area Networks) Ref. Page No. OBJECTIVE (LO)",
+          "description": "Configure VLANs (Virtual Local Area Networks)",
           "performance_criteria": [
             {
               "pc_code": "3.1",
@@ -370,7 +370,7 @@
         },
         {
           "lo_num": "4",
-          "description": "Apply Security Policies and Access Control Mechanisms Ref. Page No.",
+          "description": "Apply Security Policies and Access Control Mechanisms",
           "performance_criteria": [
             {
               "pc_code": "4.1",
@@ -482,7 +482,7 @@
         },
         {
           "lo_num": "5",
-          "description": "Implement Proactive Network Maintenance and Monitoring Practices Ref. Page No.",
+          "description": "Implement Proactive Network Maintenance and Monitoring Practices",
           "performance_criteria": [
             {
               "pc_code": "5.1",
@@ -659,6 +659,10 @@
             {
               "pc_code": "1.9",
               "description": "Identify types of Reserved IP Ranges"
+            },
+            {
+              "pc_code": "1.10",
+              "description": "Identify types of Reserved IP Ranges Special Use Cases"
             }
           ]
         },
@@ -666,10 +670,6 @@
           "lo_num": "2",
           "description": "Understand Fundamentals of Subnetting",
           "performance_criteria": [
-            {
-              "pc_code": "2.0",
-              "description": "Identify types of Reserved IP Ranges Special Use Cases"
-            },
             {
               "pc_code": "2.1",
               "description": "Define Subnetting Identify the Importance of Subnetting"
@@ -760,7 +760,7 @@
         },
         {
           "lo_num": "6",
-          "description": "Ref. Page No. Understand IPv6 Addressing and Subnetting",
+          "description": "Understand IPv6 Addressing and Subnetting",
           "performance_criteria": [
             {
               "pc_code": "6.1",
@@ -950,7 +950,7 @@
         },
         {
           "lo_num": "6",
-          "description": "Data Protection and Encryption Ref. Page No.",
+          "description": "Data Protection and Encryption",
           "performance_criteria": [
             {
               "pc_code": "6.1",
@@ -1092,7 +1092,7 @@
         },
         {
           "lo_num": "4",
-          "description": "Make Strategic Decisions to Improve Network Ref. Page No. OBJECTIVE (LO) Performance and Efficiency",
+          "description": "Make Strategic Decisions to Improve Network Performance and Efficiency",
           "performance_criteria": [
             {
               "pc_code": "4.1",

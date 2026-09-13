@@ -72,7 +72,7 @@
         },
         {
           "lo_num": "3",
-          "description": "Maintain clean and LO (Learning Outcome) Criteria: - healthy environment.",
+          "description": "Maintain clean and healthy environment.",
           "performance_criteria": [
             {
               "pc_code": "3.1",
@@ -146,7 +146,7 @@
         },
         {
           "lo_num": "6",
-          "description": "Work safely in confined space LO (Learning Outcome) Criteria: -",
+          "description": "Work safely in confined space",
           "performance_criteria": [
             {
               "pc_code": "6.1",
@@ -238,7 +238,7 @@
         },
         {
           "lo_num": "3",
-          "description": "Understand communication channels in a workplace LO (Learning Outcome) Criteria: -",
+          "description": "Understand communication channels in a workplace",
           "performance_criteria": [
             {
               "pc_code": "3.1",
@@ -332,7 +332,7 @@
         },
         {
           "lo_num": "3",
-          "description": "Understand communication flow Additional information about the Unit aim(s) Unit expiry date Details of the relationship between the Unit and relevant National Occupational Standards (if Details of the relationship between the unit and other standards or curricula (if appropriate) Assessment requirements specified by a sector or regulatory body (if Endorsement of the unit by a sector or other appropriate body (if required) Location of the unit within the subject/sector classification system Name of the Organisation submitting Guided Learning Hours",
+          "description": "Understand communication flow",
           "performance_criteria": [
             {
               "pc_code": "3.1",
@@ -363,7 +363,7 @@
       ]
     },
     {
-      "code": "FLW/LWK/OO4/L3",
+      "code": "FLW/LWK/004/L3",
       "title": "Design and Pattern in leather works",
       "learning_outcomes": [
         {
@@ -508,7 +508,7 @@
         },
         {
           "lo_num": "3",
-          "description": "LO (Learning Outcome) Criteria: -",
+          "description": "Understand leather product storage technique",
           "performance_criteria": [
             {
               "pc_code": "3.1",
@@ -524,7 +524,7 @@
             },
             {
               "pc_code": "3.4",
-              "description": "Obtain leather products to be coloured treated Evidence Ref Page Number"
+              "description": "Obtain leather products to be coloured treated"
             },
             {
               "pc_code": "3.5",
@@ -565,7 +565,7 @@
               "description": "Select appropriate for storing equipment for finished product"
             },
             {
-              "pc_code": "4.6",
+              "pc_code": "4.5",
               "description": "Apply appropriate storage."
             }
           ]
@@ -622,7 +622,7 @@
         },
         {
           "lo_num": "3",
-          "description": "Understand operational features of electric sewing machines LO (Learning Outcome) Criteria: -",
+          "description": "Understand operational features of electric sewing machines",
           "performance_criteria": [
             {
               "pc_code": "3.1",
@@ -642,7 +642,7 @@
             },
             {
               "pc_code": "3.5",
-              "description": "Describe how to set needles in appropriate position in the Evidence Ref Page Number sewing machines"
+              "description": "Describe how to set needles in appropriate position in the sewing machines"
             }
           ]
         },
@@ -796,7 +796,7 @@
         },
         {
           "lo_num": "5",
-          "description": "LO (Learning Outcome) Criteria: - Understand how to apply Adhesives in Leather Belts",
+          "description": "Understand how to apply Adhesives in Leather Belts",
           "performance_criteria": [
             {
               "pc_code": "5.1",
@@ -1168,7 +1168,7 @@
         },
         {
           "lo_num": "3",
-          "description": "",
+          "description": "Understand clicking/cutting 0peration in female ale Foot Wear production",
           "performance_criteria": [
             {
               "pc_code": "3.1",
@@ -1181,6 +1181,10 @@
             {
               "pc_code": "3.3",
               "description": "Identify types of clicking machine to cut various component of leather foot wears"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Demonstrate the ability to cut various component of leather foot wears"
             },
             {
               "pc_code": "3.5",
@@ -1438,7 +1442,7 @@
         },
         {
           "lo_num": "6",
-          "description": "",
+          "description": "Understand Sole Attachment in Children Foot Wear production",
           "performance_criteria": [
             {
               "pc_code": "6.1",
@@ -1506,7 +1510,7 @@
         },
         {
           "lo_num": "2",
-          "description": "Know how to Produce Patterns for Leather Bag/Wallet Production LO (Learning Outcome) Criteria: - Materials for Making Leather Bags/Wallet",
+          "description": "Know how to Produce Patterns for Leather Bag/Wallet Production Materials for Making Leather Bags/Wallet",
           "performance_criteria": [
             {
               "pc_code": "2.1",
@@ -1522,14 +1526,18 @@
             },
             {
               "pc_code": "2.4",
-              "description": "Carry out the marking of patterns of leather bags/wallets on leather materials. Identify the appropriate tools/equipment used for cutting process in leather bag/wallets production. Evidence Ref Page Number"
+              "description": "Carry out the marking of patterns of leather bags/wallets on leather materials. Identify the appropriate tools/equipment used for cutting process in leather bag/wallets production."
             }
           ]
         },
         {
           "lo_num": "3",
-          "description": "",
+          "description": "Understand how to cut Leather Materials for Mkaing Leather Bags/Wallets",
           "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Identify the appropriate tools/equipment used for cutting process in leather bag/wallets production."
+            },
             {
               "pc_code": "3.2",
               "description": "Select appropriate leather materials to be used for making leather bags/wallets."
@@ -1586,7 +1594,7 @@
         },
         {
           "lo_num": "6",
-          "description": "LO (Learning Outcome) Criteria: - Demonstrate Sewing of Leather Bags/Wallets leather bags/wallets.",
+          "description": "Demonstrate Sewing of Leather Bags/Wallets leather bags/wallets.",
           "performance_criteria": [
             {
               "pc_code": "6.1",
@@ -1594,7 +1602,7 @@
             },
             {
               "pc_code": "6.2",
-              "description": "Explain the process in sewing different types of Evidence Ref Page Number"
+              "description": "Explain the process in sewing different types of"
             },
             {
               "pc_code": "6.3",
@@ -1626,7 +1634,7 @@
         },
         {
           "lo_num": "8",
-          "description": "LO (Learning Outcome) Criteria: -",
+          "description": "Understand how to Recondition Leather Bags/Wallets",
           "performance_criteria": [
             {
               "pc_code": "8.1",
@@ -1642,7 +1650,11 @@
             },
             {
               "pc_code": "8.4",
-              "description": "Explain where to use specified tools and equipment in reconditioning process of leather bags/wallets. Evidence Ref Page Number reconditioning process in leather bags"
+              "description": "Explain where to use specified tools and equipment in reconditioning process of leather bags/wallets."
+            },
+            {
+              "pc_code": "8.5",
+              "description": "Carry out reconditioning process of leather bags"
             }
           ]
         },
@@ -1910,11 +1922,11 @@
         },
         {
           "lo_num": "4",
-          "description": "LO (Learning Outcome) Criteria: - produce heels for foot wears",
+          "description": "produce heels for foot wears",
           "performance_criteria": [
             {
               "pc_code": "4.1",
-              "description": "Select tools for cutting of materials for producing Evidence Ref Page Number heels"
+              "description": "Select tools for cutting of materials for producing heels"
             },
             {
               "pc_code": "4.2",

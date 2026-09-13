@@ -1,0 +1,924 @@
+{
+  "trade_name": "NOS Welding and Fabrication Levels",
+  "level": 3,
+  "units": [
+    {
+      "code": "ENGG/WF/001/L3",
+      "title": "OCCUPATIONAL HEALTH AND SAFETY",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Demonstrate Personal health and hygiene",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "State the importance of maintaining good personal hygiene"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Wear clean, smart and appropriate personal protective equipment"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Work safely at all times by complying with health and safety and other relevant guidelines."
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Describe how to deal with cuts, burns and wounds."
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Report illness and infection promptly to the appropriate authority"
+            },
+            {
+              "pc_code": "1.6",
+              "description": "Monitor others on the general rules on hygiene that must be followed"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Maintain Hygienic, safe and hazard-free workplace.",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "State the importance of working in a healthy, safe and hygienic workplace"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "State where information about health and safety in your workplace can be obtained"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Promote health, hygiene and safety procedures during work"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Conduct emergency safety drills during work"
+            },
+            {
+              "pc_code": "2.5",
+              "description": "Describe the types of hazards in the workplace that may occur and how to deal with them"
+            },
+            {
+              "pc_code": "2.6",
+              "description": "Differentiate between hazards that can be dealt with personally and those that should be reported to appropriate authority."
+            },
+            {
+              "pc_code": "2.7",
+              "description": "Report any accidents or near- miss quickly and accurately to the appropriate authority."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Maintain clean and healthy environment.",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Promote sound and noise control."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Separate wastes into their various designated places"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Ensure the disposal of waste and Pollution control with organic and inorganic waste disposal methods"
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Demonstrate safe and secure workplace",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Carry out organisational procedures on how to warn other people about hazards and why this is important"
+            },
+            {
+              "pc_code": "4.2",
+              "description": "State why accidents and near- miss should be reported appropriately"
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Describe the types of emergencies that may happen in the workplace and how to deal with them"
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Indicate where to find the first- aid equipment and locate the authorized personnel"
+            },
+            {
+              "pc_code": "4.5",
+              "description": "Lift and handle materials in line with work environment procedure."
+            }
+          ]
+        },
+        {
+          "lo_num": "5",
+          "description": "Understand how to manage fire in a workplace",
+          "performance_criteria": [
+            {
+              "pc_code": "5.1",
+              "description": "Describe organisational fire emergency procedures."
+            },
+            {
+              "pc_code": "5.2",
+              "description": "Discuss possible causes of fire in the workplace"
+            },
+            {
+              "pc_code": "5.3",
+              "description": "Describe how to avoid the possibility of fire in the workplace"
+            },
+            {
+              "pc_code": "5.4",
+              "description": "State where to find fire alarms and how to set them off"
+            },
+            {
+              "pc_code": "5.5",
+              "description": "State why a fire should never be approached unless it is safe to"
+            },
+            {
+              "pc_code": "5.6",
+              "description": "State the importance of following the fire safety laws"
+            }
+          ]
+        },
+        {
+          "lo_num": "6",
+          "description": "Work safely in confined space.",
+          "performance_criteria": [
+            {
+              "pc_code": "6.1",
+              "description": "Discuss the characteristics of confined space."
+            },
+            {
+              "pc_code": "6.2",
+              "description": "Discuss the procedure for permit to work in confined space"
+            },
+            {
+              "pc_code": "6.3",
+              "description": "Describe the procedures for working in a confined place."
+            },
+            {
+              "pc_code": "6.4",
+              "description": "Discuss roles of personnel working in confined space: \u2022 Attendants/Standby- man \u2022 Entrant \u2022 Entry Supervisor \u2022 Whistle Blower"
+            },
+            {
+              "pc_code": "6.5",
+              "description": "Describe confined space hazards"
+            },
+            {
+              "pc_code": "6.6",
+              "description": "Control confined space hazards"
+            },
+            {
+              "pc_code": "6.7",
+              "description": "Eliminate confined space hazards"
+            },
+            {
+              "pc_code": "6.8",
+              "description": "Perform rescue operation in confined space"
+            },
+            {
+              "pc_code": "6.9",
+              "description": "Outline rights of employee in confined space."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ENGG/WF/002/L3",
+      "title": "COMMUNICATION SYSTEM IN WORKPLACE",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understand complex communication system in a workplace",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Importance of effective communication in a workplace"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Describe simple non-verbal means of communication"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Interpret concept of symbols and signs appropriately"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Use audio and electronic means to pass on necessary information"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Understand sources of information and Management in a workplace",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Discuss sources of information in an organisation and work environment."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Access appropriate information in an organisation or work environment from relevant sources"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Use the various information flow system in an organisation or work environment to overcome challenges"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Ensure proper documentation, retrieval of information in accordance to procedure in a work environment"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Understand communication channels in a workplace",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Describe the effective use of the various communication channels in a workplace"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Demonstrate the use of various communication means in a workplace"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Ensure effective information flow to the right personnel"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Ensure the effective deployment of the use of symbols, signs and codes"
+            },
+            {
+              "pc_code": "3.5",
+              "description": "Ensure that instructions are disseminated and obeyed in line with ethics of the workplace"
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Understand communication equipment deployment",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Ensure that communication equipment is in good working condition"
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Promptly report the loss, faulty or damaged communication equipment."
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Ensure safe handling of communication equipment."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ENGG/WF/003/L3",
+      "title": "TEAM WORK",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understand various team roles in workplace",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "List the various teams in workplace: \u2022 Fitter \u2022 Welders \u2022 Helpers \u2022 QA/QC \u2022 Inspectors \u2022 Engineering"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Discuss the roles of the various teams"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Discuss how your work as a fitter affects others in delivering quality output as a team."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Coordinate team activities",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Discuss the method of carrying out activities with team members."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Distribute work load and coordinate activities"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Select materials and tools required for each team activity"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Interpret directives to team members"
+            },
+            {
+              "pc_code": "2.5",
+              "description": "Ensure that team members comply with directives"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Understand communication flow ",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Communicate work related information/requirement clearly to team members"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Inform co-workers and superiors about any kind of deviation from work plan"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Address the problems effectively if need be to superiors appropriately"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Gather instructions from superiors and respond effectively"
+            },
+            {
+              "pc_code": "3.5",
+              "description": "Communicate to team members/subordinates of the right work techniques and methods"
+            },
+            {
+              "pc_code": "3.6",
+              "description": "Obtain clarification and advice from superiors as per work information where necessary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ENGG/WFI/017/L3",
+      "title": "WELDING DRAWINGS AND WELDING PROCEDURE",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understand welding drawings",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Explain welding drawing"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Identify welding drawing from a blueprint"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Select appropriate drawing"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Interpret the drawing in line with a given task."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Know welding procedure specification (WPS)",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Explain welding procedure specification"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Select approved welding procedure"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Read and interpret welding procedures"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Read and interpret welder qualification specification (WQS)"
+            },
+            {
+              "pc_code": "2.5",
+              "description": "Explain the application of all relevant procedures: \u2022 Check weld against code and standards \u2022 Check finish and contour \u2022 Check size with gauges and print \u2022 Determine if spatter is at acceptable levels \u2022 etc."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Understand inspection testing plan ",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Define inspection testing plan"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "List the component of a testing plan: \u2022 Scope of work \u2022 Data sheet \u2022 Specification \u2022 Reference publication \u2022 Approved drawings \u2022 Vendor code"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Explain inspection testing plan in 3.2 above"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Determine what has to be done with inspection testing plan"
+            },
+            {
+              "pc_code": "3.5",
+              "description": "Use inspection testing plan"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ENGG/WF/018/L3",
+      "title": "Welding processes, materials selection techniques and Consumables",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Apply appropriate standards and codes",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Explain Standard and code"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "List various standard and code applicable to welding operation"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Identify appropriate standards and codes for a given welding operation"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Communicate the appropriate standard and codes to the welder and welding operator"
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Use appropriate standard and codes for a given operation"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Understand Material selection",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Discuss appropriate material selection"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Explain material selection techniques"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Select materials and consumables as recommended in standard and codes"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Distinguish between materials, using material certificate"
+            },
+            {
+              "pc_code": "2.5",
+              "description": "Recognize materials by verifying data and adequacy of material certificates (base material and filler materials)"
+            },
+            {
+              "pc_code": "2.6",
+              "description": "Select appropriate material for a given task"
+            },
+            {
+              "pc_code": "2.7",
+              "description": "Audit material and tools"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Know appropriate welding processes",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Explain welding processes"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "List various welding processes: \u2022 MMA \u2022 TIG \u2022 MIG/MAG \u2022 FCAW \u2022 SAW \u2022 etc."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Select the appropriate process for a given task"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Recommend appropriate processes for a given task"
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Know welding consumables",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Define welding consumables"
+            },
+            {
+              "pc_code": "4.2",
+              "description": "List various welding consumables: \u2022 Gasses (C02 \u2022 Flux \u2022 Electrodes \u2022 Filler wire \u2022 Filler rods"
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Identify appropriate welding consumables for a given task"
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Recommend the appropriate consumable for a given task"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ENGG/WF/019/L3",
+      "title": "WELD DEFECTS DETECTION AND REPAIRS",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understand Weld defects",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Define weld defects"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "List various weld defects: \u2022 Cracks \u2022 Porosity \u2022 Undercut \u2022 Lack of side wall fusion \u2022 Etc"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Carry out visual inspection on a welded structure"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Identify various weld defects in a given task"
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Justify defect using appropriate standard and code"
+            },
+            {
+              "pc_code": "1.6",
+              "description": "Justify defect using appropriate inspection kits"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Understand cracks",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Explain crack in a weldment"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "List various types of cracks: \u2022 Cold crack \u2022 Hot crack \u2022 Hydrogen crack etc."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Identify crack location in a weldment: \u2022 Crater \u2022 HAZ (Heat Affected Zone) \u2022 Underbead Etc"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "List nature of cracks: \u2022 Star crack \u2022 Longitudinal crack \u2022 Transvers crack etc."
+            },
+            {
+              "pc_code": "2.5",
+              "description": "List various causes of cracks in a weldment: \u2022 Using low hydrogen electrode while welding ferrous metals. \u2022 Applying low current with high welding speed. \u2022 Poor design concept \u2022 No preheating before welding \u2022 Contamination of base metal. \u2022 Residual stress solidification due to shrinkage etc."
+            },
+            {
+              "pc_code": "2.6",
+              "description": "List remedy for 2.5 above \u2022 Using suitable filler metals \u2022 Utilizing the appropriate welding speed and current. \u2022 Using proper design concept. \u2022 Preheating the metal before welding. \u2022 Cleaning the metal surface before welding. \u2022 Giving proper cooling of the weld area. etc."
+            },
+            {
+              "pc_code": "2.7",
+              "description": "Justify crack using the appropriate standards and codes"
+            },
+            {
+              "pc_code": "2.8",
+              "description": "Justify crack using the appropriate inspection kits"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Understand porosity",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Explain porosity in a weldment"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "List various types of porosity: \u2022 Pin hole \u2022 Wormhole \u2022 Crater pipes Etc"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "List causes of porosity: \u2022 Using a larger arc. \u2022 Unsuitable gas shield. \u2022 Existence of moisture in the process. \u2022 Excessive gas flow rate. \u2022 Dirty job surface"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "List remedy for 3.3 above \u2022 Choosing suitable electrode and filler materials. \u2022 Checking the gas flow meter and ensure that it is adapted as needed with appropriate pressure and flow settings \u2022 Maintain correct arc length \u2022 Cleaning the metal before welding \u2022 Use appropriate welding speed. etc. Justify porosity using appropriate code and standard"
+            },
+            {
+              "pc_code": "3.5",
+              "description": "Justify porosity using appropriate inspection kits"
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Understand undercut",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Define undercut in a weldment"
+            },
+            {
+              "pc_code": "4.2",
+              "description": "List causes of undercut: \u2022 Incorrect angle of electrode. \u2022 Speed of travel too fast. \u2022 Poor welding techniques \u2022 Use of incorrect gas shielding and filler metal. \u2022 Use of excessive welding current. \u2022 Using larger diameter electrodes. etc."
+            },
+            {
+              "pc_code": "4.3",
+              "description": "List remedy for 4.2 above \u2022 Using correct electrode angle. \u2022 Reduce travel speed. \u2022 Select appropriate shielding gas and filler metal. \u2022 Reduce arc length. etc."
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Justify undercut using appropriate inspection kits"
+            },
+            {
+              "pc_code": "4.5",
+              "description": "Justify undercut using appropriate code and standard"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ENGG/WF/020/L3",
+      "title": "WELD TEST SPECIMEN PREPARATION",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understand the basic principles of edge preparation process",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Define edge preparation"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "List methods of edge preparation: \u2022 Grinding \u2022 Cutting \u2022 Machining \u2022 Milling"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "List the equipment for edge preparation \u2022 Plasma \u2022 laser \u2022 water jet cutting \u2022 gauging etc."
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Identify appropriate edge preparation method for a given task"
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Check standards for edge preparation procedures"
+            },
+            {
+              "pc_code": "1.6",
+              "description": "Select recommended methods for edge preparation"
+            },
+            {
+              "pc_code": "1.7",
+              "description": "Select recommended methods for edge preparation repair"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Understand Joints in welding",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Define joint in welding"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "List various types of joints: \u2022 Butt \u2022 Tee \u2022 Lap \u2022 Edge \u2022 Corner"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Identify area of application for 2.2 above"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Supervise the application of 2.2 above"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Know the fundamental aspects of testing materials with particular reference to weldment tests pieces",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Explain testing of weldment"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "List methods of testing: \u2022 Non Destructive Test (NDT) \u2022 Destructive Test (DT)"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "List NDT methods for testing: \u2022 Visual \u2022 PT \u2022 UT \u2022 RT \u2022 MPT etc."
+            },
+            {
+              "pc_code": "3.4",
+              "description": "List DT methods for testing: \u2022 Bend test \u2022 Impact testing \u2022 V notch \u2022 Tensile etc."
+            },
+            {
+              "pc_code": "3.5",
+              "description": "Identify appropriate testing method for a given task"
+            },
+            {
+              "pc_code": "3.6",
+              "description": "Classify competence in carrying out testing to a given schedule"
+            },
+            {
+              "pc_code": "3.7",
+              "description": "Use appropriate method of testing with reference to standard and code"
+            },
+            {
+              "pc_code": "3.8",
+              "description": "Prepare reports"
+            },
+            {
+              "pc_code": "3.9",
+              "description": "Compare report with existing data"
+            },
+            {
+              "pc_code": "3.10",
+              "description": "Submit report to appropriate authority"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ENGG/WF/021/L3",
+      "title": "Heat treatment of metals",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Know heat treatment procedures",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Define heat treatment"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Describe heat treatment equipment: \u2022 Furnace \u2022 Oxy fuel"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "List various heat treatment methods: \u2022 Tempering \u2022 Annealing \u2022 Normalizing etc."
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Explain purpose of 1.2 above"
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Explain the procedure for heat treatment in 1.2 above"
+            },
+            {
+              "pc_code": "1.6",
+              "description": "Supervise heat treatment procedure"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Understand regulations (codes and technical reports)",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Explain technical report"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "List various format for report writing: \u2022 Written \u2022 Template"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "List the codes and standards applicable for welding operations: \u2022 API 1104 \u2022 ISO 9606-1 \u2022 AWS D1.1 etc."
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Apply appropriate codes and standard for a given task"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Understand Stress relieving",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Explain stress relieving"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "List methods of stress relieving: \u2022 Pre-weld heat treatment \u2022 Post-weld heat treatment \u2022 Pinning"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Define pre weld heat treatment method (PWHT)"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Discuss the reasons for heat treatment before welding"
+            },
+            {
+              "pc_code": "3.5",
+              "description": "Define post weld heat treatment method (PWHT)"
+            },
+            {
+              "pc_code": "3.6",
+              "description": "Discuss the reasons for heat treatment after welding."
+            },
+            {
+              "pc_code": "3.7",
+              "description": "Define pinning"
+            },
+            {
+              "pc_code": "3.8",
+              "description": "Discuss the reasons for pining"
+            },
+            {
+              "pc_code": "3.9",
+              "description": "List the temperature range/time for pre-weld heat treatment and post- weld heat treatment"
+            },
+            {
+              "pc_code": "3.10",
+              "description": "Use the applicable codes and standards"
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Know temperature measurements and recording",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Explain temperature measurement"
+            },
+            {
+              "pc_code": "4.2",
+              "description": "List device used in measuring temperature: \u2022 Temperature cone \u2022 Crayon \u2022 Thermocouple etc."
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Explain the use of the devices in 4.2 above"
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Use appropriate device for a given task"
+            },
+            {
+              "pc_code": "4.5",
+              "description": "Record heat treatment result"
+            },
+            {
+              "pc_code": "4.6",
+              "description": "Apply annealing and homogenization when required in accordance with codes"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

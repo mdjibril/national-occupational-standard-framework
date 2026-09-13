@@ -56,7 +56,7 @@
         },
         {
           "lo_num": "3",
-          "description": "Know appropriate actions to take during accident/injuries (LO)",
+          "description": "Know appropriate actions to take during accident/injuries",
           "performance_criteria": [
             {
               "pc_code": "3.1",
@@ -270,7 +270,7 @@
         },
         {
           "lo_num": "3",
-          "description": "Comply with the policies and regulations of the organization Ref. Page No. (LO)",
+          "description": "Comply with the policies and regulations of the organization.",
           "performance_criteria": [
             {
               "pc_code": "3.1",
@@ -369,7 +369,7 @@
               "description": "Verify the wiring connection of the assembled air conditioning"
             },
             {
-              "pc_code": "3.6",
+              "pc_code": "3.5",
               "description": "Explain the laid down procedures to safeguard self, others and the environment."
             }
           ]
@@ -389,6 +389,10 @@
             {
               "pc_code": "4.3",
               "description": "Confirm if there are leakages 44 Inspect the operational condition and record findings"
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Inspect the operational condition and record findings"
             }
           ]
         }
@@ -614,7 +618,7 @@
         },
         {
           "lo_num": "4",
-          "description": "O4: REPAIR ELECTRICAL COMPONENTS IN REFRIGERATION AND AIR CONDITIONING",
+          "description": "REPAIR ELECTRICAL COMPONENTS IN REFRIGERATION AND AIR CONDITIONING",
           "performance_criteria": [
             {
               "pc_code": "4.1",
@@ -711,7 +715,7 @@
           "description": "READ CIRCUIT DIAGRAM",
           "performance_criteria": [
             {
-              "pc_code": "4.2",
+              "pc_code": "4.1",
               "description": "Identify signs a labeling on the circuit diagrams"
             },
             {
@@ -815,22 +819,17 @@
         {
           "lo_num": "4",
           "description": "Understand the materials used in the fabrication of the body framework",
-          "performance_criteria": []
-        },
-        {
-          "lo_num": "5",
-          "description": "",
           "performance_criteria": [
             {
-              "pc_code": "5.1",
+              "pc_code": "4.1",
               "description": "Identify types of materials used for External body framework of refrigerator"
             },
             {
-              "pc_code": "5.2",
+              "pc_code": "4.2",
               "description": "List types of materials used as Insulator in refrigerator"
             },
             {
-              "pc_code": "5.3",
+              "pc_code": "4.3",
               "description": "Describe the types of materials used for Internal body framework of a refrigerator"
             }
           ]
