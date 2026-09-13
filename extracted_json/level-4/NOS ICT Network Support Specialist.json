@@ -1,5 +1,5 @@
 {
-  "trade_name": "NOS ICT Network Support Specialist L4",
+  "trade_name": "NOS ICT Network Support Specialist",
   "level": 4,
   "units": [
     {
@@ -12,7 +12,7 @@
           "performance_criteria": [
             {
               "pc_code": "1.1",
-              "description": "Identify key legislation, regulations, and standards relevant to health and safety in the workplace."
+              "description": "Identify kezy legislation, regulations, and standards relevant to health and safety in the workplace."
             },
             {
               "pc_code": "1.2",
@@ -44,7 +44,7 @@
         },
         {
           "lo_num": "3",
-          "description": "Implement Safe Working Practices and Emergency Procedures Ref. Page No.",
+          "description": "Implement Safe Working Practices and Emergency Procedures",
           "performance_criteria": [
             {
               "pc_code": "3.1",
@@ -104,7 +104,7 @@
         },
         {
           "lo_num": "3",
-          "description": "Exhibit Leadership and Support Team Development Ref. Page No.",
+          "description": "Exhibit Leadership and Support Team Development",
           "performance_criteria": [
             {
               "pc_code": "3.1",
@@ -164,7 +164,7 @@
         },
         {
           "lo_num": "3",
-          "description": "Be Able to Use Digital Tools for Professional Communicatio n Ref. Page No.",
+          "description": "Be Able to Use Digital Tools for Professional Communication",
           "performance_criteria": [
             {
               "pc_code": "3.1",
@@ -274,7 +274,7 @@
         },
         {
           "lo_num": "4",
-          "description": "Use network analysis tools Ref. Page No. OBJECTIVE (LO) The learner will:",
+          "description": "Use network analysis tools",
           "performance_criteria": [
             {
               "pc_code": "4.1",
@@ -384,7 +384,7 @@
         },
         {
           "lo_num": "4",
-          "description": "Setup Local Area Network Ref. Page No. OBJECTIVE (LO) The learner will:",
+          "description": "Setup Local Area Network",
           "performance_criteria": [
             {
               "pc_code": "4.1",
@@ -405,33 +405,34 @@
             {
               "pc_code": "4.5",
               "description": "Troubleshoot connection related issue within LANs"
-            },
-            {
-              "pc_code": "4.1",
-              "description": "Identify WAN interfaces"
-            },
-            {
-              "pc_code": "4.2",
-              "description": "Identify WAN links"
-            },
-            {
-              "pc_code": "4.3",
-              "description": "Integrate WAN related devices"
-            },
-            {
-              "pc_code": "4.4",
-              "description": "Configure routers and switches"
-            },
-            {
-              "pc_code": "4.5",
-              "description": "Interconnect routers and switches"
             }
           ]
         },
         {
           "lo_num": "5",
           "description": "Design Wide Area Networks",
-          "performance_criteria": []
+          "performance_criteria": [
+            {
+              "pc_code": "5.1",
+              "description": "Identify WAN interfaces"
+            },
+            {
+              "pc_code": "5.2",
+              "description": "Identify WAN links"
+            },
+            {
+              "pc_code": "5.3",
+              "description": "Integrate WAN related devices"
+            },
+            {
+              "pc_code": "5.4",
+              "description": "Configure routers and switches"
+            },
+            {
+              "pc_code": "5.5",
+              "description": "Interconnect routers and switches"
+            }
+          ]
         }
       ]
     },
@@ -497,7 +498,7 @@
         },
         {
           "lo_num": "3",
-          "description": "Be able to Configure a Router Ref. Page No.",
+          "description": "Be able to Configure a Router",
           "performance_criteria": [
             {
               "pc_code": "3.1",
@@ -633,7 +634,7 @@
         },
         {
           "lo_num": "5",
-          "description": "Encryption techniques Ref. Page No.",
+          "description": "Encryption techniques",
           "performance_criteria": [
             {
               "pc_code": "5.1",
@@ -743,7 +744,7 @@
         },
         {
           "lo_num": "4",
-          "description": "Know Network performance metrics Ref. Page No. OBJECTIVE (LO) The learner will:",
+          "description": "Know Network performance metrics",
           "performance_criteria": [
             {
               "pc_code": "4.1",
@@ -769,7 +770,7 @@
         },
         {
           "lo_num": "5",
-          "description": "Optimize network performance Ref. Page No.",
+          "description": "Optimize network performance",
           "performance_criteria": [
             {
               "pc_code": "5.1",
@@ -879,7 +880,7 @@
         },
         {
           "lo_num": "4",
-          "description": "Configure cloud network security Ref. Page No.",
+          "description": "Configure cloud network security",
           "performance_criteria": [
             {
               "pc_code": "4.1",
@@ -955,7 +956,7 @@
         },
         {
           "lo_num": "3",
-          "description": "Network security optimization Ref. Page No.",
+          "description": "Network security optimization",
           "performance_criteria": [
             {
               "pc_code": "3.1",
@@ -1039,7 +1040,7 @@
         },
         {
           "lo_num": "3",
-          "description": "Implement network access management approach Ref. Page No.",
+          "description": "Implement network access management approach",
           "performance_criteria": [
             {
               "pc_code": "3.1",

@@ -1,5 +1,5 @@
 {
-  "trade_name": "NOS ICT Cybersecurity Engineering L5",
+  "trade_name": "NOS ICT Cybersecurity Engineering",
   "level": 5,
   "units": [
     {
@@ -78,7 +78,7 @@
         },
         {
           "lo_num": "4",
-          "description": "Prevent hazards and maintain safe and secure workplace Objective (LO)",
+          "description": "Prevent hazards and maintain safe and secure workplace",
           "performance_criteria": [
             {
               "pc_code": "4.1",
@@ -141,11 +141,11 @@
               "description": "State why a fire should never be approached unless it is safe to."
             },
             {
-              "pc_code": "4.17",
+              "pc_code": "4.16",
               "description": "Describe organizational security procedures and why these are important"
             },
             {
-              "pc_code": "4.18",
+              "pc_code": "4.17",
               "description": "State the importance of reporting all usual or non-routine incidents to the appropriate personnel."
             }
           ]
@@ -388,7 +388,7 @@
         },
         {
           "lo_num": "4",
-          "description": "Plan and develop compliance monitoring mechanisms Objective (LO)",
+          "description": "Plan and develop compliance monitoring mechanisms",
           "performance_criteria": [
             {
               "pc_code": "4.1",
@@ -498,7 +498,7 @@
         },
         {
           "lo_num": "4",
-          "description": "Operate and maintain network security infrastructure Objective (LO)",
+          "description": "Operate and maintain network security infrastructure",
           "performance_criteria": [
             {
               "pc_code": "4.1",
@@ -608,7 +608,7 @@
         },
         {
           "lo_num": "4",
-          "description": "Ensure compliance with data protection regulations Objective (LO)",
+          "description": "Ensure compliance with data protection regulations",
           "performance_criteria": [
             {
               "pc_code": "4.1",

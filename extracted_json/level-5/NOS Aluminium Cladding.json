@@ -1,5 +1,5 @@
 {
-  "trade_name": "Aluminium Cladding",
+  "trade_name": "NOS Aluminium Cladding",
   "level": 5,
   "units": [
     {
@@ -614,22 +614,18 @@
           "performance_criteria": [
             {
               "pc_code": "3.1",
-              "description": ""
-            },
-            {
-              "pc_code": "3.2",
               "description": "Subscribe to and monitor industry publications, newsletters, and governmental notifications for the latest code and standard changes"
             },
             {
-              "pc_code": "3.3",
+              "pc_code": "3.2",
               "description": "Provide training sessions or resources to team members on updated codes and standards"
             },
             {
-              "pc_code": "3.4",
+              "pc_code": "3.3",
               "description": "Ensure that all projects initiated after code updates are designed and executed according to the latest standards"
             },
             {
-              "pc_code": "3.5",
+              "pc_code": "3.4",
               "description": "Regularly assess the impact of updated codes and standards on ongoing projects and make necessary adjustments to mitigate any compliance risks"
             }
           ]

@@ -1,5 +1,5 @@
 {
-  "trade_name": "Aluminium Cladding",
+  "trade_name": "NOS Aluminium Cladding",
   "level": 4,
   "units": [
     {
@@ -618,10 +618,6 @@
             },
             {
               "pc_code": "2.3",
-              "description": ""
-            },
-            {
-              "pc_code": "2.4",
               "description": "Demonstrate commitment to continuous education and professional development to stay current with evolving compliance requirements."
             }
           ]
