@@ -104,6 +104,7 @@ These NOS have already been converted to JSON. Pick a trade **not** listed here 
 | Painting and Decoration | ✅ | ✅ | ✅ | | |
 | Plumbing | ✅ | ✅ | ✅ | | |
 | Refrigeration and Air Conditioning | ✅ | ✅ | ✅ | | |
+| Rice Processing | ✅ | ✅ | | | |
 | Root and Tuber Crop Production | ✅ | ✅ | | | |
 | Solar Photovoltaic System Installation and Maintenance | ✅ | ✅ | ✅ | | |
 | Tilling and Decorative Stonework | ✅ | ✅ | ✅ | | |

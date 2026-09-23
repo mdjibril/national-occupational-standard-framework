@@ -12,7 +12,13 @@ def parse_pdf_to_json(pdf_path, trade_name=None):
     # avoid the numbered "1. Direct Observation (DO)" assessment-method
     # lists, which use a single digit and a period, never a colon.
     bare_unit_header_pattern = re.compile(r"^(\d{2,3}):\s+(.+)$")
-    unit_code_pattern = re.compile(r"(?:Unit\s+)?[Rr]eference\s*[Nn]umber:?\s*([A-Z0-9/]+)", re.IGNORECASE)
+    # A reference number can have a stray space typo'd into it (e.g.
+    # "AGP/RCP /007/L2"), which would otherwise truncate the capture at
+    # "AGP/RCP", fail the digit-plausibility check, and drop the unit
+    # entirely -- its LOs/PCs then bleed into whichever unit preceded it.
+    # Tolerate a single embedded space per segment; the code is stripped
+    # of spaces before use.
+    unit_code_pattern = re.compile(r"(?:Unit\s+)?[Rr]eference\s*[Nn]umber:?\s*([A-Z0-9/]+(?:\s[A-Z0-9/]+)*)", re.IGNORECASE)
     alt_code_pattern = re.compile(r"(?:Qualification|Level)\s+[Rr]eference\s*[Nn]umber:?\s*([A-Z0-9/]+)", re.IGNORECASE)
     unit_title_pattern = re.compile(r"Unit Title\s*[:-]\s*(.*)", re.IGNORECASE)
     lo_pattern = re.compile(r"(?:Learning\s*Outcome|LO)\.?\s*[:\s]*(\d+)\b", re.IGNORECASE)
@@ -220,8 +226,9 @@ def parse_pdf_to_json(pdf_path, trade_name=None):
                 # Handle multi-line reference numbers (code on next line)
                 if pending_code_line:
                     code_match = unit_code_pattern.search(line)
-                    if code_match and is_plausible_unit_code(code_match.group(1)):
-                        create_unit(code_match.group(1), pending_title)
+                    code_val = code_match.group(1).replace(" ", "") if code_match else None
+                    if code_val and is_plausible_unit_code(code_val):
+                        create_unit(code_val, pending_title)
                         pending_title = ""
                         pending_code_line = False
                         continue
@@ -271,10 +278,12 @@ def parse_pdf_to_json(pdf_path, trade_name=None):
                     continue
                 
                 code_match = unit_code_pattern.search(line)
-                if code_match and is_plausible_unit_code(code_match.group(1)):
-                    create_unit(code_match.group(1), pending_title)
-                    pending_title = ""
-                    continue
+                if code_match:
+                    code_val = code_match.group(1).replace(" ", "")
+                    if is_plausible_unit_code(code_val):
+                        create_unit(code_val, pending_title)
+                        pending_title = ""
+                        continue
 
                 # Alternative reference formats (Qualification/Level) only when a title is pending
                 if pending_title:

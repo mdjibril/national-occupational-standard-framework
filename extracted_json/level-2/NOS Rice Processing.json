@@ -1,0 +1,1022 @@
+{
+  "trade_name": "Rice Processing",
+  "level": 2,
+  "units": [
+    {
+      "code": "AGP/RCP/001/L2",
+      "title": "SAFETY IN RICE ENVIRONMENT PROCESSING ENVIRONMENT",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Know how to Work Safely in a Rice Processing Environment",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Explain safe work practices as obtained along the rice processing value chain"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Identify safety signs and symbols on rice processing"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Provide correctly, the safety signs and symbols"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Demonstrate safe work practices and instructions on rice processing"
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Operate in accordance with health and safety practices"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Know how to Comply with Safety Standards on Rice Processing Environment",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Identify work environment hazards"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "State types of hazards and risks associated with rice processing"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "State safety standards on rice farms and processing facilities"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Use safety tools, materials and equipment in rice processing facilities"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Know how to Apply Personal Protective Equipment (PPE) in Rice Processing Facilities",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Identify the types of PPEs required for Rice processing plants"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Select appropriate PPE for Rice processing plants"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Demonstrate the use of PPE"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Maintain PPE before or after use"
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Know how to Respond to Accidents/Injury in Rice Processing Plants",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Locate first aid facility"
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Use basic dressing materials"
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Respond to supervisor given instructions"
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Report incidences of accident/injury to the appropriate supervisor"
+            }
+          ]
+        },
+        {
+          "lo_num": "5",
+          "description": "Know how to Apply Safe Work Habits and Clean Work Environment in Rice Processing Plants",
+          "performance_criteria": [
+            {
+              "pc_code": "5.1",
+              "description": "Use safe access and exit routes in the work environment"
+            },
+            {
+              "pc_code": "5.2",
+              "description": "Identify appropriate working tools, materials and equipment"
+            },
+            {
+              "pc_code": "5.3",
+              "description": "Use tools and equipment safely in accordance with the supervisor’s instructions"
+            },
+            {
+              "pc_code": "5.4",
+              "description": "Return all tools, equipment and unused materials for appropriate storage"
+            },
+            {
+              "pc_code": "5.5",
+              "description": "Carry out general housekeeping of work environment"
+            },
+            {
+              "pc_code": "5.6",
+              "description": "Dispose all waste appropriately to designated waste facilities"
+            }
+          ]
+        },
+        {
+          "lo_num": "6",
+          "description": "Know how to Comply with Standards of Lifting, Loading/ Offloading and Stacking of Materials in Rice Processing Facilities",
+          "performance_criteria": [
+            {
+              "pc_code": "6.1",
+              "description": "Identify lifting and stacking techniques"
+            },
+            {
+              "pc_code": "6.2",
+              "description": "Demonstrate lifting techniques in loading and offloading materials without assistance"
+            },
+            {
+              "pc_code": "6.3",
+              "description": "Demonstrate correct lifting and loading techniques with mechanical assistance"
+            },
+            {
+              "pc_code": "6.4",
+              "description": "Stack materials correctly"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "AGP/RCP/002/L2",
+      "title": "COMMUNICATE EFFECTIVELY IN RICE PROCESSING ENVIRONMENT",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Know how to use a Non-Complex Communication System in a Work Environment",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Use a verbal means to pass on necessary information"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Use non-verbal means to convey necessary information e.g. body language, signs"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Interpret symbols and signs appropriately"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Know how to Source Information on a Work Environment",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Identify the source of information in the work environment"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Relate effectively with the source of information"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Use the different information flow systems in a work environment"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Use information gathered to avoid challenges in a work situation"
+            },
+            {
+              "pc_code": "2.5",
+              "description": "Report findings appropriately in accordance with laid down procedures in the work environment i.e. Cards, Flip Chart"
+            },
+            {
+              "pc_code": "2.6",
+              "description": "Use simple communication gadgets like mobile phones and table phones"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Know how to Apply Various Means of Communication in a Work Environment",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Locate the various communication equipment in the work environment"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Use effectively the various communication equipment in a work environment"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Pass information effectively to the right personnel"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Obey instructions in line with ethics of the work environment"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "AGP/RCP/003/L2",
+      "title": "TEAMWORK",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Know Positive Working Relationship with Colleagues",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Identify the need for developing positive working relationships with colleagues"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Recognize the importance of relating with other people in a way that makes them feel valued and respected"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Assist team members when required."
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Report to the appropriate personnel when request for assistance fall outside area of responsibility."
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Communicate information to colleagues about individual work that may affect teamwork."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Know how to Take Responsibility Within the Team",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Recognize own role and responsibilities within a team"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Perform individual tasks in line with the team’s rules and regulations."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Participate effectively in teamwork."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Know how to Comply with Policy of Organization",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Explain organizational code of conduct"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Work in line with organizational standard"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Use organizational code of practice"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Adhere strictly to instructions given by the Management"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "AGP/RCP/004/L2",
+      "title": "PRACTICE OF RICE PROCESSING",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Know Value Chain Principles in Rice Processing",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Describe paddy Rice processing value chain"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Illustrate the stages in the paddy Rice processing value chain"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Identify the functions of key players in the paddy Rice processing value chain"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Identify the mode of operations of the key players in the paddy Rice processing value chain"
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Identify the relationships of the key players in the paddy rice processing value chain"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Know the Different Major Rice Varieties in use by Farmers",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "State the different varieties of Paddy Rice"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Describe paddy Rice processing methods"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "State the characteristics of long and short grains paddy Rice varieties"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Identify the different varieties of Paddy Rice"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Know how to Winnow Paddy Rice using Various Methods",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "State the methods of winnowing paddy Rice"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Describe the traditional method of Winnowing"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Describe the manual method of winnowing"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Describe the mechanized method of winnowing"
+            },
+            {
+              "pc_code": "3.5",
+              "description": "Carryout winnowing of paddy Rice using traditional method"
+            },
+            {
+              "pc_code": "3.6",
+              "description": "Carryout winnowing of paddy Rice using manual method"
+            },
+            {
+              "pc_code": "3.7",
+              "description": "Carryout winnowing of paddy Rice using motorized method"
+            },
+            {
+              "pc_code": "3.8",
+              "description": "State the advantages and disadvantages of the methods"
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Know Drying of Paddy Rice",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "State the method of drying paddy Rice"
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Describe the methods of drying paddy Rice"
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Carryout drying of paddy Rice after winnowing"
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Describe the methods for testing paddy dryness"
+            },
+            {
+              "pc_code": "4.5",
+              "description": "Carryout paddy Rice dryness testing using the methods"
+            }
+          ]
+        },
+        {
+          "lo_num": "5",
+          "description": "Know how to Control Post-Harvest Loss",
+          "performance_criteria": [
+            {
+              "pc_code": "5.1",
+              "description": "Identify the possible areas of postharvest losses"
+            },
+            {
+              "pc_code": "5.2",
+              "description": "State the ways of reducing or controlling post-harvest losses"
+            },
+            {
+              "pc_code": "5.3",
+              "description": "Describe the methods for reducing post-harvest losses."
+            },
+            {
+              "pc_code": "5.4",
+              "description": "Demonstrate the methods of reducing post-harvest loss"
+            },
+            {
+              "pc_code": "5.5",
+              "description": "Identify means for minimizing post– harvest losses"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "AGP/RCP/005/L2",
+      "title": "RICE PROCESSING TOOLS, EQUIPMENT AND MACHINERY",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Know Rice Processing Machines",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Describe Rice processing machine and Equipment"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Identify rice processing machine and equipment"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Illustrate the operation of Rice harvesting machine and equipment"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Illustrate the operation of Rice winnowing machinery and equipment"
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Illustrate the operation of Rice milling machine"
+            },
+            {
+              "pc_code": "1.6",
+              "description": "Illustrate the operation of Rice de-stoning machine"
+            },
+            {
+              "pc_code": "1.7",
+              "description": "Describe the use of rice processing machines"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Know how to Operate Rice Processing Tools and Equipment",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Illustrate Rice processing tools and equipment"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Identify tools and equipment used in Rice processing"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Use tools and equipment in Rice Pre-cleaning"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Use tools and equipment in Rice winnowing"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Know Basic Operations of Rice Milling Machine",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Identify basic Rice milling machine"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Describe the operation of basic Rice milling machine"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Operate basic Rice milling machine"
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Know how to Perform Basic Operations on Rice De-Husking Machine",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Identify basic Rice de-husking machine"
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Describe the operation of basic Rice de-husking machine"
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Operate basic Rice de-husking machine"
+            }
+          ]
+        },
+        {
+          "lo_num": "5",
+          "description": "Know how to Carry Out Basic Operations on Rice De-Stoning Machine",
+          "performance_criteria": [
+            {
+              "pc_code": "5.1",
+              "description": "Identify basic Rice de-stoning machine"
+            },
+            {
+              "pc_code": "5.2",
+              "description": "Describe the operation of basic Rice de-stoning machine"
+            },
+            {
+              "pc_code": "5.3",
+              "description": "Operate basic Rice de-stoning machine"
+            }
+          ]
+        },
+        {
+          "lo_num": "6",
+          "description": "Know the Basic Operations of Rice Polishing Machine",
+          "performance_criteria": [
+            {
+              "pc_code": "6.1",
+              "description": "Identify basic rice polishing machine"
+            },
+            {
+              "pc_code": "6.2",
+              "description": "Describe the operation of basic rice polishing machine"
+            },
+            {
+              "pc_code": "6.3",
+              "description": "Operate basic Rice polishing machine"
+            },
+            {
+              "pc_code": "6.4",
+              "description": "Explain general maintenance operations of rice processing machines"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "AGP/RCP/006/L2",
+      "title": "RICE PARBOILING AND MILLING",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Know how to Perform Paddy Rice Pre-cleaning",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Perform washing of paddy Rice"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Segregate paddy Rice from other impurities"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Remove cleaned paddy from the water"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Drain water from paddy rice"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Know how to Soak Paddy Rice",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Apply the right temperature for soaking"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Set the duration for soaking paddy Rice"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Describe the duration & temperature relationship to soaking paddy Rice"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Soak paddy Rice at the appropriate duration/temperature"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Know how to Perform Paddy Rice Parboiling",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Identify paddy Rice parboiling equipment"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Carryout the traditional methods of parboiling paddy Rice"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Carryout the modern methods of parboiling paddy rice"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Explain automated method of parboiling paddy Rice"
+            },
+            {
+              "pc_code": "3.5",
+              "description": "Demonstrate the use of parboiling equipment to carry out parboiling of paddy Rice"
+            },
+            {
+              "pc_code": "3.6",
+              "description": "Demonstrate the use of traditional method to carry out parboiling of paddy Rice"
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Know Paddy Rice Milling",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "List paddy rice milling equipment"
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Explain the traditional methods of paddy Rice milling"
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Explain the modern methods of paddy Rice milling"
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Explain the automated method of paddy Rice milling"
+            },
+            {
+              "pc_code": "4.5",
+              "description": "State the use of Rice milling equipment"
+            },
+            {
+              "pc_code": "4.6",
+              "description": "Demonstrate the use of traditional method of paddy Rice milling"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "AGP/RCP/007/L2",
+      "title": "QUALITY PRACTICES IN PADDY RICE PROCESSING",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Know Activities of paddy Rice quality inspection",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Know paddy rice inspection methods"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Identify rice inspection tools"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Explain rice inspection methods"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Describe rice inspection tools"
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Carry out rice inspection activity"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Know how to Comply with Paddy Rice Quality Control Measures",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Explain rice quality control measures"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Identify paddy Rice quality control points"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Carry out Rice quality control activity"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "State Standard Organization of Nigeria (SON) rice paddy grading standard"
+            },
+            {
+              "pc_code": "2.5",
+              "description": "State SON milled rice grading standard"
+            },
+            {
+              "pc_code": "2.6",
+              "description": "State NAFDAC rice paddy grading standard"
+            },
+            {
+              "pc_code": "2.7",
+              "description": "State NAFDAC milled rice grading standard"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Know Paddy Rice Quality Assurance Measures",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Explain quality assurance in rice paddy"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Explain quality assurance in milled rice"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Identify methods for carrying out rice quality assurance"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Explain rice quality assurance methods"
+            },
+            {
+              "pc_code": "3.5",
+              "description": "Demonstrate quality assurance in a rice mill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "AGP/RCP/008/L2",
+      "title": "PACKAGING AND STORAGE OF PADDY AND MILLED RICE",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Know Packaging",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Define packaging"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Define packaging materials"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Define rice packaging materials"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "List types of rice packaging materials"
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Identify bag sizes and weights"
+            },
+            {
+              "pc_code": "1.6",
+              "description": "Identify ideal weight methods"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Know Bagging and Weighing",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Define Bagging"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Define weighing"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Identify methods of rice filling"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Describe rice filling procedure and weighing"
+            },
+            {
+              "pc_code": "2.5",
+              "description": "Identify sealing methods of rice packaging material"
+            },
+            {
+              "pc_code": "2.6",
+              "description": "Define labelling"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Know Storage and Storage Area Maintenance",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Define storage"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Describe types of storage"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Define storage area"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Prepare storage area"
+            },
+            {
+              "pc_code": "3.5",
+              "description": "Explain appropriate moisture content for storage"
+            },
+            {
+              "pc_code": "3.6",
+              "description": "Identify the instruments used in measuring moisture content for storage"
+            },
+            {
+              "pc_code": "3.7",
+              "description": "Define weevil and weevil control"
+            },
+            {
+              "pc_code": "3.8",
+              "description": "Describe the ways of controlling weevils in rice factory"
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Know Inventory and Stacking",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Define inventory"
+            },
+            {
+              "pc_code": "4.2",
+              "description": "State advantages of inventory"
+            },
+            {
+              "pc_code": "4.3",
+              "description": "State disadvantages of inventory"
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Explain First-in First Out (FIFO) procedure"
+            },
+            {
+              "pc_code": "4.5",
+              "description": "Define stacking"
+            },
+            {
+              "pc_code": "4.6",
+              "description": "State advantages of stacking"
+            },
+            {
+              "pc_code": "4.7",
+              "description": "State disadvantages of stacking"
+            },
+            {
+              "pc_code": "4.8",
+              "description": "Describe Stacking parameters"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "AGP/RCP/009/L2",
+      "title": "RICE MILLING OUTPUT AND BY-PRODUCTS",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Know Paddy Rice Anatomy",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Define Paddy Rice anatomy"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Illustrate Rice anatomy"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Explain the benefit of Rice anatomy"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Describe the physical appearance of mature paddy Rice"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Know Rice Milling Output",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Define Rice milling Output"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "List the different outputs of Rice milling"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Explain the percentages of each output"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Categorize the various output of Rice milling"
+            },
+            {
+              "pc_code": "2.5",
+              "description": "State the stages of milling that produce each output"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Know By-products of Rice Milling",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Explain by-products of Rice milling"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "State the by-products of Rice milling"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Describe the various by-products of Rice milling"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Explain the use of various by-products of Rice milling."
+            },
+            {
+              "pc_code": "3.5",
+              "description": "Describe how you can make money from the various by-products"
+            },
+            {
+              "pc_code": "3.6",
+              "description": "Define Rice husk products"
+            },
+            {
+              "pc_code": "3.7",
+              "description": "Describe Rice husk product"
+            },
+            {
+              "pc_code": "3.8",
+              "description": "State the use of Rice husk product"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
