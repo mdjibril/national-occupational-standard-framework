@@ -149,7 +149,7 @@ python validate.py extracted_json/level-2/"NOS Painting and decoration.json"
 ```
 
 The validator checks for:
-- **Structural integrity** — missing keys, wrong types.
+- **Structural integrity** — missing keys, null values, or wrong types.
 - **Unit code format** — valid patterns and OCR errors (letter `O` instead of `0`).
 - **Level consistency** — unit codes match their document level.
 - **Numbering gaps** — missing LOs or PCs in a sequence.

@@ -216,6 +216,12 @@ def validate_trade(data, result, file = None):
         trade_name = data.get("trade_name")
 
         if trade_name is None:
+            add_issue(
+                result,
+                severity=ERROR,
+                rule='TradeRule',
+                message="Trade name is null.",
+            )
             return
 
         if not isinstance(trade_name, str):
