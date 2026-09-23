@@ -1,0 +1,752 @@
+{
+  "trade_name": "NOS ICT Data Science",
+  "level": 5,
+  "units": [
+    {
+      "code": "ICT/GEN/001/L5",
+      "title": "Occupational Health and Safety",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understand Workplace Health and Safety Regulations",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Explain key OHS legislation and regulations relevant to the IT sector."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Identify the roles and responsibilities of individuals and organizations in maintaining a safe work environment"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Describe the process for reporting health and safety risks and incidents."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Identify Workplace Hazards and Implement Control Measures",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Identify common hazards in IT work environments, including electrical, ergonomic, and data-related risks"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Assess the severity and likelihood of potential hazards in specific IT tasks."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Implement appropriate control measures, such as safe cabling practices, ergonomic workstation setup, and electrical safety protocols."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Apply Emergency Procedures and First Aid in the Workplace",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Demonstrate the correct procedure for responding to workplace emergencies, such as electrical fires or equipment malfunctions."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Perform basic first aid techniques, including treating minor injuries and using first aid equipment"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Communicate and coordinate effectively with emergency services and other relevant personnel during a workplace incident."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ICT/GEN/002/L5",
+      "title": "Teamwork",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understand the Roles and Responsibilities within a Team",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Identify the different roles and functions within an IT team (e.g., network engineers, system administrators, software developers)."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Describe the key responsibilities and contributions of each team member."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Recognize the importance of each role in achieving the team's objectives."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Foster Positive Working Relationships within a Team",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Demonstrate techniques for effective interpersonal communication and conflict resolution in a team environment."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Show the ability to provide constructive feedback and actively listen to others' contributions"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Promote inclusivity and collaboration among team members to ensure participation and engagement from all."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Contribute to Team Problem-Solving and Decision-Making",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Participate in group discussions to identify IT-related problems."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Suggest innovative solutions and support team decision-making processes."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Evaluate the effectiveness of team decisions and propose improvements where necessary."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ICT/GEN/003/L5",
+      "title": "Communication",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Communicate Technical Information Clearly and Accurately",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Explain IT concepts, procedures, and solutions in a manner appropriate to the audience, whether technical or non-technical."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Use industry-standard terminology correctly when describing technical processes"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Adapt communication methods to suit the context, such as written reports, emails, or verbal presentations."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Utilize Digital Communication Tools Effectively",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Demonstrate proficiency in using digital tools for communication, such as email, messaging platforms, and collaboration software (e.g., Slack, Teams)."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Adhere to best practices for professional digital communication, including email etiquette and secure file sharing."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Use collaborative tools to share and receive feedback on documents, code, or project updates."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Listen and Respond Appropriately in a Professional Context",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Demonstrate active listening skills during team discussions or client meetings."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Respond to questions, concerns, and feedback clearly and effectively."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Clarify misunderstandings and summarize discussions to ensure mutual understanding."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ICT/DAS/004/L5",
+      "title": "FUNDAMENTALS OF DATA SCIENCE",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understand the basic concepts and lifecycle of data science.",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Explain data science and its importance in various industries."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Describe the data science lifecycle, including data collection, cleaning, exploration, modeling, evaluation, and deployment."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Identify common challenges and best practices at each stage of the data science lifecycle"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Understand different types of data and sources of data",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Differentiate between structured, semi-structured, and unstructured data."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Describe various sources of data."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Evaluate the reliability and relevance of different data sources for specific data science projects."
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Determine the integrity of data source"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Understand key roles in a data science project.",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Describe roles such as data scientist, data analyst, data engineer, and machine learning engineer."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Explain how these roles collaborate in a typical data science project."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Describe the skills and tools required for each role and how they contribute to the project\u2019s success."
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Understand data science tools and environments.",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Set up data science tools like Anaconda, Jupyter Notebook, and Python."
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Create a new project using Jupyter Notebook."
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Outline the basic functions of Integrated Development Environments (IDEs) and how they can be leveraged for data science."
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Compare data science environments such as Jupyter Notebook, Google Colab, and local Python IDEs (e.g., PyCharm"
+            },
+            {
+              "pc_code": "4.5",
+              "description": "Evaluate factors like ease of use, computational resources, and collaboration features."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ICT/DAS/005/L5",
+      "title": "PYTHON PROGRAMMING FOR DATA SCIENCE",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understand the basic, essentials for data analysis using Python",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Write Python scripts using basic data types (integers, strings, lists, dictionaries)."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Demonstrate Python control flow structures (if-else, loops)."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Debug Python code errors"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Optimize code for efficiency."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Understand Python functions, modules, and file handling.",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Utilize Python\u2019s built-in functions (e.g., len(), sum(), max(), min()) and standard libraries (e.g., math, datetime, os) to perform common operations such as mathematical calculations, date manipulation, and file handling."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Organize Python codes using custom functions and modules"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Perform file operations such as reading from and writing to files."
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Write Python code that uses try, except, else, and finally blocks to handle common runtime errors (e.g., division by zero, file not found)."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Utilize data science libraries for data manipulation.",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Perform operations such as creating and manipulating multi-dimensional arrays, performing element-wise arithmetic operations."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Apply functions such as mean, sum, and dot product on arrays using Numpy"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Perform operations such as loading a CSV dataset, cleaning missing or inconsistent data by filling or removing null values, and transforming the dataset by filtering rows, renaming columns, and applying group-by operations using Pandas."
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Perform operations such as merging, joining, and grouping data for advanced data manipulation using Pandas"
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Understand data visualization techniques in Python.",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Create basic visualizations (line plots, bar charts, scatter plots) using Matplotlib and Seaborn."
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Customize plots with titles, labels, and legends for effective data presentation."
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Implement interactive visualizations using libraries like Plotly or Altair."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ICT/DAS/006/L5",
+      "title": "STATISTICS FOR DATA SCIENCE",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understand descriptive statistics and its application in data analysis",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Determine the application of measures of central tendency (mean, median, mode)"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Calculate measures of central tendency (mean, median, mode) and dispersion (variance, standard deviation)."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Summarize data using tables and graphs for exploratory analysis."
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Analyze skewness and kurtosis to understand data distribution and its implications."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Learn inferential statistics and hypothesis testing.",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Identify basic concept of inferential statistics"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Conduct hypothesis tests, including one-sample and two-sample t-tests, as well as chi-square tests for categorical data"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Interpret p-values to determine statistical significance in the context of the given problem"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Interpret confidence intervals for population parameters."
+            },
+            {
+              "pc_code": "2.5",
+              "description": "Differentiate between Type I and Type II errors in hypothesis testing."
+            },
+            {
+              "pc_code": "2.6",
+              "description": "Explain the potential impact of the probability of each error on decision-making in statistical analysis."
+            },
+            {
+              "pc_code": "2.7",
+              "description": "Apply the concept of effect size and power in hypothesis testing."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Understand probability distributions and its applications.",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Describe different probability distributions (normal, binomial, Poisson)."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Use Python to simulate data following different distributions and analyze the outcomes."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Apply probability distributions to solve problems in data science."
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Apply regression analysis for predictive modeling.",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Evaluate simple linear regression models using Python."
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Interpret regression coefficients and assess model accuracy using metrics like R-squared and RMSE."
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Apply multiple regression analysis to demonstrate the impact of multiple variables on the target variable."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ICT/DAS/007/L5",
+      "title": "EXPLORATORY DATA ANALYSIS (EDA)",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Perform exploratory data analysis to uncover patterns and insights.",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Use descriptive statistics and visualizations to explore data distributions and identify trends."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Detect outliers and missing values and decide on appropriate handling methods."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Apply dimensionality reduction techniques to simplify datasets while retaining key information."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Conduct data cleaning and preprocessing.",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Address missing data by applying techniques such as mean, median, or mode imputation for numerical values, deleting rows or columns with significant missing data"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Use domain-specific rules to make informed decisions on how to handle the gaps."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Apply data transformation techniques such as normalization and standardization."
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Automate data cleaning tasks using Python scripts for efficiency in large datasets."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Visualize data to understand relationships and distributions.",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Create complex visualizations (heatmaps, pair plots, histograms) to identify correlations and patterns."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Create an interactive dashboard using Plotly to explore a dataset dynamically, allowing users to filter data, zoom into visualizations, and adjust parameters for real-time updates."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Customize visualizations for different audiences, focusing on clear communication of insights."
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Apply feature engineering techniques to improve model performance.",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Create new features from existing data to capture underlying patterns."
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Remove irrelevant or redundant features in dataset using domain knowledge."
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Apply feature selection techniques such as Recursive Feature Elimination (RFE) or Feature Importance."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ICT/DAS/008/L5",
+      "title": "MACHINE LEARNING",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understand the fundamentals of machine learning and its types.",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Differentiate between supervised, unsupervised, and reinforcement learning."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Explain the concept of the ML pipeline: data preparation, model training, evaluation, and deployment."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Describe the ethical considerations and challenges in machine learning."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Develop proficiency in supervised learning techniques.",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Implement regression and classification models (Linear Regression, Logistic Regression, Decision Trees)."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Evaluate model performance using metrics (accuracy, precision, recall, F1-score) and cross-validation."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Identify instances of overfitting and underfitting in machine learning models by analyzing performance on training and validation datasets."
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Apply techniques such as L1 (Lasso) and L2 (Ridge) regularization to improve model generalization and optimize performance."
+            },
+            {
+              "pc_code": "2.5",
+              "description": "Implement a linear regression and decision tree model using Scikit-Learn in Python."
+            },
+            {
+              "pc_code": "2.6",
+              "description": "Evaluate the performance of the models using accuracy, precision, recall, and F1-score metrics."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Develop proficiency in unsupervised learning techniques.",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Implement clustering algorithms (K-Means, Hierarchical) and dimensionality reduction techniques (PCA)."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Interpret the results of unsupervised learning models."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Apply unsupervised learning techniques to problem scenarios, such as customer segmentation."
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Develop proficiency in reinforcement learning techniques",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Explain the principles of reinforcement learning"
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Implement core algorithms such as Q-learning, Deep Q Networks (DQNs), and Policy Gradient methods using appropriate programming tools."
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Assess the performance of reinforcement learning models using metrics such as cumulative rewards and convergence rates."
+            }
+          ]
+        },
+        {
+          "lo_num": "5",
+          "description": "Optimize machine learning models.",
+          "performance_criteria": [
+            {
+              "pc_code": "5.1",
+              "description": "Improve model performance using hyperparameter tuning methods such as Grid Search, Random Search"
+            },
+            {
+              "pc_code": "5.2",
+              "description": "Implement cross-validation techniques to validate model robustness."
+            },
+            {
+              "pc_code": "5.3",
+              "description": "Apply regularization techniques (L1, L2) to prevent overfitting"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ICT/DAS/009/L5",
+      "title": "DEEP LEARNING",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understand the basics of deep learning and neural networks.",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Define the concept of deep learning"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Identify tools and framework of deep learning"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Explain the structure and working of artificial neural networks (ANNs). 1.4 1.5 Decribe activation functions, loss functions, and backpropagation. Describe the types of neural network architectures (CNNs, RNNs) and their use cases."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Develop deep learning models using popular frameworks.",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Build neural networks using TensorFlow or Keras."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Train neural networks using TensorFlow or Keras"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Evaluate neural networks using TensorFlow or Keras"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Apply Convolutional Neural Networks (CNNs) for image classification tasks."
+            },
+            {
+              "pc_code": "2.5",
+              "description": "Implement data augmentation techniques to improve the robustness of deep learning models."
+            },
+            {
+              "pc_code": "2.6",
+              "description": "Explain the process of transfer learning using pre-trained models"
+            },
+            {
+              "pc_code": "2.7",
+              "description": "Implement transfer learning by using a pre-trained model (e.g., VGG16, ResNet) for a specific image classification task, including loading the model, freezing the initial layers, adding custom layers, and fine-tuning the model on a new dataset"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Understand advanced deep learning techniques.",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Build a Recurrent Neural Network (RNN) model using TensorFlow or Keras to predict the next value in a time series dataset, such as stock prices or weather data, and evaluate the model\u2019s performance using mean squared error (MSE) as the metric"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Explore the concept of transfer learning and apply it to real-world problems."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Evaluate deep learning models using advanced metrics and techniques like AUC-ROC and confusion matrix."
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Apply deep learning models to problems.",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Develop a deep learning model for a specific problem (e.g., sentiment analysis, object detection)."
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Deploy a trained deep learning model and evaluate its performance in production."
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Explain the key challenges in deploying deep learning models at scale, including issues related to model performance, data handling, latency, and resource management."
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Develop a deployment strategy that addresses these challenges and includes monitoring and maintenance plans for the model in a production environment."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

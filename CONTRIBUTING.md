@@ -85,6 +85,7 @@ These NOS have already been converted to JSON. Pick a trade **not** listed here 
 | ICT Cybersecurity Analyst | | | ✅ | | |
 | ICT Cybersecurity Engineering | | | | | ✅ |
 | ICT Data Analytics | | | | ✅ | |
+| ICT Data Science | | | | | ✅ |
 | ICT Digital Content Creation | | | ✅ | | |
 | ICT Digital Service Operations | | ✅ | ✅ | | |
 | ICT Front-End Web Development | | | ✅ | | |
