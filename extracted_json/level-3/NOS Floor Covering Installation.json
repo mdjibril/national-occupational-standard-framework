@@ -1,0 +1,1242 @@
+{
+  "trade_name": null,
+  "level": 3,
+  "units": [
+    {
+      "code": "CON/FCI/001/L3",
+      "title": "Health, Safety and Environment.",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Health and Safety Precaution in Workplace",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Explain the use of Personal Protective Equipment and wears: • Nose mask • Ear muff • Overall • Hand-gloves • Safety boot • Eye goggles • Reflective jackets • Helmet • Fire Extinguisher • First Aid Box • Reflector Triangle (Caution Sign) • Caution Red Flag, etc."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Demonstrate the use of safety equipment in 1.1 above at: • Construction site • Yard"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Describe waste disposal procedure."
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Maintain personal hygiene as an installer."
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Identify safety signs and symbols relevant to operation."
+            },
+            {
+              "pc_code": "1.6",
+              "description": "Select safety equipment to be used by the installer."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Hazards in workplace",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Locate potential hazard points at: • Site • Yard"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Discuss causes of hazard in construction site: • Negligence • Human Error • Machine malfunction, etc."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Identify possible hazard as a Senior Floor Installer • Severe weather conditions • Severe vibration"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Accident in workplace • Fire accident • Fall from height • Electric shock • Vehicular accident • Equipment accident, etc.",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Discuss types of accident in construction site and yard:"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Discuss measures to prevent accident at construction site or yard as a Senior Steel Formworker: • Maintain alertness on the job • Promote safety awareness • Observe rest cycle • Use PPE, etc."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Use firefighting equipment"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Carry out First Aid at workplace."
+            },
+            {
+              "pc_code": "3.5",
+              "description": "Communicate near-miss/accident to supervisor."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "CON/FCI/002/L3",
+      "title": "Communication System in Work Environment.",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understand Communication in workplace",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Discuss communication as a senior Floor Covering Installer on construction site or yard: • Peer to Peer • Senior Floor Covering Installer • Senior Floor Covering Installer to Supervisor"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Discuss the importance of communication on a work environment."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Describe how to get information from schedule of work as senior Floor Covering Installer"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Understand methods of Communication in workplace",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Discuss the forms of communication • Verbal (spoken) • Non-verbal (written) • Signs • Signals"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Communicate work information Senior Floor Installer"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Use the following devices as a Senior Floor Covering Installer to communicate information: • Phone • Radio"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Understand elements of Communication in workplace",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Explain written information on the job"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Use verbal instruction on the job"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Communicate verbal information/instruction on the job"
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Communicate to immediate supervisor/team members",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Identify circumstances that can affect progress of work such as: • Equipment damage • Safety Concerns • Delays that may cause inability to meet deadlines etc."
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Recognize lines of communication."
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Communicate concerns which may affect work progress."
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Process work instructions."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "CON/FCI/003/L3",
+      "title": "Team Work in Construction Environment.",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Positive working relationship with Colleagues.",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Identify the need for developing positive working relationship with Colleagues."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Recognize the importance of relating with other people in a way that makes them feel valued and Respected."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Interact with team members when required."
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Communicate to the appropriate personnel when request for assistance fall outside area of your responsibility"
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Communicate information to colleagues about own work that might affect Others."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Take responsibilities Within the team.",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Recognize own role and responsibilities within the Team."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Perform individual tasks in line with the team rules and regulations."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Perform effectively with team members."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Compliance with policy of organization.",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Examine work in line with organizational policy"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Use organizational code of conduct"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Operate in compliance with organizational policy."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "CON/FCI/004/L3",
+      "title": "Assess and Prepare Surfaces for Floor Coverings.",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Know subfloor for surface coverings",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Identify different types of subfloors commonly used in floor covering."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Discuss properties of various subfloor, including concrete, wood, and existing floor coverings."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Explain processes for assessing the conditions of existing floor surfaces."
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Identify issues that may affect the installation of floor coverings."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Understand the impact of moisture on floor coverings",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Describe the impact of moisture on different floor covering materials"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Recognize signs of moisturerelated problems in existing floor coverings"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Identify issues related to moisture, such as mold growth, warping, cupping, or adhesive failure."
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Identify different subfloor materials and their exposure to moisture"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Demonstrate Leveling and Smoothing Techniques",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Explain the principles of leveling for floor covering installations."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Explain the principles of smoothing for floor covering installations."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Carry out leveling activity to create a flat and even surface."
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Carry out smoothing activity to floor covering surface."
+            },
+            {
+              "pc_code": "3.5",
+              "description": "Select appropriate smoothing materials to achieve a smooth and level substrate before the installation of floor coverings."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "CON/FCI/005/L3",
+      "title": "Materials and Labour Requirements for Floor Coverings",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understand Estimation for floor covering Materials",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Measure a floor covering area"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Estimate quantities of materials required for identified floor cover"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Mention factors influencing material requirements, such as room dimensions, pattern matching, waste allowances, among others."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Understand labour estimation for floor covering",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Identify labor requirements for the estimated floor covering area"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Estimate labour requirements for identified floor covering area"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Estimate labor cost for floor covering installation"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Know materials and their Characteristics",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Distinguish various types of floor covering materials"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Discuss the properties and characteristics of different floor covering materials, such as durability, flexibility, and porosity."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "List maintenance requirements for floor covering materials"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "CON/FCI/006/L3",
+      "title": "Set Out and Install Interlocking Stones, Kerbs and Pavement",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understand Interlocking Stones and Kerbs",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Identify different types of interlocking stones and kerbs."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Describe different types of tools and equipment used for interlocking stones and kerbs."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Identify various materials used in interlocking pavements."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Carry out Setting Out Techniques",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Measure the area for interlocking stones, kerbs, and pavement."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Set out the area for interlocking stones, kerbs, and pavement"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Use setting out tools to ensure proper alignment, spacing, and symmetry."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Know subfloor preparation and material selection",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Prepare subfloor for installing interlocking stones, kerbs and pavement."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Discuss the importance of a well-prepared base for the stability and longevity of the pavement"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Select appropriate materials, including the type of interlocking stones, kerbs and base materials."
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Know cutting and shaping techniques",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Use appropriate tools for cutting while maintaining precision."
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Use appropriate tools for shaping while maintaining precision."
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Describe the sequence of installation and the use of jointing materials."
+            }
+          ]
+        },
+        {
+          "lo_num": "5",
+          "description": "Understand patterns matching and design",
+          "performance_criteria": [
+            {
+              "pc_code": "5.1",
+              "description": "Carry out installation of kerbs and interlocks."
+            },
+            {
+              "pc_code": "5.2",
+              "description": "Match patterns for interlocking stones"
+            },
+            {
+              "pc_code": "5.3",
+              "description": "Create designs with interlocking stones."
+            },
+            {
+              "pc_code": "5.4",
+              "description": "Mention at least two considerations in matching patterns"
+            }
+          ]
+        },
+        {
+          "lo_num": "6",
+          "description": "Understand compaction, edging, jointing and finishing",
+          "performance_criteria": [
+            {
+              "pc_code": "6.1",
+              "description": "Discuss techniques for finishing, edges, borders, and transitions for a polished look."
+            },
+            {
+              "pc_code": "6.2",
+              "description": "Discuss the importance of jointing and the use of jointing materials to ensure stability."
+            },
+            {
+              "pc_code": "6.3",
+              "description": "Carry out compaction of pavement."
+            },
+            {
+              "pc_code": "6.4",
+              "description": "Demonstrate technique for edging"
+            },
+            {
+              "pc_code": "6.5",
+              "description": "Demonstrate technique for jointing"
+            },
+            {
+              "pc_code": "6.6",
+              "description": "Carry out finishing on the laid interlocks and kerbs"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "CON/FCI/007/L3",
+      "title": "Set Out and Install Stamped Concrete Floor",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understand Stamped Concrete floor finish",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Identify types of stamped concrete patterns"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Identify materials used for stamped concrete"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Identify tools used for stamped concrete."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Carry out setting out for stamped concrete floor",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Measure areas for stamped concrete installations."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Set out areas for stamped concrete installations."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Use set out tools to ensure proper alignment, spacing, and symmetry."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Carry out Subfloor Preparation and material Selection",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Prepare subfloor for stamped concrete floor finish."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Mention the importance of a well-prepared base for stamped concrete floor finish."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Select appropriate materials for stamped concrete, including concrete mixtures and release agents."
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Carry out stamping techniques",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Describe the sequence of stamping"
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Describe the use of jointing materials."
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Apply stamping techniques for various patterns and textures."
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Use stamping tools effectively to achieve the desired pattern."
+            }
+          ]
+        },
+        {
+          "lo_num": "5",
+          "description": "Carry out Pattern Matching, Design and finishing",
+          "performance_criteria": [
+            {
+              "pc_code": "5.1",
+              "description": "Match patterns and create designs with stamped concrete"
+            },
+            {
+              "pc_code": "5.2",
+              "description": "List aesthetic considerations in stamp concrete design."
+            },
+            {
+              "pc_code": "5.3",
+              "description": "Apply color hardener on stamped concrete"
+            },
+            {
+              "pc_code": "5.4",
+              "description": "Finish stamped concrete surface including sealing, curing, washing and polishing"
+            }
+          ]
+        },
+        {
+          "lo_num": "6",
+          "description": "Understand Edging and border design",
+          "performance_criteria": [
+            {
+              "pc_code": "6.1",
+              "description": "Discuss techniques for finishing edges, borders, and transitions for a polished look."
+            },
+            {
+              "pc_code": "6.2",
+              "description": "Create designs/ patterns in stamped concrete border"
+            },
+            {
+              "pc_code": "6.3",
+              "description": "Match different patterns/designs seamlessly"
+            }
+          ]
+        },
+        {
+          "lo_num": "7",
+          "description": "Ensure Quality Control",
+          "performance_criteria": [
+            {
+              "pc_code": "7.1",
+              "description": "Identify defects/imperfections in the finished stamped concrete floor"
+            },
+            {
+              "pc_code": "7.2",
+              "description": "Rectify defects/imperfections in the finished stamped concrete floor"
+            },
+            {
+              "pc_code": "7.3",
+              "description": "Discuss quality control measures for stamped concrete floor finish"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "CON/FCI/008/L3",
+      "title": "Terrazzo Floor Covering",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understand terrazzo floor covering.",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Identify types of terrazzo floor covering"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "State constituents of terrazzo floor covering."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Describe terrazzo floor covering"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "List aesthetic considerations in Terrazzo Floor design."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Carry out Setting Out for terrazzo floor covering.",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Measure areas for stamped concrete installations."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Set out areas for stamped concrete installations."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Use set out tools to ensure proper alignment, spacing, and symmetry."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Carry out Subfloor Preparation and material Selection.",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Prepare the subfloor before installing terrazzo floor."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Mention the importance of a well-prepared base for terrazzo floor covering"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "State the importance of a wellprepared base for stability and longevity of the terrazzo floor."
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Cast terrazzo floor.",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Create various patterns and designs."
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Divide the area into specified panel sizes or bays using wooden battens or ebonite strips for terrazzo according to the design"
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Cast terrazzo floor"
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Use appropriate tools effectively to achieve the desired aesthetic."
+            }
+          ]
+        },
+        {
+          "lo_num": "5",
+          "description": "Carry out Pattern Matching, Design and finishing",
+          "performance_criteria": [
+            {
+              "pc_code": "5.1",
+              "description": "Match patterns in Terrazzo Floor design"
+            },
+            {
+              "pc_code": "5.2",
+              "description": "Create designs with Terrazzo Floor"
+            },
+            {
+              "pc_code": "5.3",
+              "description": "Apply color to Terrazzo Floor"
+            },
+            {
+              "pc_code": "5.4",
+              "description": "Finish Terrazzo Floor surface including curing and sealing"
+            }
+          ]
+        },
+        {
+          "lo_num": "6",
+          "description": "Identify, select and use hand tools, power tools to carryout Terrazzo tile work.",
+          "performance_criteria": [
+            {
+              "pc_code": "6.1",
+              "description": "Identify tools suitable for terrazzo work"
+            },
+            {
+              "pc_code": "6.2",
+              "description": "Use tools suitable for terrazzo work"
+            },
+            {
+              "pc_code": "6.3",
+              "description": "Mix the appropriate materials for terrazzo floor covering works"
+            },
+            {
+              "pc_code": "6.4",
+              "description": "Spread the mix into each panel, level and compact to float"
+            },
+            {
+              "pc_code": "6.5",
+              "description": "Cure hardened floor surface"
+            }
+          ]
+        },
+        {
+          "lo_num": "7",
+          "description": "Understand Edging and border design",
+          "performance_criteria": [
+            {
+              "pc_code": "7.1",
+              "description": "Discuss techniques for finishing edges, borders, and transitions for a polished look."
+            },
+            {
+              "pc_code": "7.2",
+              "description": "Use appropriate tools for edging"
+            },
+            {
+              "pc_code": "7.3",
+              "description": "Install precast Terrazzo floor and ensure proper edging and finishes"
+            }
+          ]
+        },
+        {
+          "lo_num": "8",
+          "description": "Understand Quality Control",
+          "performance_criteria": [
+            {
+              "pc_code": "8.1",
+              "description": "Identify defects in the finished terrazzo floor"
+            },
+            {
+              "pc_code": "8.2",
+              "description": "Rectify defects in the finished terrazzo floor"
+            },
+            {
+              "pc_code": "8.3",
+              "description": "Discuss quality control measures to ensure finished Terrazzo floor installation meets standard specification"
+            }
+          ]
+        },
+        {
+          "lo_num": "9",
+          "description": "Know Grinding and polishing",
+          "performance_criteria": [
+            {
+              "pc_code": "9.1",
+              "description": "Identify tools and equipment for grinding"
+            },
+            {
+              "pc_code": "9.2",
+              "description": "Identify tools and equipment for polishing"
+            },
+            {
+              "pc_code": "9.3",
+              "description": "Carry out grinding of terrazzo floor using the different grinding stone"
+            },
+            {
+              "pc_code": "9.4",
+              "description": "Carry out polishing of grinded terrazzo floor using the appropriate polish materials"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "CON/FCI/009/L3",
+      "title": "Wooden Floor Covering",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understand wooden floor",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Identify types of wooden floor"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Describe types of wooden floor"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Discuss properties and characteristics of wooden floor materials."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Know Setting Out techniques for wooden floor",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "measure areas for wooden floor installations."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Accurately set out areas for wooden floor installations."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Use layout tools to ensure proper alignment, spacing, and symmetry."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Know Subfloor Preparation and material Selection",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Prepare the subfloor before installing wooden floor."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "State the importance of a wellprepared base for stamped concrete floor finish."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "State the importance of a wellprepared base for stability and longevity of the wooden floor."
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Understand wooden floor installation Techniques",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Describe wooden floor installation techniques to create various patterns and textures."
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Use wooden floor tools effectively to achieve the desired aesthetic."
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Describe the sequence of wooden floor finish installation and the use of jointing materials."
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Install wooden floor"
+            }
+          ]
+        },
+        {
+          "lo_num": "5",
+          "description": "Understand Pattern Matching, Design and finishing",
+          "performance_criteria": [
+            {
+              "pc_code": "5.1",
+              "description": "Match patterns and create designs with wooden floor"
+            },
+            {
+              "pc_code": "5.2",
+              "description": "Discuss aesthetic considerations in wooden floor design."
+            },
+            {
+              "pc_code": "5.3",
+              "description": "Apply wooden floor finishes and sealant"
+            }
+          ]
+        },
+        {
+          "lo_num": "6",
+          "description": "Understand Edging, transition and border design",
+          "performance_criteria": [
+            {
+              "pc_code": "6.1",
+              "description": "Discuss techniques for finishing edges, borders, and transitions for different flooring material."
+            },
+            {
+              "pc_code": "6.2",
+              "description": "Create pattern match and designs in wooden floor"
+            },
+            {
+              "pc_code": "6.3",
+              "description": "Cut and trim edges of wooden floor"
+            }
+          ]
+        },
+        {
+          "lo_num": "7",
+          "description": "Understand Quality Control",
+          "performance_criteria": [
+            {
+              "pc_code": "7.1",
+              "description": "Identify defects/imperfections in the finished wooden floor"
+            },
+            {
+              "pc_code": "7.2",
+              "description": "Rectify defects/imperfections in the finished wooden floor"
+            },
+            {
+              "pc_code": "7.3",
+              "description": "Discuss quality control measures to ensure finished wooden floor installation meets standard specification"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "CON/FCI/010/L3",
+      "title": "Mosaic Floor Covering",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understand mosaic floor finish",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Identify types of mosaic floor finish"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Describe types of mosaic floor finish"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Discuss properties and characteristics of mosaic floor finish materials."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Setting Out techniques for mosaic floor finish",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "measure areas for mosaic floor installations."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "set out areas for mosaic floor installations."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Use layout tools to ensure proper alignment, spacing, and symmetry."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Subfloor Preparation and material Selection",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Prepare the subfloor before installing mosaic floor."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "State the importance of a wellprepared base for stamped concrete floor finish."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Discuss the importance of a well-prepared base for stability and longevity of the mosaic floor"
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Install Mosaic floor",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Discuss mosaic floor techniques to create various patterns"
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Use mosaic floor tools effectively to achieve the desired aesthetic."
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Describe the sequence of installation and the use of jointing materials."
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Install mosaic floor"
+            }
+          ]
+        },
+        {
+          "lo_num": "5",
+          "description": "Carry out Pattern Matching, Design and finishing",
+          "performance_criteria": [
+            {
+              "pc_code": "5.1",
+              "description": "Match patterns and create designs with mosaic floor"
+            },
+            {
+              "pc_code": "5.2",
+              "description": "Discuss aesthetic considerations in mosaic floor design."
+            },
+            {
+              "pc_code": "5.3",
+              "description": "Finish mosaic floor surface including curing and sealing"
+            }
+          ]
+        },
+        {
+          "lo_num": "6",
+          "description": "Carry out Edging and border design",
+          "performance_criteria": [
+            {
+              "pc_code": "6.1",
+              "description": "Discuss techniques for finishing edges, borders, and alignment in mosaic floor"
+            },
+            {
+              "pc_code": "6.2",
+              "description": "Create designs/ patterns in mosaic floor"
+            },
+            {
+              "pc_code": "6.3",
+              "description": "Match different patterns/designs seamlessly"
+            }
+          ]
+        },
+        {
+          "lo_num": "7",
+          "description": "Understand Quality Control",
+          "performance_criteria": [
+            {
+              "pc_code": "7.1",
+              "description": "Identify defects/imperfections in the finished mosaic floor"
+            },
+            {
+              "pc_code": "7.2",
+              "description": "Rectify defects/imperfections in the finished mosaic floor"
+            },
+            {
+              "pc_code": "7.3",
+              "description": "Discuss quality control measures to ensure finished mosaic floor installation meets standard specification"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "CON/FCI/011/L3",
+      "title": "Vinyl Floor Covering",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understand vinyl floor",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Identify types of vinyl floor"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Describe types of vinyl floor"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "List constituents of vinyl floor materials."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Carry out Setting Out for vinyl floor",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Measure areas for vinyl floor installations."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Set out areas for vinyl floor installations."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Use layout tools to ensure proper alignment, spacing, and symmetry."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Understand Subfloor Preparation and material Selection",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Prepare the subfloor before installing vinyl floor."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "State the importance of a wellprepared base for stamped concrete floor finish."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "State the importance of a wellprepared base for stability and longevity of the vinyl floor."
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Understand vinyl floor Techniques",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Discuss vinyl floor techniques to create various patterns and textures."
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Use vinyl floor tools effectively to achieve the desired aesthetic."
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Describe the sequence of vinyl floor finish installation and the use of jointing materials."
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Install vinyl floor"
+            }
+          ]
+        },
+        {
+          "lo_num": "5",
+          "description": "Carry out Pattern Matching, Design and finishing",
+          "performance_criteria": [
+            {
+              "pc_code": "5.1",
+              "description": "Match patterns and create designs with vinyl floor"
+            },
+            {
+              "pc_code": "5.2",
+              "description": "Discuss aesthetic considerations in vinyl floor design."
+            },
+            {
+              "pc_code": "5.3",
+              "description": "Apply vinyl floor finishes and sealant"
+            }
+          ]
+        },
+        {
+          "lo_num": "6",
+          "description": "Understand Edging, transition and border design",
+          "performance_criteria": [
+            {
+              "pc_code": "6.1",
+              "description": "Discuss techniques for finishing edges, borders, and transitions for different vinyl flooring material."
+            },
+            {
+              "pc_code": "6.2",
+              "description": "Create pattern match and designs in vinyl floor"
+            },
+            {
+              "pc_code": "6.3",
+              "description": "Cut and trim edges of vinyl floor"
+            }
+          ]
+        },
+        {
+          "lo_num": "7",
+          "description": "Understand Quality Control",
+          "performance_criteria": [
+            {
+              "pc_code": "7.1",
+              "description": "Identify defects/imperfections in the finished vinyl floor"
+            },
+            {
+              "pc_code": "7.2",
+              "description": "Rectify defects/imperfections in the finished vinyl floor"
+            },
+            {
+              "pc_code": "7.3",
+              "description": "Discuss quality control measures to ensure finished vinyl floor installation meets standard specification"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

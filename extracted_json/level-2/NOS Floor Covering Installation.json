@@ -1,0 +1,608 @@
+{
+  "trade_name": null,
+  "level": 2,
+  "units": [
+    {
+      "code": "CON/FCI/001/L2",
+      "title": "Health, Safety and Environment.",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Work practices and instructions In a Work environment",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Explain safe work practices and instructions to Floor Covering Installer"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Compare safe work practices and instructions in accordance with company safety Guides."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Apply safe work practices to a given task such as formwork, scaffolding, etc."
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Determine safe methods and procedures of Work practices."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Understand Safety hazards and risks in the work Environment.",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Recognize safety sign and symbols in work Environment."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Identify potential hazards and risks in Work environment."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Recognize potential hazards and risks in surface, heights and Depth areas."
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Implement appropriate actions to prevent accident/injury."
+            },
+            {
+              "pc_code": "2.5",
+              "description": "Carry out safety drills."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Use of Various types of PPE in the work Environment.",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Identify types of PPE."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Describe work related PPE."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Select appropriate PPE."
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Wear PPE in accordance with instructions."
+            },
+            {
+              "pc_code": "3.5",
+              "description": "Maintain PPE after use."
+            },
+            {
+              "pc_code": "3.6",
+              "description": "Store PPE after Cleaning."
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Apply Stacking Techniques.",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Apply appropriate methods of lifting techniques for materials in work Environment."
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Implement proper stacking methods and procedures in Material handling."
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Address Assistant Floor Covering Installer on proper application of manual lifting techniques for heavy materials."
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Communicate with Assistant Floor Covering Installer on the application of safe work practices and procedures in work Environment."
+            }
+          ]
+        },
+        {
+          "lo_num": "5",
+          "description": "Provide information clearly to Assistant Scaffolder on H&S policy.",
+          "performance_criteria": [
+            {
+              "pc_code": "5.1",
+              "description": "Provide H&S information of company safety policy to Assistant Floor Covering Installer."
+            },
+            {
+              "pc_code": "5.2",
+              "description": "Explain the importance of health and safety to Assistant Floor Covering Installer."
+            },
+            {
+              "pc_code": "5.3",
+              "description": "Measure Assistant Floor Covering Installer Work Practices application with safety guidelines."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "CON/FCI/002/L2",
+      "title": "Communication System in a work Environment.",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Complex communication system in a work environment",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Examine the use of audio, electronic, Electro-magnetic means to pass on necessary information."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Describe simple non-verbal means of communication."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Interpret symbols and signs appropriately."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Source of information in a work environment",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Determine sources of information in an organization and work environment."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Discuss the general information flow systems in a work environment"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Communicate findings in accordance to procedure in a work environment"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Use information to avoid challenges in a work situation"
+            },
+            {
+              "pc_code": "2.5",
+              "description": "Carry out proper documentation of information in accordance to procedure in a Work environment."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Understand various means of communication in a work environment",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Describe various communication channels in a work environment."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Demonstrate the use of various communication means in a work environment."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Communicate information to the right personnel."
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Maintain the effective use of symbols, signs and codes."
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Maintain and deploy communication equipment",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Examine that all communication equipment are in good working conditions."
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Interact with the maintenance unit to ensure that communication equipment is maintained regularly."
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Interact with appropriate authority to replace communication equipment in the event of loss or damage."
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Examine that communication equipment is stored appropriately in a work environment."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "CON/FCI/003/L2",
+      "title": "Team Work in Construction Environment.",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Positive working relationship with Colleagues.",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Identify the need for developing positive working relationship with Colleagues."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Understand the importance of relating with other people in a way that makes them feel valuers and respected"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Interact with team members when required."
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Communicate to the appropriate personnel when request for assistance fall outside area of your responsibility"
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Communicate information to colleagues about own work that might affect Others."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Take responsibilities Within the team.",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Recognize own role and responsibilities within the Team."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Perform individual tasks in line with the team rules and regulations."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Perform effectively in teamwork."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Compliance with policy of organisation.",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Perform in line with organizational standard."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Use organization code of practice."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Explain organizational code of conduct."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "CON/FCI/004/L2",
+      "title": "Reading and Interpretation of Plans to Lay Floor Coverings",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understand floor covering plan",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Explain the use of specifications on floor covering works"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Locate the areas to be covered from working drawings"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Identify symbols and legends of floor covering plans"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Interpret floor plans",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Measure area of floor covering"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Calculate Surface area of floors to be covered from the working drawing"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Interpret different measuring units in floor covering plan"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Understand information relating to work resources",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Interpret information from drawings"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Select tools needed for floor covering as it relates to the drawing plan."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Select materials needed for floor covering as it relates to the drawing plan."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "CON/FCI/005/L2",
+      "title": "Preparation of Background Surfaces to Lay Floor Coverings",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understanding Subfloor Materials, Surface Assessment and Subfloor Preparation",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Identify different types of subfloor materials."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Assess the condition of existing floor surfaces."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Identify imperfections, irregularities, or damage that may affect the installation of floor coverings."
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Perform techniques for preparing subfloors, including cleaning, leveling, and repairing."
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Explain the importance of a smooth and stable subfloor for successful floor covering installation."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Use tools, equipment and material",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Select tools and equipment used in the preparation of surfaces."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Select materials used in the preparation of surfaces."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Use tools and equipment required for subfloor preparation."
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Use materials required for subfloor preparation."
+            },
+            {
+              "pc_code": "2.5",
+              "description": "Maintain tools and equipment after use"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Understand Environmental Considerations affecting floor covering",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "List floor conditions that can affect floor covering such as; • Dampness • Dryness • Oil spillage"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Identify floor contaminants that affect floor covering"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "List quality control measures to ensure that subfloor preparation meets industry standards and specifications."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "CON/FCI/006/L2",
+      "title": "Set Out and Lay Sandcrete Floor",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understand Sandcrete floor covering and Site Preparation",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "List the properties and characteristics of sandcrete as a flooring material."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Describe the composition and mixing ratios for sandcrete floor covering."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Describe techniques for preparing the site before laying sandcrete floor coverings."
+            },
+            {
+              "pc_code": "1.4",
+              "description": "List the importance of a wellprepared subfloor for the durability of the floor."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Understand Setting Out, Mixing and Application",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Demonstrate skills required in setting out the area to be covered with sandcrete floor covering."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Use measurement tools and techniques to ensure accurate placement and alignment."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Carry out mixing of screed materials"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Lay screed material according to set standard"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Use Tools and Equipment for sandcrete floor covering",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Identify the tools and equipment used in setting out and laying sandcrete floor coverings"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Demonstrate the proper use and maintenance of tools required for the job."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Describe techniques for finishing the sandcrete surface to achieve a smooth and even texture"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Describe methods for curing and protecting the finished floor."
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Understand Quality Control",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "List quality control measures to ensure that the sandcrete floor meets specified standards."
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Identify defects in the finished product."
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Rectify defects in the finished product."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "CON/FCI/007/L2",
+      "title": "Set Out and Fix Ceramic Tiles.",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understand Ceramic Tiles and Setting Out",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Identify different types of ceramic tiles and their characteristics"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Describe the properties and variations in ceramic tile materials."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Accurately measure and set out the area to be tiled."
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Use layout tools to ensure proper alignment and symmetry."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Understand Surface Preparation and Material Selection",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Demonstrate techniques for preparing surfaces before tile installation, including cleaning, leveling, and priming."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Identify any imperfections or irregularities in the subfloor."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Select appropriate materials for ceramic tile installation."
+            },
+            {
+              "pc_code": "2.4",
+              "description": "List factors to consider when choosing materials"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Understand how to cut, shape, fix and install Tiles",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Cut and shape ceramic tiles to fit specific areas or designs."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Apply adhesives and fix ceramic tiles to the surface"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Demonstrate the proper techniques for achieving even spacing and alignment."
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Understand Grouting, Finishing and Sealing",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Describe the process of mixing grout to fill gaps between tiles."
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Apply grout to fill gaps between tiles."
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Demonstrate techniques for finishing edges and corners for a polished look."
+            },
+            {
+              "pc_code": "4.4",
+              "description": "State the importance of sealing tiles to protect against moisture and staining."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

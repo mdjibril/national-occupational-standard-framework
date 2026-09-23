@@ -1,0 +1,488 @@
+{
+  "trade_name": null,
+  "level": 1,
+  "units": [
+    {
+      "code": "CON/FCI/001/L1",
+      "title": "Health, Safety and Environment",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understand Safe work Practices & Instructions",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Identify safety signs and symbols"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Explain use of signs and symbols"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Explain safe work practices and instructions"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Differentiate between safe and unsafe work practices"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Know Personal Protective Equipment (PPE) relevant to task being executed.",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Identify types of PPE"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Select the appropriate PPE for a given task."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Use PPE in accordance with instructions."
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Perform cleaning of PPE after use"
+            },
+            {
+              "pc_code": "2.5",
+              "description": "Store PPE appropriately after use"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Recognize safety hazards and risk",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Identify types of hazards and risks in floor covering"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Mention some effects of these hazards on team members"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "List preventive measures for hazards on site"
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Work Safely with tools and equipment on site.",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Identify appropriate working tools, materials and safety equipment."
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Use the right tools and equipment safely in accordance with supervisors’ instructions"
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Gather all tools, equipment and unused materials for storage."
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Carry out general housekeeping of work environment."
+            },
+            {
+              "pc_code": "4.5",
+              "description": "Demonstrate safe methods for stacking and storage of materials."
+            }
+          ]
+        },
+        {
+          "lo_num": "5",
+          "description": "Take appropriate actions in case of personal accident or injury",
+          "performance_criteria": [
+            {
+              "pc_code": "5.1",
+              "description": "Identify first aid box, contents and health personnel"
+            },
+            {
+              "pc_code": "5.2",
+              "description": "Identify nearest health facility"
+            },
+            {
+              "pc_code": "5.3",
+              "description": "Report accident or injury to appropriate supervisor."
+            },
+            {
+              "pc_code": "5.4",
+              "description": "Identify causes of accidents or injury on site."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "CON/FCI/002/L1",
+      "title": "Communication System in Work Environment",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Know simple communication techniques in a work environment",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Identify signs and symbols used in communication in the work environment"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Use verbal means to pass on necessary information"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Demonstrate nonverbal means to pass on necessary information e.g. body language"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Understand the sources of information in a workplace.",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Identify sources of information in an organization and work environment."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Pass information within the workplace"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Communicate findings in accordance to procedure in a work environment"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Use information to avoid challenges in a work situation"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Demonstrate Basic communication skills in a work environment.",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Identify the various communication equipment in the work environment."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Use the general communication equipment in a work environment effectively."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Communicate information effectively using symbols and signs."
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Communicate information effectively to the right personnel."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "CON/FCI/003/L1",
+      "title": "Team Work in Construction Environment.",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understand the importance of Working as a Team in the work environment.",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Identify the advantages of working as a team."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Describe the attributes of a team player such as: • Mutual respect • Common goal • Discipline • Mutual understanding • Trust • Honesty and sincerity • Communication • Negotiation skills • Teamwork"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "List members that constitute a team in the construction site such as: • Fellow artisans • Supervisor • Staff/Security"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "State the roles of team members in a construction site/yard as stated in 1.3 above"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Understand how to relate with team members",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "State the need for good working relationship with team members at the workplace"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "State your own role in achieving the objectives of the team."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Identify the relationship between the job of a floor covering installer with other jobs in construction operations."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Develop positive Work Relationships with colleagues",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Work with other team members at workplace."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Provide support to team members at work place"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Communicate information to team members about own work that might affect other workers on the site."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "CON/FCI/004/L1",
+      "title": "Identification of Tools and Equipment, Material Handling and Storage.",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Know basic tools and equipment",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Identify manual tools relevant to floor covering"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Identify mechanical equipment relevant to floor covering"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Select tools relevant to floor covering"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Explain the use of basic tools and simple equipment relevant to floor covering"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Know the appropriate materials for floor covering",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Identify relevant materials for floor covering"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Select appropriate materials for floor covering."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "List materials for different kinds of floor covering"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Understand Handling of materials, tools and equipment",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "State the sequence of loading and offloading of materials"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Demonstrate how to handle materials, tools and equipment"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Follow given instruction to move and handle materials, tools and equipment."
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Carry out the care and maintenance of tools and equipment"
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Understand materials, tools and equipment storage",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "List the sequence of the storage of materials, tools and equipment."
+            },
+            {
+              "pc_code": "4.2",
+              "description": "List the steps to store materials, tools and equipment"
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Follow given instruction to store materials, tools and equipment."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "CON/FCI/005/L1",
+      "title": "Mix Preparation",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Know mix preparation for floor coverings",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "List the materials for mix preparation"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "List tools used for mix preparation in different floor coverings"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "List the steps in mix preparation"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Know mix materials for floor covering",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Identify the mix materials for different floor coverings."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Select tools for mix preparation in different floor coverings."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Measure materials using appropriate measuring devices."
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Mix materials uniformly within the specification and stipulated time"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Know application of different types of appropriate mix",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "List type of mixes available"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Differentiate between the types of mix available in 3.1 above"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Demonstrate the application of dry and wet mixes."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "CON/FCI/006/L1",
+      "title": "Surface Preparation for Floor Covering",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understand surface preparation",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Describe methods of surface preparation."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Explain the importance of surface preparation"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Prepare surface to receive floor covering."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Understand cleaning in surface preparation",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Identify different types of surfaces and assess their specific cleaning requirements."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Explain surface cleaning in surface preparation"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Select tools for surface cleaning"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Carry out surface cleaning",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Identify various surface types to determine appropriate cleaning methods."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Select suitable Cleaning Agents based on surface materials, ensuring compatibility and effectiveness"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Identify any defects or irregularities that may impact floor covering installation."
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Carry out various cleaning techniques, such as sweeping, vacuuming, and wiping, to achieve a clean and debris-free surface."
+            },
+            {
+              "pc_code": "3.5",
+              "description": "Operate cleaning equipment effectively and safely, understanding their functions and adjusting settings as needed."
+            },
+            {
+              "pc_code": "3.6",
+              "description": "Consider environmental factors, such as temperature and humidity, that may influence surface cleaning and subsequent floor covering installation."
+            },
+            {
+              "pc_code": "3.7",
+              "description": "Identify unexpected issues or challenges during the surface cleaning process, implementing solutions to ensure optimal preparation."
+            },
+            {
+              "pc_code": "3.8",
+              "description": "Ensure that the cleaned surfaces meet quality standards, providing a suitable foundation for the installation of floor coverings."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
