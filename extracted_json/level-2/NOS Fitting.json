@@ -1,0 +1,1224 @@
+{
+  "trade_name": "NOS Fitting",
+  "level": 2,
+  "units": [
+    {
+      "code": "ENG/FIT/001/L2",
+      "title": "HEALTH, SAFETY AND ENVIRONMENT",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Know how to maintain personal health and hygiene",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Wear clean, bright and appropriate Personal Protective Equipment."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Work safely at all times, adhering to health and safety regulations and other relevant guidelines."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Identify first aid personnel to apply first aid to treat any cuts, grazes and wounds."
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Report any illness or infection promptly to the appropriate personnel."
+            },
+            {
+              "pc_code": "1.5",
+              "description": "State owns responsibility under the Health and Safety Act as it relates to its own occupation."
+            },
+            {
+              "pc_code": "1.6",
+              "description": "State the general hygiene rules that must be followed."
+            },
+            {
+              "pc_code": "1.7",
+              "description": "List Personal Protection Equipment"
+            },
+            {
+              "pc_code": "1.8",
+              "description": "State the importance of maintaining good personal Hygiene."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Maintain a hygienic, safe and hazard-free workplace.",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "State the importance of working in a healthy, safe and hygienic workplace."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Follow health, hygiene and safety procedures during work."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Describe emergency procedures during work."
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Describe organisational security procedures."
+            },
+            {
+              "pc_code": "2.5",
+              "description": "Explain the disposal of waste and pollution control, including methods for organic and inorganic waste."
+            },
+            {
+              "pc_code": "2.6",
+              "description": "Identify any hazards or potential hazards and address them effectively."
+            },
+            {
+              "pc_code": "2.7",
+              "description": "Describe the types of hazards in the workplace that may occur and how to deal with them."
+            },
+            {
+              "pc_code": "2.8",
+              "description": "State hazards that can be addressed personally"
+            },
+            {
+              "pc_code": "2.9",
+              "description": "State hazards that should be reported to someone else."
+            },
+            {
+              "pc_code": "2.10",
+              "description": "State where information about health and safety in your workplace can be obtained."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Maintain a hygienic, safe and secure workplace.",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "State how to warn other people about hazards and why this is important."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "State why accidents and near accidents should be reported and who they should be reported to"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Describe the types of emergencies that may happen in the workplace and how to deal with them"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "State where to find the first-aid equipment and who the registered first-aider is in the workplace"
+            },
+            {
+              "pc_code": "3.5",
+              "description": "State safe lifting and handling techniques that should be followed"
+            },
+            {
+              "pc_code": "3.6",
+              "description": "State other ways of working safely that are relevant to own position and why they are important"
+            },
+            {
+              "pc_code": "3.7",
+              "description": "Describe organisational emergency procedures, in particular fire, and how these should be followed."
+            },
+            {
+              "pc_code": "3.8",
+              "description": "State the possible causes of fire outbreaks in the workplace."
+            },
+            {
+              "pc_code": "3.9",
+              "description": "Describe how to minimise the risk of fire outbreaks in the workplace."
+            },
+            {
+              "pc_code": "3.10",
+              "description": "State where to find the alarms and how to set them off"
+            },
+            {
+              "pc_code": "3.11",
+              "description": "State why a fire should never be approached unless it is safe to do so."
+            },
+            {
+              "pc_code": "3.12",
+              "description": "State the importance of following the fire safety laws."
+            },
+            {
+              "pc_code": "3.13",
+              "description": "Describe organisational security procedures and why these are Important."
+            },
+            {
+              "pc_code": "3.14",
+              "description": "State the importance of reporting all usual or non-routine incidents to the appropriate personnel."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ENG/FIT/002/L2",
+      "title": "COMMUNICATION",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Know the communication system in a work environment",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Use simple verbal means to pass on necessary information"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Use nonverbal means to convey necessary information, such as body language."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Explain symbols and signs appropriately."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Know Sources of information in a work Environment",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Locate the source of information in an organisation and work environment."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Relate appropriately with sources of information."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Use the general information flow systems in a work environment."
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Use information to avoid challenges in a work situation."
+            },
+            {
+              "pc_code": "2.5",
+              "description": "Report findings in accordance with the procedure in a work environment."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Know basic communication in a work environment",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Locate the various communication. equipment in the work environment"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Use communication equipment in a work Environment."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Relate information effectively to the proper personnel."
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Pass information effectively using Symbols, Signs and Codes."
+            },
+            {
+              "pc_code": "3.5",
+              "description": "Comply with general instructions in line with the ethics of the work environment."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ENG/FIT/003/L2",
+      "title": "TEAM WORK",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Know positive working relationships with colleagues",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Identify the need for developing positive working relationships with colleagues."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Recognise the importance of relating to other people in a way that makes them feel valued and respected."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Assist team members when required."
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Communicate information to colleagues about one's own work that might affect others."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Take responsibilities within the team.",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Recognise one's own role and duties within the team."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Perform individual tasks in line with the team rules and regulations."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Participate effectively in teamwork."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Comply with the policy of the organisation",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Work in line with the organisational standards."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Use the organisational Code of Practice."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Explain the organisational Code of Conduct."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ENG/FIT/004/L2",
+      "title": "INTRODUCTION TO FITTING",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Know fitting",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Define fitting"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "List fitting career opportunities"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Explain the Scope of fitting."
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Describe the Application of fitting."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Know a fitter",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Describe a fitter"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "List operations that a fitter carries out"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "List various tools used by a fitter."
+            },
+            {
+              "pc_code": "2.4",
+              "description": "List the materials most often worked on by the fitter."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Know bench working processes",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Define Benchwork"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Describe a workbench"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "List types of workbenches"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "List operations that can be performed on the bench"
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Know bench work principles",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Demonstrate proper Job clamping."
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Hold hand tools properly."
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Maintain proper posture while carrying out benchwork."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ENG/FIT/005/L2",
+      "title": "INTRODUCTION TO HAND TOOLS",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Know basic hand tools for fitting operations",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "List basic hand tools for fitting operations"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Identify basic hand tools for the fitting operation."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Demonstrate appropriate use of hand tools."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Know the categories of hand tools",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "List cutting hand tools"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Identify cutting hand tools."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "List Striking hand tools."
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Identify Striking hand tools."
+            },
+            {
+              "pc_code": "2.5",
+              "description": "List Fastening Tools"
+            },
+            {
+              "pc_code": "2.6",
+              "description": "Identify Fastening Tools"
+            },
+            {
+              "pc_code": "2.7",
+              "description": "List Finishing tools"
+            },
+            {
+              "pc_code": "2.8",
+              "description": "Identify Finishing tools"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Know the advantages and disadvantages of hand tools",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "State the advantages of hand tools over machine tools."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "State the disadvantages of hand tools."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Determine when to use hand tools."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ENG/FIT/006/L2",
+      "title": "BASIC ENGINEERING DRAWING",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Know basic elements of drawing",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Define drawing"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "List types of lines in drawing"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Explain the uses of different types of lines."
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Explain drawing symbols and abbreviations."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Know simple dimensions in drawing",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Explain the purpose of dimensioning"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "List types of dimensions"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Place dimensions in the appropriate position in a drawing."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Interpret simple drawings",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Explain how to interpret a simple drawing."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Explain how to obtain information from a given drawing."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Explain how to obtain the material size from a given drawing."
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Know simple hand sketches",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Sketch simple isometric shapes"
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Sketch a simple Orthographic drawing."
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Properly dimension hand sketches"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ENG/FIT/007/L2",
+      "title": "TOLERANCE, FITS AND LIMITS",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Know tolerance in machining",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Define tolerance"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Explain the use of tolerance."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "State type of tolerance (Unilateral, Bilateral)"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "State the advantages of tolerance."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Know limits",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Define Limits"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Explain the type of Limits (lower and upper)"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Explain the application of limits."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Know basic fits",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Define fits"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Explain basic types of fits."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Identify basic fits"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Select basic fits"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ENG/FIT/008/L2",
+      "title": "MATERIALS AND TOOLS SELECTION",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Know materials in fitting operations",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Define material in engineering"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "List types of engineering material"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Identify metallic material"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "State the advantages of various metallic materials"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Understand basic metal shapes",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Describe physical metal shapes (Round, Square, etc.)"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Select an appropriate metal shape for the component."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "State the advantage of selecting an appropriate shape."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Know the properties of metal",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Describe basic metal properties"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Identify the use of different metals based on their properties."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Select an appropriate metal for the specific component to be produced."
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Know how to select appropriate tools",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "List fitting tools"
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Identify different fitting tools."
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Select appropriate tools according to the material type."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ENG/FIT/009/L2",
+      "title": "MEASUREMENT AND MARKING OUT",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Know measurement Units",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Define measurement."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Explain SI units of measurement."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "State measuring units for the following: \u2022 Length \u2022 Mass \u2022 Area \u2022 Volume \u2022 Temperature"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "List basic measuring tools."
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Use measuring tools to carry out the measurement."
+            },
+            {
+              "pc_code": "1.6",
+              "description": "Explain the importance of accuracy in measurement."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Know the marking out operation",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Define marking-out"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "List basic marking-out tools."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "List various methods of marking out."
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Perform the marking out operation."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Know care for marking and measuring tools",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Explain how to care for measuring tools."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Carry out care for measuring tools."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Explain how to care for marking-out tools."
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Carry out care for marking out tools."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ENG/FIT/010/L2",
+      "title": "CUTTING, GRINDING AND FILLING OPERATIONS",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Know cutting operations using a hacksaw",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Explain the cutting operation"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Identify types of hacksaws."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Describe parts of a hacksaw."
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Select hacksaw blades"
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Fix hacksaw blades"
+            },
+            {
+              "pc_code": "1.6",
+              "description": "demonstrate the proper cutting technique and posture"
+            },
+            {
+              "pc_code": "1.7",
+              "description": "Carry out the cutting operation using a Hacksaw."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Know grinding operations",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Explain the grinding operation"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Explain the importance of grinding operations."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "List types of grinding operations"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Identify grinding tools"
+            },
+            {
+              "pc_code": "2.5",
+              "description": "Explain the manual grinding operation."
+            },
+            {
+              "pc_code": "2.6",
+              "description": "Perform a manual grinding operation."
+            },
+            {
+              "pc_code": "2.7",
+              "description": "Explain the electrical grinding operation."
+            },
+            {
+              "pc_code": "2.8",
+              "description": "Perform electrical grinding operation."
+            },
+            {
+              "pc_code": "2.9",
+              "description": "Explain the safe use of grinding tools"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Know Filling Operations",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Describe Files"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Identify classes of files (Mill or saw Files, Swiss pattern, curved tooth, Rasp, Warden.)"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Identify type of files (Round, Half round, flat, triangular)"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Carry out filling operation properly"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ENG/FIT/011/L2",
+      "title": "DRILLING AND TAPPING OPERATIONS.",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Know how to carry out drilling operations",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Describe the drilling operation"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Identify types of drilling machines."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Carry out proper marking for the drilling operation."
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Select Drill bits"
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Hold the workpiece properly."
+            },
+            {
+              "pc_code": "1.6",
+              "description": "Carry out the drilling operation."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Know how to carry out the Tapping operation",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Describe the Tapping operation"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Identify taps"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Select appropriate taps"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Carry out the tapping operation."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Know the key considerations in Drilling and tapping",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Select the right size and type of drill for a tap."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Determine the speed and feed of drilling."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Determine the number of drilling stages required."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ENG/FIT/012/L2",
+      "title": "FORMING OPERATIONS",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Know forming Operations",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Define forming"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "State types of forming (Bulk forming, Sheet Forming)"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Identify types of Bulk forming."
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Identify the types of Sheets forming."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Know basic sheet metal forming processes",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Describe the Sheet metal bending process."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Describe the Sheet metal rolling process."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Roll sheet metal into a cylindrical shape"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Bend Sheet metal to simple shapes"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Know basic hammer forming",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Identify types of hammers."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Describe the various types of hammers used."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Carry out a simple hammering exercise."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ENG/FIT/013/L2",
+      "title": "FASTENING",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Know fastening",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Explain fastening"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Describe the purpose of fastening."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "List the advantages of fastening."
+            },
+            {
+              "pc_code": "1.4",
+              "description": "List the disadvantages of fastening."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Know fasteners",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "List and identify types of fasteners"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Identify types of fasteners."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Identify the sizes of fasteners."
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Select appropriate fasteners"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Know the fastening process",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Describe the fastening procedure."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Identify the required tools for fastening."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Carry out a simple fastening operation."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ENG/FIT/014/L2",
+      "title": "TOOLS HANDLING AND MAINTENANCE",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Know tools handling",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Identify tools for the job"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Move tools properly."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Mount tools properly during usage"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Know maintenance and care of tools",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Identify defects in tools."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Identify an appropriate lubricant for tool protection."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Lubricate tools against corrosion"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Store tools in: \u2022 Toolbox \u2022 Metal cabinet \u2022 Holder(chisels)"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Know the tools requisition procedure and record",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Explain how to fill out the tool requisition form."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "State the procedure for tool requisition."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Request tools for the cutting operation"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Return tools after use"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ENG/FIT/015/L2",
+      "title": "WORKSHOP ELECTRICAL SYSTEMS",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Know the introductory workshop on electrical fittings and components",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Identify basic electrical fittings used in workshops (switches, sockets, plugs, lighting points, fuses, and extension outlets, etc.)"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Classify electrical fittings according to their functions and ratings (e.g., lighting, power, control)"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Identify basic electrical symbols, signs, and Colour codes used in the workshop."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Know basic electrical faults",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Identify simple electrical faults (e.g., blown fuse, loose connection, faulty switch) through visual inspection."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Report electrical faults promptly to qualified electrical technicians."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Explain the logout and tagout procedure."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Know basic electrical routine checks",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Perform physical checks on the machine's electrical interface connections."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Perform physical checks on the machine's electrical insulation."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Collaborate with electrical technicians during preventive maintenance operations."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

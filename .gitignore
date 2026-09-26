@@ -16,6 +16,7 @@ ENV/
 # IDE/editor settings
 .vscode/
 .idea/
+.claude/
 
 # OS files
 .DS_Store
@@ -34,3 +35,6 @@ maintainer.md
 
 # PDFs Worker Directory
 worker
+
+# Local PR templates/drafts (kept out of the tracked repo)
+.github/

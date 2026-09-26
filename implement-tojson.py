@@ -59,7 +59,7 @@ def parse_pdf_to_json(pdf_path, trade_name=None):
     HEADER_ROW_FRAGMENTS = {
         "LEARNING", "OBJECTIVE", "(LO)", "OBJECTIVE (LO)", "THE LEARNER",
         "THE LEARNER WILL:", "THE LEARNER WILL", "WILL:", "WILL",
-        "PERFORMANCE", "CRITERIA", "PERFORMANCE CRITERIA",
+        "PERFORMANCE", "CRITERIA", "PERFORMANCE CRITERIA", "(PC)",
         "THE LEARNER CAN:", "THE LEARNER CAN",
         "EVIDENCE", "TYPE", "EVIDENCE TYPE",
         "REF.", "REF", "PAGE", "NO.", "NO", "PAGE NO.", "PAGE NO",
