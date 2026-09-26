@@ -1,0 +1,1022 @@
+{
+  "trade_name": "NOS Fitting",
+  "level": 3,
+  "units": [
+    {
+      "code": "ENG/FIT/001/L3",
+      "title": "HEALTH, SAFETY AND ENVIRONMENT",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Know health and safety rules in the work environment",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Familiarise yourself with the work environment."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Explain safe work practices when working with welding equipment."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "List Personal Protective Equipment (PPE) in welding operations."
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Identify Personal Protective Equipment (PPE)"
+            },
+            {
+              "pc_code": "1.5",
+              "description": "List common hazards in welding operations."
+            },
+            {
+              "pc_code": "1.6",
+              "description": "Use Personal Protective Equipment (PPE)."
+            },
+            {
+              "pc_code": "1.7",
+              "description": "Explain preventive measures for 1.5 above."
+            },
+            {
+              "pc_code": "1.8",
+              "description": "Explain how to respond to an accident in the work environment."
+            },
+            {
+              "pc_code": "1.9",
+              "description": "Explain the accident report procedure. 1.1 0 Explain first aid procedures."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Know safety guidelines for welding operations",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Explain different regulations guiding welding practice (NIS ISO 15012-4)"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Identify safety signs and codes in the welding workshop."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Observe health and safety signs always."
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Work safely to protect oneself and others."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Know fire safety",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Explain classes of fire"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Explain the causes of fire outbreaks in a work environment."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Explain the emergency and fire procedure."
+            },
+            {
+              "pc_code": "3.4",
+              "description": "List methods of extinguishing fire."
+            },
+            {
+              "pc_code": "3.5",
+              "description": "List types of fire extinguishers."
+            },
+            {
+              "pc_code": "3.6",
+              "description": "Demonstrate the proper use of an appropriate fire extinguisher."
+            },
+            {
+              "pc_code": "3.7",
+              "description": "Follow the fire and safety procedure."
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Practice good housekeeping",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Explain good housekeeping procedures before fitting operations: \u2022 Ensure cleanliness of work environment \u2022 Proper positioning of tools, equipment and consumables \u2022 Ensure gangways are free from obstacles \u2022 Shield your work area \u2022 Proper illumination of the work area \u2022 Proper ventilation of the work area"
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Explain good housekeeping procedures during fitting operations: \u2022 Ensure the work environment is constantly clean \u2022 Ensure welding positioners are securely in place \u2022 Ensure work area is free from hot electrode stubs, work piece, water, oil/grease, and paint. \u2022 Proper placement of electrical cables and gas hoses"
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Explain good housekeeping procedures after welding operations: \u2022 Gather all tools, equipment, and consumables after operations. \u2022 Clean all tools, equipment, and work area. \u2022 Store tools and equipment appropriately \u2022 Switch off mains"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ENG/FIT/002/L3",
+      "title": "COMMUNICATION",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Communicate effectively in the work environment.",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Explain communication in the work environment."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Explain methods of communication in the work environment."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Explain verbal communication in the workplace."
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Explain non-verbal communication in the workplace."
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Use verbal and non-verbal means to convey necessary information, such as body language and signs."
+            },
+            {
+              "pc_code": "1.6",
+              "description": "Interpret symbols and signs Correctly"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Develop the ability to identify sources of information in a work environment",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Identify sources of information in the work environment"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Relate well with sources of information."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Use the different information flow systems in a work environment."
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Use the information gathered to address challenges in a work environment"
+            },
+            {
+              "pc_code": "2.5",
+              "description": "Report findings correctly as expected in the work environment."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Demonstrate the use of various communication means in a work environment",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Locate the various communication equipment in the work environment"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Use the various communication equipment effectively in a work environment."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Pass information correctly using symbols, signs and codes."
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Obey instructions in line with the ethics of the work environment."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ENG/FIT/003/L3",
+      "title": "TEAMWORK",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Exhibit a good working relationship with co-workers.",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Work positively with co-workers."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Assist team members when required."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Maintain open communication with co-workers."
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Report to the supervisor when requests for assistance fall outside the area of responsibility."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Take responsibility within the team",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Recognise own roles and responsibilities within a team or group."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Perform individual tasks in line with the team rules and regulations."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Participate well in group work."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Comply with the rules of organisation.",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Explain the organisational code of Conduct"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Use the organisational code of practice."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Work in line with organisational standards."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ENG/FIT/004/L3",
+      "title": "TOLERANCE, FITS AND LIMITS",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Know the standard Tolerance in fitting",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Describe tolerance"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Explain the use of tolerance."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Identify types of tolerance (Unilateral, Bilateral)"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Explain fundamental deviations"
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Describe the advantages of tolerance."
+            },
+            {
+              "pc_code": "1.6",
+              "description": "List tolerance grades and their application."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Know Limits",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Describe Upper Limits"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Describe Lower Limits"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Describe the application of limits."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Know and Select Fits",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Describe fits"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Describe whole basis fits."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Describe shaft basis fits. Select fits"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Apply Clearance, transition, and interference fits."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ENG/FIT/005/L3",
+      "title": "DRILLING, BORING, COUNTERBORING, REAMING AND COUNTERSINKING OPERATIONS",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Know drilling Operation",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Describe the purpose of the drilling operation"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "State types of Drilling machines"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Identify types of Drilling machines."
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Carry out marking for the drilling operation."
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Carry out punching for the drilling operation."
+            },
+            {
+              "pc_code": "1.6",
+              "description": "Select Drill bits and hold the workpiece properly."
+            },
+            {
+              "pc_code": "1.7",
+              "description": "Carry out drilling operation."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Know drill bits",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Describe drill bit"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Identify parts of a drill bit."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "List types of drill bits"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Perform drill bit grinding."
+            },
+            {
+              "pc_code": "2.5",
+              "description": "Check the angle of the edge to ensure it is sharp."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Know boring operation",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Describe boring"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Describe the purpose of boring."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Explain boring operation"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Identify boring tools"
+            },
+            {
+              "pc_code": "3.5",
+              "description": "Carry out a simple, straightforward operation."
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Know the Counter boring operation",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Describe counter boring"
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Describe the purpose of counter boring."
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Explain the counter boring operation."
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Carryout a simple, straightforward operation."
+            }
+          ]
+        },
+        {
+          "lo_num": "5",
+          "description": "Know the Reaming operation",
+          "performance_criteria": [
+            {
+              "pc_code": "5.1",
+              "description": "Describe the purpose of reaming."
+            },
+            {
+              "pc_code": "5.2",
+              "description": "List categories of reamer"
+            },
+            {
+              "pc_code": "5.3",
+              "description": "Describe types of straight reamers."
+            },
+            {
+              "pc_code": "5.4",
+              "description": "Carry out a simple reaming operation."
+            }
+          ]
+        },
+        {
+          "lo_num": "6",
+          "description": "Know Countersinking",
+          "performance_criteria": [
+            {
+              "pc_code": "6.1",
+              "description": "Describe the purpose of countersinking"
+            },
+            {
+              "pc_code": "6.2",
+              "description": "Describe countersink parameters"
+            },
+            {
+              "pc_code": "6.3",
+              "description": "Explain the use of countersinking."
+            },
+            {
+              "pc_code": "6.4",
+              "description": "Differentiate between countersinking and counterboring."
+            },
+            {
+              "pc_code": "6.5",
+              "description": "Carry out a simple countersinking operation."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ENG/FIT/006/L3",
+      "title": "THREAD CUTTING OPERATIONS",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Know thread cutting",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Describe thread cutting"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "List methods of tread cutting in fitting."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Describe the use of thread cutting in fitting."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Know the Tapping operation",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Describe the tapping operation."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Select tap sizes"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Carry out the tapping exercise."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Know die threading operation",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Describe die threading operation."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Select die sizes"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Carry out die exercise."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ENG/FIT/007/L3",
+      "title": "INTRODUCTION TO ARC WELDING OPERATIONS",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Know the fundamentals of welding machines",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Define welding"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "List the types of arc welding machines, including Manual Metal Arc (MMA), Tungsten Inert Gas (TIG), Flux Cored Arc Welding (FCAW), and Metal-Inert Gas/Metal-Active Gas (MIG/MAG)."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Explain the advantages and disadvantages of arc welding machines."
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Identify various parts of the arc welding machine."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Know the arc welding process",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Describe Arc welding"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Explain the operational features of Arc welding."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Demonstrate the arc welding process."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Know the welding electrode",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Explain the operations of arc welding Electrode."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "List the classification of arc welding electrodes."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Select a welding electrode for a given task."
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Regulate voltage/current for a welding electrode for a given gauge."
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Carry out the welding operation",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Describe various types of welding"
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Carry out material preparation for welding"
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Set up the welding machine and select the electrode."
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Carry out tack welding operation."
+            },
+            {
+              "pc_code": "4.5",
+              "description": "Carry out the whole welding operation."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ENG/FIT/008/L3",
+      "title": "INTRODUCTION TO GAS CUTTING OPERATIONS",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Know gas cutting equipment",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Explain the features of gas cutting equipment"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Explain colour codes in gas cutting equipment."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Describe gas regulators"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Know gas heating operations",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Describe gas heating"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Describe the procedures for gas heating."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Select the proper heating nozzle."
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Carry out gas heating."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Know gas cutting operations.",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Describe gas cutting"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Identify consumables for gas cutting operations."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Select appropriate accessories for gas cutting operations."
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Carry out gas cutting operations on sheet metal."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ENG/FIT/009/L3",
+      "title": "WELDING EQUIPMENT HANDLING AND MAINTENANCE",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Know the handling of welding equipment",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Assemble and disassemble welding equipment properly"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Arrange the welding cable/hose properly."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Store welding equipment properly"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Move Welding equipment safely."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Clean welding equipment",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Describe welding equipment cleaning best practices."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Describe the impact of cleanliness on equipment life."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Identify recommended cleaning tools and materials."
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Describe the steps of cleaning welding equipment."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Know how to inspect and maintain welding equipment",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Carryout routine inspections on welding cables/hoses."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Carryout basic maintenance on welding equipment."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Replace damaged components of welding equipment without delay."
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Keep a record of the maintenance of welding equipment."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ENG/FIT/010/L3",
+      "title": "PIPE WORK",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Know the fundamentals of metal pipe works",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Describe metal pipe work"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "List types of metal pipe by material"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "List types of metal pipe by shape"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Describe the scope of metal pipe work."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Know metal pipe cutting",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Describe metal pipe cutting."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Identify tools for metal pipe cutting."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Carry out metal pipe cutting."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Know metal pipe bending",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Describe metal pipe bending."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Identify tools for metal pipe bending."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Carry out metal pipe bending."
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Know metal pipe Threading",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Describe metal pipe threading (Deicing)"
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Describe the purpose of metal pipe threading."
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Identify tools for metal pipe Threading."
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Carry out metal pipe bending."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ENG/FIT/011/L3",
+      "title": "INTRODUCTION TO ASSEMBLY OPERATIONS",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Know the principles of assembly",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Describe the assembly operation"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Explain the purpose of the assembly operation."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Describe types of assembly."
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Identify parts to be assembled."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Know the Methods of Assembly",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "List the categories of assembly operations"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Describe permanent joining"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Describe mechanical joining"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Carry out basic assembly of parts."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Know assembly part handling",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Describe key aspects of assembly part handling (movement, sorting, Storage, etc.)"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Explain why proper part handling is essential."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Demonstrate Assembly part handling."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ENG/FIT/012/L3",
+      "title": "BASIC SHEET METAL WORK",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Know sheet metal",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Describe sheet metal work"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Identify sheet metal thickness/gauge."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Identify the Sheet metal material."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Know sheet metal work equipment",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Describe the shearing machine."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Describe the bending machine."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Describe the Rolling machine."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Carry out sheet metal work S/N 1. 2. 3. 4. 5. 6. 7. 8. 9. 10. 11. 12. 13. 14. 15. 16. 17. 18.",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Cut sheet metal to size."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Bend sheet metal to the required angle"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Roll sheet metal to the desired shape NAME ORGANIZATION DESIGNATION EMAIL Mr. Norbert Chukuwumah Nigeria Machine Tools Limited Vice Chairman norbertc@hotmail.com Dr. Awele Angela Chukwudifu Niger Delta Development Commission (NDDC) Director Education Mr. Ebere Martin Ojum martin.ojum080@gmail.com Engr. Prof. I.O Abdulmalik NMTL /NASENI Lead Consultant Awolowo A. Joseph Nigeria Machine Tools Ltd Head, Machine Shop and Fabrication awolowo.joseph@yahoo.com Engr. Dr Enebe Kenneth NMTL/NASENI Consultant (Mechanical) Engr. Okwu Patrick (Ph.D) Consultant (Electrical/Electronics) Engr. Babalola Sunday Head Engineering Services Engr. Ahmed A.S.Y Kutigi COREN Sector Skills Council aasykutigi2008@gmail.com Engr, Bashir Baba Abba NMTL Consultant bashir375@gmail.com NBTE STAFF Prof. I.M. Bugaje NBTE, Kaduna Executive Secretary es@nbte.gov.ng Prof. Diyauddeen Basheer SA/ ES Dr. Musa Hatim Koko Director Curriculum Development Department hatimlion@gmail.com Dr. Alawiyya S. Ilu Deputy Director salawiyya@gmail.com Zainab Sulaiman Principal Programmes officer sisterezeefta@gmail.com Jamila Jibrin Chief Programmes officer jibrinjamila@gmail.com Engr. Salisu Lawan Senior Programmes officer salisulataura@gmail.com Tukur Tahir Mahmud Programmes officer I teekaytaheer@gmail.com Muhammad Umar Auna muhammadauna.mu@gmail.com"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
