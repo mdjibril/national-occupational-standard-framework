@@ -16,6 +16,7 @@ ENV/
 # IDE/editor settings
 .vscode/
 .idea/
+.claude/
 
 # OS files
 .DS_Store
