@@ -326,7 +326,7 @@
         },
         {
           "lo_num": "3",
-          "description": "Know and Select Fits",
+          "description": "Know Fits",
           "performance_criteria": [
             {
               "pc_code": "3.1",
