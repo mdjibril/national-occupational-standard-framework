@@ -1,0 +1,716 @@
+{
+  "trade_name": "NOS ICT Satellite TV Antenna Installation and Maintenance",
+  "level": 4,
+  "units": [
+    {
+      "code": "ICT/SAT/001/L4",
+      "title": "OCCUPATIONAL HEALTH AND SAFETY",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understand and apply safety procedures when working at heights.",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Demonstrate correct use of personal protective equipment (PPE) such as safety harnesses, helmets, and non-slip footwear."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Conduct risk assessments to identify hazards related to working at heights, including unstable surfaces and weather conditions."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Set-up ladders, scaffolding, or lift equipment before starting any installation work."
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Describe Surface Risk."
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Implement Fall Prevention Systems (fall arrest systems, i.e harnesses, safety ropes, and guardrails)"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Ensure electrical safety in satellite TV antenna installations.",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Identify electrical hazards during antenna installation."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Demonstrate ways to connect electrical components following safety guidelines."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Use electrical testing tools to check the integrity of wiring, cables, and connections before and after installation."
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Demonstrate Grounding and Surge Protection"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Comply with legal health and safety regulations and industry standards.",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Apply relevant health and safety laws, including Occupational Health and Safety (OHS) regulations and industry-specific standards."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Compile/Complete safety documentation, including risk assessments, incident reports, and safety checklists."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Contribute in safety drills and regular safety audits to ensure continuous compliance with legal and company standards."
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Implement emergency procedures and first aid.",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Demonstrate Emergency preparedness ie (use emergency exits, and follow site-specific emergency response plans)"
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Administer basic first aid"
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Identify emergency contact information and access medical services or first responders promptly when needed."
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Demonstrate skills to use fire extinguishers and recognizing flammable materials on-site."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ICT/SAT/002/L4",
+      "title": "COMMUNICATION IN WORKPLACE",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Communicate Clearly and Professionally in the Workplace",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Use concise language in verbal and written communication, ensuring messages are understood by the intended audience."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Apply professional tone and etiquette in emails, reports, and meetings."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Adjust communication style based on the audience, whether colleagues, clients, or stakeholders."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Use Technology to Facilitate Effective Communication",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Demonstrate the use of digital communication tools such as emails, messaging apps, and project management platforms."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Participate in virtual meetings, through video conferencing software and adhering to proper online meeting etiquette."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Utilize collaborative tools to share information and updates efficiently."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Resolve Communication Barriers and Foster Open Dialogue",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Identify potential communication barriers, such as language differences, cultural misunderstandings, or unclear instructions."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Encourage open dialogue by actively listening to feedback, asking clarifying questions, and inviting input from all parties."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Apply conflict resolution strategies to address miscommunication."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ICT/SAT/003/L4",
+      "title": "TEAMWORK",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Principles of teamwork",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Identify Team Roles Identification (Leader, facilitator, specialist, support roles)"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Demonstrate different Team Dynamics."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Collaboration vs. Competition"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Task prioritization"
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Discuss problem solving and initiative"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Foster a positive and inclusive team environment",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Emotional Intelligence"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Identify potential sources of conflict"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Leading by Example"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Delegation and Empowerment"
+            },
+            {
+              "pc_code": "2.5",
+              "description": "Cultural competence"
+            },
+            {
+              "pc_code": "2.6",
+              "description": "Flexibility in Roles"
+            },
+            {
+              "pc_code": "2.7",
+              "description": "Remote and Digital Collaboration"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Evaluate team performance",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Identify Team evaluation processes"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Implement goal achievement"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Demonstrate Collaboration and communication tools (Microsoft teams / slack, zoom/google meet)"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Identify good performance using SurveyMonkey/Google Forms"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ICT/SAT/004/L4",
+      "title": "SATELLITE SYSTEM AUTOMATION AND REMOTE MANAGEMENT",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Introduction to Satellite Automation Systems",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Define satellite automation"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Discuss Satellite automation roles in modern communication systems"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Explain the components required for automating satellite systems, such as programmable controllers and motorized mounts."
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Compare manual vs. automated satellite system setups, highlighting the benefits of automation in large-scale operations."
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Discuss case studies where satellite automation has improved signal reception and system maintenance."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Implementing Remote Monitoring Systems",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Explain how to set up remote monitoring for satellite systems using tools like SNMP (Simple Network Management Protocol) and web-based platforms."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Describe how to configure alerts for signal degradation, weather-related issues, or hardware malfunctions."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Demonstrate how to perform system health checks remotely and monitor performance metrics like signal-to-noise ratio and uplink power."
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Explain how remote troubleshooting and diagnostics reduce on-site visits and enhance system reliability."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Programming Satellite Tracking Systems",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Discuss how to configure tracking systems to automatically adjust dish positioning based on satellite movements"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Program satellite motor controllers (DiSEqC) for multi-satellite reception using advanced scheduling techniques."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Demonstrate how to maintain accurate tracking during low-earth orbit (LEO) satellite passes."
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Troubleshoot common tracking errors caused by system delays or mechanical faults"
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Automation Software Integration",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Introduce software platforms used for satellite automation (e.g., Nova for Windows, SatPC32)."
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Demonstrate how to configure satellite communication automation software for different types of satellites."
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Show how to create automated satellite connection schedules to handle multiple users and bandwidth allocation."
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Discuss security protocols needed when integrating automation software into satellite systems."
+            }
+          ]
+        },
+        {
+          "lo_num": "5",
+          "description": "Advanced Automation in Commercial and Military Applications",
+          "performance_criteria": [
+            {
+              "pc_code": "5.1",
+              "description": "Compare commercial and military satellite automation systems, noting key differences in security and reliability requirements."
+            },
+            {
+              "pc_code": "5.2",
+              "description": "Demonstrate how failover systems work in military satellite automation for continuous communication."
+            },
+            {
+              "pc_code": "5.3",
+              "description": "Discuss the importance of encryption and signal security in remote satellite management for military applications."
+            },
+            {
+              "pc_code": "5.4",
+              "description": "Provide examples of automated satellite systems used for real-time data transmission in remote monitoring applications (e.g., weather, disaster management)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ICT/SAT/005/L4",
+      "title": "ADVANCED SATELLITE COMMUNICATION SYSTEMS",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "High-Frequency Satellite Communication (Ka-band and Above)",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Describe the characteristics of Ka-band and Q/V-band frequencies and their uses in modern satellite communication systems."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Explain how atmospheric conditions, such as rain and humidity, affect high-frequency signal transmission and strategies to mitigate these effects."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Compare the bandwidth capacity and data rates of C-band, Ku-band, and Ka-band systems."
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Demonstrate how to configure and align dishes for high-frequency satellites using advanced equipment."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Satellite Communication for IoT (Internet of Things)",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Define the role of satellite systems in IoT networks, especially in remote and rural applications."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Demonstrate how to integrate IoT devices (e.g., sensors, actuators) with satellite networks for real-time monitoring."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Discuss the benefits and challenges of using low-power wide-area networks (LPWAN) in satellite IoT applications."
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Show how to maintain communication reliability for IoT systems in varying weather conditions and remote environments."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Satellite Data Compression and Bandwidth Optimization",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Explain different data compression techniques used in satellite communication (e.g., Huffman coding, LZW compression)."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Discuss bandwidth optimization strategies for high-traffic satellite systems, such as adaptive modulation and bandwidth throttling."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Compare the efficiency of various data transmission protocols (e.g., TCP/IP vs. UDP) in satellite communication."
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Demonstrate how to apply bandwidth management techniques in commercial satellite networks to improve data throughput."
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Quantum Satellite Communication",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Introduce the concept of quantum communication and its potential in satellite communication."
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Explain how quantum key distribution (QKD) ensures secure communication between ground stations and satellites."
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Demonstrate the principles of entanglement and quantum cryptography used in satellite systems."
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Discuss future applications of quantum satellites in areas like secure government communication and global financial systems."
+            }
+          ]
+        },
+        {
+          "lo_num": "5",
+          "description": "Advanced Satellite Link Budget Analysis",
+          "performance_criteria": [
+            {
+              "pc_code": "5.1",
+              "description": "Explain how to calculate the link budget for advanced satellite communication systems, including factors such as free space loss, antenna gain, and system no"
+            },
+            {
+              "pc_code": "5.2",
+              "description": "Analyse the impact of environmental factors on link budget performance and strategies to optimize communication links."
+            },
+            {
+              "pc_code": "5.3",
+              "description": "Demonstrate how to perform link budget calculations for high-capacity communication satellites."
+            },
+            {
+              "pc_code": "5.4",
+              "description": "Present case studies of link budget optimization in commercial satellite communication systems."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ICT/SAT/006/L4",
+      "title": "SATELLITE SYSTEM DESIGN AND INTEGRATION",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Designing Custom Satellite Systems for Enterprises",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Discuss the requirements and specifications for designing custom satellite communication systems for large enterprises."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Demonstrate how to conduct a site survey to assess the environmental and structural challenges of satellite installation."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Show how to select the appropriate modulation schemes and bandwidth to meet enterprise-level data requirements."
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Present a project where learners design a satellite system for a telecommunication or broadcasting company, ensuring scalability and future expansion."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Integrating Satellite Systems with Ground Networks",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Explain the integration of satellite networks with terrestrial communication systems, including fiber-optic and microwave links."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Discuss challenges of satellite-terrestrial integration, such as latency and signal handoff between networks."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Demonstrate how to create a hybrid communication system combining satellite and terrestrial infrastructure for redundancy."
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Perform simulations of satellite-ground network integration, focusing on load balancing and signal routing."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Disaster Recovery and Redundancy Planning",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Discuss the role of satellite communication in disaster recovery planning for critical industries’ infrastructures (e.g., healthcare, banking)."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Design a redundant satellite network for a business, ensuring communication reliability in the event of natural disasters or equipment failure."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Compare satellite-based disaster recovery solutions with traditional communication recovery methods."
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Demonstrate how to implement failover protocols to switch to satellite communication when terrestrial systems are down."
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Designing Satellite Systems for Rural and Remote Areas",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Explain the specific challenges of designing satellite systems for remote areas with limited infrastructure."
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Demonstrate how to create low-cost satellite installations for rural schools, healthcare facilities, or government offices."
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Discuss sustainable energy options (e.g., solar power) for powering satellite communication systems in off-grid locations."
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Perform a site survey and create a system plan for a rural satellite installation, including power, bandwidth, and maintenance considerations."
+            }
+          ]
+        },
+        {
+          "lo_num": "5",
+          "description": "Space Debris and Satellite System Longevity",
+          "performance_criteria": [
+            {
+              "pc_code": "5.1",
+              "description": "Explain the increasing issue of space debris and its impact on satellite system design and deployment."
+            },
+            {
+              "pc_code": "5.2",
+              "description": "Discuss the best practices for extending the operational life of satellites and avoiding collisions with space debris."
+            },
+            {
+              "pc_code": "5.3",
+              "description": "Demonstrate how to incorporate propulsion systems into satellites for orbital adjustments to avoid debris."
+            },
+            {
+              "pc_code": "5.4",
+              "description": "Present a report on sustainable satellite design, focusing on materials and systems that reduce the risk of generating space debris."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ICT/SAT/007/L4",
+      "title": "SATELLITE COMMUNICATION SECURITY AND RISK MANAGEMENT",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Satellite Encryption and Data Security",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Explain encryption techniques used in satellite communication, such as AES (Advanced Encryption Standard) and RSA for secure data transmission."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Demonstrate how to implement end-to-end encryption for satellite communication systems, ensuring data confidentiality and integrity."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Discuss the impact of quantum computing on current encryption methods and how satellite systems must adapt for post-quantum encryption."
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Perform encryption setup and verification tasks on commercial satellite receivers and ground stations, ensuring compliance with international security standards."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Satellite Network Vulnerabilities and Threat Mitigation",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Identify common vulnerabilities in satellite communication systems, including man-in-the-middle attacks, jamming, and signal spoofing."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Demonstrate techniques to secure satellite communication links, such as frequency hopping and spread spectrum technology, to reduce vulnerability to jamming."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Discuss the importance of access control and authentication mechanisms in protecting satellite communication networks from unauthorized access."
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Perform a vulnerability assessment and risk analysis of a satellite communication system, identifying potential weak points and proposing mitigation strategies."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Cybersecurity for Ground Stations and Satellite Operations Centers",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Discuss the importance of securing ground stations and Network Operations Centers (NOCs) against cyber threats such as malware, DDoS attacks, and insider threats."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Demonstrate how to implement firewalls, intrusion detection systems (IDS), and intrusion prevention systems (IPS) for satellite ground stations."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Explain the importance of multi-factor authentication (MFA) and role-based access control (RBAC) in protecting sensitive satellite control systems."
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Perform a cybersecurity audit of a simulated ground station setup, identifying and addressing potential security gaps."
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Satellite System Failures and Disaster Recovery Plans",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Discuss the most common causes of satellite system failures, such as signal degradation, equipment malfunctions, or power outages."
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Design a comprehensive disaster recovery plan for satellite communication systems, ensuring rapid recovery in case of natural disasters or cyberattacks."
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Demonstrate the use of redundancy techniques such as backup satellites, dual-ground stations, and failover systems to ensure continuous communication."
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Conduct a disaster recovery simulation, ensuring learners can quickly restore satellite communication after a system failure or breach."
+            }
+          ]
+        },
+        {
+          "lo_num": "5",
+          "description": "International Satellite Security Regulations and Compliance",
+          "performance_criteria": [
+            {
+              "pc_code": "5.1",
+              "description": "Explain key international satellite security regulations, such as ITU (International Telecommunication Union) guidelines and military-grade security protocols."
+            },
+            {
+              "pc_code": "5.2",
+              "description": "Discuss the compliance requirements for satellite systems operating in sensitive industries, such as military, aerospace, and government communication."
+            },
+            {
+              "pc_code": "5.3",
+              "description": "Demonstrate how to implement security standards that comply with GDPR (General Data Protection Regulation) and other global privacy laws in satellite data transmission."
+            },
+            {
+              "pc_code": "5.4",
+              "description": "Perform an audit of a satellite system's compliance with international security regulations, identifying areas that require improvement to meet industry standards."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
