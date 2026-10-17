@@ -1154,7 +1154,7 @@
         },
         {
           "lo_num": "4",
-          "description": "Know how to supervise team in the dining",
+          "description": "Know how to supervise team in the dining area",
           "performance_criteria": [
             {
               "pc_code": "4.1",
@@ -1170,7 +1170,7 @@
             },
             {
               "pc_code": "4.4",
-              "description": "Carry out \u201cgueridon service"
+              "description": "Carry out \u201cgueridon service\u201d"
             }
           ]
         }
