@@ -1,0 +1,1698 @@
+{
+  "trade_name": "NOS Construction Equipment",
+  "level": 2,
+  "units": [
+    {
+      "code": "CONST/CEO/001/L2",
+      "title": "Health and Safety for Operator",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Health and Safety Precaution in Workplace",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Describe the use of Personal Protective Equipment and wears: \uf0b7 Nose mask \uf0b7 Ear muff \uf0b7 Overall \uf0b7 Hand-gloves \uf0b7 Safety boot \uf0b7 Eye goggles \uf0b7 Reflective jackets \uf0b7 Helmet \uf0b7 Fire Extinguisher \uf0b7 First Aid Box \uf0b7 Reflector Triangle (Caution Sign) \uf0b7 Caution Red Flag, etc."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Demonstrate the use of safety equipment in 1.1 above at: \uf0b7 Construction site \uf0b7 Yard"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Describe waste disposal in line with organizational procedures."
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Maintain personal hygiene as an Operator."
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Identify safety signs and symbols relevant to operation."
+            },
+            {
+              "pc_code": "1.6",
+              "description": "Select safety equipment to be used by the Operator."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Hazard in workplace",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Locate potential hazard points at: \uf0b7 Site \uf0b7 Yard"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Discuss causes of hazard in construction site: \uf0b7 Negligence \uf0b7 Human Error \uf0b7 Machine malfunction, etc."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Report identified hazard points to the supervisor"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Identify possible hazard to the Operator: \uf0b7 Severe weather conditions \uf0b7 Severe vibration \uf0b7 Pollution, etc."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Accident in workplace",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "State types of accident in construction site and yard: \uf0b7 Fire accident \uf0b7 Fall from height \uf0b7 Electric shock \uf0b7 Vehicular accident \uf0b7 Equipment accident, etc."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "State causes of accidents in workplace: \uf0b7 Faulty equipment \uf0b7 Wrong signal from Operator Helper \uf0b7 Disregard for standard operating procedure, etc."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "State measures to prevent accident at construction site and yard as an Operator: \uf0b7 Maintain alertness on the job \uf0b7 Promote safety awareness \uf0b7 Observe rest cycle \uf0b7 Use PPE, etc."
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Use firefighting equipment"
+            },
+            {
+              "pc_code": "3.5",
+              "description": "Demonstrate First Aid at workplace."
+            },
+            {
+              "pc_code": "3.6",
+              "description": "Report near miss/accident to supervisor."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "CONST/CEO/002/L2",
+      "title": "Communication Skills for Operator",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understand Communication in workplace",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Discuss communication as an Operator in construction site and yard: \uf0b7 peer to peer \uf0b7 Operator Helper to Operator \uf0b7 Operator to supervisor."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Discuss the importance of communication in a work environment."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Describe how to get information from schedule of work as an Operator"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Understand methods of Communication in workplace",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Discuss the forms of communication: \uf0b7 Verbal (spoken) \uf0b7 Non-verbal (written) \uf0b7 Signs \uf0b7 Signals"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Communicate work information to Operator Helper"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Use the following devices as an Operator to communicate information: \uf0b7 Phone \uf0b7 Radio"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Understand elements of Communication in workplace",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Receive written/verbal information on the job"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Follow verbal instruction on the job"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Pass verbal information/instruction on the job"
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Communicate to immediate supervisor/team members",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Identify circumstances that can affect progress of work such as: \uf0b7 Equipment Damage \uf0b7 Safety Concerns \uf0b7 Delays that may cause inability to meet deadlines etc."
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Recognize lines of communication."
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Report concerns which may affect work progress."
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Record work instructions."
+            },
+            {
+              "pc_code": "4.5",
+              "description": "Respond to equipment dashboard signs/lights, controls and warnings."
+            },
+            {
+              "pc_code": "4.6",
+              "description": "Distinguish between normal and unusual grinding, hissing and screeching sounds/noise of equipment."
+            },
+            {
+              "pc_code": "4.7",
+              "description": "Report personal / equipment concerns to supervisor."
+            },
+            {
+              "pc_code": "4.8",
+              "description": "Record routine daily checks on equipment"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "CONST/CEO/003/L2",
+      "title": "Teamwork for Operator",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understand the benefits of Working in a Team at Workplace",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "List the advantages of working as a team."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Describe the attributes of a team player: \uf0b7 Mutual respect \uf0b7 Common goal \uf0b7 Discipline \uf0b7 Mutual understanding \uf0b7 Trust \uf0b7 Honesty and sincerity, etc."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "List members that constitute a team in the construction site: \uf0b7 First Responder. \uf0b7 Administrative Staff/Security. \uf0b7 Operators. \uf0b7 Maintenance Crew, etc."
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Recognize team members in a construction site/yard."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Understand how to relate with team members",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Explain the need for good working relationship with team members at the workplace."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Recognize the roles of other team members."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Discuss your own role in achieving the objectives of the team."
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Explain the job of an Operator at construction site."
+            },
+            {
+              "pc_code": "2.5",
+              "description": "Discuss the linkage (relationship) of the job of an Operator with other jobs in the construction operations."
+            },
+            {
+              "pc_code": "2.6",
+              "description": "State the importance of following work schedule as an Operator."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Positive Work Relationships with colleagues",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "State qualities of good equipment operator: \uf0b7 Love of outdoors \uf0b7 Natural aptitude for operating machines \uf0b7 Sense of balance \uf0b7 Hand-eye coordination \uf0b7 Knowledge of equipment \uf0b7 Equipment ownership \uf0b7 Attention to details \uf0b7 Communication skills, etc."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Relate with other operators at workplace"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Recognize construction workflow in relation to own role."
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Communicate information that may affect other workers on the site."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "CONST/CEO/004/L2",
+      "title": "Construction Equipment",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understand Earthmoving Equipment in construction operation.",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Recognize equipment used for Earthmoving operation: Bulldozers \uf0b7 Excavators \uf0b7 Scrapers \uf0b7 Dumpers \uf0b7 Graders \uf0b7 Loaders \uf0b7 Tippers, etc. \uf0b7"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Locate the component parts of bulldozer: Engine system \uf0b7 Hydraulic system \uf0b7 Track \uf0b7 Blade \uf0b7 Ripper \uf0b7 Operator Cabin \uf0b7 Track Rollers \uf0b7 Ram, etc. \uf0b7"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Recognize the component parts of an Excavator: Engine system \uf0b7 Hydraulic system \uf0b7 Bucket \uf0b7 Arm/Boom \uf0b7 Cabin \uf0b7 Tracks \uf0b7 Engine cabin, etc. \uf0b7"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Locate the component parts of Scraper: Engine system \uf0b7 Hydraulic system \uf0b7 Bucket/bowl \uf0b7 Operator cabin \uf0b7 Tractor \uf0b7 Apron \uf0b7 Ejector \uf0b7 Tyres, etc. \uf0b7"
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Recognize the component parts of Dumper: Engine system \uf0b7 Hydraulic system \uf0b7 Operator cabin \uf0b7 Tyres \uf0b7 Buckets, etc. \uf0b7"
+            },
+            {
+              "pc_code": "1.6",
+              "description": "Locate the component parts of Grader: Engine system \uf0b7 Hydraulic system \uf0b7 Tyres \uf0b7 Blade \uf0b7 Ripper \uf0b7 Operator Cabin, etc. \uf0b7"
+            },
+            {
+              "pc_code": "1.7",
+              "description": "Recognize the component parts of Tipper: Tyres \uf0b7 Engine system \uf0b7 Hydraulic system \uf0b7 Operator cabin \uf0b7 Bucket, etc. \uf0b7"
+            },
+            {
+              "pc_code": "1.8",
+              "description": "Recognize the component parts of Loader: \uf0b7 Engine \uf0b7 Cabin \uf0b7 Bucket \uf0b7 Boom \uf0b7 Rear counter weight \uf0b7 Tipper cylinder \uf0b7 Hydraulic system, etc."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Understand Hoisting equipment in construction operation.",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Identify type of cranes for hoisting operation in construction: \uf0b7 Tower crane \uf0b7 Mobile crane - Carry deck crane - Rough terrain crane - Truck mounted crane - Telescopic crane \uf0b7 Crawler crane \uf0b7 Floating crane \uf0b7 Fixed crane - Bridge/overhead crane - Bulk handling crane - Hammerhead crane, etc."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Recognize the component parts of a common mobile crane: \uf0b7 Tyre \uf0b7 Outrigger stabilizer \uf0b7 Operator cabin \uf0b7 Telescopic boom \uf0b7 Elevating cylinder \uf0b7 Hook, etc."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Explain the factors for selection of cranes for use in construction operation."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Understand compacting, laying and concreting equipment in construction operation.",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Identify types of equipment in compacting and laying operation in construction: \uf0b7 Vibrating Roller \uf0b7 Power Rammer \uf0b7 Paver, etc."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Recognize the component parts of a vibrating roller: \uf0b7 Drum \uf0b7 Engine cabin \uf0b7 Open operation platform station \uf0b7 Tyre, etc."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Identify the component parts of a Power Rammer: \uf0b7 Guide Handle \uf0b7 Engine \uf0b7 Centre lifting point \uf0b7 Ramming shoes \uf0b7 Hammer \uf0b7 Ramming system, etc."
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Recognize the component parts of a Paver: \uf0b7 Hopper \uf0b7 Tractor \uf0b7 Leveling arm \uf0b7 Spread layer \uf0b7 Tyres/tracks \uf0b7 Feeder conveyor, etc."
+            },
+            {
+              "pc_code": "3.5",
+              "description": "Identify types of concreting equipment: \uf0b7 Transit mixer truck \uf0b7 Batching and mixing plant \uf0b7 Concrete pump \uf0b7 Concrete paver, etc."
+            },
+            {
+              "pc_code": "3.6",
+              "description": "Recognize the component parts of concrete mixer truck: \uf0b7 Concrete cylinder/mixing drum \uf0b7 Diesel engine \uf0b7 Control system \uf0b7 Hydraulic valve \uf0b7 Hopper \uf0b7 Water tank \uf0b7 Discharge chutes \uf0b7 Diesel tank, etc."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "CONST/CEO/005/L2",
+      "title": "Maintenance for Operator",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Know basic concept of maintenance",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Explain the meaning of maintenance"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "State the types of maintenance: \uf0b7 Preventive \uf0b7 Corrective, etc."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "State the Importance of maintenance of equipment/machine."
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Explain the effect of neglecting maintenance of equipment."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Understand breakdown in Construction Equipment",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "List types of breakdown/fault in construction equipment: \uf0b7 Hydraulic \uf0b7 Mechanical \uf0b7 Electrical, etc."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "List types of checks to be performed in construction equipment to prevent breakdown: \uf0b7 Engine oil \uf0b7 Transmission (Azolla) oil \uf0b7 Battery \uf0b7 Water \uf0b7 Brake oil \uf0b7 Track/tyre \uf0b7 Engine sound \uf0b7 Dashboard/Console \uf0b7 Functionality (wiper, head lamp, horn, brake light, reverse light etc.) \uf0b7 Hoses and cables, etc."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Read the following Gauges/indicators on the dashboard: \uf0b7 Fuel Gauge \uf0b7 Temperature Gauge \uf0b7 Air pressure Gauge \uf0b7 Engine oil indicator \uf0b7 Transmission oil indicator \uf0b7 Battery indicator, etc."
+            },
+            {
+              "pc_code": "2.4",
+              "description": "State the measures to prevent breakdown of construction equipment: \uf0b7 Perform routine checks before operation \uf0b7 Obey warning signals \uf0b7 Avoid overworking the equipment \uf0b7 Proper parking positioning \uf0b7 Report identified faults to the appropriate unit \uf0b7 Comply with maintenance manual \uf0b7 Recommend any requirements for maintenance, etc."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Perform daily safety and maintenance checks",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "State the importance of Operator\u2019s log book."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Perform checks as captured in 2.2 above in line with manufacturer\u2019s manual."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Show filled operator\u2019s log book."
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Report observations from checks performed in 3.2 above."
+            },
+            {
+              "pc_code": "3.5",
+              "description": "Service the air cleaner filter."
+            },
+            {
+              "pc_code": "3.6",
+              "description": "Check for loose bolts and nuts and report."
+            },
+            {
+              "pc_code": "3.7",
+              "description": "Adjust accelerator cable to raise and lower engine idle speed."
+            },
+            {
+              "pc_code": "3.8",
+              "description": "Locate grease nipple areas for lubrication."
+            },
+            {
+              "pc_code": "3.9",
+              "description": "Carry out lubrication using grease nipple."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "CONST/CEO/006/L2",
+      "title": "Road and Workplace Regulations",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Road Types",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "List types of roads: \uf0b7 Single carriage (two-lane highways) \uf0b7 Dual carriageways \uf0b7 Expressways \uf0b7 Feeder \uf0b7 Private drive pathways, etc."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Describe road intersections \uf0b7 T-junction \uf0b7 Y-junction \uf0b7 Crossroads \uf0b7 Roundabouts \uf0b7 Interchange, etc."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Identify parts of major road \uf0b7 The main road \uf0b7 Road shoulder \uf0b7 Pedestrian walkway \uf0b7 Bicycle tracks, etc."
+            },
+            {
+              "pc_code": "1.4",
+              "description": "List classification of roads \uf0b7 Federal (Trunk A) \uf0b7 State (Trunk B) \uf0b7 Metropolitan \uf0b7 Local (Trunk C), etc."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Road Signs and markings",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "List categories of road signs: \uf0b7 Regulatory (Prohibitory and Mandatory) \uf0b7 Warning/caution \uf0b7 Informative, etc."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Identify the features of traffic lights."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Explain road markings."
+            },
+            {
+              "pc_code": "2.4",
+              "description": "List major types of road markings: \uf0b7 Edge lines \uf0b7 Solid lines \uf0b7 Broken lines \uf0b7 Zebra crossing \uf0b7 Directional arrows \uf0b7 Stop lines \uf0b7 Give way \uf0b7 Box junction, etc."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Rules of the Road",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Explain basic rules of the road."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Explain the rules of \u201cright of way\u201d at roundabouts."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "State some traffic offences \uf0b7 Drivers licenses violation \uf0b7 Speed violation \uf0b7 Route violation \uf0b7 Driving under influence of alcohol/drugs \uf0b7 Use of phone \uf0b7 Overloading violation \uf0b7 Light signs violation, etc."
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Traffic Regulations",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "List the road traffic regulatory documents: \uf0b7 Nigeria Highway Code \uf0b7 National Road Traffic Regulation (NRTR), 2012, etc."
+            },
+            {
+              "pc_code": "4.2",
+              "description": "List road traffic regulatory agencies \uf0b7 FRSC \uf0b7 Police \uf0b7 State Traffic Regulatory Agencies \uf0b7 Vehicle inspection Officers (VIO), etc."
+            },
+            {
+              "pc_code": "4.3",
+              "description": "State the different classes of National drivers\u2019 license."
+            }
+          ]
+        },
+        {
+          "lo_num": "5",
+          "description": "Know Workplace Regulations for Personnel",
+          "performance_criteria": [
+            {
+              "pc_code": "5.1",
+              "description": "Describe workplace regulations on PPE."
+            },
+            {
+              "pc_code": "5.2",
+              "description": "Explain workplace regulations on occupational hazards."
+            },
+            {
+              "pc_code": "5.3",
+              "description": "State workplace regulations on human movement on site."
+            },
+            {
+              "pc_code": "5.4",
+              "description": "Discuss workplace regulations on ethics and discipline."
+            }
+          ]
+        },
+        {
+          "lo_num": "6",
+          "description": "Know workplace regulations for Construction Equipment",
+          "performance_criteria": [
+            {
+              "pc_code": "6.1",
+              "description": "Explain workplace regulations on safe use of equipment."
+            },
+            {
+              "pc_code": "6.2",
+              "description": "Explain workplace regulations on movement of equipment from one location to another."
+            },
+            {
+              "pc_code": "6.3",
+              "description": "Explain workplace regulations on parking and positioning of equipment."
+            },
+            {
+              "pc_code": "6.4",
+              "description": "Explain workplace regulations on equipment maintenance."
+            }
+          ]
+        },
+        {
+          "lo_num": "7",
+          "description": "Know workplace regulations for material handling and utilities",
+          "performance_criteria": [
+            {
+              "pc_code": "7.1",
+              "description": "Explain workplace regulations on material storage."
+            },
+            {
+              "pc_code": "7.2",
+              "description": "Explain workplace regulations on material haulage."
+            },
+            {
+              "pc_code": "7.3",
+              "description": "Explain workplace regulations on utilities."
+            }
+          ]
+        },
+        {
+          "lo_num": "8",
+          "description": "Know workplace regulations for construction site and yard",
+          "performance_criteria": [
+            {
+              "pc_code": "8.1",
+              "description": "Explain workplace regulations on site/yard hoarding."
+            },
+            {
+              "pc_code": "8.2",
+              "description": "Explain workplace regulations on site/yard sanitation."
+            },
+            {
+              "pc_code": "8.3",
+              "description": "Explain workplace regulations on site/yard traffic movement."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "CONST/CEO/007/L2",
+      "title": "Excavator Operation",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understand Excavators",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Explain excavation"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Identify different brand of excavators: \uf0b7 Caterpillar \uf0b7 Fiat Allis \uf0b7 Volvo \uf0b7 Liebherr \uf0b7 Mercedes, etc."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Identify types of excavators: \uf0b7 Wheeled \uf0b7 Crawler (Tracked) - Dragline - Long reach - Suction \uf0b7 Amphibious (Swamp), etc."
+            },
+            {
+              "pc_code": "1.4",
+              "description": "State the functions of each excavator in 1.3 above."
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Identify component parts of an excavator."
+            },
+            {
+              "pc_code": "1.6",
+              "description": "State the safety precautions involved in the use of excavators: \uf0b7 Raise the bucket before movement \uf0b7 Rest the bucket on the ground to park \uf0b7 Detect underground cable using metal or cable detector, etc."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Drive the Excavator forward and backward",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Perform external checks."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Climb into the cabin and adjust seat position."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Fasten safety seat belt."
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Turn on the ignition."
+            },
+            {
+              "pc_code": "2.5",
+              "description": "Perform cabin checks: \uf0b7 Fuel Gauge \uf0b7 Temperature Gauge \uf0b7 Air pressure Gauge \uf0b7 Engine oil indicator \uf0b7 Battery indicator, etc."
+            },
+            {
+              "pc_code": "2.6",
+              "description": "Start the excavator to idle according to specification."
+            },
+            {
+              "pc_code": "2.7",
+              "description": "Change control pattern to suit working position."
+            },
+            {
+              "pc_code": "2.8",
+              "description": "Release the lock lever."
+            },
+            {
+              "pc_code": "2.9",
+              "description": "Check the environment for obstruction."
+            },
+            {
+              "pc_code": "2.10",
+              "description": "Raise the boom."
+            },
+            {
+              "pc_code": "2.11",
+              "description": "Push both pedals to move smoothly forward."
+            },
+            {
+              "pc_code": "2.12",
+              "description": "Pull both pedals to move smoothly backward."
+            },
+            {
+              "pc_code": "2.13",
+              "description": "Stop the excavator smoothly."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Control the Excavator",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Navigate the excavator safely to the right by engaging the lever and the pedal."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Navigate the excavator safely to the left by engaging the lever and the pedal."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Use indicators as required in 3.1 and 3.2 above."
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Maintain lane discipline while driving."
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Operate the Excavator",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Identify joysticks for various operations as specified by the manufacturer."
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Move the joystick appropriately to raise the boom."
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Move the joystick appropriately to lower the boom."
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Push the joystick to appropriate position to open the bucket."
+            },
+            {
+              "pc_code": "4.5",
+              "description": "Push the joystick to appropriate position to close the bucket."
+            },
+            {
+              "pc_code": "4.6",
+              "description": "Use appropriate joystick to rotate the operator\u2019s cabin to: \uf0b7 1800 \uf0b7 3600"
+            },
+            {
+              "pc_code": "4.7",
+              "description": "Drive excavator with: \uf0b7 Hand lever \uf0b7 Feet pedal, etc."
+            },
+            {
+              "pc_code": "4.8",
+              "description": "Explain when to use hand levers or feet pedals to drive the excavator."
+            },
+            {
+              "pc_code": "4.9",
+              "description": "Adjust the cab (Operator\u2019s cabin) perfectly squared over the tracks."
+            },
+            {
+              "pc_code": "4.10",
+              "description": "Press appropriate joystick until the boom stops rising."
+            },
+            {
+              "pc_code": "4.11",
+              "description": "Adjust bucket according to work required."
+            },
+            {
+              "pc_code": "4.12",
+              "description": "Lower the boom until bucket enters the earth/ materials to be excavated."
+            },
+            {
+              "pc_code": "4.13",
+              "description": "Curl and lift bucket to scoop materials to be excavated."
+            },
+            {
+              "pc_code": "4.14",
+              "description": "Rotate the cabin and open the bucket to drop materials excavated."
+            }
+          ]
+        },
+        {
+          "lo_num": "5",
+          "description": "Position and Park Excavator",
+          "performance_criteria": [
+            {
+              "pc_code": "5.1",
+              "description": "Position the excavator for parking procedure."
+            },
+            {
+              "pc_code": "5.2",
+              "description": "Rotate cabin to sit square with track facing forward."
+            },
+            {
+              "pc_code": "5.3",
+              "description": "Disconnect joystick controls."
+            },
+            {
+              "pc_code": "5.4",
+              "description": "Return the throttle down to idle."
+            },
+            {
+              "pc_code": "5.5",
+              "description": "Idle the engine for one minute."
+            },
+            {
+              "pc_code": "5.6",
+              "description": "Turn the key to shut down the excavator."
+            },
+            {
+              "pc_code": "5.7",
+              "description": "Explain how to load the Excavator on a low bed."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "CONST/CEO/008/L2",
+      "title": "Bulldozer Operation",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understand Bulldozer (Dozer)",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "State the use of a Dozer."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Identify different brand of Dozers: \uf0b7 Caterpillar \uf0b7 Fiat Allis \uf0b7 Volvo \uf0b7 Liebherr \uf0b7 Komatsu, etc."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Identify types of Dozers: \uf0b7 Wheeled \uf0b7 Crawler (Tracked) - D4D - D5D - D6D/D6N - D7D/D7N - D8K/D8N/D8R - D9D/D9N, etc."
+            },
+            {
+              "pc_code": "1.4",
+              "description": "State the area of application of each Dozers in 1.3 above."
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Identify functional parts of a Dozer: \uf0b7 Blade \uf0b7 Ripper \uf0b7 Cabin, etc."
+            },
+            {
+              "pc_code": "1.6",
+              "description": "State the safety precautions involved in the use of Dozer: \uf0b7 Conduct a safety check \uf0b7 Raise the blade and ripper \uf0b7 Fasten seat belt \uf0b7 Use safety rail to climb into Dozer cabin \uf0b7 Do not put the blade on the ground until you are ready to push the earth (soil), etc."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Drive the Dozer forward and backward",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Perform external safety checks on the Dozer."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Climb into the cabin and adjust seat position."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Fasten safety seat belt."
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Turn on the ignition."
+            },
+            {
+              "pc_code": "2.5",
+              "description": "Perform cabin checks: \uf0b7 Fuel Gauge \uf0b7 Temperature Gauge \uf0b7 Air pressure Gauge \uf0b7 Engine oil indicator \uf0b7 Battery indicator, etc."
+            },
+            {
+              "pc_code": "2.6",
+              "description": "Start the Dozer to idle according to specification (warm up)."
+            },
+            {
+              "pc_code": "2.7",
+              "description": "Turn the speed control down"
+            },
+            {
+              "pc_code": "2.8",
+              "description": "Engage the throttle to run position."
+            },
+            {
+              "pc_code": "2.9",
+              "description": "Check the environment for obstruction."
+            },
+            {
+              "pc_code": "2.10",
+              "description": "Raise ripper and blade using the appropriate joysticks to commence movement."
+            },
+            {
+              "pc_code": "2.11",
+              "description": "Shift joystick forward to move the Dozer forward."
+            },
+            {
+              "pc_code": "2.12",
+              "description": "Shift joystick backward to reverse the Dozer."
+            },
+            {
+              "pc_code": "2.13",
+              "description": "State the implication of not raising the blade and the ripper before movement."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Control the Dozer",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Move the joystick appropriate to navigate the Dozer to the right."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Move the joystick appropriate to navigate the Dozer to the left."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Use indicators as required in 3.1 and 3.2 above."
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Maintain lane discipline while driving the Dozer."
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Operate the Dozer with the Blade",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Identify joysticks for various operations as specified by the manufacturer."
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Move the joystick appropriately to raise the blade."
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Move the joystick appropriately to lower the blade."
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Push the joystick to appropriate position to tilt the blade."
+            },
+            {
+              "pc_code": "4.5",
+              "description": "Use appropriate joystick to demonstrate angling of the blade."
+            },
+            {
+              "pc_code": "4.6",
+              "description": "Adjust blade according to work required."
+            },
+            {
+              "pc_code": "4.7",
+              "description": "Apply blade to push according to work required while observing necessary safety measures."
+            }
+          ]
+        },
+        {
+          "lo_num": "5",
+          "description": "Operate the Dozer with the Ripper",
+          "performance_criteria": [
+            {
+              "pc_code": "5.1",
+              "description": "Identify joysticks for various operations as specified by the manufacturer."
+            },
+            {
+              "pc_code": "5.2",
+              "description": "Move the joystick appropriately to raise the ripper."
+            },
+            {
+              "pc_code": "5.3",
+              "description": "Move the joystick appropriately to lower the ripper."
+            },
+            {
+              "pc_code": "5.4",
+              "description": "Push the joystick to appropriate position to tilt the ripper."
+            },
+            {
+              "pc_code": "5.5",
+              "description": "Adjust ripper according to work required."
+            },
+            {
+              "pc_code": "5.6",
+              "description": "Apply ripper to plough according to work required while observing necessary safety measures."
+            }
+          ]
+        },
+        {
+          "lo_num": "6",
+          "description": "Position and Park Dozer",
+          "performance_criteria": [
+            {
+              "pc_code": "6.1",
+              "description": "Position the Dozer for parking procedure."
+            },
+            {
+              "pc_code": "6.2",
+              "description": "Slowly lower the blade and ripper to ground level."
+            },
+            {
+              "pc_code": "6.3",
+              "description": "Disconnect joystick controls."
+            },
+            {
+              "pc_code": "6.4",
+              "description": "Turn the throttle to idle."
+            },
+            {
+              "pc_code": "6.5",
+              "description": "Move appropriate joystick to neutral position."
+            },
+            {
+              "pc_code": "6.6",
+              "description": "Engage the parking brake"
+            },
+            {
+              "pc_code": "6.7",
+              "description": "Allow the engine to idle according to Dozer type specification."
+            },
+            {
+              "pc_code": "6.8",
+              "description": "Turn off the engine."
+            },
+            {
+              "pc_code": "6.9",
+              "description": "Exit the Bulldozer carefully using the handrails."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "CONST/CEO/009/L2",
+      "title": "Grader Operation",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understand Motor Grader",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "State the uses of Motor Grader."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Identify different brand of Graders: \uf0b7 Caterpillar \uf0b7 Fiat Allis \uf0b7 Volvo \uf0b7 Liebherr \uf0b7 Komatsu, etc."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Differentiate between Motor Grader and Dozer."
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Identify types of Motor Grader: \uf0b7 Small \uf0b7 Medium \uf0b7 Large \uf0b7 Rigid Frame \uf0b7 Articulated Frame, etc."
+            },
+            {
+              "pc_code": "1.5",
+              "description": "State the area of application of each Motor Grader in 1.4 above."
+            },
+            {
+              "pc_code": "1.6",
+              "description": "Recognize functional parts of Grader: \uf0b7 Grader Blade \uf0b7 Ripper \uf0b7 Cabin \uf0b7 Scarifier \uf0b7 Engine \uf0b7 Frame, etc."
+            },
+            {
+              "pc_code": "1.7",
+              "description": "State the safety precautions involved in the use of Motor Grader: \uf0b7 Conduct visual checks around the machine \uf0b7 Drive at slow, safe speed with the hazard lights on \uf0b7 Raise the blade and ripper when driving \uf0b7 Drop the blade and ripper on the ground when not in use \uf0b7 Look behind you while backing up, even when the backup alarm is engaged \uf0b7 Fasten seat belt, etc."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Drive the Motor Grader forward and backward",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Perform external safety checks on the Motor Grader."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Climb into the cabin and adjust seat position."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Fasten safety belt."
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Turn on the ignition."
+            },
+            {
+              "pc_code": "2.5",
+              "description": "Perform cabin checks: \uf0b7 Fuel Gauge \uf0b7 Temperature Gauge \uf0b7 Air pressure Gauge \uf0b7 Engine oil indicator \uf0b7 Battery indicator."
+            },
+            {
+              "pc_code": "2.6",
+              "description": "Start the Motor Grader to idle according to specification (warm up)."
+            },
+            {
+              "pc_code": "2.7",
+              "description": "Ensure that the alarm signal prompting the commencement of Grader use is observed."
+            },
+            {
+              "pc_code": "2.8",
+              "description": "Raise blade and ripper."
+            },
+            {
+              "pc_code": "2.9",
+              "description": "Engage gear for: \uf0b7 Forward movement \uf0b7 Reverse movement, etc."
+            },
+            {
+              "pc_code": "2.10",
+              "description": "Release parking brake."
+            },
+            {
+              "pc_code": "2.11",
+              "description": "Release the clutch gently."
+            },
+            {
+              "pc_code": "2.12",
+              "description": "Depress the accelerator to move off smoothly."
+            },
+            {
+              "pc_code": "2.13",
+              "description": "State the implication of not raising the blade and the ripper before movement."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Control the Motor Grader",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Hold steering in quarter \u2013 to \u2013 three position."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Change gears progressively while accelerating."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Change gears progressively while decelerating."
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Navigate the Motor Grader to the right."
+            },
+            {
+              "pc_code": "3.5",
+              "description": "Navigate the Motor Grader to the left."
+            },
+            {
+              "pc_code": "3.6",
+              "description": "Use indicators as required in 3.4 and 3.5 above."
+            },
+            {
+              "pc_code": "3.7",
+              "description": "Maintain lane discipline while driving the Motor Grader."
+            },
+            {
+              "pc_code": "3.8",
+              "description": "Stop Motor Grader smoothly."
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Operate the Motor Grader to perform levelling operation",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Identify joysticks for various operations as specified by the manufacturer."
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Move the joystick appropriately to lower the levelling blade."
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Move the joystick appropriately to achieve the desired depth of levelling."
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Drive the Motor Grader to commence grading operation."
+            },
+            {
+              "pc_code": "4.5",
+              "description": "Drive the Motor Grader to commence spreading operation."
+            },
+            {
+              "pc_code": "4.6",
+              "description": "Drive the Motor Grader to commence levelling operation."
+            }
+          ]
+        },
+        {
+          "lo_num": "5",
+          "description": "Operate the Motor Grader with the Ripper",
+          "performance_criteria": [
+            {
+              "pc_code": "5.1",
+              "description": "Explain the use of a ripper in the Motor Grader."
+            },
+            {
+              "pc_code": "5.2",
+              "description": "Identify joysticks for various operations as specified by the manufacturer."
+            },
+            {
+              "pc_code": "5.3",
+              "description": "Move the joystick appropriately to lower the ripper."
+            },
+            {
+              "pc_code": "5.4",
+              "description": "Push the joystick to appropriate position to tilt the ripper."
+            },
+            {
+              "pc_code": "5.5",
+              "description": "Adjust ripper according to work required."
+            },
+            {
+              "pc_code": "5.6",
+              "description": "Apply ripper to plough according to work required while observing safety measures."
+            }
+          ]
+        },
+        {
+          "lo_num": "6",
+          "description": "Position and Park Motor Grader",
+          "performance_criteria": [
+            {
+              "pc_code": "6.1",
+              "description": "Position the Motor Grader for parking procedures."
+            },
+            {
+              "pc_code": "6.2",
+              "description": "Slowly lower the blade and ripper to ground level."
+            },
+            {
+              "pc_code": "6.3",
+              "description": "Disconnect joystick controls."
+            },
+            {
+              "pc_code": "6.4",
+              "description": "Turn the throttle to idle."
+            },
+            {
+              "pc_code": "6.5",
+              "description": "Move appropriate joystick to neutral position."
+            },
+            {
+              "pc_code": "6.6",
+              "description": "Engage the parking brake."
+            },
+            {
+              "pc_code": "6.7",
+              "description": "Allow the engine to idle according to Motor Grader type specification."
+            },
+            {
+              "pc_code": "6.8",
+              "description": "Turn off the engine"
+            },
+            {
+              "pc_code": "6.9",
+              "description": "Exit the Motor Grader carefully"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "CONST/CEO/010/L2",
+      "title": "Payloader Operation",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understand Payloader",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "State the uses of Payloader."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Identify different brand of Payloaders: \uf0b7 Caterpillar \uf0b7 Fiat Allis \uf0b7 Volvo \uf0b7 Liebherr \uf0b7 Komatsu, etc."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Identify types of Payloader: \uf0b7 Wheeled - Backhoe - Skid - Compact Wheel Loader - Small Wheel Loader - Medium Wheel Loader - Large Wheel Loader \uf0b7 Tracked, etc."
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Recognize component parts of a payloader: \uf0b7 Bucket \uf0b7 Rocker \uf0b7 Tipper cylinder \uf0b7 Cab \uf0b7 Rear hood \uf0b7 Engine \uf0b7 Counter weight, etc."
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Identify types of Payloader buckets: \uf0b7 Shovel \uf0b7 Bucket Teeth \uf0b7 General-Purpose \uf0b7 Light Material \uf0b7 Multi-Purpose Loader \uf0b7 Rock \uf0b7 Woodchip, etc."
+            },
+            {
+              "pc_code": "1.6",
+              "description": "State the area of application of each Payloader in 1.3 above."
+            },
+            {
+              "pc_code": "1.7",
+              "description": "State the area of application of each bucket in 1.5 above"
+            },
+            {
+              "pc_code": "1.8",
+              "description": "Identify functional parts of a Payloader: \uf0b7 Bucket \uf0b7 Cabin \uf0b7 Frame \uf0b7 Rear Counterweight \uf0b7 Engine \uf0b7 Boom \uf0b7 Tipper Cylinder, etc."
+            },
+            {
+              "pc_code": "1.9",
+              "description": "State the safety precautions involved in the use of Payloader: \uf0b7 Conduct visual checks around the machine \uf0b7 Drive at slow, safe speed with the hazard lights on \uf0b7 Raise the bucket when driving \uf0b7 Drop the bucket on the ground when not in use \uf0b7 Look behind you while backing up, even when the backup alarm is engaged \uf0b7 Fasten seat belt \uf0b7 Never stand beneath the raised arms, etc."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Drive the Payloader forward and backward",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Perform external safety. checks on the Payloader"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Climb into the cabin and adjust seat position."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Fasten safety belt."
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Turn on the ignition."
+            },
+            {
+              "pc_code": "2.5",
+              "description": "Perform cabin checks: \uf0b7 Fuel Gauge \uf0b7 Temperature Gauge \uf0b7 Air pressure Gauge \uf0b7 Engine oil indicator \uf0b7 Battery indicator, etc."
+            },
+            {
+              "pc_code": "2.6",
+              "description": "Start the Payloader to idle according to specification (warm up)."
+            },
+            {
+              "pc_code": "2.7",
+              "description": "Ensure that the alarm signal prompting the commencement of Payloader use is observed."
+            },
+            {
+              "pc_code": "2.8",
+              "description": "Raise bucket."
+            },
+            {
+              "pc_code": "2.9",
+              "description": "Engage gear for: \uf0b7 Forward movement \uf0b7 Reverse movement, etc."
+            },
+            {
+              "pc_code": "2.10",
+              "description": "Release parking brake."
+            },
+            {
+              "pc_code": "2.11",
+              "description": "Release the clutch gently."
+            },
+            {
+              "pc_code": "2.12",
+              "description": "Depress the accelerator to move off smoothly."
+            },
+            {
+              "pc_code": "2.13",
+              "description": "State the implication of not raising the bucket before movement."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Control the Payloader",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Hold steering in quarter \u2013 to \u2013 three position."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Change gears progressively while accelerating."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Change gears progressively while decelerating."
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Navigate the Payloader to the right."
+            },
+            {
+              "pc_code": "3.5",
+              "description": "Navigate the Payloader to the left."
+            },
+            {
+              "pc_code": "3.6",
+              "description": "Use indicators as required in 3.4 and 3.5 above."
+            },
+            {
+              "pc_code": "3.7",
+              "description": "Maintain lane discipline while driving the Payloader."
+            },
+            {
+              "pc_code": "3.8",
+              "description": "Stop Payloader smoothly."
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Operate the Payloader",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Identify joysticks for various operations as specified by the manufacturer."
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Move the joystick appropriately to lower the bucket."
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Move the joystick appropriately to position the bucket for use."
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Use Payloader bucket to dig/scoop."
+            },
+            {
+              "pc_code": "4.5",
+              "description": "Use Payloader bucket to load materials into tipper."
+            }
+          ]
+        },
+        {
+          "lo_num": "5",
+          "description": "Position and Park Payloader",
+          "performance_criteria": [
+            {
+              "pc_code": "5.1",
+              "description": "Position the Payloader for parking procedures."
+            },
+            {
+              "pc_code": "5.2",
+              "description": "Slowly lower the bucket to ground level."
+            },
+            {
+              "pc_code": "5.3",
+              "description": "Disconnect joystick controls."
+            },
+            {
+              "pc_code": "5.4",
+              "description": "Turn the throttle to idle."
+            },
+            {
+              "pc_code": "5.5",
+              "description": "Move appropriate joystick to neutral position."
+            },
+            {
+              "pc_code": "5.6",
+              "description": "Engage the parking brake."
+            },
+            {
+              "pc_code": "5.7",
+              "description": "Allow the engine to idle according to Payloader type specification."
+            },
+            {
+              "pc_code": "5.8",
+              "description": "Turn off the engine."
+            },
+            {
+              "pc_code": "5.9",
+              "description": "Exit the Payloader carefully."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "CONST/CEO/011/L2",
+      "title": "Concrete Mixer Truck Operation",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understand Concrete Mixer Truck",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "State the uses of Concrete Mixer Truck."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Identify different brands of Concrete Mixer Truck: \uf0b7 Caterpillar \uf0b7 Fiat Allis \uf0b7 Volvo \uf0b7 Liebherr \uf0b7 Hamac \uf0b7 SICOMA Double shaft \uf0b7 Komatsu, etc."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Identify different types of Concrete Mixer Truck: \uf0b7 DHBT15 Concrete mixer with Pump \uf0b7 JS Series \uf0b7 MP Planetary \uf0b7 JZR Diesel driven \uf0b7 European Tech Twin Shaft, etc."
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Recognize the component parts of Concrete Mixer Truck: \uf0b7 Barrel/Drum \uf0b7 Hydraulic system \uf0b7 Engine \uf0b7 Chutes pump \uf0b7 Concrete discharging chutes. \uf0b7 Water System or tank \uf0b7 Frames \uf0b7 Drum supporting rollers. \uf0b7 Control cables \uf0b7 Mudguards \uf0b7 Mixing auger, etc."
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Explain potential hazards in operating Concrete Mixer Truck: \uf0b7 Slips, trips and falls from truck equipment. \uf0b7 Mechanical (danger from moving mixer parts) \uf0b7 High level of noise exposure, etc."
+            },
+            {
+              "pc_code": "1.6",
+              "description": "State safety precautions in the use of Concrete Mixer Truck: \uf0b7 Ensure that the work area does not contain any hazards that may impact on the safe operation of the mixer. \uf0b7 Never insert your hands into a rotating mixer bowl \uf0b7 Inspect the mixer bowl regularly for consistency and suitability \uf0b7 Never leave the mixer running unattended, etc."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Drive the Concrete Mixer Truck forward and backward",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Perform external safety. checks on the Concrete Mixer Truck"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Climb into the cabin and adjust seat position."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Fasten safety seat belt."
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Turn on the ignition."
+            },
+            {
+              "pc_code": "2.5",
+              "description": "Perform cabin checks: \uf0b7 Fuel Gauge \uf0b7 Temperature Gauge \uf0b7 Air pressure Gauge \uf0b7 Engine oil indicator \uf0b7 Battery indicator \uf0b7 Set side mirrors, etc."
+            },
+            {
+              "pc_code": "2.6",
+              "description": "Start the Concrete Mixer Truck to idle according to specification (warm up)."
+            },
+            {
+              "pc_code": "2.7",
+              "description": "Ensure that the alarm signal prompting the commencement of Concrete Mixer Truck use is observed."
+            },
+            {
+              "pc_code": "2.8",
+              "description": "Engage gear for: \uf0b7 Forward movement \uf0b7 Reverse movement, etc."
+            },
+            {
+              "pc_code": "2.9",
+              "description": "Release parking brake."
+            },
+            {
+              "pc_code": "2.10",
+              "description": "Release the clutch gently."
+            },
+            {
+              "pc_code": "2.11",
+              "description": "Depress the accelerator to move off smoothly."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Control the Concrete Mixer Truck",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Hold steering in quarter \u2013 to \u2013 three position."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Change gears progressively while accelerating."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Change gears progressively while decelerating."
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Navigate the Concrete Mixer Truck to the right."
+            },
+            {
+              "pc_code": "3.5",
+              "description": "Navigate the Concrete Mixer Truck to the left."
+            },
+            {
+              "pc_code": "3.6",
+              "description": "Use indicators as required in 3.4 and 3.5 above."
+            },
+            {
+              "pc_code": "3.7",
+              "description": "Maintain lane discipline while driving the Concrete Mixer Truck."
+            },
+            {
+              "pc_code": "3.8",
+              "description": "Stop Concrete Mixer Truck smoothly."
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Operate the Concrete Mixer Truck",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Identify control buttons for various operations as specified by the manufacturer."
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Press the control button to rotate drum clockwise for feeding."
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Press the control button to rotate drum anti-clockwise for discharge."
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Ensure that the alarm signal indicating the completion of loading of concrete is observed"
+            },
+            {
+              "pc_code": "4.5",
+              "description": "Drive Concrete Mixer Truck to the discharge location."
+            },
+            {
+              "pc_code": "4.6",
+              "description": "Press control button to set chute latch"
+            },
+            {
+              "pc_code": "4.7",
+              "description": "Press control button for discharge of concrete"
+            },
+            {
+              "pc_code": "4.8",
+              "description": "Flush the chute according to manufacturer\u2019s instruction"
+            }
+          ]
+        },
+        {
+          "lo_num": "5",
+          "description": "Position and Park Concrete Mixer Truck",
+          "performance_criteria": [
+            {
+              "pc_code": "5.1",
+              "description": "Position the Concrete Mixer Truck for parking procedures."
+            },
+            {
+              "pc_code": "5.2",
+              "description": "Move the gear lever to neutral position."
+            },
+            {
+              "pc_code": "5.3",
+              "description": "Engage the parking brake."
+            },
+            {
+              "pc_code": "5.4",
+              "description": "Turn off the engine."
+            },
+            {
+              "pc_code": "5.5",
+              "description": "Exit the Concrete Mixer Truck carefully."
+            },
+            {
+              "pc_code": "5.6",
+              "description": "Carryout House Keeping"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
