@@ -1,0 +1,740 @@
+{
+  "trade_name": "NOS Mobile Phone Repairs and Maintenance",
+  "level": 1,
+  "units": [
+    {
+      "code": "ICT/GRM/001/L1",
+      "title": "OCCUPATIONAL HEALTH AND SAFETY",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Apply appropriate safety in GSM and mobile phone workshop.",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Explain safety procedure in GSM mobile workshop."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Use appropriate safety needed in a GSM workshop"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Use appropriate safety measures needed in GSM and mobile phone workshop"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "State the importance of safety equipment in a GSM and mobile phone workshop."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Demonstrate understanding of safety equipment in GSM and mobile phone workshop.",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Identify the basic safety equipment in a GSM and mobile phone workshop."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Use hardware safety equipment in a GSM and mobile phone workshop."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "State importance of using the appropriate safety equipment in a GSM and mobile phone workshop."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Adhere to adequate safety precautions in using GSM and mobile phone equipment.",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Identify preventive/corrective steps for a safety equipment in a GSM and mobile phone workshop."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Explain how to maintain hygienic, safe and secure workplace."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Explain the uses of safety equipment in a GSM and mobile workshop as required."
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Explain the importance of using the correct tools during GSM and mobile phone repairs."
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Apply basic precautions while working on a GSM and mobile phones",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Explain the basic precaution on working on GSM and mobile phones."
+            },
+            {
+              "pc_code": "4.2",
+              "description": "State the precautions to be observed when dismantling GSM and mobile phones."
+            },
+            {
+              "pc_code": "4.3",
+              "description": "List the correct procedures when coupling GSM and mobile phone that are uncoupled."
+            }
+          ]
+        },
+        {
+          "lo_num": "5",
+          "description": "Apply personnel health and hygiene rules in GSM and mobile phone work shop.",
+          "performance_criteria": [
+            {
+              "pc_code": "5.1",
+              "description": "State own responsibility under health and safety."
+            },
+            {
+              "pc_code": "5.2",
+              "description": "State general rules on hygiene that must be followed."
+            },
+            {
+              "pc_code": "5.3",
+              "description": "State correct clothing, footwear, and head wear that should be worn in workshop."
+            },
+            {
+              "pc_code": "5.4",
+              "description": "Describe how to deal with cuts, grazes, and wounds."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ICT/GRM/002/L1",
+      "title": "COMMUNICATION IN GSM AND MOBILE PHONES",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Demonstrate knowledge on GSM mobile phones terms and terminologies.",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "State the appropriate terms to use on GSM and mobile phone."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Identify A-Z GSM and mobile phone terms giving their definition."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "State the steps involved when using GSM and mobile terminology. (E.g. SMS, MMS, etc.)"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Apply the appropriate mobile phone acronyms used by mobile phone technicians.",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "State the correct meaning for the GSM and mobile phone acronyms (e.g. mic, bb. etc.)"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Interpret GSM and mobile phone number prefixes (e.g. 01, 062, 064, 0803, 0802, 0907etc.)"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Mention GSM and mobile phone acronyms."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Use GSM and mobile phone applications.eg timing, navigation, sensor log etc.",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Select the appropriate application to be used in GSM and mobile phones."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Describe how to run an application in a GSM and mobile phone."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "State the disadvantages of using a wrong application in a GSM and mobile phone."
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Know the importance of digital phones and the implications of social media use.",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "State the economic importance of GSM and mobile phone over analogue."
+            },
+            {
+              "pc_code": "4.2",
+              "description": "State the social medias used for GSM and mobile communication."
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Explain the step when using any of the social media on a GSM and mobile phone."
+            },
+            {
+              "pc_code": "4.4",
+              "description": "State the disadvantages of GSM and mobile phone."
+            },
+            {
+              "pc_code": "4.5",
+              "description": "Explain security mechanism used in GSM and mobile phone."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ICT/GRM/003/L1",
+      "title": "INTRODUCTION TO GSM AND MOBILE PHONE HARDWARE FAULTS",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Demonstrate knowledge of hardware faults and tools used in GSM and mobile phone repairs.",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Explain mobile phone hardware."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Identify common hardware faults in GSM and mobile phone."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "State the differences between hardware and software fault."
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Identify common hardware tools used in GSM and mobile phone repairs."
+            },
+            {
+              "pc_code": "1.5",
+              "description": "State techniques for fault diagnosis in GSM and mobile phone repairs."
+            },
+            {
+              "pc_code": "1.6",
+              "description": "State the advantage of using the appropriate tools during repairs."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Demonstrate knowledge on identification of faults in GSM and mobile phone hardware component",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Identify common hardware faults in GSM and mobile phone"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "State the components required in hardware fault diagnosis."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Explain the replacement procedure of GSM and mobile phone hardware component."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Diagnose and repair GSM and mobile phones.",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Explain how to carry out trouble shooting, tapping and testing in GSM and mobile phone repairs."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Explain the process involved of tracing and tapping of GSM and mobile phone mother board."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Explain the techniques in tracing /tapping of GSM mobile phone."
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Identify appropriate tools to be use when tracing, tapping and testing."
+            },
+            {
+              "pc_code": "3.5",
+              "description": "Identify general precaution while dismantling GSM and mobile phone."
+            },
+            {
+              "pc_code": "3.6",
+              "description": "State the precautions to be observed in coupling GSM and mobile phone."
+            },
+            {
+              "pc_code": "3.7",
+              "description": "Explain the steps in servicing a mobile phone."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ICT/GRM/004/L1",
+      "title": "INTRODUCTION TO GSM AND MOBILE PHONES SOFTWARE",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Demonstrate knowledge of GSM and mobile phone software specifications.",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Explain mobile phone software."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Identify various mobile phone software."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Explain mobile phone software terms."
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Explain how to install a mobile phone software."
+            },
+            {
+              "pc_code": "1.5",
+              "description": "State economic importance of mobile phone software."
+            },
+            {
+              "pc_code": "1.6",
+              "description": "State the social importance of Mobile phone software."
+            },
+            {
+              "pc_code": "1.7",
+              "description": "State security issues on mobile phone software."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Update and upgrade GSM and mobile phone operating system.",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "State the various operating systems used in mobile phones."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Mention the steps in updating software in a mobile phone."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Mention the steps in upgrading software in a mobile phone."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Demonstrate knowledge of software applications in GSM and mobile phone",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "State the appropriate software applications to be used in mobile phone."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Explain how to run an application in a mobile phone."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "State the implications of not using appropriate software applications in a mobile phone."
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Format/wipe GSM and mobile phone memory.",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Identify the steps involved in formatting/wiping GSM and mobile phone memory."
+            },
+            {
+              "pc_code": "4.2",
+              "description": "State the importance of formatting/wiping GSM and mobile phone memory."
+            },
+            {
+              "pc_code": "4.3",
+              "description": "State the implications of sudden formatting/wiping mobile phone memory."
+            }
+          ]
+        },
+        {
+          "lo_num": "5",
+          "description": "Configure GSM and mobile phones.",
+          "performance_criteria": [
+            {
+              "pc_code": "5.1",
+              "description": "State the procedures of configuring GSM and mobile phones, eg: APN, WAP etc."
+            },
+            {
+              "pc_code": "5.2",
+              "description": "Mention the requirements for configuring GSM and mobile phones."
+            },
+            {
+              "pc_code": "5.3",
+              "description": "Explain the importance of appropriate configuration of mobile phone."
+            },
+            {
+              "pc_code": "5.4",
+              "description": "Explain the use of test point on mobile phone while flashing."
+            },
+            {
+              "pc_code": "5.5",
+              "description": "Explain the use of test mode while flashing."
+            },
+            {
+              "pc_code": "5.6",
+              "description": "Explain the use of firmware during flashing."
+            }
+          ]
+        },
+        {
+          "lo_num": "6",
+          "description": "Use various flashing boxes in GSM and mobile phone software.",
+          "performance_criteria": [
+            {
+              "pc_code": "6.1",
+              "description": "Identify the various types of flashing boxes used in rectifying GSM and mobile phone faults."
+            },
+            {
+              "pc_code": "6.2",
+              "description": "Explain the implications of using a wrong flashing box on a mobile phone."
+            },
+            {
+              "pc_code": "6.3",
+              "description": "Explain the uses of flashing boxes to flash mobile phones."
+            }
+          ]
+        },
+        {
+          "lo_num": "7",
+          "description": "Apply various flashing USB cables used in GSM and mobile phone software.",
+          "performance_criteria": [
+            {
+              "pc_code": "7.1",
+              "description": "Identify the various types of USB cables."
+            },
+            {
+              "pc_code": "7.2",
+              "description": "Explain the functions of USB cables."
+            },
+            {
+              "pc_code": "7.3",
+              "description": "Explain the use of USB cables during flashing."
+            }
+          ]
+        },
+        {
+          "lo_num": "8",
+          "description": "Demonstrate knowledge of dongle/wi-fi/modem/ accessories in GSM and mobile phone software.",
+          "performance_criteria": [
+            {
+              "pc_code": "8.1",
+              "description": "Explain the following: a) dongle b) wi-fi c) modem"
+            },
+            {
+              "pc_code": "8.2",
+              "description": "Identify the differences among all the items listed above."
+            },
+            {
+              "pc_code": "8.3",
+              "description": "List various software accessories and their uses."
+            }
+          ]
+        },
+        {
+          "lo_num": "9",
+          "description": "Demonstrate knowledge of tripping off / rebooting of GSM and mobile phone.",
+          "performance_criteria": [
+            {
+              "pc_code": "9.1",
+              "description": "Explain causes of tripping off in mobile phones."
+            },
+            {
+              "pc_code": "9.2",
+              "description": "Explain how to perform rebooting of mobile phones."
+            },
+            {
+              "pc_code": "9.3",
+              "description": "Explain how to diagnose and rectify the faults of tripping off and rebooting of mobile phones."
+            }
+          ]
+        },
+        {
+          "lo_num": "10",
+          "description": "Demonstrate knowledge of blinking/ hanging in GSM and mobile phones.",
+          "performance_criteria": [
+            {
+              "pc_code": "10.1",
+              "description": "Explain the causes of blinking in mobile phones."
+            },
+            {
+              "pc_code": "10.2",
+              "description": "Explain the causes of hanging in mobile phones."
+            },
+            {
+              "pc_code": "10.3",
+              "description": "Explain how to diagnose and rectify the fault of blinking and hanging"
+            }
+          ]
+        },
+        {
+          "lo_num": "11",
+          "description": "Resolve start-up/ power problems in GSM and mobile phones.",
+          "performance_criteria": [
+            {
+              "pc_code": "11.1",
+              "description": "Explain the causes of start-up in mobile phones."
+            },
+            {
+              "pc_code": "11.2",
+              "description": "Explain the causes of power problems in mobile phones"
+            },
+            {
+              "pc_code": "11.3",
+              "description": "Explain how to identify and repair start-up and power problems in mobile phone"
+            }
+          ]
+        },
+        {
+          "lo_num": "12",
+          "description": "Demonstrate knowledge of coding/decoding in GSM and mobile phones.",
+          "performance_criteria": [
+            {
+              "pc_code": "12.1",
+              "description": "Explain the use of codes and decoding in mobile phones."
+            },
+            {
+              "pc_code": "12.2",
+              "description": "Classify various type of codes used in mobile phones."
+            },
+            {
+              "pc_code": "12.3",
+              "description": "Identify various function of codes used in mobile phones, eg. *#06#,*#0000# ,*2767*2878#, etc."
+            },
+            {
+              "pc_code": "12.4",
+              "description": "Explain how to carryout decoding of mobile phone with a forgotten code."
+            }
+          ]
+        },
+        {
+          "lo_num": "13",
+          "description": "Apply security patterns in a GSM and mobile phone.",
+          "performance_criteria": [
+            {
+              "pc_code": "13.1",
+              "description": "Draw various security patterns used in GSM and mobile phones."
+            },
+            {
+              "pc_code": "13.2",
+              "description": "Explain the benefits of security patterns to GSM and mobile phone user"
+            },
+            {
+              "pc_code": "13.3",
+              "description": "Explain the implications of using mobile phone security patterns."
+            }
+          ]
+        },
+        {
+          "lo_num": "14",
+          "description": "Demonstrate knowledge of network turbo SIM.",
+          "performance_criteria": [
+            {
+              "pc_code": "14.1",
+              "description": "Identify various GSM and mobile phone network provider in Nigeria."
+            },
+            {
+              "pc_code": "14.2",
+              "description": "Identify various categories of turbo SIM."
+            },
+            {
+              "pc_code": "14.3",
+              "description": "Use a turbo SIM on GSM and mobile phone."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ICT/GRM/005/L1",
+      "title": "OPERATE GSM AND MOBILE PHONE SPARE PARTS BUSINESS",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Demonstrate knowledge on locations of GSM and mobile phone spare parts manufacturer.",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "State sources of GSM and mobile phone spare parts."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "State GSM and mobile phone spare parts manufacturers."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Identify quality GSM and mobile phone spare parts manufacturers."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Demonstrate knowledge of GSM and mobile phone scraps.",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Explain GSM and mobile phone spare parts."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Identify various GSM and mobile phone scraps."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Explain the importance of GSM and mobile phone scraps to technician/customer."
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Explain the importance of GSM and mobile phone scraps technician/ customer."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Replace new or fairly used GSM and mobile phone spare parts.",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Explain GSM and mobile phone spare part."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "State the techniques of fixing GSM and mobile phone spare part. E.g. LCD (touch screen), flex, etc."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Match the correct GSM and mobile spare parts."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ICT/GRM/006/L1",
+      "title": "OPERATE GSM AND MOBILE PHONE WORKSHOP BUSINESS",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Demonstrate knowledge of GSM and mobile phone workshop business",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Identify a workshop for GSM and mobile phone business."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Explain various features that make up a GSM and mobile phone workshop business."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "State the importance of GSM and mobile phone workshop business."
+            },
+            {
+              "pc_code": "1.4",
+              "description": "State the qualities of a GSM and mobile phone workshop business."
+            },
+            {
+              "pc_code": "1.5",
+              "description": "State the functions of a GSM and mobile phone workshop business."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Implement a GSM and mobile phone business project.",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Select a GSM and mobile phone business."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Explain how to prepare a business plan for GSM and mobile phone business."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Explain how to implement the GSM and mobile phone business project."
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Explain how to evaluate a GSM and mobile phone business project."
+            },
+            {
+              "pc_code": "2.5",
+              "description": "Source fund for a mobile phone business"
+            },
+            {
+              "pc_code": "2.6",
+              "description": "Identify appropriate prerequisite knowledge for mobile phone sales."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Demonstrate knowledge of GSM and mobile phone software specifications",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "State categories of GSM and mobile phone software specifications, eg. • Android • Windows • Macintosh • Java • Simbian"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Define GSM and mobile phone software terms and acronyms."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Explain how to carryout installation of software in GSM and mobile phones."
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Demonstrate knowledge of GSM and mobile phone software benefits.",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Explain the economic importance of GSM and mobile phone software."
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Explain the social importance of GSM and Mobile phone software."
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Explain the security issues of GSM and mobile phone software."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

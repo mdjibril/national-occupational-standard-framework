@@ -105,7 +105,7 @@ These NOS have already been converted to JSON. Pick a trade **not** listed here 
 | ICT Web Development | | ✅ | ✅ | ✅ | |
 | Leather Works | ✅ | ✅ | ✅ | | |
 | Masonry | ✅ | ✅ | ✅ | | |
-| Mobile Phone Repairs and Maintenance | | ✅ | | | |
+| Mobile Phone Repairs and Maintenance | ✅ | ✅ | | | |
 | Network Cabling, Installation and Maintenance | | ✅ | | | |
 | Painting and Decoration | ✅ | ✅ | ✅ | | |
 | Plumbing | ✅ | ✅ | ✅ | | |
