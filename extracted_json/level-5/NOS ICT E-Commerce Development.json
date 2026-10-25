@@ -1,0 +1,878 @@
+{
+  "trade_name": "NOS ICT E-Commerce Development",
+  "level": 5,
+  "units": [
+    {
+      "code": "ICT/ECD/001/L5",
+      "title": "OCCUPATIONAL HEALTH AND SAFETY",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Demonstrate Safe working Practices and Instructions",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Explain safe work practice and instructions in an ICT environment"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Carry out safe work practices and instructions in an ICT environment"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Work in accordance with health and safety best practices in an ICT environment"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Follow all necessary instructions related to safety in the work place"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Demonstrate Understanding of Safety Hazards and risks",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Identify work environment hazards in an ICT environment"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "State various methods to reduce the risk of identified hazards in an ICT environment"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Demonstrate use of safety equipment applicable to ICT environment."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Possess the ability to take appropriate actions during accident/injury",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "State how to maintain hygienic, safe and secure workplace."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Demonstrate the uses of safety equipment in an ICT environment as required."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Identify basic first aid equipment"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Illustrate basic first aid treatments"
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Demonstrate safe work habit and clean work environment",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Use safe access and exit routes in the work environment"
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Dispose all wastes appropriately to designated waste facilities"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ICT/ECD/002/L5",
+      "title": "COMMUNICATION AND INTERPERSONAL SKILLS",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Know of the importance of good communication",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "State reasons why good communication is important"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "List ways to communicate effectively"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Exhibit patience and a mild demeanor while communicating with colleagues, managers and clients"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Demonstrate how to speak in a respectful manner"
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Use respectful body language even when in a bad mood or while under pressure"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Demonstrate ability to follow documented instructions",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Read and accurately follow steps in a web framework/plugins installation manual"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Find specific Class definitions and Method descriptions in the programming language reference document."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Find feature descriptions in the plugin framework documentation, while using a plugins/framework,"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ICT/ECD/003/L5",
+      "title": "TEAMWORK",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Positive working relationship with colleagues",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Identify the need for developing positive working relationship with colleagues"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Recognize the importance of relating with other people in a way that makes them feel valued and respected"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Assist team members when required."
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Report to the appropriate personnel when request for assistance fall outside area of responsibility."
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Communicate information to colleagues about individual work that may affect team work."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Take responsibility within the team",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Recognize own role and responsibilities within a team"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Perform individual tasks in line with the team’s rules and regulations."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Participate effectively in teamwork."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Compliance with policy of organization",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Explain organizational code of conduct"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Work in line with organizational standard"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Use organizational code of practice"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Adhere strictly to instructions given by the Management"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ICT/ECD/004/L5",
+      "title": "ADVANCED E-COMMERCE DEVELOPMENT USING PHP",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Develop complex database-driven applications using PHP and MySQL",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Design normalized, scalable database schemas to handle large product catalogs."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Develop complex queries to manage customer orders, inventory, and payments."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Integrate relational databases with PHP to facilitate seamless data retrieval."
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Implement indexing and caching techniques to improve database performance."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Integrate third-party APIs for payment processing, shipping, and inventory management",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Implement payment gateway APIs such as PayPal, Stripe, Paystack, Flutter, etc."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Integrate shipping services to calculate real-time rates and track orders."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Synchronize external inventory management systems with the e-commerce platform."
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Handle API errors and exceptions to ensure reliable data exchange."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Implement advanced security measures to protect e-commerce platforms",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Use encryption to secure sensitive customer information like payment data."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Develop secure login and authentication systems to prevent unauthorized access."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Implement secure session management to prevent session hijacking and XSS attacks."
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Apply input sanitization and SQL injection protection to safeguard the platform."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ICT/ECD/005/L5",
+      "title": "ADVANCED E-COMMERCE DEVELOPMENT USING CONTENT MANAGEMENT SYSTEM (CMS)",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Develop custom Content Management System plugins for e-commerce functionality",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Write custom WooCommerce plugins to extend the functionality of online stores."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Use CMS hooks, filters, and short codes to modify plugin behaviour."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Ensure compatibility with existing CMS and WooCommerce core updates."
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Test and debug plugins for security, performance, and functionality issues."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Customize Content Management System themes for enhanced e-commerce user experience",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Modify theme files to match brand identity and create a consistent user interface."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Use responsive design techniques to ensure compatibility across all devices."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Integrate custom product display features, such as product sliders and grids."
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Optimize themes for SEO, fast loading times, and usability."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Scale Content Management System e-commerce sites for high traffic and large product catalogs",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Implement caching solutions like WP Super Cache and W3 Total Cache to speed up sites"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Set up Content Delivery Networks (CDNs) to improve performance for global users."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Optimize MySQL databases for fast data retrieval in high-traffic environments."
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Monitor server performance and optimize hosting environments to manage large product volumes."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ICT/ECD/006/L5",
+      "title": "DATABASE MANAGEMENT",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Design database schemas for e-commerce platforms.",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Create normalized database structures to support large product catalogs."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Design efficient product, customer, and order management systems."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Implement relational and non-relational databases for scalable solutions."
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Use foreign keys, indexing, and relationships to optimize data access."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Optimize database performance for high-traffic e-commerce platforms.",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Implement indexing and query optimization techniques."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Use database caching to reduce load times."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Troubleshoot database performance issues."
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Scale databases to handle growth and increased transactions."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Ensure database security and integrity.",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Implement secure data storage methods, including encryption for sensitive data."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Set up backup and disaster recovery plans."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Analyze databases for security vulnerabilities and unauthorized access."
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Enforce database access controls and audit trails."
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Integrate databases with external systems for reporting and analytics.",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Export data from databases to external systems for analytics."
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Import data from databases to external systems for analytics."
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Use APIs to connect databases with third-party systems such as CRMs."
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Set up real-time data sync with inventory management or order fulfillment systems."
+            },
+            {
+              "pc_code": "4.5",
+              "description": "Ensure data integrity across different systems."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ICT/ECD/007/L5",
+      "title": "E-COMMERCE ANALYTICS AND DATA-DRIVEN MARKETING",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Analyze e-commerce data to understand consumer behaviour",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Collect and organize data from various sources (e.g., Google Analytics, CRM systems) to understand key user interactions"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Perform customer segmentation based on purchasing history, demographics, and website behaviour"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Use data visualization tools to identify patterns and trends in consumer purchasing behaviour."
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Analyse bounce rates, cart abandonment rates, and time spent on product pages to understand customer decision-making."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Optimize conversion rates based on data insights.",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Identify bottlenecks in the checkout process by analyzing funnel drop-off points"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "A/B test different versions of landing pages, product pages, and calls-to-action (CTAs) to improve user engagement"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Implement dynamic pricing strategies or personalized recommendations based on data insights"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Monitor key performance indicators (KPIs) such as conversion rate, average order value, and customer lifetime value to measure optimization efforts"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Implement data-driven marketing campaigns for e-commerce growth.",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Analyse customer data to create targeted email marketing campaigns for specific consumer segments"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Use website traffic and purchase history data to implement retargeting campaigns via Google Ads, Facebook, and other platforms"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Create personalized marketing content (e.g., product recommendations) based on customer browsing and purchase data."
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Monitor the performance of marketing campaigns in real-time and adjust strategies based on data-driven insights to improve ROI."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ICT/ECD/008/L5",
+      "title": "E-COMMERCE SECURITY",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Implement Encryption and Secure Communication Protocols",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Apply SSL/TLS certificates to secure communications between the server and client."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Use encryption standards like AES and RSA to protect sensitive data at rest and during transmission."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Implement HTTPS protocols across all e-commerce site pages, ensuring secure data exchanges."
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Regularly update encryption protocols to mitigate vulnerabilities."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Protect Against Common Web Vulnerabilities (SQL Injection, XSS, etc.)",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Apply input validation and sanitization to prevent SQL injection attacks."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Use secure coding practices to mitigate cross-site scripting (XSS) and cross-site request forgery (CSRF) vulnerabilities."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Conduct regular security audits and penetration testing to identify and fix vulnerabilities."
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Monitor website activity logs for signs of attacks and implement real-time alerts."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Implement User Authentication and Access Controls",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Set up multi-factor authentication (MFA) for user logins, especially for admin accounts."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Use role-based access controls (RBAC) to limit permissions to sensitive areas of the platform."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Encrypt passwords using hashing algorithms like bcrypt or Argon2 before storing them in the database."
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Implement secure password recovery systems that prevent unauthorized account access."
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Monitor system against Security Threats",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Use real-time monitoring tools like Intrusion Detection Systems (IDS) to detect unauthorized access."
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Implement automated alerts to notify the security team of suspicious activities on the platform."
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Set up firewalls to block unauthorized traffic and mitigate Distributed Denial-of-Service (DDoS) attacks."
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Develop an incident response plan to effectively address and mitigate data breaches or cyber-attacks."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ICT/ECD/009/L5",
+      "title": "DATA PRIVACY AND USER PROTECTION",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understand Data Privacy Regulations (GDPR, CCPA, etc.)",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Identify key regulations and requirements of GDPR, CCPA, and other relevant data protection laws."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Implement data processing activities that ensure compliance with the consent, right to access, and data deletion requests."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Maintain an updated data protection policy that clearly outlines how customer data is collected, processed, and protected."
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Conduct data protection impact assessments (DPIAs) to ensure data processing activities align with legal requirements and do not infringe on user privacy."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Implement Secure Data Storage and Management Techniques",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Use encryption methods (e.g., AES, RSA) to securely store sensitive user data such as payment information, addresses, and personal identifiers."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Implement secure access controls, ensuring only authorized personnel have access to customer data."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Regularly audit and monitor database logs to detect and prevent unauthorized access or data breaches."
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Develop secure data backup and disaster recovery plans to protect data integrity in case of hardware or software failures."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Ensure Data Security during Transactions",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Use Secure Sockets Layer (SSL) certificates to encrypt data during transmission between customers and the e-commerce platform."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Implement tokenization for payment card data, replacing sensitive information with unique tokens that can be securely stored."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Regularly update security protocols, such as Transport Layer Security (TLS), to protect against man-in-the-middle attacks and data interception."
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Conduct regular penetration testing to identify vulnerabilities in transaction security and fix potential risks."
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Create User-Friendly Data Privacy Controls",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Develop a user-friendly privacy dashboard where customers can manage their data consent preferences and access their data."
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Provide clear and transparent information about data collection, use, and storage, making it easy for customers to understand their rights."
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Implement easy-to-use mechanisms for customers to request data deletion, data correction, or download their personal information."
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Track and record customer consent for data processing activities, ensuring compliance with legal obligations and facilitating accountability."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ICT/ECD/010/L5",
+      "title": "E-COMMERCE BEST PRACTICES",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Ensure Compliance with GDPR, CCPA, and Other Data Privacy Regulations",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Implement clear user consent mechanisms for data collection, processing, and sharing in compliance with GDPR and CCPA."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Develop privacy policies that are compliant with regional and international data privacy laws."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Ensure that users have the ability to access, modify, and delete their personal data as per regulatory requirements."
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Regularly audit data handling processes to ensure ongoing compliance with legal requirements."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Ensure Compliance with Payment Industry Standards (PCI DSS)",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Use PCI-compliant payment gateways and tokenization methods to secure credit card transactions."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Implement encryption for all cardholder data to ensure secure transactions."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Conduct regular vulnerability scans and penetration tests to maintain PCI DSS compliance."
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Ensure that sensitive data such as card numbers are not stored unless absolutely necessary and, if stored, are encrypted."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Ensure Compliance with Regional E-Commerce Regulations",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Implement VAT, sales tax, and other legal requirements based on the region of operation."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Ensure compliance with export control laws when conducting cross-border e-commerce transactions."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Adhere to region-specific consumer protection laws, ensuring transparent product descriptions and terms of service."
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Regularly review and update terms and conditions, refund policies, and dispute resolution mechanisms to ensure they meet regional legal standards."
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Maintain Accurate Records and Documentation for Compliance Audits",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Keep detailed logs of all transactions, including payment processing, user interactions, and order fulfilment."
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Maintain proper documentation of all security measures and compliance activities for audits."
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Ensure that data protection impact assessments (DPIAs) are regularly updated and archived."
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Implement version control for legal documents, contracts, and terms of service to track changes and ensure auditability."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ICT/ECD/011/L5",
+      "title": "MULTI-CHANNEL AND MOBILE COMMERCE",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Implement a multi-channel e-commerce strategy",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Identify suitable sales channels for a business based on target audience and product type."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Develop an e-commerce strategy for multiple platforms, including websites, marketplaces, and social media."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Configure platform-specific tools such as product listings, payment options, and shipping settings."
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Evaluate the performance of sales channels using analytics to improve sales and engagement."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Develop user-centric designs for mobile e-commerce platforms",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Create mobile-friendly layouts that ensure seamless user experiences across devices."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Optimize e-commerce features, including search, navigation, and checkout, for mobile users."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Implement mobile-specific functionalities like push notifications and mobile payments."
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Conduct usability testing to identify issues that hinder mobile user satisfaction."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Integrate and manage inventory and customer data across multiple sales channels",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Implement an inventory management system to synchronize stock levels across all sales channels."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Set up a centralized system to track and manage customer data across platforms."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Automate workflows to update order statuses and manage returns from various channels."
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Ensure compliance with regulations when managing customer and inventory data."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

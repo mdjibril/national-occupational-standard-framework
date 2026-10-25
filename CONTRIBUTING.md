@@ -93,6 +93,7 @@ These NOS have already been converted to JSON. Pick a trade **not** listed here 
 | ICT Digital Animation | | | ✅ | | |
 | ICT Digital Content Creation | | | ✅ | | |
 | ICT Digital Service Operations | | ✅ | ✅ | | |
+| ICT E-Commerce Development | | | | | ✅ |
 | ICT Front-End Web Development | | | ✅ | | |
 | ICT Graphic Design | | | ✅ | | |
 | ICT Mobile App Development | | | | | ✅ |
