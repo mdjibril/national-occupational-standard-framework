@@ -1,0 +1,714 @@
+{
+  "trade_name": "NOS ICT E-Commerce Development",
+  "level": 4,
+  "units": [
+    {
+      "code": "ICT/ECD/001/L4",
+      "title": "OCCUPATIONAL HEALTH AND SAFETY",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Demonstrate Safe working Practices and Instructions",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Explain safe work practice and instructions in an ICT environment"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Carry out safe work practices and instructions in an ICT environment"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Work in accordance with health and safety best practices in an ICT environment"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Follow all necessary instructions related to safety in the work place"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Demonstrate Understanding of Safety Hazards and risks",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Identify work environment hazards in an ICT environment"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "State various methods to reduce the risk of identified hazards in an ICT environment"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Demonstrate use of safety equipment applicable to ICT environment."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Possess the ability to take appropriate actions during accident/injury",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "State how to maintain hygienic, safe and secure workplace."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Demonstrate the uses of safety equipment in an ICT environment as required."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Identify basic first aid equipment"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Illustrate basic first aid treatments"
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Demonstrate safe work habit and clean work environment",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Use safe access and exit routes in the work environment"
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Dispose all wastes appropriately to designated waste facilities"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ICT/ECD/002/L4",
+      "title": "COMMUNICATION AND INTERPERSONAL SKILLS",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Know of the importance of good communication",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "State reasons why good communication is important"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "List ways to communicate effectively"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Exhibit patience and a mild demeanor while communicating with colleagues, managers and clients"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Demonstrate how to speak in a respectful manner"
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Use respectful body language even when in a bad mood or while under pressure"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Demonstrate ability to follow documented instructions",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Read and accurately follow steps in a web framework/plugins installation manual"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Find specific Class definitions and Method descriptions in the programming language reference document."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Find feature descriptions in the plugin framework documentation, while using a plugins/framework,"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ICT/ECD/003/L4",
+      "title": "TEAMWORK",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Positive working relationship with colleagues",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Identify the need for developing positive working relationship with colleagues"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Recognize the importance of relating with other people in a way that makes them feel valued and respected"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Assist team members when required."
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Report to the appropriate personnel when request for assistance fall outside area of responsibility."
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Communicate information to colleagues about individual work that may affect team work."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Take responsibility within the team",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Recognize own role and responsibilities within a team"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Perform individual tasks in line with the team’s rules and regulations."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Participate effectively in teamwork."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Compliance with policy of organization",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Explain organizational code of conduct"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Work in line with organizational standard"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Use organizational code of practice"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Adhere strictly to instructions given by the Management"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ICT/ECD/004/L4",
+      "title": "INFORMATION TECHNOLOGY AND IT ETHICS",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Explain key concepts in Information Technology (IT) and their relevance in business processes",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Define basic IT terminologies and principles"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Identify the different categories of software and hardware"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Discuss the role of IT in improving business processes"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Outline the key components of information systems"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Evaluate the ethical and legal implications of IT use in e-commerce",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Analyze privacy concerns related to e-commerce platforms"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Discuss data protection laws and their relevance to IT systems."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Evaluate the ethical issues surrounding intellectual property and digital rights"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Outline ethical guidelines for the responsible use of IT."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Identify and apply best practices for IT security and user protection in e-commerce",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Recognize common cybersecurity threats in e-commerce"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Implement basic security measures for protecting sensitive data"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Apply guidelines for secure user authentication"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Assess the impact of security breaches on e-commerce businesses"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ICT/ECD/005/L4",
+      "title": "WEB DESIGN",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Design Effective Web Interfaces for E-Commerce Platforms",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Design user-friendly navigation structures that guide customers effortlessly through the e-commerce site, using clear menus, breadcrumbs, and search functionality to enhance the user experience."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Create responsive designs that adapt seamlessly to different devices (e.g., mobile, tablet, desktop) using fluid grids, flexible images, and media queries to ensure a consistent user experience across platforms."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Implement a visually appealing layout that balances text, images, and white space, enhancing readability while emphasizing key products or calls-to-action (CTAs) to improve conversion rates."
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Optimize website performance by compressing images, minifying CSS and JavaScript, and leveraging caching techniques, ensuring fast load times and a smooth user experience on e-commerce platforms."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Design a functional e-commerce website using HTML, CSS, and JavaScript.",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Create a basic website structure using HTML5."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Style the website with CSS, ensuring it aligns with design best practices."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Implement JavaScript for dynamic content and improved user interaction."
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Optimize the site for mobile responsiveness and cross-browser compatibility."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Integrate e-commerce functionality such as shopping carts and payment gateways.",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Implement shopping cart functionality."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Integrate secure payment gateways into the website."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Demonstrate a smooth checkout process."
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Optimize site performance to handle high traffic and transactions."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ICT/ECD/006/L4",
+      "title": "DATABASE CONCEPTS FOR E-COMMERCE",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understand Relational Database Design and Structure",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Design a database schema using entity-relationship diagrams (ERD) to represent the relationships between products, customers, and transactions."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Normalize database tables to eliminate redundancy and ensure efficient storage of data."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Define primary and foreign keys to establish relationships between database tables (e.g., linking customer and order data)."
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Use SQL queries to retrieve, insert, update, and delete data from the database."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Implement Database Management for E-Commerce Platforms",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Set up a relational database (e.g., MySQL, PostgreSQL) to manage customer, product, and order data."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Use indexing techniques to speed up query performance and improve the responsiveness of e-commerce platforms."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Ensure the database is optimized for large-scale e-commerce operations, handling large volumes of product and transaction data efficiently."
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Implement backup and recovery plans to protect data in case of system failures or cyber-attacks"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Ensure Database Security and Integrity",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Use database encryption techniques to protect sensitive customer data, such as personal information and payment details."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Implement user roles and permissions to restrict access to sensitive data and prevent unauthorized database modifications."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Perform regular database audits to detect and address potential security vulnerabilities."
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Ensure data integrity by enforcing validation rules and constraints on database fields (e.g., ensuring product prices are positive)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ICT/ECD/007/L4",
+      "title": "INTRODUCTION TO E-COMMERCE USING PHP",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understand the fundamentals of PHP and its use in developing e-commerce platforms.",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Explain the syntax and structure of PHP programming."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Write basic PHP scripts to handle form data and user interactions."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Integrate PHP with HTML to create dynamic web pages."
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Test and debug simple PHP scripts to ensure functionality."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Develop an e-commerce site using PHP and MySQL.",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Set up a MySQL database to store product and customer information."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Create and manage product listings, shopping carts, and user accounts using PHP."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Implement a secure user authentication system."
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Test the e-commerce functionality and troubleshoot common issues."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Integrate payment processing systems and ensure transaction security.",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Implement payment gateways using PHP (e.g., PayPal, Stripe, Paystack, Flutter, etc.)."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Secure sensitive user data with encryption and secure protocols."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Set up transaction logs to track orders and payments."
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Ensure compliance with e-commerce regulations regarding data privacy and payment security."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ICT/ECD/008/L4",
+      "title": "INTRODUCTION TO E-COMMERCE USING CONTENT MANAGEMENT SYSTEM (CMS)",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understand the basics of Content Management System and its application in e-commerce.",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Install and configure Content Management System (CMS) for e-commerce purposes."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Choose and customize a Content Management System (CMS) theme for an online store."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Install essential plugins such as WooCommerce for product management."
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Ensure proper website navigation and usability."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Set up an e-commerce platform using Content Management System and WooCommerce.",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Add product listings, including product categories, prices, and images."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Set up shopping carts and integrate payment gateways."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Manage customer accounts and order tracking."
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Apply SEO best practices to optimize the e-commerce platform for search engines."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Customize the e-commerce site for performance and security.",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Implement security plugins to protect against vulnerabilities."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Optimize website speed and performance through caching and image optimization."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Use Content Management System analytics tools to monitor site traffic and user behavior."
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Customize checkout processes to improve user experience and conversion rates."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ICT/ECD/009/L4",
+      "title": "USER EXPERIENCE DESIGN (UI/UX)",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understand the principles of user interface (UI) design and user experience (UX) in e-commerce.",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Identify the core principles of UI/UX design, such as simplicity, consistency, and accessibility."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Analyze case studies of successful e-commerce platforms from a UI/UX perspective."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Apply heuristics to assess the usability of an e-commerce website."
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Outline the importance of user-centered design in e-commerce applications."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Design visually appealing user interfaces for e-commerce platforms.",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Create wireframes and prototypes for the user interface of a website."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Implement design elements such as buttons, navigation menus, and forms that align with UX best practices."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Ensure visual hierarchy and consistency across the website for ease of use."
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Apply design patterns that facilitate a seamless user journey from browsing to checkout."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Optimize user experience for improved e-commerce performance.",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Conduct usability tests to gather feedback on the design."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Analyze user behavior and interaction data to identify pain points."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Implement changes based on feedback to improve usability and conversion rates."
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Optimize the website's user interface for speed and performance to enhance the user experience."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ICT/ECD/010/L4",
+      "title": "B2B AND B2C E-COMMERCE CONCEPTS",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understand the key concepts and characteristics of B2B and B2C e-commerce models.",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Differentiate between B2B and B2C business models in e-commerce."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Identify common industries and businesses operating in B2B and B2C environments."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Discuss the unique challenges and opportunities in both B2B and B2C e-commerce."
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Explore case studies of successful B2B and B2C platforms."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Analyze the marketing strategies used in B2B and B2C e-commerce.",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Compare and contrast marketing techniques such as content marketing, SEO, and email campaigns for B2B and B2C."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Identify buyer personas and customer journeys specific to each model."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Design a marketing strategy that targets either B2B or B2C customers."
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Analyze the impact of digital advertising and social media on both business models."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Implement an e-commerce platform for B2B or B2C operations.",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Set up an e-commerce platform tailored to B2B or B2C customers."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Integrate features such as bulk ordering (B2B) and personalized offers (B2C)."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Monitor and manage transactions while ensuring compliance with business-specific regulations."
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Optimize the user experience based on the needs of B2B or B2C buyers."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
