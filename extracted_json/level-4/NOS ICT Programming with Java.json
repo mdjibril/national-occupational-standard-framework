@@ -1,0 +1,900 @@
+{
+  "trade_name": "NOS ICT Programming with Java",
+  "level": 4,
+  "units": [
+    {
+      "code": "ICT/JAVA/001/L4",
+      "title": "Health and Safety in workplace",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Identify and Ergonomic Risks in a Programming Environment",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Set up an ergonomic workstation with proper seating, monitor height, and keyboard placement to reduce strain and fatigue."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Follow guidelines for regular breaks, eye strain reduction, and posture correction to avoid repetitive strain injuries (RSI)."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Implement the use of ergonomic tools, such as wrist supports, adjustable chairs, and standing desks where applicable."
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Apply secure coding standards to prevent vulnerabilities such as SQL injection, buffer overflows, and cross-site scripting (XSS)."
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Demonstrate the Use version control tools (e.g., Git) to manage code changes and ensure traceability while following security protocols."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Manage Occupational Stress and Mental Health in a Programming Role",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Identify signs of burnout and high stress during demanding programming tasks, including prolonged debugging and tight deadlines."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Describe ways on time management techniques to balance work tasks, reducing the risk of stress and promoting a healthy work-life balance."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Explain/Develop mindfulness techniques, such as meditation or relaxation exercises, during breaks to maintain mental well-being."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Ensure Compliance with Health and Safety Regulations in a Remote or Office-Based Programming Environment",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Follow workplace health and safety guidelines related to electrical equipment, proper ventilation, and fire safety while working in office environments."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Ensure remote working spaces are compliant with health and safety standards, including proper lighting, minimal distractions, and a safe electrical setup."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Regularly assess and adjust the workspace to maintain health, safety, and comfort for sustained programming work."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ICT/JAVA/002/L4",
+      "title": "Teamwork",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understand Collaborating Effectively on a Java Development Team",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Participate actively in team discussions, providing input on design, coding, and problem-solving decisions."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Share responsibilities equally, taking ownership of specific Java coding tasks and delivering them in a timely manner."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Use collaborative tools (e.g., Git, GitHub, or GitLab) to manage team contributions to the codebase, ensuring smooth integration and version control."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Contribute to Code Reviews and Provide Constructive Feedback",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Review team members’ code, identifying errors, suggesting improvements, and ensuring adherence to Java coding standards and best practices."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Provide feedback in a respectful and constructive manner, focusing on the code rather than the individual."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Demonstrate Accepting feedback on personal work with an open mind and a willingness to improve coding practices based on team input."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Solve Programming Challenges Through Team Collaboration",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Work with team members to break down large programming problems into manageable tasks, assigning roles and responsibilities accordingly."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Contribute to brainstorming sessions where multiple solutions are evaluated and the most efficient one is selected for implementation."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Use pair programming or group coding sessions to troubleshoot difficult Java programming issues, leveraging collective knowledge to resolve bugs or inefficiencies."
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Adapt to Different Team Roles and Responsibilities",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Take on various team roles, such as project leader, developer, or tester, depending on the project’s needs and team dynamics."
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Provide leadership when necessary by coordinating tasks, setting milestones, and ensuring team members are on track with their coding objectives."
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Assist teammates in their roles by offering help with coding tasks, troubleshooting bugs, or testing features they have developed."
+            }
+          ]
+        },
+        {
+          "lo_num": "5",
+          "description": "Maintain Effective Communication Within the Team",
+          "performance_criteria": [
+            {
+              "pc_code": "5.1",
+              "description": "Clearly communicate task progress, challenges, and solutions to team members through regular updates and meetings."
+            },
+            {
+              "pc_code": "5.2",
+              "description": "Use appropriate communication channels (e.g., Slack, emails, project management tools) to share important project information with the team."
+            },
+            {
+              "pc_code": "5.3",
+              "description": "Resolve any team conflicts or misunderstandings by discussing issues openly and working towards a collaborative solution."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ICT/JAVA/003/L4",
+      "title": "Communication in Workplace",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Utilize Communication Tools to Collaborate",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Use collaboration tools such as Slack, Microsoft Teams, or Discord to facilitate real-time communication and project discussions."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Demonstrate Sharing and managing project updates, documents, and tasks using project management platforms like Trello, Jira, or Asana."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Carry out video conferencing tools (e.g., Zoom, Google Meet) for remote meetings, ensuring professional presentation and engagement during virtual discussions."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Leverage on Version Control Systems to Enhance Team Communication",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Demonstrate the Use of Git or GitHub to share code, track changes, and manage contributions from multiple developers within the team."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Construct clear and concise commit messages to communicate the purpose of code changes to the team."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Review and merge pull requests, ensuring effective communication during the process to resolve conflicts and maintain code quality."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Use Communication Tools to Facilitate Code Reviews and Feedback",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Participate in real-time code reviews using GitHub or GitLab."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Develop a Schedule and conduct virtual code review sessions using screen-sharing tools, ensuring clear communication and collaboration during reviews."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Describe how to Document feedback and agreed-upon changes using shared communication tools to ensure all team members are aware of revisions."
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Adapt Communication for Remote Java Programming Teams",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Demonstrate the Use of cloud-based tools like Google Drive, Dropbox, or OneDrive to share documents."
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Generate a Schedule and coordinate meetings across different time zones using scheduling platforms like Google Calendar or Microsoft Outlook."
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Describe how to Maintain clear communication channels through asynchronous tools (e.g., emails, message boards) to ensure alignment on project objectives, despite time zone differences."
+            }
+          ]
+        },
+        {
+          "lo_num": "5",
+          "description": "Understand Java Project Updates Using Professional Communication Tools",
+          "performance_criteria": [
+            {
+              "pc_code": "5.1",
+              "description": "Prepare and present Java project updates using presentation tools such as Microsoft PowerPoint, Google Slides, or Prezi during virtual meetings."
+            },
+            {
+              "pc_code": "5.2",
+              "description": "Explain how to Use reporting tools like Confluence or Google Docs to create and share detailed project reports with stakeholders, ensuring clarity and completeness."
+            },
+            {
+              "pc_code": "5.3",
+              "description": "Leverage real-time dashboards or reporting software (e.g., Jira dashboards, Trello boards) to provide stakeholders with live updates on project progress."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ICT/JAVA/004/L4",
+      "title": "JAVA COLLECTIONS FRAMEWORK: LIST, SET, MAP, QUEUE",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understand the Core Concepts of the Java Collections Framework",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Explain the purpose and structure of the Java Collections Framework and its use in Java programming."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Differentiate between various collection types (List, Set, Map, Queue) and identify appropriate use cases for each."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Describe the hierarchical relationship between collection interfaces and classes in Java."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Implement and Manipulate Lists, Sets, Maps, and Queues in Java",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Demonstrate Write Java programs that use ArrayList, LinkedList, and Vector to store and manage ordered data."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Implement a HashSet, TreeSet, or LinkedHashSet for managing unique elements and practice common operations such as adding, removing, and searching for elements."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Use HashMap, TreeMap, or LinkedHashMap to store key-value pairs, demonstrating the ability to retrieve, update, and remove entries efficiently."
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Implement a PriorityQueue or LinkedList as a queue and perform operations like enqueue, dequeue, and peeking at the head of the queue."
+            },
+            {
+              "pc_code": "2.5",
+              "description": "Write Java programs that use ArrayList, LinkedList, and Vector to store and manage ordered data."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Optimize Collection-Based Solutions for Performance",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Analyze the time complexity of various operations (e.g., insertion, deletion, searching) across different collection types."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Select the most appropriate collection type for a given problem based on performance considerations (e.g., ArrayList vs. LinkedList, HashMap vs. TreeMap)."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Refactor existing code to optimize the use of collections, reducing memory overhead or improving runtime performance."
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Use Iterators and Streams to Process Collections",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Implement Iterator and ListIterator to traverse through Lists, Sets, and Maps, performing operations like filtering or modifying elements during iteration."
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Use the enhanced for loop and foreach method to iterate over collections and perform common tasks such as data transformation or aggregation."
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Apply Java Streams to perform declarative operations on collections (e.g., map, filter, collect) and optimize data processing pipelines."
+            }
+          ]
+        },
+        {
+          "lo_num": "5",
+          "description": "Handle Concurrent Modifications and Synchronization of Collections",
+          "performance_criteria": [
+            {
+              "pc_code": "5.1",
+              "description": "Identify common pitfalls related to concurrent modifications in collections and implement solutions to avoid exceptions such as ConcurrentModificationException."
+            },
+            {
+              "pc_code": "5.2",
+              "description": "Use Collections.synchronizedList, ConcurrentHashMap, and other thread-safe collection types to manage shared data in a concurrent environment."
+            },
+            {
+              "pc_code": "5.3",
+              "description": "Implement proper synchronization techniques, such as using locks or concurrent classes, to ensure that collections are modified safely when accessed by multiple threads."
+            }
+          ]
+        },
+        {
+          "lo_num": "6",
+          "description": "Apply Java Collections in Real-World Programming Scenarios",
+          "performance_criteria": [
+            {
+              "pc_code": "6.1",
+              "description": "implement a Java application that effectively uses a combination of Lists, Sets, Maps, and Queues to manage complex data."
+            },
+            {
+              "pc_code": "6.2",
+              "description": "Integrate collections into larger programming solutions."
+            },
+            {
+              "pc_code": "6.3",
+              "description": "Test and debug Java applications to ensure that collections are correctly implemented and that data integrity is maintained."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ICT/JAVA/005/L4",
+      "title": "Generics and Lambda Expressions in Java",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understand the Purpose and Structure of Generics in Java",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Describe Generics in Java"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Explain the purpose of Generics in Java and how they enhance type safety and reusability in code."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Differentiate between bounded and unbounded Generics, as well as wildcards (? extends, ? super), and understand their use cases."
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Implement simple generic classes and methods to handle various data types without compromising type safety."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Use Generics to Develop Flexible and Reusable Code",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Create generic methods and classes to perform operations on different data types, such as sorting or filtering data."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Apply bounded types to restrict the permissible types for Generics, ensuring only valid objects are passed into generic classes or methods."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Refactor existing Java code to incorporate Generics, reducing redundancy and improving maintainability."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Implement Lambda Expressions for Functional Programming in Java",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Explain the syntax and structure of Lambda Expressions, including their use in replacing anonymous inner classes."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Implement Lambda Expressions to streamline common operations such as filtering, sorting, and transforming collections."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Use Lambda Expressions in conjunction with functional interfaces such as Predicate, Function, Supplier, and Consumer to implement concise, functional code."
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Apply Generics and Lambda Expressions in Real-World Java Applications",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Implement a Java application that uses Generics to manage multiple data types, while Lambda Expressions are used for operations like filtering and mapping."
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Construct reusable, type-safe methods using Generics, while integrating Lambda Expressions to simplify the flow of data processing in the application."
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Carry out Test and debug Java applications, ensuring that the use of Generics and Lambda Expressions leads to more concise, efficient, and maintainable code."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ICT/JAVA/006/L4",
+      "title": "ADVANCED OOP: INNER CLASSES, ABSTRACT CLASSES, AND INTERFACES",
+      "learning_outcomes": [
+        {
+          "lo_num": 1,
+          "description": "Understand and Implement Inner Classes for Better Code Organization",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Differentiate between the four types of inner classes: static nested classes, non-static inner classes, local classes, and anonymous classes."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Implement static nested classes and non-static inner classes to encapsulate logically related code inside outer classes."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Write Java programs using anonymous classes to handle concise event-driven programming or single-method implementations, such as in GUI applications."
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Refactor existing code to encapsulate functionality more effectively using inner classes."
+            }
+          ]
+        },
+        {
+          "lo_num": 2,
+          "description": "Work with Abstract Classes to Achieve Code Generalization and Reusability",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Explain the purpose of abstract classes in enforcing a base structure for subclasses, distinguishing between abstract and concrete methods."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Create abstract classes and implement them in Java programs to define a common template for related classes while leaving specific behavior to subclasses."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Use abstract methods in abstract classes to enforce implementation in subclasses, ensuring consistency in behavior across class hierarchies."
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Refactor existing Java code to introduce abstract classes, simplifying maintenance by reducing redundancy and code duplication."
+            }
+          ]
+        },
+        {
+          "lo_num": 3,
+          "description": "Utilize Interfaces to Define Contracts and Implement Multiple Inheritance",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Define and implement interfaces that specify methods without bodies, ensuring that implementing classes follow a common contract."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Implement multiple interfaces in a single class to simulate multiple inheritance, achieving more flexible and modular designs."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Utilize default and static methods in interfaces where necessary to provide additional functionality without breaking the contract of the interface."
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Write and refactor Java programs to incorporate interfaces, ensuring that classes adhere to clearly defined contracts while remaining adaptable to change."
+            }
+          ]
+        },
+        {
+          "lo_num": 4,
+          "description": "Integrate Inner Classes, Abstract Classes, and Interfaces in Real-World Java Applications",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Develop Java applications that use a combination of inner classes to modularize tightly related functions, such as event handling or utility logic."
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Implement abstract classes to serve as a base for similar classes, ensuring that specific behavior is delegated to concrete subclasses."
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Design Java applications using interfaces to enable flexible component interaction and ensure that classes adhere to common behaviors or contracts."
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Test and debug Java programs to verify correct implementation of inner classes, abstract classes, and interfaces, ensuring modularity, reusability, and maintainability."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ICT/JAVA/007/L4",
+      "title": "File Input/Output Serialization",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understand the Basics of File I/O Operations in Java",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Explain the purpose and structure of Java’s java.io package, focusing on I/O streams such as FileInputStream, FileOutputStream, BufferedReader, and BufferedWriter."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Implement basic file reading and writing operations using file streams to manage text files."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Use file handling classes like File to manipulate file and directory paths."
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Handle file exceptions using try-with-resources to ensure proper resource management and avoid memory leaks."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Implement Efficient File I/O Using Buffered Streams",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Use BufferedReader and BufferedWriter to enhance the efficiency of file reading and writing operations by reducing the number of I/O interactions."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Compare the performance differences between unbuffered and buffered I/O operations and understand when to use each."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Implement file copying programs using buffered streams to handle large file transfers efficiently."
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Manage exceptions effectively during file I/O operations, ensuring that file handles and streams are closed properly."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Work with Serialization to Save and Restore Object States",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Define the concept of serialization in Java."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Explain the role of the Serializable interface in object serialization."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Implement object serialization using ObjectOutputStream and ObjectInputStream to write objects to and read them from files."
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Demonstrate how to serialize complex objects, including those containing references to other objects (object graphs)."
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Apply File I/O and Serialization in Real-World Java Applications",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Develop a Java application that reads and writes structured data to files using efficient file I/O operations, ensuring the correct format and structure of the data."
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Implement a program that serializes and deserializes objects to save application state between runs or transfer data between systems."
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Test and debug Java applications to ensure that file handling, serialization, and deserialization are performed correctly and data integrity is maintained."
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Demonstrate the ability to work with different file formats (e.g., text files, binary files) and manage file permissions and exceptions during file operations."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ICT/JAVA/008/L4",
+      "title": "MULTITHREADING AND CONCURRENCY IN JAVA",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understand the Basics of Multithreading in Java",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Explain the concept of multithreading and how it improves the performance of applications by executing multiple tasks concurrently."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Create and manage threads using both the Thread class and the Runnable interface."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Write Java programs that initiate, start, and control the lifecycle of threads, including starting, pausing, and stopping threads."
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Understand thread priorities and demonstrate how to adjust the execution order of threads using thread priorities."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Implement Thread Synchronization to Avoid Data Inconsistency",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Explain the concept of thread synchronization and the issues that arise from unsynchronized access to shared resources (e.g., race conditions)."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Use synchronized methods and blocks to control access to shared resources, ensuring data consistency in multithreaded environments."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Demonstrate how to avoid deadlock situations by carefully controlling thread access to multiple resources."
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Implement inter-thread communication using wait(), notify(), and notifyAll() methods to coordinate the execution of threads."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Work with Java Concurrency Utilities for Advanced Thread Management",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Define Executor Framework in Java"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Explain the role of the Executor framework and its advantages over manually managing threads."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Implement a thread pool using the ExecutorService to manage a group of threads efficiently, improving application performance."
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Use Callable and Future to run tasks concurrently and retrieve results after completion."
+            },
+            {
+              "pc_code": "3.5",
+              "description": "Demonstrate how to properly shut down the ExecutorService to ensure all threads terminate gracefully and resources are released."
+            },
+            {
+              "pc_code": "3.6",
+              "description": "Use the java.util.concurrent package to manage thread execution, such as using ExecutorService to create thread pools and manage tasks."
+            },
+            {
+              "pc_code": "3.7",
+              "description": "Implement thread-safe collections (e.g., ConcurrentHashMap) to avoid concurrency issues while accessing shared data structures."
+            },
+            {
+              "pc_code": "3.8",
+              "description": "Use synchronization utilities like CountDownLatch, CyclicBarrier, and Semaphore to coordinate complex multithreaded operations."
+            },
+            {
+              "pc_code": "3.9",
+              "description": "Demonstrate how to use Future and Callable interfaces to handle results from asynchronous computations in multithreaded applications."
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Apply Multithreading and Concurrency in Real-World Java Applications",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Use concurrent data structures from the java.util.concurrent package, such as ConcurrentHashMap, to avoid data inconsistencies in multi-threaded environments."
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Detect and avoid deadlock situations by properly managing locks and synchronizing threads in a structured way."
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Implement atomic operations using classes like AtomicInteger to perform thread-safe, lock-free operations."
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Develop a Java application that spawns multiple threads to perform parallel tasks, such as file processing or network requests, ensuring resource efficiency."
+            },
+            {
+              "pc_code": "4.5",
+              "description": "Implement a multithreaded Java program that synchronizes access to shared resources, ensuring data integrity across all threads."
+            },
+            {
+              "pc_code": "4.6",
+              "description": "Use the ExecutorService to manage a pool of threads that handle large-scale data processing tasks, optimizing resource usage and application throughput."
+            },
+            {
+              "pc_code": "4.7",
+              "description": "Test and debug multithreaded Java applications to ensure thread safety, correct synchronization, and the elimination of race conditions and deadlocks."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ICT/JAVA/009/L4",
+      "title": "JAVA MEMORY MANAGEMENT (GARBAGE COLLECTION)",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understand Java’s Memory Management Model",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Explain the structure of Java memory areas, including the heap, stack, and method area, and how they are used to manage application data."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Identify and differentiate between memory allocated for primitive data types and objects in Java."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Describe the role of the Java Virtual Machine (JVM) in memory management and its interaction with different memory regions."
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Explain the process of object creation and lifecycle in the heap, including how objects are referenced and dereferenced."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Work with the JVM Garbage Collection Process",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Explain the concept of garbage collection and why it is necessary to manage memory in Java."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Identify the different types of garbage collectors (e.g., Serial, Parallel, CMS, G1) and explain their benefits and use cases."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Understand how the JVM tracks object references and triggers garbage collection based on reference counting or reachability analysis."
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Implement a program to demonstrate how unreachable objects are automatically collected by the JVM to free memory."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Tune and Optimize Garbage Collection for Performance",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Configure the JVM’s garbage collection behavior using command-line options (e.g., -XX:+UseG1GC, -Xms, -Xmx)."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Monitor and analyze garbage collection logs to identify performance bottlenecks or memory inefficiencies."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Use profiling tools like VisualVM or JConsole to observe heap usage and garbage collection cycles in a running Java application."
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Optimize garbage collection behavior for specific applications by adjusting heap sizes, GC algorithms, and other tuning parameters."
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Prevent Memory Leaks and Manage Object References",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Identify common causes of memory leaks in Java applications, such as improper use of static references or failing to remove objects from collections."
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Implement best practices for managing object references, including the use of WeakReference, SoftReference, and PhantomReference."
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Ensure objects are eligible for garbage collection by managing object lifecycles properly, avoiding unnecessary retention of references."
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Debug and fix memory leaks using memory profiling tools like jmap, jhat, or Eclipse MAT."
+            }
+          ]
+        },
+        {
+          "lo_num": "5",
+          "description": "Understand the Impact of Object Finalization and Cleanup",
+          "performance_criteria": [
+            {
+              "pc_code": "5.1",
+              "description": "Explain the role of the finalize() method in object cleanup and why it is discouraged in modern Java programming."
+            },
+            {
+              "pc_code": "5.2",
+              "description": "Implement a simple finalize() method to observe its behavior and understand how it fits into the garbage collection cycle."
+            },
+            {
+              "pc_code": "5.3",
+              "description": "Explain the limitations of finalization and the importance of using proper resource management techniques such as try-with-resources."
+            },
+            {
+              "pc_code": "5.4",
+              "description": "Explain the rationale on best practices for handling resource cleanup, avoiding reliance on the garbage collector for releasing critical resources (e.g., file handles, network connections)."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
