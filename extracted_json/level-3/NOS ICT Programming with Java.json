@@ -1,0 +1,804 @@
+{
+  "trade_name": "NOS ICT Programming with Java",
+  "level": 3,
+  "units": [
+    {
+      "code": "ICT/JAVA/001/L3",
+      "title": "OCCUPATIONAL HEALTH AND SAFETY",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understand the Basics of Health & Safety",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Demonstrate Proper Workstation Setup"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Explain Frequent Breaks"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "State factors that prevent eye level & neck strains"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Explain the Use of 20-20-20 Rule"
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Explain the effects of Screen Brightness"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Understand Electrical Safety",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Define key electrical safety terms (e.g., voltage, current, resistance, grounding, circuit breaker)."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Explain the principles of electrical safety, including Ohm's Law and Kirchhoff's Laws."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Identify potential electrical hazards in the workplace (e.g., exposed wires, faulty equipment, wet conditions)."
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Recognize the signs and symptoms of electrical shock."
+            },
+            {
+              "pc_code": "2.5",
+              "description": "Demonstrate Proper Use of Electrical Devices"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Understand Mental Health and Wellbeing",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Describe factors which aid stress management."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Explain the importance of regular exercise leading to long working hours."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Define key mental health terms (e.g., mental health, mental illness, stress, anxiety, depression)."
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Explain the importance of mental health and wellbeing."
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Understand Online Safety & Cyber security",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Identify common mental health issues and their symptoms."
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Recognize the factors that can affect mental health (e.g., genetics, environment, lifestyle)."
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Understand the impact of mental health on work performance and relationships."
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Define key mental health terms (e.g., mental health, mental illness, stress, anxiety, depression)."
+            },
+            {
+              "pc_code": "4.5",
+              "description": "Explain the importance of mental health and wellbeing."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ICT/JAVA/002/L3",
+      "title": "Team work",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understand Version Control Collaboration",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Define Pair Programming"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Explain importance of Pair programming"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Demonstrate how Pair programming promotes solving coding challenges."
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Working on group projects where each team member contributes code using branches, commits, and pull requests."
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Resolving merge conflicts together."
+            },
+            {
+              "pc_code": "1.6",
+              "description": "Carry out pull, push, & commit for clarity when committing changes during development"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Understand Agile Methodologies",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Define Agile Methodology Explain sprints, standups, and retrospectives."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Carry out role of a Scrum or Kanban environment where each Trainee has a role (e.g., Scrum Master, Developer). Describe Daily Standups and it’s principles"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Demonstrate daily standups to report on progress, blockers, and next steps."
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Conduct sprint planning and retrospectives to improve teamwork."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Code Reviews and Pair Programming",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Define Pair Programming"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Explain importance of Code Review"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Explain Pair programming through code reuse/review in real-time."
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Project Management Tools (e.g., Jira, Trello)",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Define boards (Scrum boards in Jira, Kanban boards in Trello) for visualizing tasks."
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Explain the importance of boards (Scrum boards in Jira, Kanban boards in Trello) for visualizing tasks."
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Explain how tasks are created, assigned, and categorized."
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Describe list representation of different stages of work (e.g., To-Do, In Progress, Done)."
+            }
+          ]
+        },
+        {
+          "lo_num": "5",
+          "description": "Understand Progress & Reports Tracking velocity reports, issue reports, cycle time",
+          "performance_criteria": [
+            {
+              "pc_code": "5.1",
+              "description": "Describe Reporting and Analytics on Jira-specific particularly areas such as"
+            },
+            {
+              "pc_code": "5.2",
+              "description": "Describe Dependencies using case study of building a shopping cart system."
+            },
+            {
+              "pc_code": "5.3",
+              "description": "Carry out Tracking Progress and Updating Status such as Burndown, Task Movement, Task updates"
+            },
+            {
+              "pc_code": "5.4",
+              "description": "Carry out Issue Tracking and Bug Reporting i.e. Issue creation, Issue lifecycle, Bug priority"
+            },
+            {
+              "pc_code": "5.5",
+              "description": "Carry out Retrospective and Continuous Improvement on retrospective board with action items."
+            },
+            {
+              "pc_code": "5.6",
+              "description": "Describe Collaboration and Communication on comments made, attachments, notifications"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ICT/JAVA/003/L3",
+      "title": "Communication in Workplace",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Develop Clear and Effective Verbal Communication",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Define Communications in workplace"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "State Advantages and Disadvantages of Communications"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Explain the need for continuous communications while programming"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Differentiate between code comments, documentations, and messages in communication."
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Use appropriate language and tone when communicating with different stakeholders in the workplace."
+            },
+            {
+              "pc_code": "1.6",
+              "description": "Clearly articulate tasks, instructions, or requests to colleagues and customers to avoid misunderstandings."
+            },
+            {
+              "pc_code": "1.7",
+              "description": "Maintain active listening skills by asking clarifying questions and providing feedback during conversations."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Use Written Communication for Workplace Correspondence",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Demonstrate clear, concise, and professional emails or memos that reflect the intended message."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Demonstrate all written communication is free from errors in grammar, spelling, and punctuation."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Demonstrate the writing style based on the recipient (formal communication with clients, less formal with internal colleagues)."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Apply Non-Verbal Communication Techniques in the Workplace",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Demonstrate the Use of positive body language (maintaining eye contact, nodding, open posture) to show attentiveness and engagement during interactions."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Recognize and appropriately respond to the non-verbal cues of others in conversations, such as facial expressions or tone of voice."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Explain ways to Avoid distracting or negative body language, such as crossed arms or lack of eye contact, which may convey disinterest or disengagement."
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Communicate Effectively in Cross-Functional Teams",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Explain open dialogue by actively seeking input and feedback from team members across various departments."
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Demonstrate the Use of technical and non-technical language appropriately to bridge communication gaps between teams with different expertise."
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Carry out team discussions by summarizing points clearly and ensuring all team members understand the objectives."
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Demonstrate cultural sensitivity and respect when communicating with individuals from different backgrounds"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ICT/JAVA/004/L3",
+      "title": "OBJECT ORIENTED PROGRAMMING (OOP)",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Classes and Objects",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Declare a class in Java, including attributes (fields) and methods."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Instantiate objects from a class and demonstrate the relationship between a class and an object."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Explain the purpose of constructors in OOP and in Java."
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Demonstrate how to use constructors to initialize objects"
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Demonstrate the creation and use of multiple objects from the same class."
+            },
+            {
+              "pc_code": "1.6",
+              "description": "Carry out ways to Access and modify object fields using methods (getters/setters)"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Understand Inheritance",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Define Inheritance"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Explain the importance of Inheritance"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Mention all inheritance keywords"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Define a subclass that inherits from a superclass using code."
+            },
+            {
+              "pc_code": "2.5",
+              "description": "Apply the extends keyword to create a class hierarchy."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Understand Polymorphism",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Define Polymorphism & Methods"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Explain the importance of Polymorphism to OOP"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Describe Polymorphism in context of method Overloading and Method Overriding"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Demonstrate how to Override superclass methods in the subclass to provide specific functionality"
+            },
+            {
+              "pc_code": "3.5",
+              "description": "Use the super keyword to access superclass members from a subclass."
+            },
+            {
+              "pc_code": "3.6",
+              "description": "Explain and demonstrate the difference between IS-A and HAS-A relationships."
+            },
+            {
+              "pc_code": "3.7",
+              "description": "Implement method overriding to achieve runtime polymorphism (dynamic binding)."
+            },
+            {
+              "pc_code": "3.8",
+              "description": "Demonstrate method overloading for compile-time polymorphism (static binding)."
+            },
+            {
+              "pc_code": "3.9",
+              "description": "Use polymorphism to call overridden methods through superclass references."
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Understand the Concept of Interfaces in Java",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Define Interface in Java"
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Explain its role in Java programming for achieving abstraction and multiple inheritance."
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Identify the key characteristics of interfaces, including abstract methods, default methods, and static methods."
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Explain the differences between interfaces and abstract classes in Java."
+            },
+            {
+              "pc_code": "4.5",
+              "description": "Implement interfaces to achieve full abstraction and define behavior across different classes."
+            }
+          ]
+        },
+        {
+          "lo_num": "5",
+          "description": "Understand Abstraction in Java",
+          "performance_criteria": [
+            {
+              "pc_code": "5.1",
+              "description": "Define Abstraction"
+            },
+            {
+              "pc_code": "5.2",
+              "description": "Describe the importance of Abstraction"
+            },
+            {
+              "pc_code": "5.3",
+              "description": "Explain key programming factors related to abstraction"
+            },
+            {
+              "pc_code": "5.4",
+              "description": "Create and use abstract classes and methods."
+            },
+            {
+              "pc_code": "5.5",
+              "description": "Use abstraction to hide implementation details and expose only essential functionalities."
+            }
+          ]
+        },
+        {
+          "lo_num": "6",
+          "description": "Understand Encapsulation in Java",
+          "performance_criteria": [
+            {
+              "pc_code": "6.1",
+              "description": "Define encapsulation"
+            },
+            {
+              "pc_code": "6.2",
+              "description": "Describe the role in maintaining data integrity"
+            },
+            {
+              "pc_code": "6.3",
+              "description": "Demonstrate the use of access modifiers (private, protected, public) to control visibility."
+            },
+            {
+              "pc_code": "6.4",
+              "description": "Implement getter and setter methods to provide controlled access to private fields."
+            },
+            {
+              "pc_code": "6.5",
+              "description": "Explain the benefits of encapsulation in terms of data security and modularity."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ICT/JAVA/005/L3",
+      "title": "UNDERSTAND BASICS JAVA: VARIABLES, DATA TYPES, OPERATORS, CONTROL STRUCTURES",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understanding Variables,",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Define Java as OOP Language"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Explain brief History behind Java"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Explain Variables"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Describe the scope of variables (local, instance, and class variables)"
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Explain appropriate naming conventions for variables according to Java standards."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Understand Data Types",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Define Data types"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Differentiate between primitive and reference data types (arrays, objects)."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Explain importance of Data Types to programming"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Use wrapper classes (Integer, Double, etc.) when necessary"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Understand OOP Operators",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Define Java Operators"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Describe when to use operators"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Explain arithmetic operators (+, -, *, /, %) to perform mathematical operations."
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Use relational operators (==, !=, >, <, >=, <=) for comparison."
+            },
+            {
+              "pc_code": "3.5",
+              "description": "Implement logical operators (&&, || , !) to create complex conditions."
+            },
+            {
+              "pc_code": "3.6",
+              "description": "Demonstrate the use of increment and decrement operators (++, --) correctly"
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Understand Control Structures",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Define Control Structures in Java"
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Explain the role of control structures in Java"
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Explain the Use of if statement, else if statement, & switch statements to implement decision-making structures."
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Implement switch statements for multi-branch conditional logic."
+            },
+            {
+              "pc_code": "4.5",
+              "description": "Describe the importance of Loops in Java"
+            },
+            {
+              "pc_code": "4.6",
+              "description": "Explain for, while, and do-while loops to control iterative processes."
+            },
+            {
+              "pc_code": "4.7",
+              "description": "Use break and continue to control loop execution."
+            },
+            {
+              "pc_code": "4.8",
+              "description": "Demonstrate nesting of control structures (if within a for loop)."
+            },
+            {
+              "pc_code": "4.9",
+              "description": "Handle infinite loops and avoid common pitfalls in loop structures."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ICT/JAVA/006/L3",
+      "title": "EXCEPTION HANDLING & DEBUGGING",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understand Exception Handling in Java",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Define the concept of exceptions"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Differentiate between checked and unchecked exceptions."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Explain how to Use try, catch, and finally blocks to handle exceptions"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Implement throw and throws keywords to raise exceptions and declare exceptions in method signatures."
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Explain how to Handle other common built-in exceptions such as IOException, NullPointerException, and ArrayIndexOutOfBoundsException."
+            },
+            {
+              "pc_code": "1.6",
+              "description": "Create and use custom exception classes to handle application-specific errors."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Understand Debugging Techniques in Java",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Demonstrate ways to Utilize IDE-based debugging tools (breakpoints, step execution, and variable inspection) to identify and resolve issues."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Interpret stack traces, logs, and error messages to diagnose problems in the code."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Demonstrate how to print statements with System.out.println() or use logging frameworks (Log4j, SLF4J) for structured debugging and tracking."
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Debug logical errors that do not trigger exceptions by analyzing code behavior and output."
+            },
+            {
+              "pc_code": "2.5",
+              "description": "Use unit testing frameworks (e.g., JUnit) to test individual components and ensure code correctness before integrating it into larger systems."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ICT/JAVA/007/L3",
+      "title": "Arrays, Strings, and Collections",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understand Arrays",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Declare and initialize arrays of different data types (e.g., int, double, String)."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Demonstrate how to Access and modify array elements using indices."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Carry out Iteration over arrays using loops (e.g., for, enhanced for)."
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Demonstrate the use of multi-dimensional arrays for complex data structures."
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Describe how to Utilize built-in array methods for sorting and searching (e.g., Arrays.sort(), Arrays.binarySearch())."
+            },
+            {
+              "pc_code": "1.6",
+              "description": "Explain how to Handle common array operations such as resizing and copying."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Understand Strings in Java",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Create and manipulate String objects using methods from the String class (e.g., substring(), concat(), replace())."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Use StringBuilder and StringBuffer for mutable string operations and efficient string concatenation."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Apply string formatting techniques using String.format() and printf()."
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Perform common string operations such as splitting, trimming, and checking for substrings."
+            },
+            {
+              "pc_code": "2.5",
+              "description": "Explain the use of regular expressions for advanced string matching and manipulation."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Understand Collections",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Define Java Collections Framework and its core interfaces (e.g., List, Set, Map)."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Implement the use of common collection classes such as ArrayList, LinkedList, HashSet, TreeSet, HashMap, and TreeMap."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Perform basic operations on collections including adding, removing, and accessing elements."
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Demonstrate Iteration over collections using iterators and enhanced for loops."
+            },
+            {
+              "pc_code": "3.5",
+              "description": "Carry out sorting and searching methods available in the collections framework (e.g., Collections.sort(), Collections.binarySearch())."
+            },
+            {
+              "pc_code": "3.6",
+              "description": "Explain generic types to ensure type safety in collections."
+            },
+            {
+              "pc_code": "3.7",
+              "description": "Describe collection operations such as filtering and mapping using Java Streams API."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
