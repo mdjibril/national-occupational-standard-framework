@@ -99,7 +99,7 @@ These NOS have already been converted to JSON. Pick a trade **not** listed here 
 | ICT Internet of Things | | | ✅ | | |
 | ICT Mobile App Development | | | | | ✅ |
 | ICT Network Support Specialist | | | | ✅ | |
-| ICT Programming with Java | | | ✅ | | |
+| ICT Programming with Java | | | ✅ | ✅ | |
 | ICT Programming with PHP using Laravel and MySql | | | | | ✅ |
 | ICT Robotics | | | ✅ | | |
 | ICT Satellite TV Antenna Installation and Maintenance | | | ✅ | ✅ | |
