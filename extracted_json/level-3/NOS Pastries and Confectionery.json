@@ -1,0 +1,2218 @@
+{
+  "trade_name": "NOS Pastries and Confectionery",
+  "level": 3,
+  "units": [
+    {
+      "code": "HTT/GP/001/L3",
+      "title": "SAFE HYGIENIC AND SECURE ENVIRONMENT",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Maintain Personal Health and Hygiene",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Wear clean, smart and appropriate Clothing"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Keep hair neat and tidy and in line with your organization\u2019s Standard"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Use jewellery, perfume and cosmetics allowed by organization"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Get any cuts, grazes, burns treated by the appropriate person"
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Report illnesses and any infections promptly to the appropriate person"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Apply Health, Safety and Environmental Security Measures",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "State the responsibilities under the health and safety act"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Observe the general rules of hygiene that you should follow"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Apply clothing, footwear and headgear that should be worn at all times"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Maintaining good personal hygiene"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Control and Report Hazards in one\u2019s Workplace",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Identify some hazards or potential hazards in the work environment and act appropriately"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Report any accidents or near accidents quickly and accurately to the right person"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Follow health, hygiene and safety procedures while working"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Practice emergency procedures correctly"
+            },
+            {
+              "pc_code": "3.5",
+              "description": "Follow security procedures of the organization"
+            },
+            {
+              "pc_code": "3.6",
+              "description": "Observe government regulations on health and safety In the industry (OHS 2012)"
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Comply with Health and Safety Regulations",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "State the importance of working in a healthy, safe and hygienic way"
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Obtain information about health and safety in your work-place"
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Describe the types of hazards that can occur in the workplace and how to deal with them"
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Deal with personally and hazards that must be reported to someone else"
+            },
+            {
+              "pc_code": "4.5",
+              "description": "Des how to warm other people about hazards and why this is important"
+            },
+            {
+              "pc_code": "4.6",
+              "description": "Explain why accidents and near accidents should be reported and who these should be reported to"
+            },
+            {
+              "pc_code": "4.7",
+              "description": "Describe the type of emergencies that may happen in the Workplace and how to handle them"
+            },
+            {
+              "pc_code": "4.8",
+              "description": "Locate the first aid equipment and the registered first-aider in the workplace"
+            },
+            {
+              "pc_code": "4.9",
+              "description": "Lift and handle items safely"
+            },
+            {
+              "pc_code": "4.10",
+              "description": "Observe work safety that are relevant to the job and why these are important"
+            },
+            {
+              "pc_code": "4.11",
+              "description": "Observe organisational emergency procedures, in particular fire, and follow them"
+            },
+            {
+              "pc_code": "4.12",
+              "description": "State the possible causes for fire in the workplace"
+            },
+            {
+              "pc_code": "4.13",
+              "description": "Minimise the risk of fire"
+            },
+            {
+              "pc_code": "4.14",
+              "description": "State where to find fire alarms and how to set them off"
+            },
+            {
+              "pc_code": "4.15",
+              "description": "State why a fire should never be approached unless it is safe to do so"
+            },
+            {
+              "pc_code": "4.16",
+              "description": "Observe fire safety laws"
+            },
+            {
+              "pc_code": "4.17",
+              "description": "Apply organisational security procedures at incidents"
+            },
+            {
+              "pc_code": "4.18",
+              "description": "Apply the correct procedures for dealing with customer property"
+            },
+            {
+              "pc_code": "4.19",
+              "description": "Report all usual/non-routine incidents to the appropriate person"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "HTT/GP/002/L3",
+      "title": "TEAM WORK AT HOSPITALITY WORKPLACE",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Plan and organize own work",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Ensure that one understands what is required for owns work"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Adhere to instructions accurately"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Plan and organize place one\u2019s tasks in order of importance"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Place everything needed for work within reach"
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Keep work areas clean and tidy"
+            },
+            {
+              "pc_code": "1.6",
+              "description": "Keep waste to a minimum"
+            },
+            {
+              "pc_code": "1.7",
+              "description": "Seek assistance if in need and from the relevant person"
+            },
+            {
+              "pc_code": "1.8",
+              "description": "Provide work output in due time as agreed"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Work effectively with Members of own team",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Assist team members when they ask"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Ensure that any assistance given is within limits of own responsibilities"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Manage time well in spite of assisting others"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Ensure information transmitted to others in the team is timely"
+            },
+            {
+              "pc_code": "2.5",
+              "description": "Maintain cordial working relations with team mates"
+            },
+            {
+              "pc_code": "2.6",
+              "description": "Report any misunderstandings or incidences in relating with team mates to the relevant person"
+            },
+            {
+              "pc_code": "2.7",
+              "description": "Communicate clearly and effectively with team members"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Develop own skills",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Seek feedback on the work and be able to use the feedback constructively"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Identify with appropriate persons what aspects of the work that are up to standard and what areas to improve"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Agree on what to do to improve the work"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Agree on a learning Plan with the appropriate person"
+            },
+            {
+              "pc_code": "3.5",
+              "description": "Seek opportunities to review and develop the learning plan"
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Knowledge of work management",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "State why it is important to understand what is required at work"
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Explain how to organize work to avoid distractions and use time effectively"
+            },
+            {
+              "pc_code": "4.3",
+              "description": "State the benefits of being organized and having work tools close at work before starting jobs"
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Explain why it is important to clean up work area while working"
+            },
+            {
+              "pc_code": "4.5",
+              "description": "Explain why it is important to minimize waste"
+            },
+            {
+              "pc_code": "4.6",
+              "description": "Explain which cases that need to ask for help and who is the appropriate person(s) to ask"
+            }
+          ]
+        },
+        {
+          "lo_num": "5",
+          "description": "Observe Team work when performing tasks",
+          "performance_criteria": [
+            {
+              "pc_code": "5.1",
+              "description": "work effectively with others in a team"
+            },
+            {
+              "pc_code": "5.2",
+              "description": "List the persons who are part of the team and their roles"
+            },
+            {
+              "pc_code": "5.3",
+              "description": "Observe different teams in the Whole Organization"
+            },
+            {
+              "pc_code": "5.4",
+              "description": "Work cordially and avoid conflicts with another"
+            },
+            {
+              "pc_code": "5.5",
+              "description": "handle cases when assistance can be rendered to others and when it cannot so as to complete own work."
+            },
+            {
+              "pc_code": "5.6",
+              "description": "Select as you can assist others and when you cannot so as to complete own work in time"
+            },
+            {
+              "pc_code": "5.7",
+              "description": "Pass information and communicate to others in the team in good time"
+            },
+            {
+              "pc_code": "5.8",
+              "description": "Explain how to communicate effectively and why"
+            }
+          ]
+        },
+        {
+          "lo_num": "6",
+          "description": "Importance of own Skills development",
+          "performance_criteria": [
+            {
+              "pc_code": "6.1",
+              "description": "Explain why it is important to develop own skills"
+            },
+            {
+              "pc_code": "6.2",
+              "description": "Explain ways of getting feedback from own teammates and how to use it positively"
+            },
+            {
+              "pc_code": "6.3",
+              "description": "Explain the importance of a learning plan in the own workplace"
+            },
+            {
+              "pc_code": "6.4",
+              "description": "Explain why the learning plan should be improved frequently"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "HTT/GP/003/L3",
+      "title": "COMMUNICATION AT WORK ENVIRONMENT",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Use a Non-complex Communication System in a Work Environment",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Use simple verbal means to pass on necessary information"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Use non-verbal means to pass on necessary information"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Interpret symbols and signs appropriately"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Develop the ability to identify the source of information in a Work Environment",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Locate the Source of information in an organization or Work Environment"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Relate appropriately with the source of information"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Use the various information flow systems in a work environment"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Use information to avoid challenges in a Work situation"
+            },
+            {
+              "pc_code": "2.5",
+              "description": "Report findings in accordance to procedure in a Work environment"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Use different means of communication in a work environment",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Locate the various communication equipment in the Work environment"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Use effectively the various communication equipment in a work environment"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Pass information effectively to the right personnel"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Pass information effectively using symbols, signs and codes"
+            },
+            {
+              "pc_code": "3.5",
+              "description": "Follow instructions in line with ethics of the work environment"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "HTT/CA/004/L3",
+      "title": "MAINTAIN, HANDLE AND CLEAN KNIVES",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Maintain, handle and Clean knives",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Organize work in order of priority"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Choose and clean all knives"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Identify blunt knives and sharpen them appropriately"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Arrange knives in different knife holders according to the tasks they will be used for"
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Handle knives carefully while cutting to avoid accidents"
+            },
+            {
+              "pc_code": "1.6",
+              "description": "Collect all used knives after working to clean, dry and store appropriately"
+            },
+            {
+              "pc_code": "1.7",
+              "description": "Sort out all damaged knives and inform the appropriate authority"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Know how to maintain and clean knives",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Explain the importance of keeping knives clean and sharp"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "State the importance of storing knives to avoid hazards"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Identify the person that accidents should be reported to and explain why they should be reported"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Maintain and clean kinives",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Avoid accidents that can arise from handling knives carelessly"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Use sharp blades of the knife and handle it firmly"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Clean knives after using it to cut a particular food item before using it for another"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Handle and treat a damaged knife"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "HTT/CA/005/L3",
+      "title": "ASSIST PREPARE SIMPLE SALADS AND FRUITS",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Assist Prepare Simple Salads and Fruits",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Select ingredients of good quality"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Assemble the right tools and equipment needed"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Prepare the right quantity of commodity and as required"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Keep working area safe, clean and tidy to avoid contamination"
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Store appropriately any prepared vegetable or fruit not needed immediately for use"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Understanding of Preparation Procedures",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Explain what to look out for to ensure that the food items are of the right quality"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Explain what to do if the food items are not fit for the purpose"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "State the right tools and equipment required for preparing particular food items"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Explain why the right tools should be used"
+            },
+            {
+              "pc_code": "2.5",
+              "description": "State the importance of avoiding cross-contamination from meat or fish products"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Assist Present Simple salads and fruits safely",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Select the appropriate serving dish for presenting salad or fruit"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Follow safety procedures while presenting/dishing salad or fruit"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Present or dish salad or fruit according to specified guidelines and portions"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "HTT/CA/006/L3",
+      "title": "BAKE AND FINISH SIMPLE BREAD AND DOUGH PRODUCTS",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Assist Prepare simple bread and dough",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Check the ingredients to make sure they are fit for cooking"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Measure the required ingredients"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Choose the correct tools and equipment to prepare and bake bread and dough products"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Prepare the dough as required"
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Bake the products as required"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Understand how to bake simple bread and dough products",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "State how to check to make sure bread and dough products are fit for preparation and baking"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Describe what to do if there are problems with the products"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "State the correct tools and equipment to use for different preparation methods"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "State the importance of using the correct tools and equipment"
+            },
+            {
+              "pc_code": "2.5",
+              "description": "Describe how to carry out different baking methods correctly"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Assist Finish simple bread and dough products",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Finish the baked products as required"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Make sure the bread and bakery products are at the correct temperature for holding and serving"
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Understand how to finish simple bread and dough products",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "State the correct tools and equipment for different finishing methods"
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Describe how to use different finishing methods correctly"
+            },
+            {
+              "pc_code": "4.3",
+              "description": "State the correct temperature for holding and serving simple bread and dough products"
+            }
+          ]
+        },
+        {
+          "lo_num": "5",
+          "description": "Understand how to store Bread and dough products",
+          "performance_criteria": [
+            {
+              "pc_code": "5.1",
+              "description": "Safely store any cooked bread and bakery product not for immediate use"
+            },
+            {
+              "pc_code": "5.2",
+              "description": "State different types of storage for uncooked bread and dough products"
+            },
+            {
+              "pc_code": "5.3",
+              "description": "State how to store baked bread and dough products"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "HTT/CA/007/L3",
+      "title": "MAKE BASIC STOCKS",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Make the stocks",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Select ingredients according to the standard recipes or establishment\u2019s requirements"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Sanitize selected tools and equipment for preparing stocks"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Prepare the required ingredients for preparing stocks"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Make the stocks according to the standard recipes or establishment\u2019s requirements"
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Finish the stocks according to the standard recipes or establishment\u2019s requirements"
+            },
+            {
+              "pc_code": "1.6",
+              "description": "Make sure the stock is at correct temperature for holding, re-heating and re-constituting"
+            },
+            {
+              "pc_code": "1.7",
+              "description": "Store cooked stocks not for immediate use"
+            },
+            {
+              "pc_code": "1.8",
+              "description": "Describe how to check if the ingredients are appropriate for food production"
+            },
+            {
+              "pc_code": "1.9",
+              "description": "Describe what to do if stocks and other ingredients do not meet required standards"
+            },
+            {
+              "pc_code": "1.10",
+              "description": "State the importance handling and keeping of tools and equipment appropriately"
+            },
+            {
+              "pc_code": "1.11",
+              "description": "Describe the different methods of preparation stocks"
+            },
+            {
+              "pc_code": "1.12",
+              "description": "Discuss the importance of temperature zones that will affect holding, re-heating and re-constitution"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "HTT/CS/008/L3",
+      "title": "COMPLEX PASTRY PRODUCTS",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Support Plan the production for complex pastry products",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Plan the production of pastry to meet standard recipe or customer\u2019s requirement"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Develop menus considering the availability, seasonality and cost of ingredients"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Consider the production costing in planning the menu"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Estimate the duration of work time to bake pastry products"
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Develop menus for healthy diets"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Support Select and purchase ingredients for preparing and baking pastry products",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Select ingredients which are appropriate to the menu considering the quality, price seasonality, availability and the establishment\u2019s requirement"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Source ingredients and supplies from reliable suppliers"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Minimize wastage through appropriate purchase and storage"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Report to the immediate supervisor when ingredients, tools and equipment are not available"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Support selects equipment and use techniques in baking pastry products",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Ensure all areas, tools and equipment are in good working condition"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Use appropriate presentation materials and equipment suitable for the presentation and style for specialty pastry products"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Use appropriate tools and equipment and sanitize and keep after use"
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Support prepares cook and finish pastry products",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Prepare and cook variety complex pastry products for the special cuisine requirements"
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Consider cultural requirements in preparing complex pastry products Monitor baking process and take action to make appropriate adjustments"
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Finish and serve complex pastry products according to the establishment style and customer\u2019s requirement"
+            }
+          ]
+        },
+        {
+          "lo_num": "5",
+          "description": "Support Implement safe/hygienic practices",
+          "performance_criteria": [
+            {
+              "pc_code": "5.1",
+              "description": "Maintain personal hygiene, importance of wearing correct uniforms"
+            },
+            {
+              "pc_code": "5.2",
+              "description": "Store pastry products correctly according to health regulations"
+            },
+            {
+              "pc_code": "5.3",
+              "description": "Identify hazards, potential hygiene and safety problems and take appropriate solution to prevent risks and contamination"
+            }
+          ]
+        },
+        {
+          "lo_num": "6",
+          "description": "Know how to prepare and cook complex pastry products",
+          "performance_criteria": [
+            {
+              "pc_code": "6.1",
+              "description": "Describe the quality points to determine the freshness of pastry products"
+            },
+            {
+              "pc_code": "6.2",
+              "description": "Describe what to if pastry ingredients do not meet required standards"
+            },
+            {
+              "pc_code": "6.3",
+              "description": "State the importance handling of tools and equipment appropriately"
+            },
+            {
+              "pc_code": "6.4",
+              "description": "Describe the different standard shapes pastry products and its approximate yields after preparation"
+            },
+            {
+              "pc_code": "6.5",
+              "description": "Describe the different methods of preparation, baking and aeration methods of pastry"
+            },
+            {
+              "pc_code": "6.6",
+              "description": "Describe the appropriate portioning of pastry"
+            },
+            {
+              "pc_code": "6.7",
+              "description": "Describe how to store cooked and uncooked pastry products"
+            },
+            {
+              "pc_code": "6.8",
+              "description": "Explain the use of flour and fat preparation relate to the end product"
+            },
+            {
+              "pc_code": "6.9",
+              "description": "Explain how to minimize and correct faults in pastry products"
+            },
+            {
+              "pc_code": "6.10",
+              "description": "Discuss first in and first out (FIFO) and the importance of adhering to work and safety standards and the legal requirements"
+            },
+            {
+              "pc_code": "6.11",
+              "description": "Discuss the temperature zone that will affect pastry products production and storage"
+            },
+            {
+              "pc_code": "6.12",
+              "description": "Describe the appropriate finishing for pastry"
+            },
+            {
+              "pc_code": "6.13",
+              "description": "State the nutritional value and healthy eating pastry in the diet"
+            },
+            {
+              "pc_code": "6.14",
+              "description": "Discuss the current trends in relation to baking pastry"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "HTT/CS/009/L3",
+      "title": "PRODUCE BASIC CAKES, SPONGES AND SCONES",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Support Select and prepare equipment",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Select equipment according to the standard recipes or establishment\u2019s standards"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Ensure that all the tools and equipment are in good condition for use"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Sanitize selected tools and equipment and"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Grease appropriate baking container"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Support select and Prepare Ingredients",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Select ingredients according to the standard recipes or establishment\u2019s standards"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Ensure all ingredients are according to the quantity, quality and time frame required for production"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Prepare Cake, Sponge and scone mixture as required by the standard recipe"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Follow correct mixing and shaping techniques"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Support Report and Document work activities",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Report to the appropriate Personnel if any of the ingredients is faulty, deficient or not up to standard"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Make appropriate entries in Kitchen Documents as regards temperature and quantities of ingredients"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Report damaged tools or equipment to the appropriate personnel"
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Support Cook and finish Cake, sponge and Scones",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Identify the required cooking methods"
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Cook cake, sponge and scone according to the standard recipes or establishment\u2019s standards"
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Ensure that the cake, sponge and scone is of the right colour, flavor texture and quantity"
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Adhere to work and safety standards and legal requirements"
+            },
+            {
+              "pc_code": "4.5",
+              "description": "Portion and present cake, sponge and scones according to standard recipe and health requirements"
+            },
+            {
+              "pc_code": "4.6",
+              "description": "Label and store cakes, sponges and scones not for immediate use safely following First-in-First-Out (FIFO) standards"
+            }
+          ]
+        },
+        {
+          "lo_num": "5",
+          "description": "Support prepare and cook basic cakes, Sponges and scones",
+          "performance_criteria": [
+            {
+              "pc_code": "5.1",
+              "description": "Describe the quality points to determine the freshness of the cakes, sponges and scones"
+            },
+            {
+              "pc_code": "5.2",
+              "description": "Describe what to do if the ingredients do not meet required standards"
+            },
+            {
+              "pc_code": "5.3",
+              "description": "State the importance handling of tools, knife and equipment appropriately"
+            },
+            {
+              "pc_code": "5.4",
+              "description": "Discuss the different types of cakes, sponges and scones and how they are prepared"
+            },
+            {
+              "pc_code": "5.5",
+              "description": "Explain why it is important to follow standard recipes while preparing and cooking cakes, sponges and scones"
+            },
+            {
+              "pc_code": "5.6",
+              "description": "Explain how to recognize when cakes, sponges and scones are cooked and have the correct colour, flavour and texture"
+            },
+            {
+              "pc_code": "5.7",
+              "description": "State healthy methods of Preparing, Cooking and finishing cakes, Sponges and Scones"
+            },
+            {
+              "pc_code": "5.8",
+              "description": "Describe how to store prepared and cooked cakes, sponges and scones"
+            },
+            {
+              "pc_code": "5.9",
+              "description": "Discuss First-in-First-Out (FIFO) and the importance of adhering to work and safety standards and the legal requirements"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "HTT/FS/010/L3",
+      "title": "SUPPORT CARRY OUT FOOD SAFETY IN A PROFESSIONAL KITCHEN",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Support Maintain Food legislation management",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Ensure food safety management systems comply with up to date legislative requirements"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Allocate food safety management roles and responsibilities to staff"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Allocate appropriate resources to ensure food safety management systems are effectively maintained"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Support Maintain safety, risk, analyses and records",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Communicate and brief staff on how to work safely and keep up to date, accurate training records"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Analyse the risks to food safety from microbial, physical, chemical and allergenic hazards in an organisation"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Communicate food safety management information to staff, visitors and suppliers"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Implement controls required to manage food safety in line with organisational requirements"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Support Measure hazards and give feed backs for safety measures",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Measure and record food safety hazards and ensure appropriate corrective actions are taken"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Assist in staff hygiene and compliance with procedures"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Use reviews, staff feedback and audits to evaluate the effectiveness of food safety management procedures"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "HTT/FS/011/L3",
+      "title": "SUPPORT ACHIEVE EXCELLENCE IN A FOOD ENVIRONMENT",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Ensure compliance with regulations in the areas you are responsible for",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "identify the relevant regulations which apply to your work area"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "can access information about the regulations"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "wear the relevant personal and protective clothing and equipment and ensure others do so"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "follow all organisational procedures which apply to your work area and ensure others do so"
+            },
+            {
+              "pc_code": "1.5",
+              "description": "apply and promote safe working practices"
+            },
+            {
+              "pc_code": "1.6",
+              "description": "recognise and advise on control hazards"
+            },
+            {
+              "pc_code": "1.7",
+              "description": "receive reports and act on potential risks and hazards"
+            },
+            {
+              "pc_code": "1.8",
+              "description": "provide learning and guidance where individuals need support to meet compliance standards"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Make recommendations and implement changes for improving compliance",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "identify opportunities for improving compliance standards to meet organisational needs"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "identify opportunities to improve compliance to the requirements of the food safety management system"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Gather relevant information, data and resources to support potential improvements"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "make valid changes for improving operational compliance within your limit of responsibility"
+            },
+            {
+              "pc_code": "2.5",
+              "description": "use relevant measures of plant effectiveness and improvement"
+            },
+            {
+              "pc_code": "2.6",
+              "description": "to inform recommendations refer any issues outside the limit of your authority to a responsible person"
+            },
+            {
+              "pc_code": "2.7",
+              "description": "check and confirm that your recommendations meet all workplace requirements"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Obtain and provide feedback on compliance",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "seek feedback on the value of your contribution to compliance"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "check current compliance levels and targets"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "provide feedback on your contribution to compliance to the relevant person"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "HTT/CK/012/L3",
+      "title": "PREPARE, COOK AND FINISH CANAP\u00c9S AND COCKTAIL PRODUCTS",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Plan the menu for canap\u00e9s and cocktail products",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Plan menus for to meet standard recipe or customer\u2019s requirement"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Develop menus considering the availability, seasonality and cost of ingredients"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Consider the menu costing in planning the menu"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Estimate the duration of work time to cook complex cold products"
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Develop menus for healthy diets"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Select and purchase ingredients for preparing and cooking canap\u00e9s and cocktail products",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Select ingredients which are appropriate to the menu considering the quality, price seasonality, availability and the establishment\u2019s requirement"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Source ingredients and supplies from reliable suppliers"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Minimize wastage through appropriate purchase and storage"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Report to the immediate supervisor when ingredients, tools and equipment are not available"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "select equipment and use techniques in cooking and presenting canapés and cocktail products",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Ensure all areas, tools and equipment are in good working condition"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Use appropriate presentation materials and equipment suitable for the presentation and style for specialty dishes"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Use appropriate tools and equipment and sanitize and keep after use"
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "prepare and cook canap\u00e9s and cocktail products",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Prepare and cook variety of canap\u00e9s and cocktail products considering the special cuisine requirements"
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Consider cultural requirements in preparing canap\u00e9s and cocktail products Monitor cooking process and take action to make appropriate adjustments"
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Finish and serve canap\u00e9s and cocktail products with appropriate accompaniment, garnishes according to the establishment style and customer requirements"
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Serve menu items in correct sequence, using appropriate accompaniment and garnishes"
+            }
+          ]
+        },
+        {
+          "lo_num": "5",
+          "description": "implements safe/hygienic practices",
+          "performance_criteria": [
+            {
+              "pc_code": "5.1",
+              "description": "Identify hazards, potential hygiene and safety problems and take appropriate solution to prevent risks and contamination"
+            },
+            {
+              "pc_code": "5.2",
+              "description": "Store food correctly according to health regulations"
+            },
+            {
+              "pc_code": "5.3",
+              "description": "Maintain personal hygiene and the of use of complete uniforms"
+            }
+          ]
+        },
+        {
+          "lo_num": "6",
+          "description": "Understand how to prepare, cook and finish, canapés and cocktail products",
+          "performance_criteria": [
+            {
+              "pc_code": "6.1",
+              "description": "Describe the quality points to determine the freshness of cold products"
+            },
+            {
+              "pc_code": "6.2",
+              "description": "Describe what to do if canap\u00e9s and cocktail products and other ingredients do not meet required standards"
+            },
+            {
+              "pc_code": "6.3",
+              "description": "State the importance handling of tools, knife and equipment appropriately"
+            },
+            {
+              "pc_code": "6.4",
+              "description": "Describe the different cuts or portions for canap\u00e9s and cocktail products and its approximate yields after preparation"
+            },
+            {
+              "pc_code": "6.5",
+              "description": "Describe the different methods of preparing, cooking, finishing canap\u00e9s and cocktail products"
+            },
+            {
+              "pc_code": "6.6",
+              "description": "Describe how to store cooked and processed canap\u00e9s and cocktail products"
+            },
+            {
+              "pc_code": "6.7",
+              "description": "Discuss first in and first out (FIFO) and the importance of adhering to work and safety standards and the legal requirements"
+            },
+            {
+              "pc_code": "6.8",
+              "description": "Discuss the temperature zone that will affect canap\u00e9s and cocktail products preparation, production, holding and storage"
+            },
+            {
+              "pc_code": "6.9",
+              "description": "State the nutritional value and healthy eating option of canap\u00e9s and cocktail products in the diet"
+            },
+            {
+              "pc_code": "6.10",
+              "description": "Describe the appropriate garnishes, dresses, sauces and glazes for canap\u00e9s and cocktail products"
+            },
+            {
+              "pc_code": "6.11",
+              "description": "Discuss the current trends in relation to canap\u00e9s and cocktail products"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "HTT/FS/013/L3",
+      "title": "SUPPORT MAINTAIN FOOD SAFETY WHEN STORING, PREPARING AND COOKING FOOD",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Keep yourself clean and hygienic",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Wear clean and hygienic clothes, appropriate to the jobs you are doing"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Tie hair back and/or wear appropriate hair covering"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "only wear jewellery and other accessories that do not cause food safety hazards"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "change your clothes when necessary"
+            },
+            {
+              "pc_code": "1.5",
+              "description": "wash your hands thoroughly at appropriate times P6 avoid unsafe behaviour that could contaminate the food you are working with"
+            },
+            {
+              "pc_code": "1.6",
+              "description": "Please report any cuts, boils, grazes, illness and infections promptly to the appropriate person P8 make sure any cuts, boils, skin infections and grazes are treated and covered with an appropriate dressing"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Keep your working area clean and hygienic",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "make sure surfaces and equipment are clean and in good condition"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "use clean and suitable cloths and equipment for wiping and cleaning between tasks"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "remove from use any surfaces and equipment that are damaged or have loose parts, and report them to the person responsible for food safety"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Dispose of waste promptly, hygienically and appropriately"
+            },
+            {
+              "pc_code": "2.5",
+              "description": "identify, take appropriate action on and report to the appropriate person, any damage to walls, floors, ceilings, furniture and fittings"
+            },
+            {
+              "pc_code": "2.6",
+              "description": "Identify, take appropriate action on and report to the appropriate person, any signs of pests"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Store food safely",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Check that food is undamaged, is at the appropriate temperature and within its `use-by date' on delivery"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Look at and retain any important labelling information"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "prepare food for storage and put it in the correct storage area as quickly as necessary to maintain its safety"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "make sure storage areas are clean, suitable and maintained at the correct temperature for the type of food"
+            },
+            {
+              "pc_code": "3.5",
+              "description": "Store food so that cross contamination is prevented, e.g. keep raw and ready-to-eat food separate, keep commonly allergenic foods such as nuts in sealed containers"
+            },
+            {
+              "pc_code": "3.6",
+              "description": "Follow stock rotation procedures"
+            },
+            {
+              "pc_code": "3.7",
+              "description": "safely dispose of food that is beyond its `use-by date' keep necessary records up-to-date"
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Prepare, cook and hold food safely",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Check food before and during operations for any hazards, and follow the correct procedures for dealing with these"
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Follow your organisation's procedures for items that may cause allergic reactions"
+            },
+            {
+              "pc_code": "4.3",
+              "description": "prevent cross-contamination, such as between raw foods, foods already cooking/reheating and ready-to-eat foods"
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Use methods, times, temperatures and checks to make sure food is safe following operations"
+            },
+            {
+              "pc_code": "4.5",
+              "description": "keep necessary records up-to-date"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "HTT/HS/014/L3",
+      "title": "MAINTAIN FOOD SAFETY WHEN PACKAGING PREPARED FOOD",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Maintain Personal Hygiene and Cleanliness",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Wear clean and hygienic clothes suitable for the tasks to be carried out"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Put on appropriate hair covering"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Wear only safe jewellery and other accessories, to avoid food safety hazards"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Change clothes when necessary"
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Wash hands thoroughly whenever it is required"
+            },
+            {
+              "pc_code": "1.6",
+              "description": "Avoid unsafe acts that may contaminate food"
+            },
+            {
+              "pc_code": "1.7",
+              "description": "Report any cuts, boils, grazes, illness and infections to the right personnel promptly"
+            },
+            {
+              "pc_code": "1.8",
+              "description": "Ensure that any cuts, boils, skin infections and grazes are treated and covered appropriately"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Need for Personal Hygiene",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Explain why clean and hygienic clothes must be worn"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "State why hair must be covered"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Enumerate the different types of protective clothes that are appropriate for different jobs in storage, preparation and cooking food"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Explain the food safety hazards that jewellery and accessories can cause"
+            },
+            {
+              "pc_code": "2.5",
+              "description": "Explain why clothes should be change and when"
+            },
+            {
+              "pc_code": "2.6",
+              "description": "State why hands must be washed at specific instances in Food Preparation Units"
+            },
+            {
+              "pc_code": "2.7",
+              "description": "Describe how to wash hands safely"
+            },
+            {
+              "pc_code": "2.8",
+              "description": "Explain why it is important not to handle food when a person has open injuries"
+            },
+            {
+              "pc_code": "2.9",
+              "description": "State what to do if anyone has an open wound"
+            },
+            {
+              "pc_code": "2.10",
+              "description": "Explain why it is important to report illnesses and infections promptly"
+            },
+            {
+              "pc_code": "2.11",
+              "description": "State why it is even more important to report stomach illnesses"
+            },
+            {
+              "pc_code": "2.12",
+              "description": "Explain why it is important to avoid doing certain things that can contaminate food while handling it"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Work Environment Hygiene",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Ensure that surfaces and equipment are clean and in good condition"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Use appropriate cloth that is clean for wiping and cleaning and cleaning equipment as you work"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Discard any surfaces and equipment that are damaged or that have any lose parts"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Report damaged surfaces, walls, ceilings, furniture, fittings and equipment to the appropriate Personnel"
+            },
+            {
+              "pc_code": "3.5",
+              "description": "Ensure that waste is disposed promptly, hygienically and suitably"
+            },
+            {
+              "pc_code": "3.6",
+              "description": "Identify, take appropriate action on any damage to walls, floors, ceilings, furniture and fittings"
+            },
+            {
+              "pc_code": "3.7",
+              "description": "Identify and act appropriately on any signs of pests"
+            },
+            {
+              "pc_code": "3.8",
+              "description": "Explain why surfaces and equipment must be clean, hygienic and suitable for the intended use before commencing a new task"
+            },
+            {
+              "pc_code": "3.9",
+              "description": "Describe how to sanitize surfaces and work tools before use"
+            },
+            {
+              "pc_code": "3.10",
+              "description": "State why it is important to use only clean and suitable cloths when cleaning before tasks"
+            },
+            {
+              "pc_code": "3.11",
+              "description": "Explain why surfaces, parts of the work place and equipment that are damaged or have loose parts constitute food safety hazards"
+            },
+            {
+              "pc_code": "3.12",
+              "description": "State the types of damage to be alert for"
+            },
+            {
+              "pc_code": "3.13",
+              "description": "Enumerate types of damaged surfaces or equipment that can cause food safety hazards"
+            },
+            {
+              "pc_code": "3.14",
+              "description": "Describe how to deal with damaged surfaces and equipment"
+            },
+            {
+              "pc_code": "3.15",
+              "description": "State the importance of clearing and disposing of waste promptly and safely"
+            },
+            {
+              "pc_code": "3.16",
+              "description": "Describe how to dispose of waste safely"
+            },
+            {
+              "pc_code": "3.17",
+              "description": "State the types of pests that could be found in catering Establishments"
+            },
+            {
+              "pc_code": "3.18",
+              "description": "Describe the signs that signify the presence of pests"
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Storing Food Safely",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Check the freshness, temperature and expiry date of food item"
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Look for any important information on the label and leave it intact"
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Carry out any necessary action to prepare food for storage"
+            },
+            {
+              "pc_code": "4.4",
+              "description": "21. Place food in appropriate storage place or equipment without temperature change"
+            },
+            {
+              "pc_code": "4.5",
+              "description": "Ensure that storage areas for different types of food items are clean, suitable and at the right temperature"
+            },
+            {
+              "pc_code": "4.6",
+              "description": "Prevent contamination while storing food"
+            },
+            {
+              "pc_code": "4.7",
+              "description": "Follow appropriate stock usage procedures"
+            },
+            {
+              "pc_code": "4.8",
+              "description": "Dispose of any expired foods safely"
+            },
+            {
+              "pc_code": "4.9",
+              "description": "Keep all required record up-to-date"
+            },
+            {
+              "pc_code": "4.10",
+              "description": "Explain why it's important to ensure that food items are safe on delivery"
+            },
+            {
+              "pc_code": "4.11",
+              "description": "State why food should be prepared before storage"
+            },
+            {
+              "pc_code": "4.12",
+              "description": "Explain why food must be put in the correct storage area"
+            },
+            {
+              "pc_code": "4.13",
+              "description": "Enumerate the food storage temperatures"
+            },
+            {
+              "pc_code": "4.14",
+              "description": "Explain the importance of keeping storage areas clean and tidy"
+            },
+            {
+              "pc_code": "4.15",
+              "description": "State how to check that food is stored at the correct temperature ."
+            },
+            {
+              "pc_code": "4.16",
+              "description": "Explain why any expired food must be thrown away and not used"
+            },
+            {
+              "pc_code": "4.17",
+              "description": "Explain why it is important to keep raw and ready-to-eat food apart"
+            },
+            {
+              "pc_code": "4.18",
+              "description": "List types of raw and ready-to-eat foods"
+            },
+            {
+              "pc_code": "4.19",
+              "description": "Explain why it is important to have a stock usage policy that rotates stock"
+            }
+          ]
+        },
+        {
+          "lo_num": "5",
+          "description": "Holding",
+          "performance_criteria": [
+            {
+              "pc_code": "5.1",
+              "description": "Inspect food before and during preparation and cooking for any hazards"
+            },
+            {
+              "pc_code": "5.2",
+              "description": "Follow correct procedures for dealing with food hazards"
+            },
+            {
+              "pc_code": "5.3",
+              "description": "Handle different types of food safely to prevent cross-contamination between them"
+            },
+            {
+              "pc_code": "5.4",
+              "description": "Keep all required record updated"
+            },
+            {
+              "pc_code": "5.5",
+              "description": "Follow laid down procedures for items that can cause allergic reactions"
+            },
+            {
+              "pc_code": "5.6",
+              "description": "Use appropriate methods, times and temperatures in order to maintain food safety"
+            },
+            {
+              "pc_code": "5.7",
+              "description": "Describe how to check that food is safe while holding and serving"
+            },
+            {
+              "pc_code": "5.8",
+              "description": "State why and when it is necessary to defrost foods before cooking"
+            },
+            {
+              "pc_code": "5.9",
+              "description": "Explain what to do on discovering any food safety hazards"
+            },
+            {
+              "pc_code": "5.10",
+              "description": "State why thorough cooking and reheating methods should be used"
+            },
+            {
+              "pc_code": "5.11",
+              "description": "Explain how to check that food is thoroughly cooked or safely reheated"
+            },
+            {
+              "pc_code": "5.12",
+              "description": "Explain why it is important to ensure that food is at the right temperature during holding and before service"
+            },
+            {
+              "pc_code": "5.13",
+              "description": "Describe how to safely and thoroughly defrost food"
+            },
+            {
+              "pc_code": "5.14",
+              "description": "Enumerate how to recognize conditions leading to safetyhazards"
+            },
+            {
+              "pc_code": "5.15",
+              "description": "State why it is important to know the foods that can cause allergic reactions"
+            },
+            {
+              "pc_code": "5.16",
+              "description": "Outline the procedure to follow in handling food that can cause allergic reactions"
+            },
+            {
+              "pc_code": "5.17",
+              "description": "Explain what to do if a customer asks if a particular dish is free from a certain food allergy"
+            },
+            {
+              "pc_code": "5.18",
+              "description": "Describe how a raw food can contaminate a ready to eat food and how this can be avoided"
+            },
+            {
+              "pc_code": "5.19",
+              "description": "State the right cooking and re-heating temperatures and times for foods one is working with"
+            },
+            {
+              "pc_code": "5.20",
+              "description": "Enumerate the types of foods that may need to be frozen or stored cold because they are not to be consumed immediately"
+            },
+            {
+              "pc_code": "5.21",
+              "description": "Describe how to store food safely when it is not for immediate consumption"
+            }
+          ]
+        },
+        {
+          "lo_num": "6",
+          "description": "Maintaining Food Safety",
+          "performance_criteria": [
+            {
+              "pc_code": "6.1",
+              "description": "Enumerate how to operate a food safety management system"
+            },
+            {
+              "pc_code": "6.2",
+              "description": "Explain the concept of hazards to food safety in Catering operations"
+            },
+            {
+              "pc_code": "6.3",
+              "description": "Explain why it is important to control food safety hazards in order to reduce or eliminate risks"
+            },
+            {
+              "pc_code": "6.4",
+              "description": "State what may happen if hazards are not controlled"
+            },
+            {
+              "pc_code": "6.5",
+              "description": "List the types of hazards that may occur in a catering operation"
+            },
+            {
+              "pc_code": "6.6",
+              "description": "Enumerate how to control hazards by cooking, chilling, cleaning and the avoiding cross-contamination"
+            },
+            {
+              "pc_code": "6.7",
+              "description": "Explain why monitoring is important"
+            },
+            {
+              "pc_code": "6.8",
+              "description": "List the key stages in the monitoring process"
+            },
+            {
+              "pc_code": "6.9",
+              "description": "State why it is important to know what to do when things go wrong"
+            },
+            {
+              "pc_code": "6.10",
+              "description": "Explain why there are some hazards more important than others"
+            },
+            {
+              "pc_code": "6.11",
+              "description": "State the appropriate personnel to report to if there are food safety hazards"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "HTT/HS/015/L3",
+      "title": "ESTABLISH AND MAINTAIN QUALITY CONTROL BAKED GOODS",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Establish procedures for quality control",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Ensure established procedures are maintained to guarantee quality of menu items in reference to: 9) raw ingredients 10) cooking processes 11) portion control 12) presentation"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Ensure that products and services are consistent and that they meet establishment standards"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Ensure that food items and ingredients match menu description"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "monitor quality",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Apply procedures to monitor quality through: 9) Observation 10) Product evaluation 11) Taste test 12) Seeking feedback"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "solve quality problem",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Identify occurrence and solve problem related to quality control"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Investigate consistency in supplier quality delivery"
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Understand quality control",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Describe the role of quality control in the kitchen production and its relation to overall performance and profitability"
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Describe features and benefits of different quality control methods"
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Describe key areas for monitoring quality"
+            },
+            {
+              "pc_code": "4.4",
+              "description": "State procedures to ensure quality of menu in relation to 9) raw ingredients 10) cooking processes 11) portion control 12) presentation"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "HTT/CW/016/L3",
+      "title": "COUNTER AND TAKEAWAY SERVICE",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Serve customers at the counter",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Give customers information that meets their needs, and promotes organisations\u2019 product and service"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Find out what customers require, and if necessary, inform them about any waiting time"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Process the order promptly"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Use appropriate equipment to serve food and drink items at the recommended temperature"
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Ensure that there are appropriate condiments and accompaniments available for customers"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Understand counter customer service",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Describe safe and hygienic working practices for serving customers and why these are important"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "State the importance of using separate serving equipment for each food item"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Explain the reason behind portion control when serving customers"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "State why food and drink items must be served at the correct temperature"
+            },
+            {
+              "pc_code": "2.5",
+              "description": "Explain why the information given to customers must be accurate"
+            },
+            {
+              "pc_code": "2.6",
+              "description": "Outline the types of unexpected situations that may occur when serving customers and how to deal with them"
+            },
+            {
+              "pc_code": "2.7",
+              "description": "List the types of unexpected situations that may occur when preparing and clearing areas for service and how to deal with them"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Maintain a clean and hygienic work environment",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Keep work area tidy, hygienic, and free from rubbish and food debris during service"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Check that service items are clean and ready for use"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Maintain enough stock of clean service items"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Replenish food and drink items when necessary"
+            },
+            {
+              "pc_code": "3.5",
+              "description": "Arrange food and drink items in an orderly manner"
+            },
+            {
+              "pc_code": "3.6",
+              "description": "Maintain a tidy work area free from irrelevant service items"
+            },
+            {
+              "pc_code": "3.7",
+              "description": "Dispose of refuse as often as required"
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Understand how to maintain counter and service areas",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Describe safe and hygienic working practices for preparing customer service areas for table/tray service"
+            },
+            {
+              "pc_code": "4.2",
+              "description": "State why all items should be checked before service"
+            },
+            {
+              "pc_code": "4.3",
+              "description": "State why menus and promotional items should be checked before use"
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Outline the types of unexpected situations that may occur when preparing and clearing areas and equipment and how to deal with them"
+            }
+          ]
+        },
+        {
+          "lo_num": "5",
+          "description": "Handle and package takeaway meals",
+          "performance_criteria": [
+            {
+              "pc_code": "5.1",
+              "description": "Select appropriate packs for each takeaway item according to the requirements"
+            },
+            {
+              "pc_code": "5.2",
+              "description": "Control packaging speed and accuracy to maintain the required temperature of food."
+            },
+            {
+              "pc_code": "5.3",
+              "description": "Wear appropriate clothing suitable for packaging"
+            },
+            {
+              "pc_code": "5.4",
+              "description": "Inform customers about any waiting time"
+            },
+            {
+              "pc_code": "5.5",
+              "description": "Handle any complaints and issues from customers according to organizational procedures"
+            },
+            {
+              "pc_code": "5.6",
+              "description": "List various types of food that are suitable for each packaging material and which ones are not"
+            },
+            {
+              "pc_code": "5.7",
+              "description": "State why it is important to control speed and accuracy when packing food for takeaway"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "HTT/FD/017/L3",
+      "title": "ESTABLISH AND MAINTAIN QUALITY CONTROL IN FOOD AND BEVERAGE HANDLING",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Establish procedures for quality control",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Ensure established procedures are maintained to guarantee quality of menu items in reference to: raw ingredients cooking processes portion control presentation"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Ensure that products and services are consistent and that they meet establishment standards"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Ensure that food items and ingredients match menu description"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "monitor quality",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Apply procedures to monitor quality through: Observation Product evaluation Taste test Seeking feedback"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "solve quality problem",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Identify occurrence and solve problem related to quality control"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Investigate consistency in supplier quality delivery"
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Understand quality control",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Describe the role of quality control in the kitchen production and its relation to overall performance and profitability"
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Describe features and benefits of different quality control methods"
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Describe key areas for monitoring quality"
+            },
+            {
+              "pc_code": "4.4",
+              "description": "State procedures to ensure quality of menu in relation to raw ingredients cooking processes portion control presentation"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
