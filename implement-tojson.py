@@ -18,11 +18,11 @@ def parse_pdf_to_json(pdf_path, trade_name=None):
     # entirely -- its LOs/PCs then bleed into whichever unit preceded it.
     # Tolerate a single embedded space per segment; the code is stripped
     # of spaces before use.
-    unit_code_pattern = re.compile(r"(?:Unit\s+)?[Rr]eference\s*[Nn]umber:?\s*([A-Z0-9/]+(?:\s[A-Z0-9/]+)*)", re.IGNORECASE)
+    unit_code_pattern = re.compile(r"(?:Unit\s+)?[Rr]eference(?:\s+[Nn]umber)?:?\s*([A-Z0-9/]+(?:\s+[A-Z0-9/]*[0-9/][A-Z0-9/]*)*)", re.IGNORECASE)
     alt_code_pattern = re.compile(r"(?:Qualification|Level)\s+[Rr]eference\s*[Nn]umber:?\s*([A-Z0-9/]+)", re.IGNORECASE)
     unit_title_pattern = re.compile(r"Unit Title\s*[:-]\s*(.*)", re.IGNORECASE)
     lo_pattern = re.compile(r"(?:Learning\s*Outcome|LO)\.?\s*[:\s]*(\d+)\b", re.IGNORECASE)
-    pc_pattern = re.compile(r"^(?:PC\s+)?(\d+\.\d+)$", re.IGNORECASE)
+    pc_pattern = re.compile(r"^(?:PC\s+)?(\d+\.\s*\d+)(?!\d)[.:]?\s*", re.IGNORECASE)
     title_line_pattern = re.compile(r"^TITLE:?\s*(.*)$", re.IGNORECASE)
 
     # A unit heading can wrap onto the following line ("Unit 001:Safety
@@ -496,7 +496,7 @@ def parse_pdf_to_json(pdf_path, trade_name=None):
                     for c_idx, cell in enumerate(clean_row):
                         pc_match = pc_pattern.search(cell)
                         if pc_match:
-                            pc_code = pc_match.group(1)
+                            pc_code = pc_match.group(1).replace(" ", "")
                             last_pc_col_idx = c_idx  # Update the boundary
                             
                             # If the PC code prefix doesn't match current LO, switch to the correct LO
@@ -504,10 +504,8 @@ def parse_pdf_to_json(pdf_path, trade_name=None):
                             if current_lo is None or current_lo["lo_num"] != pc_lo_num:
                                 get_or_create_lo(pc_lo_num)
                             
-                            # Clear all cells matching this PC code to avoid duplicating it
-                            for i in range(len(clean_row)):
-                                if clean_row[i] == cell:
-                                    clean_row[i] = ""
+                            # The code may share a cell with its description.
+                            clean_row[c_idx] = cell[pc_match.end():].strip()
                             
                             current_pc = {
                                 "pc_code": pc_code,

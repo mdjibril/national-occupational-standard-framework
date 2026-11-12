@@ -1,0 +1,1474 @@
+{
+  "trade_name": "NOS Child Care Development",
+  "level": 2,
+  "units": [
+    {
+      "code": "SCD/CCD/001/L2",
+      "title": "INTRODUCTION TO THE ROLE OF EARLY YEARS PRACTITIONER",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": ". Understand the role of the Early Years practitioner.",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Identify knowledge, skills and attributes of Early Year Practitioner (EYP)"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Identify settings which provide Early Years education and care."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Describe an early years practioner"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": ". Understanding how to support children\u2019s physical and personal care needs",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Identify daily needs of children (feeding schedule, changing diapers, helping toilet learning and ensuring personal hygiene)"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Explain physical health and delivery of basic first aid when necessary"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Explain how to manage nap times"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Demonstrate how to deliver basic first aid when necessary"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Understand how to facilitate development and learning in early year environment",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Explain holistic domains development of children"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Describe an enabling learning environment for children\u2019s learning"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Describe how to facilitate learning activities in the early years setting"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "SCD/CCD/002/L2",
+      "title": "LEGISLATIONS (THE LAWS), POLICIES AND PROCEDURES IN EARLY YEARS.",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": ". Understand legislation, policies and procedures in early years environment",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Identify legislation and policy documents in early years"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Explain the current legislation, policies and procedures in early years"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Describe the relationship between legislation, policies and procedures in early years."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": ". Understand the importance of legislation, policies and procedures in early years environment",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Explain importance of legislation, policies and procedures in early years environment"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Identify benefits of working together with others in the context of safeguarding and protection."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Identify benefits of working together with others in the context of health, safety and welfare of children."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": ". Understand the roles and responsibilities of early years practitioners in relation to safeguarding, protection and welfare of children.",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Explain roles and responsibilities of early years practitioners in relation to the safeguarding, protection, health, safety and welfare of children"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Identify boundaries of confidentiality in relation to the"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Discuss key boundaries of confidentiality in relation to safeguarding, health and safety of children."
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Demonstrate the role of early year practitioners to ensure health and safety of children."
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": ". Understand Legislation, policies and procedures of early year practitioner in relation to health and safety of children",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Explain the rights of a child in relation to health and safety."
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Explain the rights of a child in relation to education."
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Explain the right of a child in relation to protection and welfare in the ECCE Centre."
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Discuss health and safety legislation, policies and procedures in the ECCE Centre"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "SCD/CCD/003/L2",
+      "title": "EQUALITY, DIVERSITY AND INCLUSIVE PRACTICE",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": ". Understand equality, diversity and inclusive practice",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Explain equality, diversity and discrimination."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Demonstrate inclusive practice"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Identify policies and procedures relating to equality, diversity and inclusive practice."
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Explain current legislation and codes of practice relating to equality, diversity and inclusive practice."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": ". Understand the legislation and codes of practice that inform equality, diversity and inclusive practice",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Identify sources of information on equality, diversity and inclusion"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Explain the ECCDE practitioner\u2019s roles and responsibilities when supporting equality, diversity and inclusive practice."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Access information and support inclusion."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Understand inclusive practices in early learning environment",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "List goals for inclusion in early years setting"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Demonstrate equality and diversity in a learning environment"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Review adequacy of inclusive resources in early years setting"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "SCD/CCL/004/L2",
+      "title": "SAFEGUARDING AND PROTECTION OF CHILDREN IN ECCDE ENVIRONMENT",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understand the concepts of safeguarding and protection to children in early years’ setting.",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Define safeguarding and protection."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Identify roles of Early Year practitioners in safeguarding and protecting children."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Explain the roles of Early Years practitioners in safeguarding and protecting children"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Demonstrate in a work environment the roles of Early Years practitioner in safeguarding and protecting children."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Recognize signs, symptoms, indicators and behaviors relating to abuse",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Identify the types of abuses children face."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Describe the common types of child-abuse found in their community."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Explain the signs and symptoms of neglect and child abuse."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": ". Understand the role of the Early Years practitioner in safeguarding and protecting children.",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Identify the steps to be taken if harm or abuse is suspected or disclosed."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Demonstrate each step to be taken if harm or abuse is suspected or disclosed"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Report using incident reporting form"
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Understand how to act if harm or abuse is suspected and/or disclosed.",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Identify rights of the child in situations where harm or abuse is suspected or disclosed."
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Identify rights of parents/carers in situations where harm or abuse is suspected or disclosed."
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Describe the rights of the child in situations where harm or abuse is suspected or disclosed."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "SCD/CCD/005/L2",
+      "title": "LANGUAGE AND COMMUNICATION",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understand language and communication needs of children.",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Explain the following: \uf0b7 Speech, \uf0b7 Language, and \uf0b7 Communication."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Explain the stages of language and communication development from birth to 5 years."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Discuss factors that affect language and communication development."
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Discuss the role of the EYPs in meeting current framework requirements for communication and language."
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Work with others to support children\u2019s emergent literacy from birth to 5 years."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": ". Understand language-rich environment.",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Explain language-rich environment."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Identify resources for a language rich environment."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Create a language rich environmentwhich develops the speech, language   and communication of children in own setting."
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Explain how to support children\u2019s Interaction through effective communication."
+            },
+            {
+              "pc_code": "2.5",
+              "description": "Support the development of speech, language and communication of children at different age levels."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": ". Understand appropriate methods of documentation in difficult, complex and sensitive issues in communication",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Explain how to handle difficulties in using the child\u2019s preferred communication style"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Demonstrate how to communicate difficult, complex and sensitive issues"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Use appropriate methods to record and report children communication issues"
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": ". Understand strategies which support emergent literacy.",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Discuss strategies to support the development of emergent literacy."
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Identify strategies to enhance speech, language and communication development group learning and socialization."
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Explain strategies to plan activities which encourage speaking and listening and digital literacy."
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Demonstrate activities to promote the development of children’s reading and writing skills."
+            },
+            {
+              "pc_code": "4.5",
+              "description": "Discuss the role of the Early Years practitioner when supporting children with speech, language and communication delay"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "SCD/CCD/006/L2",
+      "title": "LESSON PLANNING IN EARLY YEARS",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": ". Understand the concept of lesson planning",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Define the concept of lesson planning in early years setting."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Explain how to identify the objectives of a lesson plan"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Discuss how SMARTER criteria can be used in developing effect lesson plan."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Develop lesson plan",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Develop a lesson plan in early years based on the following criteria: \uf0b7 Entry Behavior \uf0b7 Lesson objective \uf0b7 Learner need \uf0b7 Resources and material \uf0b7 Location \uf0b7 Lesson introduction \uf0b7 Learner\u2019s engagement \uf0b7 How teaching and delivery will be presented \uf0b7 Time for learner questions and practice \uf0b7 Ending the lesson How lesson will be accessed and evaluated. etc"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Discuss why lesson planning is vital in ECCDE."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Demonstrate use of lesson plan in your subject delivery"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Understand the concept of unit planning for teaching",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Develop a Unit Plan that will describe vision, focus, lesson objectives and learners’ needs"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Identify resources for a Lesson Unit in early years"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Develop a Unit Plan in Early Years forteaching of One Term"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "SCD/CCD/007/L2",
+      "title": "CHILDREN\u2019S LEARNING PERSPECTIVES: PLAY",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understand theoretical perspectives in relation to children\u2019s learning and development.",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Explain different ways children learn."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Describe some theoretical perspectives in relation to children\u2019s learning and development."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Explain strategies to promote children\u2019s learning."
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Explain the benefits of an international approach to children\u2019s learning."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": ". Understand the role of play in children\u2019s learning and development.",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Define play in relation to children\u2019s learning and development"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Explain the children\u2019s rights in relation to play."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Classify play into types."
+            },
+            {
+              "pc_code": "2.4",
+              "description": "State the characteristics of each type of play."
+            },
+            {
+              "pc_code": "2.5",
+              "description": "Identify resources for each type of play."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": ". Understand play and play environment",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Explain the characteristics of an enabling indoor and outdoor play environment."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Describe the role of play in supporting children\u2019s learning and development."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Explain the impact of play deprivation on children\u2019s learning and development."
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Prepare Early Years settings to support children\u2019s rights to play."
+            },
+            {
+              "pc_code": "3.5",
+              "description": "Explain the role of the Early Years practitioner in supporting children\u2019s socialization within play environments."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "SCD/CCD/008/L2",
+      "title": "SUPPORT HEALTHY LIFESTYLE FOR CHILDREN THROUGH THE PROVISION OF FOOD AND NUTRITION",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "impact of food and nutrition on children\u2019s health and development.",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Explain healthy eating habits"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Identify national and local initiatives which promote healthy eating."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Describe national and local initiatives which promote healthy eating"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Explain food and drink requirements in relation to current frameworks."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": ". Understand how food choices impact health and development during pre-pregnancy, pregnancy and breastfeeding. . Understand the nutritional needs of children.",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Explain the impact on health and development of food choices during: pre-pregnancy, pregnancy and breastfeeding."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Explain the nutritional value of the main food groups."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Use current government guidance to identify the nutritional needs of babies until they are fully weaned."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Understand the nutritional needs of children.",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Identify the nutritional requirements of children aged: - 1-2 years - 2-3 years - 3-5 years"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Apply strategies to encourage healthy eating."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Explain the impact of poor diet on children\u2019s health and development in the short and long term."
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Identify reasons for special dietary requirements, keeping and sharing coherent records regarding special dietary requirements."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "SCD/CCD/009/L2",
+      "title": "PLANNING, OBSERVATION AND ASSESSMENT IN ECCDE",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "child centered planning.",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Explain child-centered planning"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Explain ways of identifying children\u2019s individual needs and interests to support effective planning."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Explain how to work with other professionals, parents and carers to support child centered planning."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": ". Understand Observation and assessment cycle when working with children.",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Discuss observation and assessment"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Describe how observation is used for early intervention"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Explain how to review the environment"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Discuss how observation is used during transition"
+            },
+            {
+              "pc_code": "2.5",
+              "description": "Explain how observation is used when working in partnership with other stakeholders"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Understand professional practice in relation to the observation of children.",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Explain the need for confidentiality and objectivity during the observation process."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Discuss the reasons for maintaining accurate and coherent records and reports."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "State the factors to consider when observing children"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Explain the need for objectivity when observing children."
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Understand Observation methods in relation to current frameworks.",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Identify observation and planning requirements in relation to current framework"
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Explain the following observation methods: - media/photographic/video/audio recorders - snapshot/post it - narrative/written record - checklists - event sample - time sample - Sociogram - target child - child tracker / movement record"
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Use of the above methods within the classroom"
+            }
+          ]
+        },
+        {
+          "lo_num": "5",
+          "description": "Understand the skills required by the Early Years Practitioner when observing children.",
+          "performance_criteria": [
+            {
+              "pc_code": "5.1",
+              "description": "Explain the required skills by the Early Years Practitioner When Observing Children"
+            },
+            {
+              "pc_code": "5.2",
+              "description": "Demonstrate the Required Skills by the Early Years Practitioner When Observing Children"
+            },
+            {
+              "pc_code": "5.3",
+              "description": "Follow organisational policy and procedures when planning and observing children"
+            }
+          ]
+        },
+        {
+          "lo_num": "6",
+          "description": "Understand the role of observation in assessment cycle..",
+          "performance_criteria": [
+            {
+              "pc_code": "6.1",
+              "description": "State the role of observation, assessment and planning cycle to shape activities, opportunities and experiences in an Early Years setting."
+            },
+            {
+              "pc_code": "6.2",
+              "description": "List the benefits of undertaking assessmentfor: - the child -Early Years practitioners -other professionals"
+            },
+            {
+              "pc_code": "6.3",
+              "description": "Discuss how tracking children's progress can enhance learning."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "SCD/CCD/010/L2",
+      "title": "TEAM WORK",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": ". Understand the principles of teamwork in relation to ECCDE setting.",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Define teamwork"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Identify the principles of teamwork."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Explain the benefits of teamwork."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Understand how to work in a team.",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Explain the roles of others in teamwork when - Meeting children\u2019s additional needs - Safeguarding children - Supporting children\u2019s transition"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Explain benefits of working in partnership with parents/Caregivers"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Demonstrate how to work in a team in your workplace."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Understand challenges to teamwork",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Identify barriers to teamwork."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Explain ways to overcome barriers when working in a team"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Explain support which may be offered to your team members and parents of children."
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Understand recording, storing and sharing information in relation to teamwork.",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Identify records to be completed in relation to teamwork."
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Explain reasons for accurate and coherent record keeping."
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Explain the reasons for confidentiality when maintaining records."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "SCD/CCD/011/L2",
+      "title": "COMMUNICATION",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understand how to communicate required information effectively",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Define communication in a ECCDE setting"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Explain ways of communicating"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "State ways of communicating effectively"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Understand how to communicate to meet the need and preferences in a setting",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Identify reasons why people communicate"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Explain how communication affects all aspects of own practice"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Use communication methods that meet individuals\u2019 communication needs and preferences."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Understand the challenges of effective communication in a setting",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Identify challenges of communication in a setting"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Explain how communication challenges affect own practice"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Describe how communication challenges can be resolved"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "SCD/CCD/012/L2",
+      "title": "RECORD KEEPING AND REPORTING IN ECCDE",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": ". Understand the types of Records in ECCDE setting",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Identify the types of Records in ECCDE setting"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Discuss the importance of keeping Records"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Demonstrate the process of Keeping Records"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": ". Understand how to maintain confidentiality in Keeping Records.",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Explain confidentiality in relation to record keeping and reporting."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Identify information to be kept confidentially"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Discuss best practices for Maintaining Confidentiality"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "List the importance of Confidentiality in Record Keeping and Reporting"
+            },
+            {
+              "pc_code": "2.5",
+              "description": "State how to maintain confidential records in line with organizational procedures in relation to: - Health and safety - security - accidents - incident - daily registers - medication - special dietary requirements - planning observation and assessment."
+            },
+            {
+              "pc_code": "2.6",
+              "description": "Demonstrate the process of record keeping and reporting confidentially"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Understand how to maintain accurate and coherent records in line with organizational requirements",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Describe how to complete records."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Describe how to store records in line with organizational requirements"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Describe how to share information in line with organizational requirements"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Demonstrate how records are completed, stored and shared information"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "SCD/CCD/0013/L2",
+      "title": "PROFESSIONAL DEVELOPMENT IN ECCDE",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": ". Understand professional development opportunities and training needs.",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Identify types of Professional Development Opportunities in Early Years."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Identify the opportunity(ies) they would like to explore"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Examine what to be considered when addressing training needs"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Plan to participate in one of the opportunities within 3 Months"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": ". Understand how to recognize own professional developmental and training needs.",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Differentiate between Continuing Professional Development and Professional Development Plan"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Identify ways to ensure Continuing Professional Development"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Identify ways to create a Professional Development Plan"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Discuss a Professional Development Action Plan"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": ". Initiate action for continuing professional development.",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Identify major components of Curriculum Vitae (CV)"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Develop a Personal Curriculum Vitae (CV)"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Discuss the content of the Curriculum Vitae in the setting"
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Understand reflective practice in professional development ",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Identify how reflective practice Supports the Professional Development of the Early Years Practitioner"
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Identify how reflective practice supports improved outcomes for children"
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Identify the methods of Reflective Practice"
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Engage in Reflective Practice"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "SCD/CCD/014/L2",
+      "title": "CHILDREN SCHOOL READINESS",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": ". Understand the factors affecting children\u2019s school readiness",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Define school readiness"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Identify factors that affect school readiness"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Support children\u2019s language and communication needs in preparation for school readiness."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": ". Understand areas of Child\u2019s learning and development in relation to children\u2019s school readiness",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Identify children\u2019s areas of development and learning"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Explain children\u2019s areas of development and learning."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Discuss ways in which these areas of learning support children\u2019s school readiness"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": ". Understand the role of early years practitioner and how to work collaboratively with others in relation to children school readiness.",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Explain the role of early years practitioners in relation to children\u2019s school readiness."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Describe how to work collaboratively with others (parents, carers, and families) to support school readiness"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Identify key multi-agency partners involved in supporting school readiness"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Demonstrates ability to apply collaborative working practices to support children\u2019s transition into school"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "SCD/CCD/015/L2",
+      "title": "SOCIAL SKILLS AND CHILDREN\u2019S BEHAVIOUR",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understand children\u2019s play environment",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Explain \u2018the play environment\u2019."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Explain how environments support play."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Explain how to work with others to create enabling play environments in early years settings."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": ". Understand how Early Years practitioner supports children\u2019s behavior and socialization within play environment",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Identify positive behaviour"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Explain the impact of modelling positive behaviors on children."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Explain the practitioner\u2019s role in supporting children\u2019s behaviour and socialization"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": ". Understand children\u2019s behavior and socialization within play environments.",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Describe how to model positive behavior"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Identify and collect information needed in creating an activity that supports Children\u2019s socialization."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Carryout an activity that supports children\u2019s socialization"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Reflect on your own role in supporting children\u2019s positive behavior and socialization within play environment."
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": ". Understand enabling play environment which meets the age, stage and needs of children to enhance their social behaviour",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Explain an enabling play environment that meets the age, stage and other needs of children"
+            },
+            {
+              "pc_code": "4.2",
+              "description": "State stages involved in creating an enabling social environment for children"
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Reflect on the role of EYP in creating enabling play environment that enhances child\u2019s socializing"
+            }
+          ]
+        },
+        {
+          "lo_num": "5",
+          "description": "Understand policies and procedures relating to children\u2019s positive behaviour",
+          "performance_criteria": [
+            {
+              "pc_code": "5.1",
+              "description": "Identify policies and procedures relating to children\u2019s positive behaviour."
+            },
+            {
+              "pc_code": "5.2",
+              "description": "Explain policies and procedures"
+            },
+            {
+              "pc_code": "5.3",
+              "description": "Explain the need for consistent approach in applying boundaries and guidelines for children\u2019s behaviour"
+            }
+          ]
+        },
+        {
+          "lo_num": "6",
+          "description": "Understand inappropriate behaviour.",
+          "performance_criteria": [
+            {
+              "pc_code": "6.1",
+              "description": "Identify inappropriate children\u2019s behaviour."
+            },
+            {
+              "pc_code": "6.2",
+              "description": "Explain procedures for reporting inappropriate behaviour when necessary"
+            },
+            {
+              "pc_code": "6.3",
+              "description": "Use agreed strategies for dealing with inappropriate behaviour."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "SCD/CCD/016/L2",
+      "title": "CHILDREN\u2019S PHYSICAL CARE AND DEVELOPMENT",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": ". Understand the physical care needs of children.",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Describe routine physical care needs for children in relation to: - nappy changing - toilet training - washing and bath time - skin, teeth and hair - meal times"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Explain the role of the early year\u2019s practitioner during: - nappy changing - toilet training - washing and bath time - care of skin, teeth and hair - meal times."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Demonstrate how to carry out the following: - nappy changing - toilet training - washing and bath time - skin, teeth and hair - meal times"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": ". Understand hygienic practices in early years setting",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Identify the causes of infection"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Describe how to prevent the spread of infection."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Follow hygienic practices to control the spread of infection."
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Explain how poor hygiene may affect the health of babies in relation to: - preparing formula feeds - sterilization of feeding equipment/utensils"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": ". Understand children\u2019s needs of rest and sleep",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Explain the rest and sleep needs of children from babyhood to preschool age."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Make provision for children to sleep and rest when the need arises"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Identify safety precautions required to prevent injury"
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": ". Understand child immunization need",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Outline the reasons for immunisation."
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Explain the reasons why children should be immunized"
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Identify the immunisation schedule."
+            }
+          ]
+        },
+        {
+          "lo_num": "5",
+          "description": ". Understand Physical Exercises to Support Proper Growth and Development",
+          "performance_criteria": [
+            {
+              "pc_code": "5.1",
+              "description": "Describe physical exercises and body awareness"
+            },
+            {
+              "pc_code": "5.2",
+              "description": "Discuss cognitive, emotional and social well-being of children"
+            },
+            {
+              "pc_code": "5.3",
+              "description": "Explain how to support and promote physical exercises of children in early years setting"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "SCD/CCD/017/L2",
+      "title": "SUPPORT HEALTHY LIFESTYLES FOR CHILDREN THROUGH EXERCISE",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": ". Understand children\u2019s need for exercise",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Identify the benefits of exercise for children"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Identify the requirements of current frameworks for outdoor access and regular exercise for children"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Discuss national and local initiatives which promote children\u2019s exercise."
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Describe benefits of working in partnership with parents/carers in relation to supporting children\u2019s exercise."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": ". Understand inclusive practice in relation to the use of provision for children\u2019s exercise.",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Explain a local indoor provision in relation to inclusive practice."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Discuss a local outdoor provision in relation to inclusive practice."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Setup an outdoor provision in relation to inclusive practice."
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Setup an indoor provision in relation to inclusive practice."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Understand children’s exercise in an outdoor space.",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Plan an activity which supports children\u2019s exercise in an outdoor space"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Implement an activity which supports children\u2019s exercise in an outdoor space."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Reflect on an activity which supports children\u2019s exercise in an outdoor space."
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Make recommendations for the outdoor provision for own setting."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "SCD/CCD/018/L2",
+      "title": "CHILD DEVELOPMENT FROM CONCEPTION TO FIVE YEARS",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "development from conception to birth",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Identify stages of development from conception to birth."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Describe stages of development from conception to birth."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Describe factors that may impact upon the development of the baby during: - pre-conception - each stage of pregnancy"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Understand stages and sequences of development from birth to five years.",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Identify stages and sequences of development from birth to five years in the following areas: - cognition neurological and brain development. - speech, language and communication. - physical Development. - Personal, social and emotional development."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Explain holistic development."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "List factors which influence children\u2019s development."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Plan opportunities for children\u2019s learning and development from birth to 5 years.",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": ". Plan opportunities for children from birth to 5 years in relation to cognitive development."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Plan opportunities for children from birth to 5 years in relation to speech, language and communication development."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Plan opportunities for children from birth to 5 years in relation to social and emotional development."
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Understand the role of the Early Years practitioners in promoting child development from birth to five years.",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Identify key responsibilities of the practitioner in promoting physical, cognitive, language, social, and emotional development."
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Explain the role of the Early Years practitioner in supporting children's holistic development."
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Describe how working in partnership with parents/carers enhances children\u2019s learning and development"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
