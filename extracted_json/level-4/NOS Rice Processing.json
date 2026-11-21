@@ -1,0 +1,1184 @@
+{
+  "trade_name": "NOS Rice Processing",
+  "level": 4,
+  "units": [
+    {
+      "code": "AGP/RCP/001/L4",
+      "title": "Health and Safety in Rice Processing Environment",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Work safely in a rice processing environment",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Demonstrate safe work practices as obtained along the rice processing value chain"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Interpret safety precautionary signs and symbols in rice processing plant"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Enforce correctly the use of safety signs and symbols"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Demonstrate safe work practices in rice processing plant"
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Identify in accordance with health and safety practices"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Comply with safety standards in rice processing environment",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Identify work environment hazards"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Identify various types of hazards and risks associated with rice processing"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Interpret safety standards in rice farms and processing facilities"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Use safety tools, materials and equipment in rice processing facilities"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Apply personal protective equipment (PPE) in rice processing facilities",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Identify the types of PPEs required for rice processing plants"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Select appropriate PPE for rice processing plants"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Demonstrate the use of PPE"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Maintain PPE before or after use"
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Response to accidents/injury in rice processing plants",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Enforce the use of first aid facility"
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Use basic first aid materials"
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Report incidences of accident/injury to the appropriate supervisor"
+            }
+          ]
+        },
+        {
+          "lo_num": "5",
+          "description": "Apply safe work habit and clean work environment in rice processing plants",
+          "performance_criteria": [
+            {
+              "pc_code": "5.1",
+              "description": "Enforce the use of safe access and exit routes in the work environment"
+            },
+            {
+              "pc_code": "5.2",
+              "description": "Demonstrate the use of appropriate working tools, materials and equipment"
+            },
+            {
+              "pc_code": "5.3",
+              "description": "Enforce the use of tools and equipment safely in accordance with standard instructions"
+            },
+            {
+              "pc_code": "5.4",
+              "description": "Keep all tools, equipment and unused materials appropriately in the store stored"
+            },
+            {
+              "pc_code": "5.5",
+              "description": "Carry out general housekeeping of work environment"
+            },
+            {
+              "pc_code": "5.6",
+              "description": "Dispose all wastes appropriately to designated waste facilities"
+            }
+          ]
+        },
+        {
+          "lo_num": "6",
+          "description": "Comply with standards of lifting, loading/offloading and stacking of materials in rice processing facilities",
+          "performance_criteria": [
+            {
+              "pc_code": "6.1",
+              "description": "Demonstrate lifting and stacking techniques"
+            },
+            {
+              "pc_code": "6.2",
+              "description": "Demonstrate lifting techniques in loading and offloading of materials manually"
+            },
+            {
+              "pc_code": "6.3",
+              "description": "Demonstrate correct lifting and loading techniques mechanically"
+            },
+            {
+              "pc_code": "6.4",
+              "description": "Stack materials correctly"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "AGP/RCP/002/L4",
+      "title": "Communicate effectively in rice processing environment",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Apply the use of a non-complex communication system in a work environment",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Use verbal means to pass on necessary information"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Use non-verbal means to convey necessary information e.g. body language, signs"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Interpret symbols and signs appropriately"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Source for information in a work environment",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Illustrate the source of information in the work environment"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Relate effectively with the source of information"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Use different information flow systems in a work environment"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Analyze information gathered to avoid challenges in a work situation"
+            },
+            {
+              "pc_code": "2.5",
+              "description": "Report findings appropriately in accordance with laid down procedures in the work environment i.e. Cards, Flip Chart"
+            },
+            {
+              "pc_code": "2.6",
+              "description": "Use simple communication gadget like mobile phones and table phones"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Apply various means of communication in a work environment",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Enforce the use of various communication equipment in the work environment."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Utilize effectively the various communication equipment in a work environment"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Pass information effectively to the right channel"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Obey instructions in line with ethics of the work environment"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "AGP/RCP/003/L4",
+      "title": "Teamwork",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Positive working relationship with colleagues",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Develop cordial working relationship with colleagues"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Recognize the importance of relating with other people in a way that makes them feel valued and respected"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Assist team members when required."
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Report to the appropriate personnel when request for assistance fall outside area of responsibility."
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Communicate information to colleagues about individual work that may affect team work"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Take responsibility within the team",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Recognize own role and responsibilities within a team"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Perform individual tasks in line with the team\u2019s rules and regulations."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Participate effectively in teamwork."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Compliance with policy of organisation",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Interpret organisational code of conduct"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Work in line with organisational standard"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Enforce organisational code of practice"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Adhere strictly to instructions given by the Management"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "AGP/RCP/004/L4",
+      "title": "Raw Materials Quality Control Checks",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Apply sampling procedure for raw material quality control checks of paddy rice.",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Carry out sampling of raw materials for quality control checks in paddy rice"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Conduct sampling of raw materials for quality control checks in paddy rice using standard sample size"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Carry out the storage of samples meant for raw materials quality control checks in paddy rice"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Apply physical analysis in raw material quality control checks of paddy rice",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Carry out the physical inspection (visual checks) to check for the uniformity or consistency in size, shape and maturity of grains"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Carry out the physical inspection (visual checks) to check for the colour and smell"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Carry out the physical inspection (visual checks) to check for the damaged or insect-infested grains"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Carry out the physical inspection (manual checks) to check for foreign materials such as stones, mud, balls, weed seeds and straw"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Perform moisture content test for raw material quality control checks",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Carry out calibration of the moisture meter as based on the user manual"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Carry out moisture content test using the calibrated moisture meter"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Document results in log books"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Conduct routine maintenance on the moisture meter"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "AGP/RCP/005/L4",
+      "title": "Pre-cleaning of Paddy Prior to Parboiling",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Apply the steps involved in pre-cleaning of paddy rice",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Carry out pre-cleaning screening"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Carry out aspiration"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Perform sieving"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Apply magnetic separation paddy rice"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Demonstrate manual method of pre-cleaning paddy rice",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Carry out washing"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Perform hand sorting"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Carry out drying"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Apply the automated method of pre-cleaning paddy rice",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Sieve paddy rice using vibration system screen"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Clean paddy rice using aspiration system"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Perform out cleaning using magnetic separation"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Carry out cleaning using destoning system"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "AGP/RCP/006/L4",
+      "title": "Parboiling of Paddy Rice",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Apply the process of parboiling of paddy rice using manual method",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Clean the paddy rice to remove impurities"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Soaking the paddy rice in water (typically 4-8 hours)"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Carry out steaming of the paddy rice in a vessel with boiling water"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Dry the parboiled paddy rice (sun drying or using a dryer)."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Apply the process of parboiling of paddy rice using automated method",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Clean remove impurities using automated cleaners"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Soak the paddy rice in water in automated soaking tanks with controlled temperature and time"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Steam the paddy rice under controlled pressure and time using automated steamers"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Dry parboiled paddy rice using automated dryers with controlled temperature and airflow"
+            },
+            {
+              "pc_code": "2.5",
+              "description": "Cool the dried paddy rice before milling"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Maintain equipment for parboiling paddy rice",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Carry out periodic cleaning of soaking and cooking tanks"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Perform routine maintenance of equipment"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Observe safety precautions and proper handling of tools and equipment such as hot surface, steam pipes and cooking tanks"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Check conduits regulator for clogging, wear and tear"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "AGP/RCP/007/L4",
+      "title": "Pre-Milling of Paddy Rice",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Execute magnetization processes to remove metallic impurities",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Carry out magnetization process of paddy rice"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Carry out periodic cleaning of the magnetizer"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Determine metal presence in paddy rice"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Record findings in log book"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Apply the process of seed cleaning",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Carry out seed cleaning process of paddy rice"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Carry out periodic cleaning of the seed cleaner"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Evaluate cleaned paddy rice"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Carry out waste disposal according to legal requirement"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Perform the process of husking paddy rice",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Carry out husking of paddy rice"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Check worn rubber rolls on the husker"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Replace worn rubber rolls on the husker as when due"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Perform proper waste management of husk"
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Apply the process of destoning paddy rice",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Carry out destoning of paddy rice"
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Evaluate destoned paddy rice"
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Carry out waste disposal according to legal requirement"
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Observe safety rules when carrying destoning paddy rice"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "AGP/RCP/008/L4",
+      "title": "Milling of Paddy Rice",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Operate the rice whitener",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Perform whitening of brown rice"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Carryout evaluation and recording of whitening"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Carryout routine maintenance of whitener: a. Inlet/outlet rice; b. Rotary mechanism; c. Abrasive stones."
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Perform proper management of bran"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Operate the rice water polisher",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Carry out polishing of rice"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Check for clogging of water nozzle"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Carry out maintenance of milling rolls and screen/sieve"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Maintain correct humidity level"
+            },
+            {
+              "pc_code": "2.5",
+              "description": "Maintain correct flow rate of rice"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Operate the rice sifter/multi grader",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Carry out sifting/grading"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Carry out maintenance of sifter screen/sieve"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Carry out maintenance of sifter Teflon"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Carryout evaluations of rice grades"
+            },
+            {
+              "pc_code": "3.5",
+              "description": "Record all findings in a log book"
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Operate the rice length grader",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Carry out length grading"
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Carry out maintenance of screen on length grader"
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Maintain length grader motor"
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Maintain length grader belt"
+            },
+            {
+              "pc_code": "4.5",
+              "description": "Record all findings in a log book"
+            }
+          ]
+        },
+        {
+          "lo_num": "5",
+          "description": "Implement the application and maintenance of colour sorter",
+          "performance_criteria": [
+            {
+              "pc_code": "5.1",
+              "description": "Carry out colour sorting"
+            },
+            {
+              "pc_code": "5.2",
+              "description": "Perform maintenance of colour sorter sensor"
+            },
+            {
+              "pc_code": "5.3",
+              "description": "Maintain colour sorter light source"
+            },
+            {
+              "pc_code": "5.4",
+              "description": "Perform maintenance of colour sorter air compressor"
+            },
+            {
+              "pc_code": "5.5",
+              "description": "Record all findings in a log book"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "AGP/RCP/009/L4",
+      "title": "Moisture Content Checks of Processed Rice",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Outline the procedure of Moisture Content Checks for Processed Rice",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Sample of processed rice for testing."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Make decision on which method to use"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "prepare samples for testing according to the method's requirements"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Describe the process of moisture content test"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Perform the Process of Moisture Content Checks using oven-drying method",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Carry out sampling by taking a representative rice sample (about 5-10 grams)"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Perform weighing of the sample and record the initial weight (W ) of the 1 sample using a digital balance."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Set oven temperature to a controlled value (usually 130\u00b0C for rice)"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Dry the sample by placing the sample in the oven for a specified time (e.g., 1-2 hours)"
+            },
+            {
+              "pc_code": "2.5",
+              "description": "Carry out cooling of the sample by transferring it to a desiccator to cool"
+            },
+            {
+              "pc_code": "2.6",
+              "description": "Perform weighing of the dried sample and record the final weight (W ) 2"
+            },
+            {
+              "pc_code": "2.7",
+              "description": "Calculate moisture content: Moisture content (%) = [(W \u2013 W ) / 1 2 W ] \u00d7 100 1"
+            },
+            {
+              "pc_code": "2.8",
+              "description": "Perform routine maintenance of equipment used for moisture content check to ensure accuracy and reliability"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Apply the Process of Moisture Content Checks using moisture meter method following the meter's specification (e.g., insert probe into the sample or place sample in the meter)",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Set the correct grain type (rice) on the moisture meter if applicable"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Carry out sampling by filling the meter's sample cup or chamber with a representative rice sample"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Insert the probe or sample by"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Take the readings by pressing the test button to get the moisture content (%)"
+            },
+            {
+              "pc_code": "3.5",
+              "description": "Take multiple readings for accuracy"
+            },
+            {
+              "pc_code": "3.6",
+              "description": "Record the results by noting the moisture content reading on the meter's display"
+            },
+            {
+              "pc_code": "3.7",
+              "description": "Perform routine maintenance of equipment used for moisture content check to ensure accuracy and reliability"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "AGP/RCP/010/L4",
+      "title": "Bagging, Transportation and Storage of Processed Rice",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Apply the concept of bagging in relation to processed rice",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Carry out selection of branded bags based on rice grades"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Weigh the processed rice to ensure accurate quantity is filled into the branded bag"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Carry out filling of weighed rice into the branded bag using manual filling system"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Use automated bagging machine to fill weighted rice in to branded bag"
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Seal of the bags securely by heat sealing or stitching, to prevent leakage and contamination."
+            },
+            {
+              "pc_code": "1.6",
+              "description": "Inspect the bagged rice to ensure there is no leakage and contamination."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Organise transportation in relation to processed rice",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Comply with food safety regulation and transport guidelines during transportation"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Select suitable transportation mode based on distance, cost, and urgency"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Supervise loading of the rice into transport vehicles (trucks, containers, etc.)."
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Supervise proper securing (e.g., palletized, strapped) for transport"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Apply the concept of storage in relation to processed rice allows easy inspection and food-grade compliant",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Carry out pre-storage checks to ensure rice is properly cooled and dried to safe moisture levels before storage"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Inspect storage facilities to ensure warehouses or containers are clean, dry, pest-free, have good airflow,"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Carry out temperature and humidity control to maintain suitable conditions (cool, dry environment) to prevent spoilage and pest issues."
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Perform pest control measures to prevent pest infestation (e.g., screens, fumigation if needed)"
+            },
+            {
+              "pc_code": "3.5",
+              "description": "Use stock rotation and monitoring by practicing FIFO (first-in, first-out) and regularly check for quality i.e. moisture content and infestation"
+            },
+            {
+              "pc_code": "3.6",
+              "description": "Carry out protection from contaminants by storing away from chemicals, strong odours etc."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "AGP/RCP/011/L4",
+      "title": "Rice Powder/Flour Production",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Assess the process of rice powder/flour production using wet method",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Carry out the selection and preparation of raw rice"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Perform Soaking and dehydrating of raw rice"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Carry out milling or grinding and sieving. Repeat until larger grade are exhausted"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Dry the rice powder or flour"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Assess the process of rice powder/flour production using dry method",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Carry out the selection and preparation of raw rice"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Perform milling or grinding and sieving or separation"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Repeat milling or grinding and sieving or separation process until lager grades are exhausted"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Monitor the process of packaging and storage of rice powder/flour",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Select branded packaging material"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Accurately weigh the rice powder or flour to ensure correct quantity is filled into the branded packaging material"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Fill weighed rice powder/flour into the branded packaging material using manual filling system"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Carry out filling of weighed rice powder/flour into branded packaging material using automated bagging machine"
+            },
+            {
+              "pc_code": "3.5",
+              "description": "Seal packaging material securely by heat sealing or stitching, to prevent leakage and contamination."
+            },
+            {
+              "pc_code": "3.6",
+              "description": "Inspect the bagged rice powder/flour to ensure there is no leakage and contamination."
+            },
+            {
+              "pc_code": "3.7",
+              "description": "Observe proper handling of packaging material according to standards"
+            },
+            {
+              "pc_code": "3.8",
+              "description": "Carry out routine maintenance of equipment"
+            },
+            {
+              "pc_code": "3.9",
+              "description": "Observe safety rules and regulations"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "AGP/RCP/012/L4",
+      "title": "Production Planning",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Apply the process of Pre-production Planning in rice processing",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Identify the stages of pre-production planning"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Identify necessary resources for rice processing e.g. suitable rice varieties, processing equipment etc."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Carry out rational resource allocation"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Carry out appropriate budget estimation"
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Carry out profitability analysis"
+            },
+            {
+              "pc_code": "1.6",
+              "description": "Comply with relevant regulations and standards"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Perform the process of post-harvest handling in production planning",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Implement effective cleaning and sorting procedures to remove impurities and damaged grains"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Ensure paddy is dried to safe moisture levels (between 12% to 14%) to prevent spoilage"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Plan storage facilities that are clean, dry, ventilated and pest-free"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Use efficient transportation facilities"
+            },
+            {
+              "pc_code": "2.5",
+              "description": "Keep routine/regular records of all operations"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Apply the process of rice milling operations in production planning",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Outline the process of rice milling operations"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Identify necessary resources required for milling e.g. quality paddy and efficient machinery/equipment"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Plan to prioritize safety of operators"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Plan a maintenance schedule"
+            },
+            {
+              "pc_code": "3.5",
+              "description": "Carry out appropriate cost benefit analysis"
+            },
+            {
+              "pc_code": "3.6",
+              "description": "Plan for efficient handling and utilization of by-products e.g., bran, husk, broken"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "AGP/RCP/013/L4",
+      "title": "Team Management",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Apply the concept of planning and organization in team management",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Establish goals and specific objectives"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Assign roles to team members"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Allocate resources effectively to meet goals e.g., personnel, budget and equipment"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Apply the concept of communication in team management",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Identify the principles of communication in team management"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Establish free and consistent flow of information"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Apply the concept of feedback monitoring in team management"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Evaluate the performance and development in team management",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Provide regular and constructive feedback"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Encourage training and retraining of team members"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Encourage recognition of outstanding performance of team members"
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Prepare task delegation schedule S/N 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Assign the right task to team members as appropriate e.g. based on skills"
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Ensure that team members take responsibility for delegated tasks"
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Ensure that delegated members communicate progress and issues promptly NAME OF TOOL OR EQUIPMENT QUANTITY Intake Screen 10 Magnet Trap 5 Seed cleaner/Drum Sieve De-stoner 4 Blower/Aspirator Soaking Tanks Cooking Tank/Cooker Driers Bin (Tampering/Storage) Hoppers/Elevators/Conveyors Seed Cleaners/Vibro Huskers 6 Whiteners Silky Polisher/Water Polisher Sifter/Multi Grader Length Grader 3 Sorter (Colour Sorter) Packaging Equipment (Scale, Sewing Machine) Personal Protective Equipment (PPE) Kits 50 Steam Boiler Air Compressor First Aid Box Tool Box Pallets (Rice Bran Pelletizer) Power Source Pallet Truck/Fork Lift 2 Tarpaulin Oven Drier Digital Weighing Balance Desiccator Moisture Meter Paddy tester (Mini for Quality Control Checks) Paddy husker (Mini for Quality Control Checks) Solar Dryer Electric Dryer Bubble Dryer Multi-purpose Dryer ADDRESS EMAIL Tgst. Ibrahim Bala Yusuf Government Technical College, Bagauda, ibrahimbyusuf2@gmail.com Sabo Ahmad Sa\u2019id Green Hope Agro Allied and General Business Services, Kano State ambosas@gmail.com Muhammad Zaharaddeen Abubakar UMZA International Farms Limited (Rice Mills), Kano State amuhammadzaharaddeen@gm ail.com Paul Khanoba Baba Rice Mills Limited, Kaduna State accounts@babarice.ng Abubakar Saddeeq Gwadabe Gerawa Rice Mills, Kano State abusaddeeq@yahoo.co.uk Ibrahim Garba Halilu Federal College of Agricultural Produce Technology, Kano, Kano State ighalilu@gmail.com Dr. Salihu Ahmad Pantami Bayero University Kano, Kano State salihupantami@gmail.com sapantami.ssc@buk.edu.ng Dr. Odunayo Seyi Ogundana Federal College of Freshwater Fisheries Technology, New Bussa, Niger State. odunmansam@gmail.com Dr. Danjuma Adamu Ibrahim Niger State College of Agriculture, Mokwa, Niger State. ibrahimadamud@gmail.com Dr. Ademoh Idris Sector Skills Council for Agriculture (SSC4A), FCT Abuja. ademohi@yahoo.com Engr. Dr. O. O. Bello Director, Curriculum Development, NBTE Kaduna engroobello@gmail.com Dr. Kubura Jauro D. Deputy Director, Agricultural Technology Division, NBTE Kaduna kuburagombe@yahoo.com Engr. Hussaini Musa Curriculum Development Department, NBTE Kaduna musahussaini131@gmail.com"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
