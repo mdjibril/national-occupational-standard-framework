@@ -1,0 +1,1486 @@
+{
+  "trade_name": "NOS ICT Digital Automotive Diagnostics",
+  "level": 3,
+  "units": [
+    {
+      "code": "ICT/DAD/001/L3",
+      "title": "HEALTH AND SAFETY IN DIGITAL AUTOMOTIVE DIAGNOSIS",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understand Health and Safety in Digital Automotive Diagnostics.",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Identify relevant health and safety legislation, regulations, and standards applicable to digital automotive diagnostics."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Demonstrate awareness of potential hazards associated with using diagnostic tools and equipment."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Explain the importance of personal protective equipment (PPE) and select appropriate gear for diagnostic tasks."
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Explain emergency procedures: fire safety, first aid, and accident reporting in a workshop environment."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Know Safe Operation of Diagnostic Equipment vehicle maintenance.",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Conduct pre-use checks to ensure all digital diagnostic tools and equipment are in safe working condition."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Perform safe operation of diagnostic devices following the manufacturer\u2019s guidelines."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Implement proper procedures for the disposal of electronic waste and hazardous materials, ensuring environmental compliance."
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Avoid unsafe practices, such as overloading circuits or mishandling live connections, during diagnostic processes."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Understand Safe Working Environment in Digital Diagnostics",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Define a clean and organized workspace"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Identify risks associated with prolonged screen use or repetitive tasks by applying ergonomic principles."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Communicate safety instructions effectively to team members and ensure compliance with workshop protocols."
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Calibrate tools to ensure consistent accuracy and operational safety."
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Understand Safety and Best Practices in Digital Diagnostics",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Demonstrate safety protocols for working with vehicle electronics, including disconnecting the battery, using protective equipment, and avoiding short circuits."
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Practice handling and storing diagnostic data to maintain data accuracy and protect customer information."
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Perform regular maintenance on diagnostic tools, including software updates, calibration, and cleanliness checks."
+            }
+          ]
+        },
+        {
+          "lo_num": "5",
+          "description": "Understand High-Voltage Safety and Handling",
+          "performance_criteria": [
+            {
+              "pc_code": "5.1",
+              "description": "Demonstrate safety precautions when working with high-voltage systems."
+            },
+            {
+              "pc_code": "5.2",
+              "description": "Use proper Personal Protective Equipment (PPE) for HV diagnostics."
+            },
+            {
+              "pc_code": "5.3",
+              "description": "Demonstrate how to safely disable high-voltage systems for diagnostics and repairs."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ICT/DAD/002/L3",
+      "title": "Teamwork",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understand the Roles and Responsibilities within a Team",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Identify the different roles and functions within an IT team (e.g., network engineers, system administrators, software developers)."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Describe the key responsibilities and contributions of each team member."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Recognize the importance of each role in achieving the team's objectives."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Foster Positive Working Relationships within a Team",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Demonstrate techniques for effective interpersonal communication and conflict resolution in a team environment."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Show the ability to provide constructive feedback and actively listen to others' contributions"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Promote inclusivity and collaboration among team members to ensure participation and engagement from all."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Contribute to Team Problem-Solving and Decision-Making",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Participate in group discussions to identify and analyse IT-related problems."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Suggest innovative solutions and support team decision-making processes."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Evaluate the effectiveness of team decisions and propose improvements where necessary."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ICT/DAD/003/L3",
+      "title": "Communication",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Communicate Technical Information Clearly and Accurately",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Explain IT concepts, procedures, and solutions in a manner appropriate to the audience, whether technical or non-technical."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Use industry-standard terminology correctly when describing technical processes"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Adapt communication methods to suit the context, such as written reports, emails, or verbal presentations."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Utilize Digital Communication Tools Effectively",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Demonstrate proficiency in using digital tools for communication, such as email, messaging platforms, and collaboration software (e.g., Slack, Teams)."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Adhere to best practices for professional digital communication, including email etiquette and secure file sharing."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Use collaborative tools to share and receive feedback on documents, code, or project updates."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Listen and Respond Appropriately in a Professional Context",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Demonstrate active listening skills during team discussions or client meetings."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Respond to questions, concerns, and feedback clearly and effectively."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Clarify misunderstandings and summarize discussions to ensure mutual understanding."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ICT/DAD/004/L3",
+      "title": "FUNDAMENTALS OF DIGITAL AUTOMOTIVE DIAGNOSIS",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understand the evolution of digital automotive diagnostics.",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Explain the fundamentals of automotive diagnostic systems."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Explain the role of technology in modern vehicle diagnostics."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Explain the evolution of diagnostic technology"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Know digital automotive diagnostics and modern vehicle maintenance.",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Explain the working principles of digital automotive diagnostics."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Identify components of digital automotive diagnostics"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Outline the importance of digital automotive diagnostics in modern vehicle maintenance"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Discuss the role of digital automotive diagnostics in maintaining the reliability, performance, and safety of modern vehicles."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Know different Vehicles and Systems",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Explain vehicles models from different manufacturers."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Explain vehicles with various types of electronic control systems (ECUs), sensors, and communication networks."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Identify faults and diagnostics practice for range of vehicles."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ICT/DAD/005/L3",
+      "title": "DIGITAL DIAGNOSTIC TOOLS AND EQUIPMENT",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Know digital diagnostic tools and equipment.",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Explain different diagnostic tools; \u2022 Code readers \u2022 Scan tools \u2022 Oscilloscopes."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Describe the functions of each type of tool in 1.1"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Use tools in 1.1 for diagnostic."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Understand Diagnostic Tool Functions",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Perform reading and clearing Diagnostic Trouble Codes (DTCs)"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Explain bidirectional controls"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Diagnose a Non-Functional Cooling Fan"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Carryout data logging"
+            },
+            {
+              "pc_code": "2.5",
+              "description": "Perform ECU reprogramming"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Operate Diagnostic Tools",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Connect diagnostic tools to a vehicle using the appropriate interfaces and connectors."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Perform retrieving diagnostic procedure."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Interpret Diagnostic Trouble Codes (DTCs)"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Perform live data monitoring."
+            },
+            {
+              "pc_code": "3.5",
+              "description": "Run diagnostic tests on faulty vehicles"
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Understand Data Communication Protocols",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Explain data communication protocols in automotive diagnostics"
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Explain common data communication protocols: \u2022 CAN \u2022 LIN \u2022 FlexRay."
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Explain how the protocols are used in diagnostics to communicate with Electronic Control Units (ECUs) and retrieve data."
+            }
+          ]
+        },
+        {
+          "lo_num": "5",
+          "description": "Know Advanced Systems Diagnostic Tools",
+          "performance_criteria": [
+            {
+              "pc_code": "5.1",
+              "description": "Identify advanced systems diagnostic tools."
+            },
+            {
+              "pc_code": "5.2",
+              "description": "Use diagnostic tools to access and interpret data from hybrid/electric vehicle systems"
+            },
+            {
+              "pc_code": "5.3",
+              "description": "Use diagnostic tools to access and interpret data from Advanced Driver-Assistance Systems (ADAS)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ICT/DAD/006/L3",
+      "title": "VEHICLE COMMUNICATION NETWORKS (CAN, LIN, MOST)",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understand the Fundamentals of Vehicle Communication Networks",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Explain vehicle communication networks"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Explain the Importance of vehicle communication network in modern automotive systems."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Discuss the role of communication protocols in connecting Electronic Control Units (ECUs) and subsystems within a vehicle."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Understand the Principles of Controller Area Network (CAN)",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Describe the structure and operation of Controller Area Network (CAN)."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Perform non-destructive priority-based arbitration"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Explain error detection mechanisms"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Perform data exchange in vehicle systems such as engine control, transmission, braking, and body control modules."
+            },
+            {
+              "pc_code": "2.5",
+              "description": "Interpret CAN messages and signals"
+            },
+            {
+              "pc_code": "2.6",
+              "description": "Identify data transmission across networks."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Know the Local Interconnect Network Protocol (LIN)",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Explain the purpose of LIN as a cost-effective communication protocol for non-critical systems like seat adjustments, and HVAC."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Explain LIN as a cost-effective communication protocol for low-speed systems like window controls."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Demonstrate how LIN operates as a master-slave network"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Use LIN in fixing Power windows, door locks, and seat positioning in automotive systems"
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Understand the Media Oriented Systems Transport (MOST) Protocol",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Explain MOST"
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Explain the role of MOST in infotainment and multimedia applications within vehicles."
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Use MOST synchronous data transmission to provide high data rates and low latency suitable for multimedia content."
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Differentiate between MOST and other communication protocols in terms of bandwidth, topology, and data handling."
+            }
+          ]
+        },
+        {
+          "lo_num": "5",
+          "description": "Know the relationship between CAN, LIN, and MOST Networks",
+          "performance_criteria": [
+            {
+              "pc_code": "5.1",
+              "description": "Identify the characteristics of CAN, LIN, and MOST networks."
+            },
+            {
+              "pc_code": "5.2",
+              "description": "Describe the selection criteria for using these protocols based on system requirements, data speed, cost, and application type."
+            },
+            {
+              "pc_code": "5.3",
+              "description": "Identify network topologies and how they apply to CAN, LIN, and MOST networks"
+            },
+            {
+              "pc_code": "5.4",
+              "description": "Identify the impact of network topology on data transmission efficiency, reliability, and fault tolerance in vehicle systems."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ICT/DAD/007/L3",
+      "title": "ADVANCED OBD-II AND BEYOND OBD DIAGNOSTICS",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understand OBD-II and Beyond Systems",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Explain the evolution of On-Board Diagnostics II (OBD) systems"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Discuss the regulatory requirements of OBD systems"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Explain the role of OBD-II in emissions control"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Explain the role of OBD-II in vehicle performance"
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Diagnose a hybrid vehicle with a battery issue"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Understand Advanced Diagnostic Techniques",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Demonstrate the use of oscilloscopes scan tools."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Interpret OEM-specific diagnostic data; \u2022 Mode 6 data \u2022 freeze frame data"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Diagnose complex fault codes beyond the standard DTCs : \u2022 P-codes \u2022 B-codes \u2022 C-codes \u2022 U-codes"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Understand Data Analysis and Interpretation",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Analyze real-time data from sensors, actuators, and control modules."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Use Mode $06 (Data return mode) and other advanced OBD-II modes for in-depth diagnostics."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Perform data logging and analysis for intermittent issues"
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Understand Emission Systems Diagnostics",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Diagnose EVAP system issues: \u2022 Leak detection \u2022 Component failures."
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Test catalytic converter efficiency using O and NOx 2 sensors."
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Analyze catalytic converter efficiency using O and NOx 2 sensors."
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Troubleshoot EGR, PCV, emission control systems."
+            }
+          ]
+        },
+        {
+          "lo_num": "5",
+          "description": "Understand Engine Management Diagnostics",
+          "performance_criteria": [
+            {
+              "pc_code": "5.1",
+              "description": "Diagnose ignition system faults using advanced diagnostic techniques."
+            },
+            {
+              "pc_code": "5.2",
+              "description": "Evaluate fuel system performance, \u2022 Injector pulse \u2022 Fuel trims."
+            },
+            {
+              "pc_code": "5.3",
+              "description": "Troubleshoot air intake"
+            },
+            {
+              "pc_code": "5.4",
+              "description": "Troubleshoot turbocharging"
+            },
+            {
+              "pc_code": "5.5",
+              "description": "Troubleshoot variable valve timing systems."
+            }
+          ]
+        },
+        {
+          "lo_num": "6",
+          "description": "Understand Beyond OBD Diagnostics (OBD-III, OEM Systems)",
+          "performance_criteria": [
+            {
+              "pc_code": "6.1",
+              "description": "Explain OEM-specific diagnostics and the use of manufacturer software."
+            },
+            {
+              "pc_code": "6.2",
+              "description": "Understand telematics and remote diagnostics (e.g., OBD-III)."
+            },
+            {
+              "pc_code": "6.3",
+              "description": "Identify CAN Bus, LIN Bus, and other network communication protocols."
+            }
+          ]
+        },
+        {
+          "lo_num": "7",
+          "description": "know Electrical and Electronic Diagnostics",
+          "performance_criteria": [
+            {
+              "pc_code": "7.1",
+              "description": "Perform voltage drop testing, current ramping, and waveform analysis."
+            },
+            {
+              "pc_code": "7.2",
+              "description": "Diagnose CAN network issues: \u2022 Open circuits \u2022 Shorts \u2022 Signal integrity problems."
+            },
+            {
+              "pc_code": "7.3",
+              "description": "Troubleshoot communication errors between modules."
+            }
+          ]
+        },
+        {
+          "lo_num": "8",
+          "description": "Know Advanced Troubleshooting Techniques",
+          "performance_criteria": [
+            {
+              "pc_code": "8.1",
+              "description": "Use bi-directional controls for component testing: \u2022 Activating fans \u2022 Activating injectors"
+            },
+            {
+              "pc_code": "8.2",
+              "description": "Use diagnostic trouble trees and flowcharts."
+            },
+            {
+              "pc_code": "8.3",
+              "description": "Diagnose intermittent faults using data logging and freeze frame data."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ICT/DAD/008/L3",
+      "title": "DIGITAL ENGINE PERFORMANCE AND POWERTRAIN DIAGNOSTICS",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understand Digital Engine Control Systems",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Describe the architecture of modern engine management systems (EMS)."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Discuss the role of electronic control units (ECUs) in engine performance."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Discuss the function of sensors and actuators \u2022 MAF \u2022 MAP \u2022 O2 \u2022 Injectors \u2022 Ignition coils."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Understand Advanced Powertrain Diagnostics",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Demonstrate digital diagnostic techniques for engines, transmissions, and drivetrains."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Perform diagnostic tests on various powertrain components: \u2022 Drive-by-wire systems \u2022 Turbochargers \u2022 Variable valve timing (VVT)."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Discuss the integration of hybrid and electric powertrains with traditional systems."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Know Real-Time Data Analysis and Interpretation.",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Use scan tools to access live data to perform real-time diagnostics."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Analyze data such as fuel trims, oxygen sensor readings, and throttle position to identify performance issues."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Utilize Mode $06, Mode $09 (Sending Mode) and other advanced OBD-II data modes for in-depth analysis."
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Understand Engine Performance Diagnostics",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Diagnose fuel delivery problems: \u2022 Injector pulse width \u2022 Fuel pressure \u2022 Delivery rates."
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Troubleshoot ignition system faults using primary and secondary ignition waveform analysis."
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Evaluate air intake and exhaust flow for proper engine breathing using pressure sensors and flow meters."
+            }
+          ]
+        },
+        {
+          "lo_num": "5",
+          "description": "Know Transmission and Drivetrain Diagnostics",
+          "performance_criteria": [
+            {
+              "pc_code": "5.1",
+              "description": "Perform diagnostics on automatic and manual transmissions: \u2022 Shift Quality \u2022 Timing issues."
+            },
+            {
+              "pc_code": "5.2",
+              "description": "Analyze torque converter performance, clutch engagement, and adaptive shift strategies."
+            },
+            {
+              "pc_code": "5.3",
+              "description": "Use bi-directional controls to test transmission solenoids, pressure sensors, and shift actuators."
+            }
+          ]
+        },
+        {
+          "lo_num": "6",
+          "description": "Understand Digital Fault Code Interpretation",
+          "performance_criteria": [
+            {
+              "pc_code": "6.1",
+              "description": "Interpret generic and OEM-specific fault codes related to the powertrain."
+            },
+            {
+              "pc_code": "6.2",
+              "description": "Utilize fault codes in conjunction with live data to identify root causes of performance issues."
+            },
+            {
+              "pc_code": "6.3",
+              "description": "Apply diagnostic flowcharts and troubleshooting guides for systematic fault resolution."
+            }
+          ]
+        },
+        {
+          "lo_num": "7",
+          "description": "Know Advanced Diagnostics for Forced Induction Systems",
+          "performance_criteria": [
+            {
+              "pc_code": "7.1",
+              "description": "Diagnose turbocharged and supercharged engine performance issues."
+            },
+            {
+              "pc_code": "7.2",
+              "description": "Test boost control systems, wastegate actuators, and blow-off valves."
+            },
+            {
+              "pc_code": "7.3",
+              "description": "Analyze air-to-fuel ratio data and adjust for optimal boost performance."
+            }
+          ]
+        },
+        {
+          "lo_num": "8",
+          "description": "Understand Network Communication and Module Diagnostics",
+          "performance_criteria": [
+            {
+              "pc_code": "8.1",
+              "description": "Diagnose communication errors between engine, transmission, and other control modules."
+            },
+            {
+              "pc_code": "8.2",
+              "description": "Use diagnostic tools to test and verify CAN Bus, LIN Bus, and FlexRay signals."
+            },
+            {
+              "pc_code": "8.3",
+              "description": "Troubleshoot network-related issues that affect engine and powertrain performance."
+            }
+          ]
+        },
+        {
+          "lo_num": "9",
+          "description": "Know Advanced Sensor Testing and Calibration",
+          "performance_criteria": [
+            {
+              "pc_code": "9.1",
+              "description": "Calibrate key sensors: \u2022 Throttle position \u2022 Camshaft position, \u2022 Crankshaft position sensors."
+            },
+            {
+              "pc_code": "9.2",
+              "description": "Use oscilloscopes for in-depth signal analysis of sensors and actuators."
+            },
+            {
+              "pc_code": "9.3",
+              "description": "Perform zero-point resets and adaptations as required by the manufacturer."
+            }
+          ]
+        },
+        {
+          "lo_num": "10",
+          "description": "Understand Performance Optimization and Tuning",
+          "performance_criteria": [
+            {
+              "pc_code": "10.1",
+              "description": "Explain engine mapping and the impact of ECU tuning on performance."
+            },
+            {
+              "pc_code": "10.2",
+              "description": "Adjust parameters for optimal fuel efficiency and power output."
+            },
+            {
+              "pc_code": "10.3",
+              "description": "Explore aftermarket tuning software and tools used for performance diagnostics."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ICT/DAD/009/L3",
+      "title": "DIGITAL DIAGNOSTICS FOR HYBRID AND ELECTRIC VEHICLES (EVS)",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understand Hybrid and Electric Vehicle Systems",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Explain internal combustion, hybrid, and electric vehicles."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Describe the operation of components in hybrid and electric vehicles"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Discuss the role of electric motors, inverters, converters, and battery packs."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Understand Battery Management System (BMS) Diagnostics",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Explain the function of Battery Management System (BMS) in monitoring and controlling battery pack health."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Diagnose common battery issues \u2022 Cell imbalance \u2022 Overcharging \u2022 Thermal management problems."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Use diagnostic tools to read BMS data \u2022 State of charge (SOC) \u2022 State of health (SOH) \u2022 Voltage readings."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Know Electric Powertrain Diagnostics",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Perform diagnostics on electric motors \u2022 AC/DC motor faults \u2022 Inverter/converter issues."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Use oscilloscopes and scan tools to analyze motor waveforms and identify malfunctioning components."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Test regenerative braking systems."
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Evaluate energy recovery efficiency."
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Understand Charging System Diagnostics",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Diagnose charging system issues \u2022 Onboard chargers \u2022 Charge ports \u2022 External charging equipment."
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Troubleshoot issues related to Level 1, Level 2, and DC fast charging."
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Test charge rate, charging communication protocols, and fault responses."
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Validate charge rate, charging communication protocols, and fault responses."
+            }
+          ]
+        },
+        {
+          "lo_num": "5",
+          "description": "Understand HVAC System Diagnostics in EVs",
+          "performance_criteria": [
+            {
+              "pc_code": "5.1",
+              "description": "Troubleshoot electrically-driven HVAC systems used in EVs."
+            },
+            {
+              "pc_code": "5.2",
+              "description": "Evaluate heat pump systems."
+            },
+            {
+              "pc_code": "5.3",
+              "description": "Evaluate electric compressors, and thermal management for batteries."
+            },
+            {
+              "pc_code": "5.4",
+              "description": "Use diagnostic data to identify inefficiencies or faults in climate control systems."
+            }
+          ]
+        },
+        {
+          "lo_num": "6",
+          "description": "Understand CAN Bus and Communication Network Diagnostics",
+          "performance_criteria": [
+            {
+              "pc_code": "6.1",
+              "description": "Diagnose communication faults within the vehicle's network \u2022 CAN Bus \u2022 LIN Bus."
+            },
+            {
+              "pc_code": "6.2",
+              "description": "Use diagnostic tools to test signal integrity."
+            },
+            {
+              "pc_code": "6.3",
+              "description": "Resolve communication issues between control modules."
+            },
+            {
+              "pc_code": "6.4",
+              "description": "Discuss the role of gateway modules in EVs and their impact on diagnostics."
+            }
+          ]
+        },
+        {
+          "lo_num": "7",
+          "description": "Know Advanced Data Analysis and Interpretation",
+          "performance_criteria": [
+            {
+              "pc_code": "7.1",
+              "description": "Access live data from hybrid/EV control modules."
+            },
+            {
+              "pc_code": "7.2",
+              "description": "Interpret live data from hybrid/EV control modules."
+            },
+            {
+              "pc_code": "7.3",
+              "description": "Utilize advanced diagnostics such as Mode $06 for deeper data analysis on electric powertrains"
+            },
+            {
+              "pc_code": "7.4",
+              "description": "Analyze log data for intermittent issues and abnormal system behaviors."
+            }
+          ]
+        },
+        {
+          "lo_num": "8",
+          "description": "Understand Regenerative Braking and Energy Management Diagnostics",
+          "performance_criteria": [
+            {
+              "pc_code": "8.1",
+              "description": "Test regenerative braking performance and fault diagnostics."
+            },
+            {
+              "pc_code": "8.2",
+              "description": "Explain the interaction between braking systems and energy recovery."
+            },
+            {
+              "pc_code": "8.3",
+              "description": "Use scan tools to evaluate energy flow between the motor, battery, and braking system."
+            }
+          ]
+        },
+        {
+          "lo_num": "9",
+          "description": "Know Software Updates and Calibration",
+          "performance_criteria": [
+            {
+              "pc_code": "9.1",
+              "description": "Perform software updates on EV systems using OEM diagnostic tools."
+            },
+            {
+              "pc_code": "9.2",
+              "description": "Reprogram control modules as needed for performance improvements and fault resolution."
+            },
+            {
+              "pc_code": "9.3",
+              "description": "Calibrate sensors and actuators critical to EV operation, such as torque sensors and motor encoders."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ICT/DAD/010/L3",
+      "title": "ADVANCED DRIVER ASSISTANCE SYSTEMS (ADAS) DIAGNOSTICS",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understand ADAS Technologies",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Identify ADAS sensors on different vehicle models. \u2022 Cameras, radars \u2022 LIDARs, \u2022 Ultrasonic sensors"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Demonstrate the operation of Advanced Driver Assistance Systems (ADAS): \u2022 Adaptive cruise control \u2022 Lane-keeping assist \u2022 Automatic emergency braking in a controlled environment."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Use diagnostic tools to identify ADAS modules in a vehicle\u2019s network."
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Test individual sensors using scan tools to check for proper function, signal strength, and sensor alignment status."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Know ADAS Diagnostics",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Connect diagnostic tools to retrieve fault codes Diagnostic Trouble Codes (DTCs) related to ADAS components."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Interpret fault codes and its implication for ADAS performance"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Perform live data monitoring of ADAS sensors to observe real-time inputs: \u2022 Vehicle speed \u2022 Object distance \u2022 Relative position."
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Compare live data with expected parameters to identify inconsistencies or malfunctions"
+            },
+            {
+              "pc_code": "2.5",
+              "description": "Use bi-directional controls to perform functional tests on ADAS component activating cameras or sensors."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Know Calibration and Adjustment Techniques",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Setup vehicles on calibration targets, ensuring correct alignment of radar, camera, and LIDAR sensors."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Use Original Equipment Manufacturer (OEM)-specific calibration software to initiate and complete the calibration process."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Perform dynamic calibration by driving the vehicle under specific conditions as required (e.g., specific speeds, straight paths), while monitoring sensor alignment and feedback."
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Check sensor accuracy and system functionality after calibration to confirm proper adjustments and alignment."
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Understand Data Analysis and Troubleshooting",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Use oscilloscopes to capture and analyze waveforms from ADAS sensors, especially in diagnosing communication signals and sensor outputs."
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Carry out troubleshooting scenarios: \u2022 Diagnose a false positive warning \u2022 Intermittent sensor failures."
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Use laser alignment tools and calibration boards to verify the correct positioning of sensors after repairs or adjustments."
+            }
+          ]
+        },
+        {
+          "lo_num": "5",
+          "description": "Know Vehicle Networks integration",
+          "performance_criteria": [
+            {
+              "pc_code": "5.1",
+              "description": "Diagnose CAN Bus and other network systems involved in ADAS operation using diagnostic tools and communication analyzers."
+            },
+            {
+              "pc_code": "5.2",
+              "description": "Test to check for signal dropouts, noise, and interference affecting ADAS components"
+            },
+            {
+              "pc_code": "5.3",
+              "description": "Update software and re-flash control modules to address known ADAS bugs or improve system performance as recommended by OEM updates."
+            }
+          ]
+        },
+        {
+          "lo_num": "6",
+          "description": "Understand Safety Protocols and Best Practices",
+          "performance_criteria": [
+            {
+              "pc_code": "6.1",
+              "description": "Demonstrate safe handling techniques when working with ADAS systems: \u2022 Secure vehicle setup, \u2022 Power-down procedures, \u2022 Sensor handling."
+            },
+            {
+              "pc_code": "6.2",
+              "description": "Perform vehicle stability checks, workspace setup, and correct target placement to ensure safety during calibration."
+            },
+            {
+              "pc_code": "6.3",
+              "description": "Explain the importance of PPE, especially when dealing with systems that may involve laser-based or high-voltage components."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ICT/DAD/011/L3",
+      "title": "DIGITAL DIAGNOSTICS FOR BODY CONTROL MODULES AND INFOTAINMENT SYSTEMS",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understand the Role of Body Control Modules (BCMs)",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Identify BCMs and associated components (relays, sensors, actuators) in various vehicle models."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Create system maps showing the integration of BCMs with other vehicle control units (e.g., lighting, central locking)."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Demonstrate the operation of BCM-controlled functions: \u2022 Window control \u2022 Door locks \u2022 Interior lighting."
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Perform live data monitoring to observe BCM responses to driver inputs: \u2022 Pressing door lock/unlock buttons."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Master Infotainment System Diagnostics:",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Identify key components of infotainment systems: \u2022 Head units, \u2022 Amplifiers, \u2022 Displays, \u2022 Connectivity modules."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Use diagnostic tools to perform initial scans of infotainment systems, identifying faults and retrieving relevant data."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Perform task on the entire 3D printing process, from model creation, slicing, printer setup and operation."
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Conduct functional tests on infotainment features like radio, navigation, Bluetooth connectivity, and voice recognition."
+            },
+            {
+              "pc_code": "2.5",
+              "description": "Simulate faults (disconnected antennas, muted speakers) to identify system's fault responses and error codes."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Perform Advanced Diagnostics on BCMs",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Retrieve fault codes from BCMs using scan tools and interpret the codes in the context of specific vehicle systems."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Use guided fault-finding procedures to trace faults back to their sources, such as faulty switches, sensors, or wiring issues."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Tests BCM inputs and outputs, such as verifying sensor readings and testing actuator responses."
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Use multimeters and test lights to check wiring integrity and connectivity to BCMs."
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Know Repair of Infotainment System Issues",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Monitor live data streams from infotainment systems, such as touchscreen inputs, audio outputs, and connectivity status."
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Identify discrepancies that point to potential hardware or software faults from data analysis."
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Use OEM-specific diagnostic tools to update infotainment systems with the latest software."
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Reprogram control modules as necessary to address faults such as frozen displays or unresponsive touchscreens."
+            }
+          ]
+        },
+        {
+          "lo_num": "5",
+          "description": "Understand Network Communication and Data Analysis",
+          "performance_criteria": [
+            {
+              "pc_code": "5.1",
+              "description": "Use network analyzers to monitor communication on CAN Bus, LIN, MOST, and Ethernet networks that support BCMs and infotainment."
+            },
+            {
+              "pc_code": "5.2",
+              "description": "Diagnose network-related issues such as message errors, timing problems, or module disconnections affecting body and infotainment systems."
+            },
+            {
+              "pc_code": "5.3",
+              "description": "Use oscilloscopes to capture and analyze communication signals between BCMs and infotainment modules."
+            },
+            {
+              "pc_code": "5.4",
+              "description": "Identify and rectify poor signal quality or lost communications within vehicle networks."
+            }
+          ]
+        },
+        {
+          "lo_num": "6",
+          "description": "Know Module Re-flashing and Software Updates",
+          "performance_criteria": [
+            {
+              "pc_code": "6.1",
+              "description": "Perform Re-flashing of BCMs and infotainment modules using OEM tools, following specific procedures to ensure compatibility and functionality."
+            },
+            {
+              "pc_code": "6.2",
+              "description": "Update firmware versions, verify correct software installations, and ensure system stability post-update."
+            },
+            {
+              "pc_code": "6.3",
+              "description": "Calibrate replacement BCMs and infotainment units to the vehicle, configuring settings like personalized user data and system preferences."
+            }
+          ]
+        },
+        {
+          "lo_num": "7",
+          "description": "Understand Safety, Security, and Data Privacy",
+          "performance_criteria": [
+            {
+              "pc_code": "7.1",
+              "description": "Demonstrate secure diagnostic practices, ensuring that access to BCMs and infotainment systems are protected against unauthorized access."
+            },
+            {
+              "pc_code": "7.2",
+              "description": "Reset user data on infotainment systems while preserving necessary vehicle settings"
+            },
+            {
+              "pc_code": "7.3",
+              "description": "Conduct privacy and data security checks, ensuring that personal information is managed appropriately when performing diagnostics and repairs."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ICT/DAD/012/L3",
+      "title": "REMOTE DIAGNOSTICS AND OVER-THE-AIR (OTA) UPDATES",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understand Remote Diagnostics Systems",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Discuss the components of remote diagnostic systems \u2022 Telematics control units (TCUs) \u2022 Cloud-based platforms \u2022 Data interfaces."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Demonstrate how remote diagnostics works using a vehicle equipped with a telematics system."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Connect to a vehicle to retrieve live data, fault codes, and diagnostic reports."
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Identify types of faults using remote diagnostic tools: \u2022 Engine \u2022 Transmission \u2022 Safety systems"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Know Remote Access to Vehicle Systems",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Use remote diagnostic software to connect to various vehicle systems and read real-time data: \u2022 Engine parameters, \u2022 Transmission status \u2022 Body control functions"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Perform remote system checks on battery health, sensor status, and emission control readiness"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Analyze remote diagnostic data to pinpoint issues such as sensor malfunctions, intermittent faults, and performance deviations."
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Interpret remote diagnostic reports for complex fault patterns."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Understand OTA Updates for Control Modules",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Conduct OTA updates on different vehicle modules using OEM-specific procedures. \u2022 Engine control units (ECUs) \u2022 Infotainment systems \u2022 ADAS modules"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Monitor the update process remotely, verifying data integrity and system stability before and after updates."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Perform post-update checks to ensure updated modules function"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Demonstrate handling interrupted OTA updates by conducting rollback procedures or reapplying updates to maintain module integrity."
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Understand Security Protocols for Remote Diagnostics and OTA Updates",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Setup secure remote access connections using data encryption and authentication protocols, simulating the protection of vehicle data during diagnostics and updates."
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Simulate potential security breaches during OTA updates, such as unauthorized access attempts, and demonstrate how to mitigate these threats."
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Practice secure handling of vehicle data logs and personal information during remote diagnostics to comply with data privacy regulations."
+            }
+          ]
+        },
+        {
+          "lo_num": "5",
+          "description": "Understand Troubleshooting Remote Diagnostics and OTA Failures",
+          "performance_criteria": [
+            {
+              "pc_code": "5.1",
+              "description": "Simulate common remote diagnostic issues, such as communication dropouts, incomplete data retrieval, and misidentified faults, and practice troubleshooting techniques."
+            },
+            {
+              "pc_code": "5.2",
+              "description": "Troubleshoot OTA update failures, including network interruptions, software corruption, and module non-responsiveness."
+            },
+            {
+              "pc_code": "5.3",
+              "description": "Conduct rollbacks or manual reinstallation of software when updates fail, ensuring system recovery."
+            }
+          ]
+        },
+        {
+          "lo_num": "6",
+          "description": "Understand Customer Communication and Management",
+          "performance_criteria": [
+            {
+              "pc_code": "6.1",
+              "description": "Engage in role-play scenarios where participants must explain remote diagnostic results and OTA update procedures to customers in an understandable manner."
+            },
+            {
+              "pc_code": "6.2",
+              "description": "Simulate customer support interactions during OTA updates, guiding customers through the process, addressing concerns, and providing follow-up support if issues arise."
+            },
+            {
+              "pc_code": "6.3",
+              "description": "Create detailed reports that outline the diagnostic findings, update results, and any additional recommendations for vehicle maintenance."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

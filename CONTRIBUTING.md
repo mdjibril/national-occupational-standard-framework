@@ -91,6 +91,7 @@ These NOS have already been converted to JSON. Pick a trade **not** listed here 
 | ICT Data Analytics | | | | ✅ | |
 | ICT Data Science | | | | | ✅ |
 | ICT Digital Animation | | | ✅ | | |
+| ICT Digital Automotive Diagnostics | | | ✅ | | |
 | ICT Digital Content Creation | | | ✅ | | |
 | ICT Digital Product Management | | | ✅ | | |
 | ICT Digital Service Operations | | ✅ | ✅ | | |
