@@ -81,6 +81,7 @@ These NOS have already been converted to JSON. Pick a trade **not** listed here 
 | Furniture Making and Upholstery | ✅ | ✅ | ✅ | | |
 | ICT Back-End Web Development | | | ✅ | | |
 | ICT Cinematography | | | ✅ | | |
+| ICT Cloud Security Engineer | | | | | ✅ |
 | ICT Computer Aided Design & Computer Aided Manufacturing | | | ✅ | | |
 | ICT Computer Hardware Repairs & Maintenance | ✅ | ✅ | ✅ | | |
 | ICT Computer Networking | ✅ | ✅ | ✅ | | |

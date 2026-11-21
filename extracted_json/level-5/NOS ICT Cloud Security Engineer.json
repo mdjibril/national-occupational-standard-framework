@@ -1,0 +1,864 @@
+{
+  "trade_name": "NOS ICT Cloud Security Engineer",
+  "level": 5,
+  "units": [
+    {
+      "code": "IS/CS/01/L5",
+      "title": "Health, Safety and Environment",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understand safety precautions in workplace",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Dress properly to the work environment."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Comply with health and safety and other relevant regulations and guidelines."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Get any cuts, grazes and wounds treated by the appropriate and qualified person."
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Report illness and infection promptly to the appropriate persons."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Know how to maintain. personal health and hygiene",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Summarise own responsibility under the Health and Safety Act as it relates to own occupation"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "State general rules on hygiene that must be followed."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Explain the importance of maintaining good personal hygiene."
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Describe how to deal with cuts, grazes and wounds and why it is important to do so"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Be able to help maintain a hygienic, safe and secure workplace.",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "State the importance of working in a healthy, safe and hygienic workplace."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Promote health, hygiene and safety procedures during work."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Practice emergency procedures during work."
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Ensure that organizational security procedures are followed."
+            },
+            {
+              "pc_code": "3.5",
+              "description": "Ensure the disposal of waste and pollution control with organic and inorganic waste disposal methods."
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Prevent hazards and maintain safe and secure workplace",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Supervise identification of any hazards or potential hazards and deal with these correctly."
+            },
+            {
+              "pc_code": "4.2",
+              "description": "State where information about health and safety in your workplace can be obtained."
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Describe the type of hazards in the workplace that may occur and how to deal with them."
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Identify hazards that can be dealt with personally and those that should be reported to appropriate personnel."
+            },
+            {
+              "pc_code": "4.5",
+              "description": "Follow organization procedures on how to warn other people about hazards and why this is important"
+            },
+            {
+              "pc_code": "4.6",
+              "description": "State why accidents and near accidents should be reported to the appropriate personnel."
+            },
+            {
+              "pc_code": "4.7",
+              "description": "Describe the type of emergencies that may happen in the workplace and how to deal with them."
+            },
+            {
+              "pc_code": "4.8",
+              "description": "State where to find the first-aid equipment and locate the authorized personnel."
+            },
+            {
+              "pc_code": "4.9",
+              "description": "Lift and handle materials in line with work environment procedure."
+            },
+            {
+              "pc_code": "4.10",
+              "description": "State other ways of working safely that are relevant to own position responsibility and its importance."
+            },
+            {
+              "pc_code": "4.11",
+              "description": "Describe organizational emergencies procedures, in particular fire, and how these should be followed."
+            },
+            {
+              "pc_code": "4.12",
+              "description": "State the possible causes for fire in the workplace."
+            },
+            {
+              "pc_code": "4.13",
+              "description": "Describe how to minimize the possibility of fire in the workplace."
+            },
+            {
+              "pc_code": "4.14",
+              "description": "State where to find the alarms and how to set them up."
+            },
+            {
+              "pc_code": "4.15",
+              "description": "State why a fire should never be approached unless it is safe to."
+            },
+            {
+              "pc_code": "4.16",
+              "description": "Describe organizational security procedures and why these are important"
+            },
+            {
+              "pc_code": "4.17",
+              "description": "State the importance of reporting all usual or non-routine incidents to the appropriate personnel."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "IS/CS/02/L5",
+      "title": "Communication and Interpersonal Skill",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Communicate with Client",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Notify client about new systems features to keep them up to date."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Notify client about new systems features to keep them up to date."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Communicate with the client about any changes on the website/application"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Confirm that no request from client is pending."
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Communicate to the team about the market trends to ensure that they are kept up to date."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Communicate with Peer/Team Members",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Check that all team members/peers are in line with the requirements"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Give clear directions to team members/peers to follow"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Check that a proper mechanism is in place to motivate all team members"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Provide a suitable and comfortable work environment for peers and team members"
+            },
+            {
+              "pc_code": "2.5",
+              "description": "Give report of team members activities"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Communicate with Managers",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Provide a standard operating procedure for communication with the seniors."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Follow all instructions given by seniors in a given job role."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Execute all instructions coming from the seniors using proper mechanism"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Communicate all the emergencies and bugs/updates to the relevant Managers"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "IS/CS/03/L5",
+      "title": "Teamwork",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Positive working relationship with colleagues",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Identify the need for developing positive working relationship with colleagues"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Recognize the importance of relating with other people in a way that makes them feel valued and respected"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Assist team members when required."
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Report to the personnel when request for assistance fall outside area of responsibility"
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Communicate information to colleagues about own work that might affect others"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Take responsibility within the team",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Recognize own role and responsibilities within team"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Perform individual tasks in line with the team rules and regulations."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Participate effectively in teamwork"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Compliance with policy of organisation",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Work in line with organizational standard"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Use organizational code of practice"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Explain organizational code of conduct"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "IS/CS/04/L5",
+      "title": "Cloud Security Compliance and Governance",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Ensure compliance with cloud security standards",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Demonstrate understanding of frameworks such as ISO 27017, ISO 27018, and CIS benchmarks for cloud security."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Analyse cloud service providers' (CSP) security policies for compliance."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Develop policies that align organizational requirements with cloud security frameworks."
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Evaluate compliance reports and assess gaps in cloud security implementation."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Implement cloud security governance structures",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Develop governance models specific to cloud-based environments."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Implement cloud security governance tools to monitor compliance."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Advise stakeholders on legal and regulatory aspects of cloud security governance."
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Supervise ongoing audits of cloud governance structures."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Assess and evaluate compliance risks in cloud environments",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Analyse risks associated with non-compliance in cloud deployments."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Evaluate risk management strategies to address compliance-related vulnerabilities."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Compare different risk management frameworks for cloud security."
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Develop action plans to mitigate identified compliance risks."
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Investigate and support compliance breach resolutions",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Investigate incidents of non-compliance and determine root causes."
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Create reports detailing compliance breaches."
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Suggest remediation strategies."
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Support stakeholders in ensuring corrective actions are taken."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "IS/CS/05/L5",
+      "title": "Cloud Security Architecture and Design",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Develop secure cloud architectures",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Ensure the cloud architecture incorporates security by design principles."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Develop cloud solutions that integrate with security frameworks (e.g., zero-trust models)."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Plan secure configurations for multi-cloud and hybrid environments."
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Assess the scalability and security of designed cloud architectures."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Implement security controls within cloud infrastructures",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Analyse the effectiveness of encryption techniques in cloud data storage and transmission."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Create automation for security control implementation across cloud services."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Inspect and compare various cloud security tools for managing configurations."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Evaluate cloud security architectural solutions",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Compare different cloud security architectures to assess performance and security effectiveness."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Evaluate the impact of architectural decisions on security postures."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Analyse risks associated with cloud security architecture configurations."
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Interpret security assessment findings and propose improvements to cloud infrastructures."
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Supervise cloud architecture implementation and processes",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Supervise cloud architecture deployment to ensure alignment with security best practices."
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Review implementation progress of security compliance."
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Initiate audits of cloud architecture after implementation."
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Support continuous improvements based on architecture review."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "IS/CS/06/L5",
+      "title": "Cloud Threat Management and Monitoring",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Analyse cloud-specific security threats and risks",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Investigate potential attack vectors targeting cloud environments."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Analyse vulnerabilities in cloud platforms and applications."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Evaluate the potential impact of cloud threats on business operations."
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Compare historical threat patterns to predict future risks."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Implement cloud-based threat detection systems",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Develop and implement threat monitoring solutions within cloud services."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Select and integrate cloud-native tools for automated threat detection."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Plan strategies for monitoring cloud assets in real-time."
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Operate threat intelligence platforms to detect emerging threats."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Assess and evaluate cloud threat intelligence",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Interpret threat intelligence reports to assess the organization\u2019s threat landscape."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Compare various cloud security intelligence feeds for accuracy and effectiveness."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Evaluate the effectiveness of threat detection systems within cloud environments."
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Develop recommendations based on threat intelligence analysis."
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Support continuous threat management in cloud environments",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Implement measures to improve cloud threat management processes."
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Recommend to stakeholders on emerging threats and provide mitigation strategies."
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Supervise the deployment of updated threat management protocols."
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Support the continuous improvement of threat monitoring systems."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "IS/CS/07/L5",
+      "title": "Cloud Security Incident Response and Recovery",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Plan cloud security incident response strategies",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Ensure that cloud incident response strategies align with organizational objectives."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Develop cloud-specific incident response protocols."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Create communication plans for incident reporting and escalation."
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Initiate cloud incident response simulations to test readiness."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Respond to cloud security incidents",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Investigate the root cause of cloud security breaches."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Interpret forensic data to understand incident dynamics."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Support the isolation and containment of compromised cloud systems."
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Develop detailed post-incident reports with recommended actions."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Implement recovery plans following cloud security breaches",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Plan the recovery and restoration of cloud services after security incidents."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Explain data integrity and continuity during cloud recovery processes."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Develop post-recovery plans to strengthen cloud security."
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Evaluate the effectiveness of incident recovery efforts."
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Supervise post-incident analysis and process improvements",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Supervise root cause analysis (RCA) processes for cloud security incidents."
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Compare incident response outcomes to identify areas for improvement."
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Support the revision of incident response plans based on lessons learned."
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Implement continuous improvements for cloud incident response processes."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "IS/CS/08/L5",
+      "title": "Cloud Identity and Access Management (IAM)",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Develop cloud-based IAM policies and frameworks",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Create IAM policies aligned with cloud security requirements."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Ensure IAM solutions support principles of least privilege and role-based access control (RBAC)."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Plan for integration of multi-factor authentication (MFA) in cloud services."
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Evaluate the effectiveness of IAM policies."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Implement IAM controls across cloud environments",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Implement identity federation strategies across cloud services."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Configure IAM solutions for multiple cloud platforms."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Operate IAM tools for continuous access management and monitoring."
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Support user lifecycle management, including access revocation."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Assess and evaluate cloud IAM solutions",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Evaluate IAM solutions for scalability, security, and compliance."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Compare different IAM vendors and their cloud offerings."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Assess the effectiveness of IAM in controlling access to sensitive cloud assets."
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Create reports recommending IAM improvements."
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Supervise cloud IAM implementation and management",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Supervise IAM policy enforcement across cloud platforms."
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Observe and monitor access management practices to ensure security."
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Plan and implement IAM audits to maintain access control compliance."
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Initiate remediation processes for IAM-related security gaps."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "IS/CS/09/L5",
+      "title": "Cloud Data Security and Privacy",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Ensure data protection compliance in cloud environments",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Explain to ensure cloud data protection practices comply with laws such as NDPR, GDPR and CCPA."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Develop cloud data governance frameworks to align with regulatory requirements."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Implement data residency and protection policies in multi-cloud environments."
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Plan for regular audits of cloud data security practices."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Implement encryption and data protection solutions in the cloud",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Select and implement encryption technologies for cloud data storage and transfer."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Develop key management systems for cloud encryption solutions."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Utilize encryption and privacy tools to ensure data confidentiality in the cloud."
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Support continuous encryption management across cloud platforms."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Assess and evaluate cloud data privacy controls",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Evaluate privacy-enhancing technologies (PET) used in cloud deployments."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Assess risks related to data privacy breaches in the cloud."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Compare data protection controls across different cloud service providers."
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Inspect cloud privacy policies for compliance."
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Supervise data security processes and privacy compliance",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Supervise the implementation of data privacy measures in cloud environments."
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Plan for regular assessments of cloud data privacy compliance."
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Support post-breach data recovery and privacy re-establishment."
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Initiate processes for addressing data privacy violations in the cloud."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
