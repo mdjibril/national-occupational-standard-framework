@@ -1,0 +1,868 @@
+{
+  "trade_name": "Fibre Crop Production",
+  "level": 1,
+  "units": [
+    {
+      "code": "AGR/CRP/001/L1",
+      "title": "OCCUPATIONAL HEALTH AND SAFETY",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Know how to demonstrate safe working practices and instructions",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Explain safe work practice and instructions"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Identify safety signs and symbol"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Use signs and symbols correctly"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Carry out safe work practices and instructions"
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Work in accordance with health and safety best practices"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Know safety hazards and risks",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Identify work environment hazards"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "State methods to reduce the risk of these hazards"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Identify Personal Protection Equipment (PPE) e.g.: Goggles, Boot, Gloves etc."
+            },
+            {
+              "pc_code": "2.4",
+              "description": "State methods to resolve an occurring environmental hazard"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Possess the ability to take appropriate actions during accident/injury",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Identify basic first aid equipment"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "State how to maintain hygienic, safe and secure workplace."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "State the uses of safety equipment in a workplace as required."
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Know how to demonstrate safe work habit and clean work environment",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Use safe access and exit routes in the work environment"
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Dispose all wastes appropriately to designated waste facilities"
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Explain methods of resource conservation (e.g.: Water, Energy etc.)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "AGR/CRP/002/L1",
+      "title": "COMMUNICATION AND INTERPERSONAL SKILLS",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Know the importance of good communication",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "State reasons why good communication is important"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "List ways to communicate effectively"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Exhibit patience and a mild demeanour while communicating with colleagues, managers and clients"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Speak in a respectful manner"
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Use respectful body language"
+            },
+            {
+              "pc_code": "1.6",
+              "description": "Interpret verbal communication accurately"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Demonstrate ability to document and follow documented instructions",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Read and accurately follow steps in a an instruction manual pertaining to any of the units in this course"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Document information in the workplace (e.g.: Receipt, Invoices, Reports)"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Document Errors, solution, processes and reports"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Know interpersonal relationship",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Demonstrate polite greetings"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Recognise cultural and social differences"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Apply positive body language in interactions."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "AGR/CRP/003/L1",
+      "title": "TEAMWORK",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Develop good working relationship with co-workers",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Define teamwork"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "List the importance of teamwork"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "List the qualities of a team player"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Take responsibility within the team",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "List own roles and responsibilities within a team."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Perform tasks in line with the team rules and regulations."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Work well in a group."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Comply with rule of organization",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Explain code of conduct in work environment"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Use organizational code of practice"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Work in line with organizational standard."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "AGR/CRP/004/L1",
+      "title": "SITE SELECTION FOR FIBRE CROPS",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Know fibre crop",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Define fibre crop"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "List the types of fibre crops"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Identify the types of fibre crops"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Explain benefits of fibre crop"
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Explain the climatic requirements of fibre crop"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Know soil and soil properties.",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Define soil"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "List types of soil"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Define types of soil"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Identify types of soil"
+            },
+            {
+              "pc_code": "2.5",
+              "description": "Explain differences in the soil types"
+            },
+            {
+              "pc_code": "2.6",
+              "description": "Describe the physical and chemical characteristics of the soil types"
+            },
+            {
+              "pc_code": "2.7",
+              "description": "Describe the chemical characteristics of the soil types"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Know soil and climatic requirements for fibre crops",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Define vegetation area"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Define rich vegetation area"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Identify types of vegetation"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Identify areas with good rainfall pattern"
+            },
+            {
+              "pc_code": "3.5",
+              "description": "List advantage of good rainfall pattern"
+            },
+            {
+              "pc_code": "3.6",
+              "description": "Identify areas with abundant sunshine"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "AGR/CRP/005/L1",
+      "title": "LAND PREPARATION FOR FIBRE CROP PRODUCTION",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Know land preparation",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Define land preparation"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Explain types of tillage"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Carry out land clearing"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "List equipment used in land preparation"
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Demonstrate handling of land preparation debris"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Know tillage operations",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Define land tillage"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Identify a suitable location for nursery"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Erect the nursery close to a source of water"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Prepare a nursery bed for nursery practice"
+            },
+            {
+              "pc_code": "2.5",
+              "description": "Construct shed for the nursery"
+            },
+            {
+              "pc_code": "2.6",
+              "description": "Plough the field"
+            },
+            {
+              "pc_code": "2.7",
+              "description": "Harrow the field"
+            },
+            {
+              "pc_code": "2.8",
+              "description": "Ridge the field"
+            },
+            {
+              "pc_code": "2.9",
+              "description": "Level the field"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Know basic farm tools.",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Define farm tools"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "List types of farm tools"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Identify various farm tools used for land preparation"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Carry out simple farm tools maintenance"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "AGR/CRP/006/L1",
+      "title": "NURSERY AND PLANTING PRACTICES IN FIBRE CROP PRODUCTION",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Know planting operation",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Define nursery"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Define nursery bed"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Dress the seeds"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Identify the steps involved in construction of an ideal seed bed"
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Sow seed in the nursery"
+            },
+            {
+              "pc_code": "1.6",
+              "description": "Explain transplanting"
+            },
+            {
+              "pc_code": "1.7",
+              "description": "Use simple irrigation tools"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Know fertilizer and herbicides application",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Define fertilizer"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "List different types of fertilizer"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Identify different types of fertilizer"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Explain methods of fertilizer application"
+            },
+            {
+              "pc_code": "2.5",
+              "description": "Define herbicide"
+            },
+            {
+              "pc_code": "2.6",
+              "description": "List different types of herbicides"
+            },
+            {
+              "pc_code": "2.7",
+              "description": "Identify different types of herbicides"
+            },
+            {
+              "pc_code": "2.8",
+              "description": "Explain methods of herbicide application"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Know irrigation practices",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Define irrigation"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "State types of irrigation"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Explain simple irrigation procedure"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "List simple irrigation tools"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "AGR/CRP/007/L1",
+      "title": "CROP MANAGEMENT PRACTICES IN FIBRE CROPS",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Know fibre seed",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Define seed"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "List types of seed"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Define thinning"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "State advantages of thinning"
+            },
+            {
+              "pc_code": "1.5",
+              "description": "State disadvantages of thinning"
+            },
+            {
+              "pc_code": "1.6",
+              "description": "Carryout thinning in a nursery bed"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Know fertilizer and herbicides application",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Explain fertilizer application"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Describe application of fertilizer on the field"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "List different methods of fertilizer application"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Know different types of herbicides"
+            },
+            {
+              "pc_code": "2.5",
+              "description": "Observe herbicide application"
+            },
+            {
+              "pc_code": "2.6",
+              "description": "Describe application of herbicide on the field"
+            },
+            {
+              "pc_code": "2.7",
+              "description": "List different methods of herbicide application"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Know pest and disease control",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Define pest"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Identify field pests"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Define pest control"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Identify appropriate measures in prevention and control of pest"
+            },
+            {
+              "pc_code": "3.5",
+              "description": "Define Disease"
+            },
+            {
+              "pc_code": "3.6",
+              "description": "Define disease control"
+            },
+            {
+              "pc_code": "3.7",
+              "description": "State methods of disease control"
+            },
+            {
+              "pc_code": "3.8",
+              "description": "Identify appropriate measures in prevention and control of diseases"
+            },
+            {
+              "pc_code": "3.9",
+              "description": "Define weeds"
+            },
+            {
+              "pc_code": "3.10",
+              "description": "Define weeds control"
+            },
+            {
+              "pc_code": "3.11",
+              "description": "Identify appropriate measures in prevention and control of weeds"
+            },
+            {
+              "pc_code": "3.12",
+              "description": "Apply safety precautions in the application of pests and disease chemicals"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "AGR/CRP/008/L1",
+      "title": "FIBRE HARVESTING AND HARVESTING PROCEDURES",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Know maturity time of fibre crops",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Define fibre crop maturity"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Identify matured Fibre crops"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "State the maturity period of Fibre crops"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Distinguish between mature and immature Fibre crops"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Know harvesting and harvesting procedures",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Define harvesting"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "List types of harvesting methods"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Identify simple tools used in harvesting fibre crops"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Operate simple harvesting tools"
+            },
+            {
+              "pc_code": "2.5",
+              "description": "Explain threshing of fibre crop"
+            },
+            {
+              "pc_code": "2.6",
+              "description": "Carryout bagging of harvested produce"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Know post-harvest loss",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Define post-harvest loss"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "State causes of post-harvest loss"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Explain measures of preventing post-harvest loss"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Explain impact of post-harvest loss"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "AGR/CRP/009/L1",
+      "title": "PROCESSING AND STORAGE OF FIBRE CROP PRODUCTS",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Know fibre handling and processing",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Define fibre processing"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Describe simple fibre processing procedures"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Define fibre handling"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Differentiate between product of processed fibre"
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Describe bagging of fibre products"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Know storage of processed fibre products",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Define storage"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Describe types of storage techniques"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Describe arrangement of fibre product in storage facility"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Know fibre packaging",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Define fibre products packaging"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Describe how to package fibre products"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Define fibre packaging materials"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "List types of fibre packaging materials"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "AGR/CRP/010/L1",
+      "title": "TRANSPORT AND MARKETING OF FIBRE CROPS",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Know the transportation of fibre crops",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Identify means of transporting fibre crops"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Choose the right means of transporting fibre crops."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Perform loading of fibre crops"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Perform offloading of fibre crops."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Know grading/ standardization of fibre crops",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Sort fibre crops"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Weigh fibre crops"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Prepare fibre crops for marketing."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Know marketing of fibre crops",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Define fibre market"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Identify fibre aggregators"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Identify the middlemen in fibre crop marketing"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Explain the right time to market fibre crops"
+            },
+            {
+              "pc_code": "3.5",
+              "description": "Identify market for the fibre crop products"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
