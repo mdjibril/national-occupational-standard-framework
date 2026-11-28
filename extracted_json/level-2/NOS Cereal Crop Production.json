@@ -1,0 +1,1100 @@
+{
+  "trade_name": "Cereal Crop Production",
+  "level": 2,
+  "units": [
+    {
+      "code": "AGR/CRP/001/L2",
+      "title": "WORK SAFELY ON CROP FARM",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Know how to work safely on a crop farm",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Explain safe work practices as obtained along the cereal production value chain"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Identify safety signs and symbols on cereal production farms"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Provide correctly, the safety signs and symbols"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Demonstrate safe work practices and instructions on cereal farms"
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Operate in accordance with health and safety practices"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Know how to comply with safety standards on cereal farm.",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Identify work environment hazards"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "State types of hazards and risks associated with cereal"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "State safety standards on cereal farms and processing facilities"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Use safety tools, materials and equipment in cereal processing facilities"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Know Personal Protective Equipment (PPE) in crop processing facilities",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Identify the types of PPEs required for crop processing plants"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Select appropriate PPE for cereal processing plants"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Demonstrate the use of PPE"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Maintain PPE before or after use"
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Know how to respond to accidents/injury in crop processing plants",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Locate first aid facility"
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Use basic dressing materials"
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Respond to supervisor given instructions"
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Report incidences of accident/injury to the appropriate supervisor"
+            }
+          ]
+        },
+        {
+          "lo_num": "5",
+          "description": "Know safe work habit and clean work environment in cereal processing plants",
+          "performance_criteria": [
+            {
+              "pc_code": "5.1",
+              "description": "Use safe access and exit routes in the work environment"
+            },
+            {
+              "pc_code": "5.2",
+              "description": "Identify appropriate working tools, materials and equipment"
+            },
+            {
+              "pc_code": "5.3",
+              "description": "Use tools and equipment safely in accordance with the supervisor\u2019s instructions"
+            },
+            {
+              "pc_code": "5.4",
+              "description": "Return all tools, equipment and unused materials for appropriate storage"
+            },
+            {
+              "pc_code": "5.5",
+              "description": "Carry out general housekeeping of work environment"
+            },
+            {
+              "pc_code": "5.6",
+              "description": "Dispose all wastes appropriately to designated waste facilities"
+            }
+          ]
+        },
+        {
+          "lo_num": "6",
+          "description": "Know how to comply with standards of lifting, loading/offloading and stacking of materials in cereal processing facilities",
+          "performance_criteria": [
+            {
+              "pc_code": "6.1",
+              "description": "Identify lifting and stacking techniques"
+            },
+            {
+              "pc_code": "6.2",
+              "description": "Demonstrate lifting techniques in loading and offloading of materials without mechanical assistance"
+            },
+            {
+              "pc_code": "6.3",
+              "description": "Demonstrate correct lifting and loading techniques with mechanical assistance"
+            },
+            {
+              "pc_code": "6.4",
+              "description": "Stack materials correctly"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "AGR/CRP/002/L2",
+      "title": "COMMUNICATE EFFECTIVELY ON CROP FARMS",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Know how to use of a non-complex communication system in a work environment",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Use a verbal means to pass on necessary information"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Use non-verbal means to convey necessary information e.g. body language, signs"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Interpret symbols and signs appropriately"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Know how to source for information on a work environment",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Identify the source of information in the work environment"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Relate effectively with the source of information"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Use the different information flow systems in a work environment"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Use information gathered to avoid challenges in a work situation"
+            },
+            {
+              "pc_code": "2.5",
+              "description": "Report findings appropriately in accordance with laid down procedures in the work environment i.e. Cards, Flip Chart"
+            },
+            {
+              "pc_code": "2.6",
+              "description": "Use simple communication gadget like mobile phones and table phones"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Know various means of communication in a work environment",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Locate the various communication equipment in the work environment"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Use effectively the various communication equipment in a work environment"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Pass information effectively to the right personnel"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Obey instructions in line with ethics of the work environment"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "AGR/CRP/003/L2",
+      "title": "TEAMWORK",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Know positive working relationship with colleagues",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Identify the need for developing positive working relationship with colleagues"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Recognize the importance of relating with other people in a way that makes them feel valued and respected"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Assist team members when required."
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Report to the appropriate personnel when request for assistance fall outside area of responsibility."
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Communicate information to colleagues about individual work that may affect team work."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Know how to take responsibility within the team",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Recognize own role and responsibilities within a team"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Perform individual tasks in line with the team\u2019s rules and regulations."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Participate effectively in teamwork."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Know how to comply with policy of organisation",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Explain organizational code of conduct"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Work in line with organizational standard"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Use organizational code of practice"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Adhere strictly to instructions given by the Management"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "AGR/CRP/004/L2",
+      "title": "SITE SELECTION II",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Know cereal crop",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Discuss Cereal crop"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "List the types of Cereal crops"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Differentiate between the various types of Cereal crop"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "State the major Cereal crops"
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Identify the types of Cereal crops"
+            },
+            {
+              "pc_code": "1.6",
+              "description": "State the characteristics of Cereal crop"
+            },
+            {
+              "pc_code": "1.7",
+              "description": "Describe nutritional benefits of Cereal crop"
+            },
+            {
+              "pc_code": "1.8",
+              "description": "Discuss the planting season of Cereal crop"
+            },
+            {
+              "pc_code": "1.9",
+              "description": "Explain the economic importance of Cereal crop"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Know soil and soil properties",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Define soil"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "List types of soil and their properties"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Categorize the properties of soil"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Explain soil pH"
+            },
+            {
+              "pc_code": "2.5",
+              "description": "Identify types of soil"
+            },
+            {
+              "pc_code": "2.6",
+              "description": "Explain differences in the soil types"
+            },
+            {
+              "pc_code": "2.7",
+              "description": "Describe the physical characteristics of the soil types"
+            },
+            {
+              "pc_code": "2.8",
+              "description": "Explain soil topography"
+            },
+            {
+              "pc_code": "2.9",
+              "description": "Describe the effect of soil topography in cereal crop"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Know Soil and Climatic requirements for Cereal crops",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Define vegetation area"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Describe rich vegetation area"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Locate a suitable well drained fertile soil"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Identify general soil requirements for cereal crop"
+            },
+            {
+              "pc_code": "3.5",
+              "description": "Identify areas with good rainfall pattern"
+            },
+            {
+              "pc_code": "3.6",
+              "description": "List the advantages of good rainfall pattern"
+            },
+            {
+              "pc_code": "3.7",
+              "description": "Discuss the role of sunshine in cereal crop production"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "AGR/CRP/005/L2",
+      "title": "LAND PREPARATION FOR CEREAL CROP PRODUCTION",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Know land preparation",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Define land preparation"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "State Merits of land preparation"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "State Demerits of land preparation"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Explain land preparation methods"
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Carryout manual land preparation"
+            },
+            {
+              "pc_code": "1.6",
+              "description": "Identify equipment used in land preparation"
+            },
+            {
+              "pc_code": "1.7",
+              "description": "Demonstrate handling of land preparation debris"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Know Tillage and nursery operations",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Describe land tillage"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Explain types of land tillage"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "State the importance of land tillage"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Prepare a suitable location for nursery"
+            },
+            {
+              "pc_code": "2.5",
+              "description": "Erect the nursery close to a source of water"
+            },
+            {
+              "pc_code": "2.6",
+              "description": "Prepare a nursery bed for nursery practice"
+            },
+            {
+              "pc_code": "2.7",
+              "description": "Construct shed for the nursery"
+            },
+            {
+              "pc_code": "2.8",
+              "description": "Describe the methods of ploughing"
+            },
+            {
+              "pc_code": "2.9",
+              "description": "Describe the methods of harrowing"
+            },
+            {
+              "pc_code": "2.10",
+              "description": "Describe the methods of ridging"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Know farm tools and implements",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Describe farm tools"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "List types of farm tools"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Describe the roles of farm tools in cereal crop production"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Identify various simple farm tools used for land preparation"
+            },
+            {
+              "pc_code": "3.5",
+              "description": "Differentiate between the simple farm tools used for land preparation."
+            },
+            {
+              "pc_code": "3.6",
+              "description": "Carry out simple farm tools maintenance"
+            },
+            {
+              "pc_code": "3.7",
+              "description": "Define farm implement"
+            },
+            {
+              "pc_code": "3.8",
+              "description": "Describe types of farm implements"
+            },
+            {
+              "pc_code": "3.9",
+              "description": "Differentiate between farm tools and farm implement"
+            },
+            {
+              "pc_code": "3.10",
+              "description": "Maintain basic farm implement"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "AGR/CRP/006/L2",
+      "title": "NURSERY AND PLANTING PRACTICES II",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Know planting and nursery operation",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Define nursery"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Define nursery bed"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Describe the condition for nursery bed establishment"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Explain seed quality"
+            },
+            {
+              "pc_code": "1.5",
+              "description": "State the factors for seed quality"
+            },
+            {
+              "pc_code": "1.6",
+              "description": "Describe planting depth"
+            },
+            {
+              "pc_code": "1.7",
+              "description": "Describe planting spacing"
+            },
+            {
+              "pc_code": "1.8",
+              "description": "Describe Planting time"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Know fertilizer and herbicides",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Define post planting care"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Describe methods of caring for plants"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Identify types of fertilizer"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Define organic and inorganic fertilizer"
+            },
+            {
+              "pc_code": "2.5",
+              "description": "Differentiate between organic and inorganic fertilizer"
+            },
+            {
+              "pc_code": "2.6",
+              "description": "Explain methods of fertilizer application"
+            },
+            {
+              "pc_code": "2.7",
+              "description": "Define herbicide"
+            },
+            {
+              "pc_code": "2.8",
+              "description": "Define selective herbicide"
+            },
+            {
+              "pc_code": "2.9",
+              "description": "Define non selective herbicide"
+            },
+            {
+              "pc_code": "2.10",
+              "description": "Differentiate between selective and non-selective herbicide"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Know irrigation practices",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Define irrigation"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "State types of irrigation"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Describe methods of irrigation"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Explain merits of natural and artificial irrigation"
+            },
+            {
+              "pc_code": "3.5",
+              "description": "Explain demerits of natural and artificial irrigation"
+            },
+            {
+              "pc_code": "3.6",
+              "description": "Describe simple irrigation procedure"
+            },
+            {
+              "pc_code": "3.7",
+              "description": "List simple irrigation tools"
+            },
+            {
+              "pc_code": "3.8",
+              "description": "Describe the time for irrigation"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "AGR/CRP/007/L2",
+      "title": "CROP MANAGEMENT PRACTICES II",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Know seedlings",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Define seed"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Identify types of seed"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Distinguish between healthy and unhealthy seeds"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "State factors affecting the health of seedlings"
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Describe thinning"
+            },
+            {
+              "pc_code": "1.6",
+              "description": "State advantages of thinning"
+            },
+            {
+              "pc_code": "1.7",
+              "description": "State disadvantages of thinning"
+            },
+            {
+              "pc_code": "1.8",
+              "description": "Carryout thinning on the field"
+            },
+            {
+              "pc_code": "1.9",
+              "description": "Differentiate between thinning and pruning"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Know Fertilizer and herbicides application",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Distinguish between pre-emergence and post emergence herbicides."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Determine the rate of herbicides needed on the field"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Distinguish between fertilizer forms"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Distinguish between fertilizer types"
+            },
+            {
+              "pc_code": "2.5",
+              "description": "Determine rate of fertilizer application"
+            },
+            {
+              "pc_code": "2.6",
+              "description": "Select the methods of fertilizer application to adopt."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Know Pests, Diseases and their control",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Explain pest"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Identify field insect pests"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Identify damages caused by insect pests"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Describe pest management strategies"
+            },
+            {
+              "pc_code": "3.5",
+              "description": "Select measures in prevention and control of pests"
+            },
+            {
+              "pc_code": "3.6",
+              "description": "State the economic importance of pests"
+            },
+            {
+              "pc_code": "3.7",
+              "description": "Define disease"
+            },
+            {
+              "pc_code": "3.8",
+              "description": "Identify causative agents of diseases"
+            },
+            {
+              "pc_code": "3.9",
+              "description": "Identify damage caused by diseases"
+            },
+            {
+              "pc_code": "3.10",
+              "description": "Identify different methods of disease control"
+            },
+            {
+              "pc_code": "3.11",
+              "description": "Define weeds control"
+            },
+            {
+              "pc_code": "3.12",
+              "description": "Select measures in prevention and control of weeds"
+            },
+            {
+              "pc_code": "3.13",
+              "description": "Apply safety precautions in the application of insect pests, disease and weeds control chemicals"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "AGR/CRP/008/L2",
+      "title": "CEREAL HARVESTING AND HARVESTING PROCEDURES II",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Know maturity time of cereal crops",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Explain Cereal crop maturity"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Explain physiological changes towards maturity in Cereal crops"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Enumerate signs of maturity in Cereal crops"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "State the maturity time of Cereal crops"
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Distinguish between mature and immature Cereal crop"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Know harvesting and harvesting procedures",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Explain harvesting time"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Describe harvesting methods of Cereal crops"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "List harvesting tools"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Operate simple harvesting implements"
+            },
+            {
+              "pc_code": "2.5",
+              "description": "List types of harvesting methods"
+            },
+            {
+              "pc_code": "2.6",
+              "description": "Enumerate advantages of mechanical thresher"
+            },
+            {
+              "pc_code": "2.7",
+              "description": "Distinguish between manual and mechanical thresher"
+            },
+            {
+              "pc_code": "2.8",
+              "description": "Distinguish between harvester and a thresher"
+            },
+            {
+              "pc_code": "2.9",
+              "description": "Carryout handling of harvested produce"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Know post-harvest loss",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Define post-harvest loss"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Classify post-harvest losses"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "State causes of post-harvest losses"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Explain measures of preventing post-harvest losses"
+            },
+            {
+              "pc_code": "3.5",
+              "description": "Explain impact of post-harvest losses"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "AGR/CRP/009/L2",
+      "title": "PROCESSING AND STORAGE OF CEREAL CROP PRODUCT II",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Know cereals handling and processing",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Define Cereal handling"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "List various procedures in Cereal crops handling"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Explain post-harvest handling requirement"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Describe simple Cereal processing procedures"
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Define cereal processing"
+            },
+            {
+              "pc_code": "1.6",
+              "description": "Differentiate between product of processed cereal"
+            },
+            {
+              "pc_code": "1.7",
+              "description": "Describe bagging of Cereal products"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Know storage of processed Cereal products",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Enumerate the condition for Cereal storage"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Explain the moisture contents of Cereal"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Describe the optimal moisture content for storage"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Identify how to control weevils in stored Cereals"
+            },
+            {
+              "pc_code": "2.5",
+              "description": "Explain the modern storage technique for Cereals product"
+            },
+            {
+              "pc_code": "2.6",
+              "description": "Describe how to set up a warehouse facility for Cereals storage"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Know packaging",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Explain the relevance of packaging in Cereals processing"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Describe the benefits of the following: \uf0b7 Batch number \uf0b7 Production date \uf0b7 Best before date \uf0b7 Nutritional value"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Carryout Cereals packaging procedures"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "List the steps involved in Cereals packaging procedure"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "AGR/CRP/010/L2",
+      "title": "TRANSPORT AND MARKETING OF CEREAL CROPS II",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Know the transportation of Cereal crops",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Describe loading and offloading techniques for cereal crops and products"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Identify suitable methods and means of transportation of cereals crops and products"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Describe the steps involved in loading and offload in cereals crops and products"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Explain the various steps involved in transportation of cereals crops and products"
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Explain the importance of record keeping in transportation of cereal crops and products"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Know grading/standardization of cereal crop",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Explain how to standardize/grade Cereal crops/products for National or International markets"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Determine the appropriate methods of weighing Cereal crops/products for the market"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "List the criteria used in grading cereal crops"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Identify the impact of poor grading"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Know marketing of cereal crops",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Define cereal market"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Identify cereal aggregators"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Identify the middlemen in cereal crops and products market"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Describe the role of off taker in cereal crops and products market"
+            },
+            {
+              "pc_code": "3.5",
+              "description": "Identify marketing channels for cereal crops"
+            },
+            {
+              "pc_code": "3.6",
+              "description": "Describe the role of digital marketing for cereal crops"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
