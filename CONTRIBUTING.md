@@ -111,6 +111,7 @@ These NOS have already been converted to JSON. Pick a trade **not** listed here 
 | ICT Video Production and Editing | | | ✅ | | |
 | ICT Web Development | | ✅ | ✅ | ✅ | |
 | Leather Works | ✅ | ✅ | ✅ | | |
+| Legume Crop Production | ✅ | ✅ | | | |
 | Masonry | ✅ | ✅ | ✅ | | |
 | Mobile Phone Repairs and Maintenance | ✅ | ✅ | | | |
 | Network Cabling, Installation and Maintenance | | ✅ | | | |

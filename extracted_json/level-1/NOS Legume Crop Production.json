@@ -1,0 +1,744 @@
+{
+  "trade_name": "Legume Crop Production",
+  "level": 1,
+  "units": [
+    {
+      "code": "AGR/CRP/001/L1",
+      "title": "OCCUPATIONAL HEALTH AND SAFETY",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Know Safe Working Practices and Instructions",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Explain safe work practice and instructions"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Identify safety signs and symbol"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Use signs and symbols correctly"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Carry out safe work practices and instructions"
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Work in accordance with health and safety best practices"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Know Safety Hazards and Risks",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Identify work environment hazards"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "State methods to reduce the risk of these hazards"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Identify Personal Protection Equipment (PPE) Eg: Goggles, Gloves etc."
+            },
+            {
+              "pc_code": "2.4",
+              "description": "State methods to resolve an occurring environmental hazard"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Know Appropriate Actions during Accident/Injury",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Identify basic first aid equipment"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "State how to maintain hygienic, safe and secure workplace."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "State the uses of safety equipment in a workplace as required."
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Know Safe Work Habit and Clean Work Environment",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Use safe access and exit routes in the work environment"
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Dispose all wastes appropriately to designated waste facilities"
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Explain methods of resource conservation (e.g. Water, Energy etc)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "AGR/CRP/002/L1",
+      "title": "COMMUNICATION AND INTERPERSONAL SKILLS",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Know the Importance of Good Communication",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "State reasons why good communication is important"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "List ways to communicate effectively"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Exhibit patience and a mild demeanour while communicating with colleagues, managers and clients"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Speak in a respectful manner"
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Use respectful body language"
+            },
+            {
+              "pc_code": "1.6",
+              "description": "Interpret verbal communication accurately"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Know how to Document and Follow Documented Instructions",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Read and accurately follow steps in a an instruction manual pertaining to any of the units in this course"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Document information in the workplace (Eg: Receipt, Invoices, Reports)"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Document Errors, solution, processes and reports"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Know Interpersonal Relationship",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Demonstrate polite greetings"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Recognize cultural and social differences"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Apply positive body language in interactions."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "AGR/CRP/003/L1",
+      "title": "TEAMWORK",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Know how to Develop Good Working Relationship with Co-workers",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Define teamwork"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "List the importance of teamwork"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "List the qualities of a team player"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Know how to Take Responsibility within the Team",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "List own roles and responsibilities within a team."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Perform tasks in line with the team rules and regulations."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Work well in a group."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Know how to Comply with Rule of Organization",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Explain code of conduct in work environment"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Use organizational code of practice"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Work in line with organizational standard."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "AGR/CRP/004/L1",
+      "title": "SITE SELECTION",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Know Soil and Climatic Requirement for Legume Crops",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Identify rich vegetation area"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Identify areas with abundant sunshine"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Locate a suitable well drained fertile soil"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Identify areas with good rainfall pattern"
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Identify rich vegetation area"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Know Soil Properties",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Identify sandy soil"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Identify loamy soil"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Identify clay soil"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Explain differences in the soil types"
+            },
+            {
+              "pc_code": "2.5",
+              "description": "Describe the physical characteristics of the soil types"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Know Leguminous Crops",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Define leguminous crops"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "List the types of leguminous crops"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Identify the types of leguminous crops"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Explain benefits of leguminous crops"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "AGR/CRP/005/L1",
+      "title": "LAND PREPARATION",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Know the Process of Land Preparation",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Carry out land clearing"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Carryout felling of tree"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Perform stumping of trees and removal of roots and debris on the selected land"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Gather the stumps, roots and debris on the field"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Know Tillage Operation",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Plough the land"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Harrow the land"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Ridge the land if necessary"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Know Basic Farm Tools.",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Identify various simple farm tools used for land preparation"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Distinguish between the simple farm tools used for nursery bed preparation."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Carry out simple farm tools maintenance such as oiling of parts, cleaning, washing, etc,"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Identify various simple farm tools used for land preparation"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "AGR/CRP/006/L1",
+      "title": "PLANTING PRACTICES",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Know Planting Operations",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Seed viability"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Dress seed."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Plant seed on the field according to spacing."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Know Fertilizer and Herbicides Application",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Identify different types of fertilizer"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Identify different types of herbicides"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Carryout basal, ring method or broadcasting of fertilizer application"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Carryout herbicides application"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Know Appropriate Planting Methods",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Carryout dibbling method of planting"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Carryout drilling method of planting"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Select the right planting methods for each legume crop"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "AGR/CRP/007/L1",
+      "title": "CROP MANAGEMENT PRACTICES",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Know Thinning of Seedlings, Supplying of Seeds/Seedlings",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Thin excess seedlings"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Supply seeds/ seedlings in missing spots"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Distinguish between vigorous and unhealthy seedlings"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Know Fertilizer and Herbicides Application",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "List different types of fertilizers"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Apply fertilizer on the field"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Perform different methods of fertilizer application such as; ring, basal, broadcasting methods, etc"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Observe when legume crops are due for fertilizer application"
+            },
+            {
+              "pc_code": "2.5",
+              "description": "Carryout pesticides application"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Know Pest and Disease Control",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Distinguish between weeds and legume crops"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Identify field pests of legume crops"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Observe disease conditions on the field"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Apply appropriate measures in prevention and control of pests and diseases of legume crops"
+            },
+            {
+              "pc_code": "3.5",
+              "description": "Operate simple farm tools in controlling pests and diseases on the field"
+            },
+            {
+              "pc_code": "3.6",
+              "description": "Carry out maintenance of simple farm tools such as; knapsack sprayer, handheld sprayer, electrodyn sprayer, etc"
+            },
+            {
+              "pc_code": "3.7",
+              "description": "Apply safety precautions where necessary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "AGR/CRP/008/L1",
+      "title": "LEGUME HARVESTING AND HARVESTING PROCEDURES",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Know Maturity Time of Legume Crops",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Identify matured legume crops"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "State the maturity period of legume crops"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Distinguish between mature and immature legume plant"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Identify off types"
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Remove off types"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Know Harvesting and Post-harvesting Procedures",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Use harvesting equipment"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Use right method of harvesting"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Place harvested product on a clean space"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Carryout harvesting of legumes"
+            },
+            {
+              "pc_code": "2.5",
+              "description": "Carryout harvesting of fodder"
+            },
+            {
+              "pc_code": "2.6",
+              "description": "Carryout bagging of the crop"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Know Post-Harvest Loses",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Define post-harvest loss"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "State causes of post-harvest loss"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Explain measures of preventing post-harvest loss"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Explain impact of post-harvest loss"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "AGR/CRP/009/L1",
+      "title": "PROCESSING AND STORAGE OF LEGUME CROP PRODUCTS",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Know Legume Crops Handling and Processing",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Carryout processing of legume crops"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Distinguish between products of legume crops."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Carryout bagging of legume crops"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Carryout out weighing of the bagged products."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Know the Basic Skills in Storage of Legume Crops",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Carryout cleaning of store using simple tools."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Arrange pallets in the store"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Perform stacking of bags in the store"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Observe the changes in the moisture content"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Know Packaging Procedures",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Define legumes products packaging"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Describe how to package legumes products"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Define legumes packaging materials"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "List types of legumes packaging materials"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "AGR/CRP/010/L1",
+      "title": "TRANSPORT AND MARKETING OF LEGUME CROP PRODUCTS",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Know the Transportation of Legume Crop Products",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Identify appropriate means of transporting legume crops"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Choose the right means of transporting legume crops."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Carryout loading of legume crops"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Carryout offloading of legume crops."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Know Grading/ Standardization of Legume Crop/ Products",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Sort legume crops/products."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Weigh legume crops/products"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Prepare legume crops/products for marketing."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Know Marketing of Legume Crops/ Products",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Identify the right time to market fiber crops/products"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Identify market for the products"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Know how to measure the products for marketing"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
